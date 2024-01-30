@@ -28,3 +28,9 @@ For your NFT project to be submitted to the repository be sure to generate a sna
 3. Submit PR `include {project_name}` with the above and formatted correctly for consideration for inclusion.
 
 NOTE: You can include a script for how you generated the list for external verification or link to your methodology. You can also include other data and format types as you wish.
+
+## Example PR
+
+A good example of a PR can be seen here with complete data formats for NFT projects:
+
+https://github.com/Legends-of-Sol/Solana-NFT-collections/pull/3
