@@ -1,0 +1,24 @@
+{
+  "name": "solana-nft-collections",
+  "version": "1.0.0",
+  "description": "A repository holding collection data for all the Legendary projects across the Solana ecosystem",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legends-of-Sol/Solana-NFT-collections.git"
+  },
+  "keywords": [
+    "solana",
+    "nft",
+    "collections"
+  ],
+  "author": "@h4rkl",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Legends-of-Sol/Solana-NFT-collections/issues"
+  },
+  "homepage": "https://github.com/Legends-of-Sol/Solana-NFT-collections#readme"
+}
