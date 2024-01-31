@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Legends-of-Sol/Solana-NFT-collections/issues"
   },
-  "homepage": "https://github.com/Legends-of-Sol/Solana-NFT-collections#readme"
+  "homepage": "https://github.com/Legends-of-Sol/Solana-NFT-collections#readme",
+  "devDependencies": {
+    "@solana/web3.js": "^1.89.1"
+  }
 }
