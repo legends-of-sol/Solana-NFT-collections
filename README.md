@@ -15,7 +15,7 @@ The repository is structured as follows:
 
 To add a new snapshot to the collection, follow these steps:
 
-1. Fork this repository and run `npm install` to install the dependencies.
+1. Fork this repository and run `npm install` inside the downloaded fork folder to install all dependencies
 2. Snakecase the name of the project in your mind palace eg. `Legends of Solana` becomes `legends_of_solana`
 3. Get the collection address:
 
