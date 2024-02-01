@@ -6,6 +6,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 
 ## Project Hashlists
 
+- BOOGLE
 - Boom Heroes - https://boom.army
 - Bozo Collective - https://twitter.com/BozoCollective
 - Brewed Bones - https://www.brewedbones.com
@@ -34,6 +35,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - raccs - raccs.io
 - Radiants - https://radiant.nexus/
 - Saga Monkes
+- Secret Sphinx - https://secretsphinx.io/
 - Sentries - https://sentries.io/
 - Shremps - https://shrempin.com
 - SMB Gen2 - https://solanamonkey.business/
