@@ -7,6 +7,7 @@
     "snapshot": "node src/app.js snapshot",
     "snapshot:creator": "node src/app.js creator_snapshot",
     "snapshot:legends": "node src/app.js legends",
+    "update_readme": "node src/app.js update_readme",
     "build:json": "ts-node src/build-json.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

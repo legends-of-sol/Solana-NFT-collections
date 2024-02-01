@@ -4,6 +4,42 @@ The home of snapshots for the Legends of Solana. When you know you know.
 
 This repository is a collection of snapshots for various NFT projects on the Solana blockchain. Each snapshot is a JSON file that contains the addresses of the NFTs and their owners. For your NFT project to be submitted to the repository be sure to generate a snapshot which follows the format from https://www.helius.dev/blog/nft-holder-snapshots.
 
+## Projects
+
+- Boom Heroes - https://boom.army
+- Bozo Collective - https://twitter.com/BozoCollective
+- Brewed Bones - https://www.brewedbones.com
+- Bullyz Crew - https://www.bullyzcrew.com
+- Bullyz Loot Box - https://www.bullyzcrew.com
+- Bullyz Shipz - https://www.bullyzcrew.com
+- BVDCATs - https://bvdcat.io/
+- Cets
+- Chads
+- Dawnbreakers - https://radiant.nexus/
+- Degen Dad #056
+- DTB Collection NFT - https://www.degentradingbears.xyz
+- Famous Fox Federation - https://famousfoxes.com
+- Grim Syndicate - https://grimsyndicate.com
+- GRINDERS NFTS
+- Lifinity Flares - https://lifinity.io
+- Mad Lads - https://madlads.com
+- MixtApe - https://mixt-ape.com
+- Okay Bears - https://www.okaybears.com/
+- Ordo Nemesis - https://ordonemesis.com/
+- Pesky Penguins - https://pesky-penguins.com
+- Primus Gladiators
+- raccs - raccs.io
+- Radiants - https://radiant.nexus/
+- Saga Monkes
+- Sentries - https://sentries.io/
+- Shremps - https://shrempin.com
+- SMB Gen2 - https://solanamonkey.business/
+- SolKongz - https://www.solkongz.net
+- Squidz
+- Tensorians - https://www.tensor.trade/
+- The Roundies - https://theroundies.co
+- THUG #0805 - https://www.thugbirdz.com/
+
 ## Structure of the Repository
 
 The repository is structured as follows:
