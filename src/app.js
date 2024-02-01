@@ -280,4 +280,46 @@ program
     console.log("Completed cycling through all collections.");
   });
 
+program
+  .command("update_readme")
+  .description("Update the README.md file with a list of projects")
+  .action(() => {
+    const nftsPath = path.join(__dirname, "../NFTs");
+    const readmePath = path.join(__dirname, "../README.md");
+    const projects = fs.readdirSync(nftsPath);
+
+    let projectsList = projects
+      .map((project) => {
+        const metaPath = path.join(nftsPath, project, `${project}_meta.json`);
+        if (fs.existsSync(metaPath)) {
+          const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+          return `- ${metaData.name} - ${metaData.url}\n`;
+        }
+        return null;
+      })
+      .filter(Boolean)
+      .join("");
+
+    let readmeContent = fs.readFileSync(readmePath, "utf8");
+    const projectsSectionStart = readmeContent.indexOf("## Projects");
+    const projectsSectionEnd = readmeContent.indexOf(
+      "##",
+      projectsSectionStart + 1
+    );
+
+    if (projectsSectionStart !== -1) {
+      const beforeProjects = readmeContent.substring(0, projectsSectionStart);
+      const afterProjects =
+        projectsSectionEnd !== -1
+          ? readmeContent.substring(projectsSectionEnd)
+          : "";
+      readmeContent = `${beforeProjects}## Projects\n\n${projectsList}${afterProjects}`;
+    } else {
+      readmeContent += `\n## Projects\n\n${projectsList}`;
+    }
+
+    fs.writeFileSync(readmePath, readmeContent);
+    console.log("README.md updated with the latest projects list.");
+  });
+
 program.parse(process.argv);
