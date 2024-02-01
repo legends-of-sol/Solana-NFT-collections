@@ -94,4 +94,28 @@ program
     await getAssetsByGroup();
   });
 
+program
+  .command("legends")
+  .description(
+    "Cycle through all collections in legends_collections.json and take a snapshot of each"
+  )
+  .action(() => {
+    const collectionsPath = path.join(__dirname, "../legends_partners.json");
+    const collections = JSON.parse(fs.readFileSync(collectionsPath, "utf8"));
+
+    collections.forEach((collection) => {
+      console.log(`Taking snapshot for: ${collection.name}`);
+      try {
+        execSync(
+          `npm run snapshot "${collection.name}" "${collection.collectionKey}"`,
+          { stdio: "inherit" }
+        );
+      } catch (error) {
+        console.error(`Failed to take snapshot for: ${collection.name}`, error);
+      }
+    });
+
+    console.log("Completed cycling through all collections.");
+  });
+
 program.parse(process.argv);
