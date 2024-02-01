@@ -2,6 +2,7 @@ const { program } = require("commander");
 const fs = require("fs");
 const path = require("path");
 const dayjs = require("dayjs");
+const { execSync } = require("child_process");
 
 program
   .command("snapshot <project_name> <collection_address> [RPC]")
@@ -87,8 +88,7 @@ program
         `owner\n${uniqueOwnersCSV}`
       );
 
-      console.log("Files generated successfully.");
-      console.log(`${project_name} Assets:`, resultData);
+      console.log(`Snapshot successfully taken for -- ${project_name}`);
       console.timeEnd("getAssetsByGroup");
     };
     await getAssetsByGroup();
