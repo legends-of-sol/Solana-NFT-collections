@@ -5,10 +5,11 @@ const dayjs = require("dayjs");
 const { execSync } = require("child_process");
 
 program
-  .command("snapshot <project_name> <collection_address> [RPC]")
+  .command("snapshot <project_name> <collection_address>")
   .description("Take a snapshot of a project")
-  .action(async (project_name, collection_address, RPC) => {
-    RPC = RPC || "https://api.mainnet-beta.solana.com";
+  .option("-r, --rpc [RPC]", "RPC endpoint URL", "https://api.mainnet-beta.solana.com")
+  .action(async (project_name, collection_address, options) => {
+    const RPC = options.rpc;
     const getAssetsByGroup = async () => {
       console.time("getAssetsByGroup"); // Start the timer
       let page = 1;
