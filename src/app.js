@@ -1,6 +1,7 @@
 const { program } = require("commander");
 const fs = require("fs");
 const path = require("path");
+const dayjs = require("dayjs");
 
 program
   .command("snapshot <project_name> <collection_address> [RPC]")
@@ -39,19 +40,54 @@ program
           page++;
         }
       }
+
       const resultData = {
         totalResults: assetList.length,
         results: assetList,
       };
       const dirPath = path.join(__dirname, `../NFTs/${project_name}`);
-      const filePath = path.join(dirPath, `${project_name}_hashlist.json`);
-
+      const dateStamp = dayjs().format("YYYYMMDD"); // Generate a datestamp
       if (!fs.existsSync(dirPath)) {
         fs.mkdirSync(dirPath, { recursive: true });
       }
 
-      fs.writeFileSync(filePath, JSON.stringify(resultData, null, 2), "utf-8");
-      console.log(`Data saved to ${filePath}`);
+      // Generate CSV content
+      const csvContent = resultData.results
+        .map((item) => `${item.ownership.owner},${item.id}`)
+        .join("\n");
+      fs.writeFileSync(
+        `${dirPath}/${project_name}_${dateStamp}.csv`, // Dynamic path based on dirPath and dateStamp
+        `owner,nftmint\n${csvContent}`
+      );
+
+      // Generate JSON content
+      const jsonContent = resultData.results.map((item) => ({
+        NFTAddress: item.id,
+        ownerAddress: item.ownership.owner,
+      }));
+      fs.writeFileSync(
+        `${dirPath}/${project_name}_${dateStamp}.json`, // Dynamic path based on dirPath and dateStamp
+        JSON.stringify(jsonContent, null, 2)
+      );
+
+      // Generate Hashlist JSON
+      const hashlistContent = resultData.results.map((item) => item.id);
+      fs.writeFileSync(
+        `${dirPath}/${project_name}_hashlist_${dateStamp}.json`, // Dynamic path based on dirPath and dateStamp
+        JSON.stringify(hashlistContent, null, 2)
+      );
+
+      // Generate Unique Owners CSV
+      const uniqueOwners = [
+        ...new Set(resultData.results.map((item) => item.ownership.owner)),
+      ];
+      const uniqueOwnersCSV = uniqueOwners.join("\n");
+      fs.writeFileSync(
+        `${dirPath}/unique_${project_name}_owners_${dateStamp}.csv`, // Dynamic path based on dirPath and dateStamp
+        `owner\n${uniqueOwnersCSV}`
+      );
+
+      console.log("Files generated successfully.");
       console.log(`${project_name} Assets:`, resultData);
       console.timeEnd("getAssetsByGroup");
     };
