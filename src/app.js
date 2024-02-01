@@ -46,7 +46,7 @@ program
         results: assetList,
       };
       const dirPath = path.join(__dirname, `../NFTs/${project_name}`);
-      const dateStamp = dayjs().format("YYYYMMDD"); // Generate a datestamp
+      const dateStamp = dayjs().format("YYYYMMDD");
       if (!fs.existsSync(dirPath)) {
         fs.mkdirSync(dirPath, { recursive: true });
       }
@@ -56,7 +56,7 @@ program
         .map((item) => `${item.ownership.owner},${item.id}`)
         .join("\n");
       fs.writeFileSync(
-        `${dirPath}/${project_name}_${dateStamp}.csv`, // Dynamic path based on dirPath and dateStamp
+        `${dirPath}/${project_name}_${dateStamp}.csv`,
         `owner,nftmint\n${csvContent}`
       );
 
@@ -66,14 +66,14 @@ program
         ownerAddress: item.ownership.owner,
       }));
       fs.writeFileSync(
-        `${dirPath}/${project_name}_${dateStamp}.json`, // Dynamic path based on dirPath and dateStamp
+        `${dirPath}/${project_name}_${dateStamp}.json`,
         JSON.stringify(jsonContent, null, 2)
       );
 
       // Generate Hashlist JSON
       const hashlistContent = resultData.results.map((item) => item.id);
       fs.writeFileSync(
-        `${dirPath}/${project_name}_hashlist_${dateStamp}.json`, // Dynamic path based on dirPath and dateStamp
+        `${dirPath}/${project_name}_hashlist_${dateStamp}.json`,
         JSON.stringify(hashlistContent, null, 2)
       );
 
@@ -83,7 +83,7 @@ program
       ];
       const uniqueOwnersCSV = uniqueOwners.join("\n");
       fs.writeFileSync(
-        `${dirPath}/unique_${project_name}_owners_${dateStamp}.csv`, // Dynamic path based on dirPath and dateStamp
+        `${dirPath}/unique_${project_name}_owners_${dateStamp}.csv`,
         `owner\n${uniqueOwnersCSV}`
       );
 
