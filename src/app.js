@@ -42,15 +42,53 @@ program
         }
       }
 
+      const getCollectionAsset = async () => {
+        const response = await fetch(RPC, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            jsonrpc: "2.0",
+            id: "my-id",
+            method: "getAsset",
+            params: {
+              id: collection_address,
+            },
+          }),
+        });
+        const { result } = await response.json();
+        return result;
+      };
+      const collectionData = await getCollectionAsset();
+
       const resultData = {
         totalResults: assetList.length,
         results: assetList,
       };
       const dateStamp = dayjs().format("YYYYMMDD");
-      const dirPath = path.join(__dirname, `../NFTs/${project_name}/${dateStamp}`);
+      const metaDirPath = path.join(__dirname, `../NFTs/${project_name}`);
+      const dirPath = path.join(
+        __dirname,
+        `../NFTs/${project_name}/${dateStamp}`
+      );
       if (!fs.existsSync(dirPath)) {
         fs.mkdirSync(dirPath, { recursive: true });
       }
+
+      const metaContent = {
+        collectionKey: collection_address,
+        name: collectionData.content.metadata.name ?? project_name,
+        image: collectionData.content.links.image || resultData.results[0].content.links.image || "",
+        description: collectionData.content.metadata.description ?? "",
+        url: collectionData.content.links.external_url || resultData.results[0].content.links.external_url || "",
+        token_standard:
+          resultData.results[0].content.metadata.token_standard ?? "",
+      };
+      fs.writeFileSync(
+        `${metaDirPath}/${project_name}_meta.json`,
+        JSON.stringify(metaContent, null, 2)
+      );
 
       // Generate CSV content
       const csvContent = resultData.results
