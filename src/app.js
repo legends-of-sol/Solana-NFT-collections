@@ -305,7 +305,7 @@ program
       .join("");
 
     let readmeContent = fs.readFileSync(readmePath, "utf8");
-    const projectsSectionStart = readmeContent.indexOf("## Projects");
+    const projectsSectionStart = readmeContent.indexOf("## Project Hashlists");
     let projectsSectionEnd = readmeContent.indexOf(
       "##",
       projectsSectionStart + 1
@@ -319,11 +319,11 @@ program
       const beforeProjects = readmeContent.substring(0, projectsSectionStart);
       const afterProjects = readmeContent.substring(projectsSectionEnd);
       // Ensure a newline is added before the "## Structure of the Repository" section
-      readmeContent = `${beforeProjects}## Projects\n\n${projectsList}\n${afterProjects}`;
+      readmeContent = `${beforeProjects}## Project Hashlists\n\n${projectsList}\n${afterProjects}`;
     } else {
-      // If the "## Projects" section does not exist, append it at the desired location
+      // If the "## Project Hashlists" section does not exist, append it at the desired location
       // Ensure to add a newline character at the end for proper spacing
-      readmeContent += `\n## Projects\n\n${projectsList}\n`;
+      readmeContent += `\n## Project Hashlists\n\n${projectsList}\n`;
     }
 
     fs.writeFileSync(readmePath, readmeContent);

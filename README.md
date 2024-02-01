@@ -4,7 +4,7 @@ The home of snapshots for the Legends of Solana. When you know you know.
 
 This repository is a collection of snapshots for various NFT projects on the Solana blockchain. Each snapshot is a JSON file that contains the addresses of the NFTs and their owners. For your NFT project to be submitted to the repository be sure to generate a snapshot which follows the format from https://www.helius.dev/blog/nft-holder-snapshots.
 
-## Projects
+## Project Hashlists
 
 - Boom Heroes - https://boom.army
 - Bozo Collective - https://twitter.com/BozoCollective
