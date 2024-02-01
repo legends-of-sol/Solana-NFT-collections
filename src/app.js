@@ -46,8 +46,8 @@ program
         totalResults: assetList.length,
         results: assetList,
       };
-      const dirPath = path.join(__dirname, `../NFTs/${project_name}`);
       const dateStamp = dayjs().format("YYYYMMDD");
+      const dirPath = path.join(__dirname, `../NFTs/${project_name}/${dateStamp}`);
       if (!fs.existsSync(dirPath)) {
         fs.mkdirSync(dirPath, { recursive: true });
       }
