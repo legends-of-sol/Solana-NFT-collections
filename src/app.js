@@ -3,6 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const dayjs = require("dayjs");
 const { execSync } = require("child_process");
+const { cleanName } = require("./utils");
 
 program
   .command("snapshot <project_name> <collection_address>")
@@ -83,7 +84,7 @@ program
 
       const metaContent = {
         collectionKey: collection_address,
-        name: collectionData.content.metadata.name ?? project_name,
+        name: cleanName(collectionData.content.metadata.name) ?? project_name,
         image:
           collectionData.content.links.image ||
           resultData.results[0].content.links.image ||
@@ -202,7 +203,9 @@ program
 
       const metaContent = {
         creatorAddress: creator_address,
-        name: resultData.results[0].content.metadata.name ?? project_name,
+        name:
+          cleanName(resultData.results[0].content.metadata.name) ??
+          project_name,
         image: resultData.results[0].content.links.image || "",
         description: resultData.results[0].content.metadata.description ?? "",
         url: resultData.results[0].content.links.external_url || "",
@@ -294,7 +297,7 @@ program
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
           const projectEntry =
-            `- ${metaData.name}` +
+            `- ${cleanName(metaData.name)}` +
             (metaData.url ? ` - ${metaData.url}` : "") +
             `\n`;
           return projectEntry;

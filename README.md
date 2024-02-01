@@ -16,9 +16,12 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Cets
 - Chads
 - Dawnbreakers - https://radiant.nexus/
-- Degen Dad #056
+- Deanslist
+- Degen Dad
+- Degen Royale - https://degenroyale.io/
 - DTB Collection NFT - https://www.degentradingbears.xyz
 - Famous Fox Federation - https://famousfoxes.com
+- GIZMOS : Land - https://playgizmos.com/
 - Grim Syndicate - https://grimsyndicate.com
 - GRINDERS NFTS
 - Lifinity Flares - https://lifinity.io
@@ -37,8 +40,11 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - SolKongz - https://www.solkongz.net
 - Squidz
 - Tensorians - https://www.tensor.trade/
+- True OG
 - The Roundies - https://theroundies.co
-- THUG #0805 - https://www.thugbirdz.com/
+- THUG - https://www.thugbirdz.com/
+- WOOFers - https://www.woofsolana.world
+- Zilly Goat 7777 Series - https://www.zillionairegoatclub.com
 
 ## Structure of the Repository
 
