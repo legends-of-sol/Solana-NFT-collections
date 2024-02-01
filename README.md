@@ -21,7 +21,7 @@ To add a new snapshot to the collection, follow these steps:
 
 ![Collection Address](./assets/collection-address.png)
 
-4. Run `npm run snapshot {collection_address} {project_name}` to generate a snapshot
+4. Run `npm run snapshot {collection_address} {project_name}` to generate a snapshot - eg. `snapshot boom_heroes EJqr8VRC3rJaEVDDkcbG9G122ixW1GQ4f6y6vMwaGoco`
 5. Open a PR with the new snapshot
 
 ## Example PR
