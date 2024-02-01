@@ -293,7 +293,11 @@ program
         const metaPath = path.join(nftsPath, project, `${project}_meta.json`);
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
-          return `- ${metaData.name} - ${metaData.url}\n`;
+          const projectEntry =
+            `- ${metaData.name}` +
+            (metaData.url ? ` - ${metaData.url}` : "") +
+            `\n`;
+          return projectEntry;
         }
         return null;
       })
@@ -302,20 +306,24 @@ program
 
     let readmeContent = fs.readFileSync(readmePath, "utf8");
     const projectsSectionStart = readmeContent.indexOf("## Projects");
-    const projectsSectionEnd = readmeContent.indexOf(
+    let projectsSectionEnd = readmeContent.indexOf(
       "##",
       projectsSectionStart + 1
     );
 
+    // Adjust the end index to capture until the next section or end of file if no next section exists
+    projectsSectionEnd =
+      projectsSectionEnd !== -1 ? projectsSectionEnd : readmeContent.length;
+
     if (projectsSectionStart !== -1) {
       const beforeProjects = readmeContent.substring(0, projectsSectionStart);
-      const afterProjects =
-        projectsSectionEnd !== -1
-          ? readmeContent.substring(projectsSectionEnd)
-          : "";
-      readmeContent = `${beforeProjects}## Projects\n\n${projectsList}${afterProjects}`;
+      const afterProjects = readmeContent.substring(projectsSectionEnd);
+      // Ensure a newline is added before the "## Structure of the Repository" section
+      readmeContent = `${beforeProjects}## Projects\n\n${projectsList}\n${afterProjects}`;
     } else {
-      readmeContent += `\n## Projects\n\n${projectsList}`;
+      // If the "## Projects" section does not exist, append it at the desired location
+      // Ensure to add a newline character at the end for proper spacing
+      readmeContent += `\n## Projects\n\n${projectsList}\n`;
     }
 
     fs.writeFileSync(readmePath, readmeContent);
