@@ -15,13 +15,14 @@ The repository is structured as follows:
 
 To add a new snapshot to the collection, follow these steps:
 
-1. Create a new folder in the `NFTs/` directory if one for your project does not exist yet.
+1. Fork this repository and run `npm install` to install the dependencies.
+2. Snakecase the name of the project in your mind palace eg. `Legends of Solana` becomes `legends_of_solana`
+3. Get the collection address:
 
-2. Inside the project's folder, include a JSON file named `{name of your project}_{date}.json` (`name_YYYYMMDD.json`). This file should contain the snapshot data.
+[![Collection Address](./assets/@collection-address.png)]
 
-3. Submit a PR titled `include {project_name}` with the new snapshot. Make sure the snapshot is formatted correctly.
-
-NOTE: You can include a script for how you generated the list for external verification or link to your methodology. You can also include other data and format types as you wish.
+4. Run `npm run snapshot {collection_address} {project_name}` to generate a snapshot
+5. Open a PR with the new snapshot
 
 ## Example PR
 
