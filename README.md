@@ -6,6 +6,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 
 ## Project Hashlists
 
+- AEP Life Form
 - BOOGLE
 - Boom Heroes - https://boom.army
 - Bozo Collective - https://twitter.com/BozoCollective
@@ -21,6 +22,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Degen Dad
 - Degen Royale - https://degenroyale.io/
 - DTB Collection NFT - https://www.degentradingbears.xyz
+- Dev Card - https://www.devnet.directory/
 - Famous Fox Federation - https://famousfoxes.com
 - GIZMOS : Land - https://playgizmos.com/
 - Grim Syndicate - https://grimsyndicate.com
