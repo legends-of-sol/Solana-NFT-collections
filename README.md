@@ -19,7 +19,7 @@ To add a new snapshot to the collection, follow these steps:
 2. Snakecase the name of the project in your mind palace eg. `Legends of Solana` becomes `legends_of_solana`
 3. Get the collection address:
 
-[![Collection Address](./assets/@collection-address.png)]
+![Collection Address](./assets/collection-address.png)
 
 4. Run `npm run snapshot {collection_address} {project_name}` to generate a snapshot
 5. Open a PR with the new snapshot
