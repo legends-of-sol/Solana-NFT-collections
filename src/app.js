@@ -406,7 +406,7 @@ program
       "../legends/legends_weight.json"
     );
     if (!fs.existsSync(legendsWeightPath)) {
-      fs.writeFileSync(legendsWeightPath, JSON.stringify({}, null, 2));
+      fs.writeFileSync(legendsWeightPath, JSON.stringify([], null, 2));
     }
     const legendsPartnersPath = path.join(
       __dirname,
@@ -424,7 +424,7 @@ program
       )
       .map((partner) => partner.name);
 
-    let legendsWeight = {};
+    let legendsWeight = [];
     if (fs.existsSync(legendsWeightPath)) {
       legendsWeight = JSON.parse(fs.readFileSync(legendsWeightPath, "utf8"));
     }
@@ -455,10 +455,12 @@ program
             .slice(1);
           uniqueOwnersData.forEach((row) => {
             const [owner, count] = row.split(",");
-            if (!legendsWeight[owner]) {
-              legendsWeight[owner] = {};
+            let ownerEntry = legendsWeight.find((entry) => entry.id === owner);
+            if (!ownerEntry) {
+              ownerEntry = { id: owner };
+              legendsWeight.push(ownerEntry);
             }
-            legendsWeight[owner][project] = parseInt(count, 10);
+            ownerEntry[project] = parseInt(count, 10);
           });
         }
       }
