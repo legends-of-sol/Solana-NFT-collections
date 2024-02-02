@@ -5,6 +5,19 @@ const dayjs = require("dayjs");
 const { execSync } = require("child_process");
 const { cleanName, calculateOwnerCounts } = require("./utils");
 
+const Paths = {
+  META_DIR: (project_name) => path.join(__dirname, `../NFTs/${project_name}`),
+  DIR: (project_name, dateStamp) =>
+    path.join(__dirname, `../NFTs/${project_name}/${dateStamp}`),
+  COLLECTIONS: path.join(__dirname, "../legends/legends_partners.json"),
+  NFTS: path.join(__dirname, "../NFTs"),
+  README: path.join(__dirname, "../README.md"),
+  LEGENDS: path.join(__dirname, "../legends/legends_partners.json"),
+  UNCONFIRMED: path.join(__dirname, "../legends/unconfirmed.json"),
+  LEGENDS_WEIGHT: path.join(__dirname, "../legends/legends_weight.json"),
+  LEGENDS_PARTNERS: path.join(__dirname, "../legends/legends_partners.json"),
+};
+
 program
   .command("snapshot <project_name> <collection_address>")
   .description("Take a snapshot of a project")
@@ -73,11 +86,8 @@ program
         results: assetList,
       };
       const dateStamp = dayjs().format("YYYYMMDD");
-      const metaDirPath = path.join(__dirname, `../NFTs/${project_name}`);
-      const dirPath = path.join(
-        __dirname,
-        `../NFTs/${project_name}/${dateStamp}`
-      );
+      const metaDirPath = Paths.META_DIR(project_name);
+      const dirPath = Paths.DIR(project_name, dateStamp);
       if (!fs.existsSync(dirPath)) {
         fs.mkdirSync(dirPath, { recursive: true });
       }
@@ -198,11 +208,8 @@ program
         results: assetList,
       };
       const dateStamp = dayjs().format("YYYYMMDD");
-      const metaDirPath = path.join(__dirname, `../NFTs/${project_name}`);
-      const dirPath = path.join(
-        __dirname,
-        `../NFTs/${project_name}/${dateStamp}`
-      );
+      const metaDirPath = Paths.META_DIR(project_name);
+      const dirPath = Paths.DIR(project_name, dateStamp);
       if (!fs.existsSync(dirPath)) {
         fs.mkdirSync(dirPath, { recursive: true });
       }
@@ -268,22 +275,31 @@ program
     await getAssetsByGroup();
   });
 
-program
+  program
   .command("snapshot_all_legends")
   .description(
     "Cycle through all collections in legends_collections.json and take a snapshot of each"
   )
-  .action(() => {
-    const collectionsPath = path.join(__dirname, "../legends_partners.json");
-    const collections = JSON.parse(fs.readFileSync(collectionsPath, "utf8"));
+  .option(
+    "-r, --rpc [RPC]",
+    "RPC endpoint URL",
+    "https://api.mainnet-beta.solana.com"
+  )
+  .action((options) => {
+    const collections = JSON.parse(
+      fs.readFileSync(Paths.LEGENDS_PARTNERS, "utf8")
+    );
+    const RPC = options.rpc;
 
     collections.forEach((collection) => {
       console.log(`Taking snapshot for: ${collection.name}`);
       try {
-        execSync(
-          `npm run snapshot "${collection.name}" "${collection.collectionKey}"`,
-          { stdio: "inherit" }
-        );
+        // Determine the command based on the presence of collectionKey or creatorAddress
+        const command = collection.collectionKey
+          ? `npm run snapshot "${collection.name}" "${collection.collectionKey}" -r "${RPC}"`
+          : `npm run snapshot:creator "${collection.name}" "${collection.creatorAddress}" -r "${RPC}"`;
+
+        execSync(command, { stdio: "inherit" });
       } catch (error) {
         console.error(`Failed to take snapshot for: ${collection.name}`, error);
       }
@@ -296,13 +312,11 @@ program
   .command("update_readme")
   .description("Update the README.md file with a list of projects")
   .action(() => {
-    const nftsPath = path.join(__dirname, "../NFTs");
-    const readmePath = path.join(__dirname, "../README.md");
-    const projects = fs.readdirSync(nftsPath);
+    const projects = fs.readdirSync(Paths.NFTS);
 
     let projectsList = projects
       .map((project) => {
-        const metaPath = path.join(nftsPath, project, `${project}_meta.json`);
+        const metaPath = path.join(Paths.NFTS, project, `${project}_meta.json`);
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
           const projectEntry =
@@ -316,7 +330,7 @@ program
       .filter(Boolean)
       .join("");
 
-    let readmeContent = fs.readFileSync(readmePath, "utf8");
+    let readmeContent = fs.readFileSync(Paths.README, "utf8");
     const projectsSectionStart = readmeContent.indexOf("## Project Hashlists");
     let projectsSectionEnd = readmeContent.indexOf(
       "##",
@@ -338,7 +352,7 @@ program
       readmeContent += `\n## Project Hashlists\n\n${projectsList}\n`;
     }
 
-    fs.writeFileSync(readmePath, readmeContent);
+    fs.writeFileSync(Paths.README, readmeContent);
     console.log("README.md updated with the latest projects list.");
   });
 
@@ -431,7 +445,10 @@ program
 
     const projects = fs
       .readdirSync(nftsPath)
-      .filter((project) => filteredProjects.includes(project));
+      .filter(
+        (project) =>
+          filteredProjects.includes(project) && project !== "alldomains"
+      );
 
     projects.forEach((project) => {
       const projectPath = path.join(nftsPath, project);
