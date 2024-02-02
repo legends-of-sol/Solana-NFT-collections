@@ -1,542 +1,548 @@
 [
   {
-    "Identifier": "Jito",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "Jitos9sv798B1WYxHXmwJn6w1VMErUXGWZEKRJ9HoMA"
+    "name": "Jito",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "Jitos9sv798B1WYxHXmwJn6w1VMErUXGWZEKRJ9HoMA"
   },
   {
-    "Identifier": "Magic Eden V2",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K"
+    "name": "Magic Eden V2",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K"
   },
   {
-    "Identifier": "Mango Markets V3",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "mv3ekLzLbnVPNxjSKvqBpU3ZeZXPQdEC3bp5MDEBG68"
+    "name": "Mango Markets V3",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "mv3ekLzLbnVPNxjSKvqBpU3ZeZXPQdEC3bp5MDEBG68"
   },
   {
-    "Identifier": "Serum Dex V3",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+    "name": "Serum Dex V3",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   },
   {
-    "Identifier": "Jupiter Agg V3",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "JUP3c2Uh3WA4Ng34tw6kPd2G4C5BB21Xo36Je1s32Ph"
+    "name": "Jupiter Agg V3",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "JUP3c2Uh3WA4Ng34tw6kPd2G4C5BB21Xo36Je1s32Ph"
   },
   {
-    "Identifier": "Whirlpool (Orca)",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
+    "name": "Whirlpool (Orca)",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
   },
   {
-    "Identifier": "Raydium LP V4",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+    "name": "Raydium LP V4",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
   },
   {
-    "Identifier": "Orca Swap V2",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "9W959DqEETiGZocYWCQPaJ6sBmUzgfxXfqGeTEdp3aQP"
+    "name": "Orca Swap V2",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "9W959DqEETiGZocYWCQPaJ6sBmUzgfxXfqGeTEdp3aQP"
   },
   {
-    "Identifier": "Saber Swap",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ"
+    "name": "Saber Swap",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ"
   },
   {
-    "Identifier": "Lifinity Swap",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "EewxydAPCCVuNEyrVN68PuSYdQ7wKn27V9Gjeoi8dy3S"
+    "name": "Lifinity Swap",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "EewxydAPCCVuNEyrVN68PuSYdQ7wKn27V9Gjeoi8dy3S"
   },
   {
-    "Identifier": "Jupiter Agg V2",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "JUP2jxvXaqu7NQY1GmNF4m1vodw12LVXYxbFL2uJvfo"
+    "name": "Jupiter Agg V2",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "JUP2jxvXaqu7NQY1GmNF4m1vodw12LVXYxbFL2uJvfo"
   },
   {
-    "Identifier": "Aldrin AMM",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "AMM55ShdkoGRB5jVYPjWziwk8m5MpwyDgsMWHaMSQWH6"
+    "name": "Aldrin AMM",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "AMM55ShdkoGRB5jVYPjWziwk8m5MpwyDgsMWHaMSQWH6"
   },
   {
-    "Identifier": "Orca Swap",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "DjVE6JNiYqPL2QXyCUUh8rNjHrbz9hXHNYt99MQ59qw1"
+    "name": "Orca Swap",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "DjVE6JNiYqPL2QXyCUUh8rNjHrbz9hXHNYt99MQ59qw1"
   },
   {
-    "Identifier": "Swap Program",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
+    "name": "Swap Program",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8"
   },
   {
-    "Identifier": "Step Finance Swap",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "SSwpMgqNDsyV7mAgN9ady4bDVu5ySjmmXejXvy2vLt1"
+    "name": "Step Finance Swap",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "SSwpMgqNDsyV7mAgN9ady4bDVu5ySjmmXejXvy2vLt1"
   },
   {
-    "Identifier": "Magic Eden",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "MEisE1HzehtrDpAAT8PnLHjpSSkRYakotTuJRPjTpo8"
+    "name": "Magic Eden",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "MEisE1HzehtrDpAAT8PnLHjpSSkRYakotTuJRPjTpo8"
   },
   {
-    "Identifier": "Solanart",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "CJsLwbP1iu5DuUikHEJnLfANgKy6stB2uFgvBBHoyxwz"
+    "name": "Solanart",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "CJsLwbP1iu5DuUikHEJnLfANgKy6stB2uFgvBBHoyxwz"
   },
   {
-    "Identifier": "Digital Eyes",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "A7p8451ktDCHq5yYaHczeLMYsjRsAkzc3hCXcSrwYHU7"
+    "name": "Digital Eyes",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "A7p8451ktDCHq5yYaHczeLMYsjRsAkzc3hCXcSrwYHU7"
   },
   {
-    "Identifier": "SolSea",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "617jbWo616ggkDxvW1Le8pV38XLbVSyWY8ae6QUmGBAU"
+    "name": "SolSea",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "617jbWo616ggkDxvW1Le8pV38XLbVSyWY8ae6QUmGBAU"
   },
   {
-    "Identifier": "OpenSea",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "pAHAKoTJsAAe2ZcvTZUxoYzuygVAFAmbYmJYdWT886r"
+    "name": "OpenSea",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "pAHAKoTJsAAe2ZcvTZUxoYzuygVAFAmbYmJYdWT886r"
   },
   {
-    "Identifier": "FormFunction",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "formn3hJtt8gvVKxpCfzCJGuoz6CNUFcULFZW18iTpC"
+    "name": "FormFunction",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "formn3hJtt8gvVKxpCfzCJGuoz6CNUFcULFZW18iTpC"
   },
   {
-    "Identifier": "Mango Markets",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "5fNfvyp5czQVX77yoACa3JJVEhdRaWjPuazuWgjhTqEH"
+    "name": "Mango Markets",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "5fNfvyp5czQVX77yoACa3JJVEhdRaWjPuazuWgjhTqEH"
   },
   {
-    "Identifier": "Mango Markets",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "JD3bq9hGdy38PuWQ4h2YJpELmHVGPPfFSuFkpzAd9zfu"
+    "name": "Mango Markets",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "JD3bq9hGdy38PuWQ4h2YJpELmHVGPPfFSuFkpzAd9zfu"
   },
   {
-    "Identifier": "Serum",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "J2NhFnBxcwbxovE7avBQCXWPgfVtxi5sJfz68AH6R2Mg"
+    "name": "Serum",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "J2NhFnBxcwbxovE7avBQCXWPgfVtxi5sJfz68AH6R2Mg"
   },
   {
-    "Identifier": "Serum",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "22Y43yTVxuUkoRKdm9thyRhQ3SdgQS7c7kB6UNCiaczD"
+    "name": "Serum",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "22Y43yTVxuUkoRKdm9thyRhQ3SdgQS7c7kB6UNCiaczD"
   },
   {
-    "Identifier": "Serum",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
+    "name": "Serum",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
   },
   {
-    "Identifier": "Serum",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "BJ3jrUzddfuSrZHXSCxMUUQsjKEyLmuuyZebkcaFp2fg"
+    "name": "Serum",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "BJ3jrUzddfuSrZHXSCxMUUQsjKEyLmuuyZebkcaFp2fg"
   },
   {
-    "Identifier": "Serum",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "4ckmDgGdxQoPDLUkDT3vHgSAkzA3QRdNq5ywwY4sUSJn"
+    "name": "Serum",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "4ckmDgGdxQoPDLUkDT3vHgSAkzA3QRdNq5ywwY4sUSJn"
   },
   {
-    "Identifier": "Aldrin",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "CURVGoZn8zycx6FXwwevgBTB2gVvdbGTEpvMJDbgs2t4"
+    "name": "Aldrin",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "CURVGoZn8zycx6FXwwevgBTB2gVvdbGTEpvMJDbgs2t4"
   },
   {
-    "Identifier": "Jupiter",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "JUP6i4ozu5ydDCnLiMogSckDPpbtr7BJ4FtzYWkb5Rk"
+    "name": "Jupiter",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "JUP6i4ozu5ydDCnLiMogSckDPpbtr7BJ4FtzYWkb5Rk"
   },
   {
-    "Identifier": "Raydium",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr"
+    "name": "Raydium",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr"
   },
   {
-    "Identifier": "Raydium",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "27haf8L6oxUeXrHrgEgsexjSY5hbVUWEmvv9Nyxg8vQv"
+    "name": "Raydium",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "27haf8L6oxUeXrHrgEgsexjSY5hbVUWEmvv9Nyxg8vQv"
   },
   {
-    "Identifier": "Mercurial",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "MERLuDFBMmsHnsBPZw2sDQZHvXFMwp8EdjudcU2HKky"
+    "name": "Mercurial",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "MERLuDFBMmsHnsBPZw2sDQZHvXFMwp8EdjudcU2HKky"
   },
   {
-    "Identifier": "Cykura",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "cysPXAjehMpVKUapzbMCCnpFxUFFryEWEaLgnb9NrR8"
+    "name": "Cykura",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "cysPXAjehMpVKUapzbMCCnpFxUFFryEWEaLgnb9NrR8"
   },
   {
-    "Identifier": "Crema",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "6MLxLqiXaaSUpkgMnWDTuejNZEz3kE7k2woyHGVFw319"
+    "name": "Crema",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "6MLxLqiXaaSUpkgMnWDTuejNZEz3kE7k2woyHGVFw319"
   },
   {
-    "Identifier": "Stepn",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "Dooar9JkhdZ7J3LHN3A7YCuoGRUggXhQaG4kijfLGU2j"
+    "name": "Stepn",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "Dooar9JkhdZ7J3LHN3A7YCuoGRUggXhQaG4kijfLGU2j"
   },
   {
-    "Identifier": "Pyth Oracle",
-    "Type": "Program",
-    "Category": "Data",
-    "Address": "FsJ3A3u2vn5cTVofAjvy6y5kwABJAqYWpe4975bi2epH"
+    "name": "Pyth Oracle",
+    "type": "Program",
+    "category": "Data",
+    "address": "FsJ3A3u2vn5cTVofAjvy6y5kwABJAqYWpe4975bi2epH"
   },
   {
-    "Identifier": "Alpha",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "HZaWndaNWHFDd9Dhk5pqUUtsmoBCqzb1MLu3NAh1VX6B"
+    "name": "Alpha",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "HZaWndaNWHFDd9Dhk5pqUUtsmoBCqzb1MLu3NAh1VX6B"
   },
   {
-    "Identifier": "Kin",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6"
+    "name": "Kin",
+    "type": "Token",
+    "category": "Token",
+    "address": "kinXdEcpDQeHPEuQnqmUgtYykqKGVFq6CeVX5iAHJq6"
   },
   {
-    "Identifier": "Audius",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM"
+    "name": "Audius",
+    "type": "Token",
+    "category": "Token",
+    "address": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM"
   },
   {
-    "Identifier": "Hxro",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK"
+    "name": "Hxro",
+    "type": "Token",
+    "category": "Token",
+    "address": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK"
   },
   {
-    "Identifier": "Star Atlas",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx"
+    "name": "Star Atlas",
+    "type": "Token",
+    "category": "Token",
+    "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx"
   },
   {
-    "Identifier": "Aleph",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K"
+    "name": "Aleph",
+    "type": "Token",
+    "category": "Token",
+    "address": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K"
   },
   {
-    "Identifier": "Aurory",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP"
+    "name": "Aurory",
+    "type": "Token",
+    "category": "Token",
+    "address": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP"
   },
   {
-    "Identifier": "Solanium",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW"
+    "name": "Solanium",
+    "type": "Token",
+    "category": "Token",
+    "address": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW"
   },
   {
-    "Identifier": "Samoyedcoin",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU"
+    "name": "Samoyedcoin",
+    "type": "Token",
+    "category": "Token",
+    "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU"
   },
   {
-    "Identifier": "Defi Land",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh"
+    "name": "Defi Land",
+    "type": "Token",
+    "category": "Token",
+    "address": "DFL1zNkaGPWm1BqAVqRjCZvHmwTFrEaJtbzJWgseoNJh"
   },
   {
-    "Identifier": "Sol Chicks",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2"
+    "name": "Sol Chicks",
+    "type": "Token",
+    "category": "Token",
+    "address": "cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2"
   },
   {
-    "Identifier": "Only 1",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR"
+    "name": "Only 1",
+    "type": "Token",
+    "category": "Token",
+    "address": "3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR"
   },
   {
-    "Identifier": "Prism",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x"
+    "name": "Prism",
+    "type": "Token",
+    "category": "Token",
+    "address": "PRSMNsEPqhGVCH1TtWiJqPjJyh2cKrLostPZTNy1o5x"
   },
   {
-    "Identifier": "Woof",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE"
+    "name": "Woof",
+    "type": "Token",
+    "category": "Token",
+    "address": "9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE"
   },
   {
-    "Identifier": "Crycoin",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "56tNQ29XBrbovm5K5SThuQatjCy92w2wKUaUeQ8WCD9g"
+    "name": "Crycoin",
+    "type": "Token",
+    "category": "Token",
+    "address": "56tNQ29XBrbovm5K5SThuQatjCy92w2wKUaUeQ8WCD9g"
   },
   {
-    "Identifier": "Salad Cat Coin",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "5rFmh8C6Zj1VfL7ogB6PyVDnQkqsayvEPsEbbkUPX8f"
+    "name": "Salad Cat Coin",
+    "type": "Token",
+    "category": "Token",
+    "address": "5rFmh8C6Zj1VfL7ogB6PyVDnQkqsayvEPsEbbkUPX8f"
   },
   {
-    "Identifier": "Tribe Land",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "3CKQgrcvwhvFqVXXxLTb1u262nh26SJ3uutkSCTtbZxH"
+    "name": "Tribe Land",
+    "type": "Token",
+    "category": "Token",
+    "address": "3CKQgrcvwhvFqVXXxLTb1u262nh26SJ3uutkSCTtbZxH"
   },
   {
-    "Identifier": "Solabrador",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "GLmaRDRmYd4u3YLfnj9eq1mrwxa1YfSweZYYZXZLTRdK"
+    "name": "Solabrador",
+    "type": "Token",
+    "category": "Token",
+    "address": "GLmaRDRmYd4u3YLfnj9eq1mrwxa1YfSweZYYZXZLTRdK"
   },
   {
-    "Identifier": "Solmoon",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "Gro98oTmXxCVX8HKr3q2tMnP5ztoC77q6KehFDnAB983"
+    "name": "Solmoon",
+    "type": "Token",
+    "category": "Token",
+    "address": "Gro98oTmXxCVX8HKr3q2tMnP5ztoC77q6KehFDnAB983"
   },
   {
-    "Identifier": "Sol Baby Doge",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "BABYsocP6cB95xvBDXnjXKX96VBNC37dmNWUtaV9Jk6v"
+    "name": "Sol Baby Doge",
+    "type": "Token",
+    "category": "Token",
+    "address": "BABYsocP6cB95xvBDXnjXKX96VBNC37dmNWUtaV9Jk6v"
   },
   {
-    "Identifier": "Phant",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "AKxR1NLTtPnsVcWwPSEGat1TC9da3Z2vX7sY4G7ZLj1r"
+    "name": "Phant",
+    "type": "Token",
+    "category": "Token",
+    "address": "AKxR1NLTtPnsVcWwPSEGat1TC9da3Z2vX7sY4G7ZLj1r"
   },
   {
-    "Identifier": "Space Hamster",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "A2T2jDe2bxyEHkKtS8AtrTRmJ9VZRwyY8Kr7oQ8xNyfb"
+    "name": "Space Hamster",
+    "type": "Token",
+    "category": "Token",
+    "address": "A2T2jDe2bxyEHkKtS8AtrTRmJ9VZRwyY8Kr7oQ8xNyfb"
   },
   {
-    "Identifier": "Keeshond",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8"
+    "name": "Keeshond",
+    "type": "Token",
+    "category": "Token",
+    "address": "6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8"
   },
   {
-    "Identifier": "Coin98",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
+    "name": "Coin98",
+    "type": "Token",
+    "category": "Token",
+    "address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
   },
   {
-    "Identifier": "Bonfida",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp"
+    "name": "Bonfida",
+    "type": "Token",
+    "category": "Token",
+    "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp"
   },
   {
-    "Identifier": "Oxygen",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M"
+    "name": "Oxygen",
+    "type": "Token",
+    "category": "Token",
+    "address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M"
   },
   {
-    "Identifier": "Frontier",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw"
+    "name": "Frontier",
+    "type": "Token",
+    "category": "Token",
+    "address": "9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw"
   },
   {
-    "Identifier": "Orca",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE"
+    "name": "Orca",
+    "type": "Token",
+    "category": "Token",
+    "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE"
   },
   {
-    "Identifier": "Saber",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
+    "name": "Saber",
+    "type": "Token",
+    "category": "Token",
+    "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1"
   },
   {
-    "Identifier": "Serum",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
+    "name": "Serum",
+    "type": "Token",
+    "category": "Token",
+    "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
   },
   {
-    "Identifier": "Raydium",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R"
+    "name": "Raydium",
+    "type": "Token",
+    "category": "Token",
+    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R"
   },
   {
-    "Identifier": "Apricot",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt"
+    "name": "Apricot",
+    "type": "Token",
+    "category": "Token",
+    "address": "APTtJyaRX5yGTsJU522N4VYWg3vCvSb65eam5GrPT5Rt"
   },
   {
-    "Identifier": "Solend",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp"
+    "name": "Solend",
+    "type": "Token",
+    "category": "Token",
+    "address": "SLNDpmoWTVADgEdndyvWzroNL7zSi1dF9PC3xHGtPwp"
   },
   {
-    "Identifier": "Port",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
+    "name": "Port",
+    "type": "Token",
+    "category": "Token",
+    "address": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y"
   },
   {
-    "Identifier": "Tulip",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs"
+    "name": "Tulip",
+    "type": "Token",
+    "category": "Token",
+    "address": "TuLipcqtGVXP9XR62wM8WWCm6a9vhLs7T1uoWBk6FDs"
   },
   {
-    "Identifier": "SwitchBoard Orcale",
-    "Type": "Program",
-    "Category": "Data",
-    "Address": "DtmE9D2CSB4L5D6A15mraeEjrGMm6auWVzgaD8hK2tZM"
+    "name": "SwitchBoard Orcale",
+    "type": "Program",
+    "category": "Data",
+    "address": "DtmE9D2CSB4L5D6A15mraeEjrGMm6auWVzgaD8hK2tZM"
   },
   {
-    "Identifier": "SwitchBoard V2",
-    "Type": "Program",
-    "Category": "Data",
-    "Address": "SW1TCH7qEPTdLsDHRgPuMQjbQxKdH2aBStViMFnt64f"
+    "name": "SwitchBoard V2",
+    "type": "Program",
+    "category": "Data",
+    "address": "SW1TCH7qEPTdLsDHRgPuMQjbQxKdH2aBStViMFnt64f"
   },
   {
-    "Identifier": "Chainlink",
-    "Type": "Program",
-    "Category": "Data",
-    "Address": "cjg3oHmg9uuPsP8D6g29NWvhySJkdYdAo9D25PRbKXJ"
+    "name": "Chainlink",
+    "type": "Program",
+    "category": "Data",
+    "address": "cjg3oHmg9uuPsP8D6g29NWvhySJkdYdAo9D25PRbKXJ"
   },
   {
-    "Identifier": "01.xyz",
-    "Type": "Program",
-    "Category": "DeFi",
-    "Address": "Zo1ggzTUKMY5bYnDvT5mtVeZxzf2FaLTbKkmvGUhUQk"
+    "name": "01.xyz",
+    "type": "Program",
+    "category": "DeFi",
+    "address": "Zo1ggzTUKMY5bYnDvT5mtVeZxzf2FaLTbKkmvGUhUQk"
   },
   {
-    "Identifier": "Mango",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac"
+    "name": "Mango",
+    "type": "Token",
+    "category": "Token",
+    "address": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac"
   },
   {
-    "Identifier": "EveryOne",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91"
+    "name": "EveryOne",
+    "type": "Token",
+    "category": "Token",
+    "address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91"
   },
   {
-    "Identifier": "Yaku",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "NGK3iHqqQkyRZUj4uhJDQqEyKKcZ7mdawWpqwMffM3s"
+    "name": "Yaku",
+    "type": "Token",
+    "category": "Token",
+    "address": "NGK3iHqqQkyRZUj4uhJDQqEyKKcZ7mdawWpqwMffM3s"
   },
   {
-    "Identifier": "agEur",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
+    "name": "agEur",
+    "type": "Token",
+    "category": "Token",
+    "address": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1"
   },
   {
-    "Identifier": "Angle",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8"
+    "name": "Angle",
+    "type": "Token",
+    "category": "Token",
+    "address": "31GpPxe1SW8pn7GXimM73paD8PZyCsmVSGTLkwUAJvZ8"
   },
   {
-    "Identifier": "Metaplex Candy Machine V1",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "cndyAnrLdpjq1Ssp1z8xxDsB8dxe7u4HL5Nxi2K5WXZ"
+    "name": "Metaplex Candy Machine V1",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "cndyAnrLdpjq1Ssp1z8xxDsB8dxe7u4HL5Nxi2K5WXZ"
   },
   {
-    "Identifier": "Metaplex Candy Machine V2",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "cndy3Z4yapfJBmL3ShUp5exZKqR3z33thTzeNMm2gRZ"
+    "name": "Metaplex Candy Machine V2",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "cndy3Z4yapfJBmL3ShUp5exZKqR3z33thTzeNMm2gRZ"
   },
   {
-    "Identifier": "Metaplex Token Valut",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "vau1zxA2LbssAUEF7Gpw91zMM1LvXrvpzJtmZ58rPsn"
+    "name": "Metaplex Token Valut",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "vau1zxA2LbssAUEF7Gpw91zMM1LvXrvpzJtmZ58rPsn"
   },
   {
-    "Identifier": "Metaplex NFT Auction",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "auctxRXPeJoc4817jDhf4HbjnhEcr1cCXenosMhK5R8"
+    "name": "Metaplex NFT Auction",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "auctxRXPeJoc4817jDhf4HbjnhEcr1cCXenosMhK5R8"
   },
   {
-    "Identifier": "Metaplex Program",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+    "name": "Metaplex Program",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
   },
   {
-    "Identifier": "USDC",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    "name": "USDC",
+    "type": "Token",
+    "category": "Token",
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
   },
   {
-    "Identifier": "USDT",
-    "Type": "Token",
-    "Category": "Token",
-    "Address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+    "name": "USDT",
+    "type": "Token",
+    "category": "Token",
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
   },
   {
-    "Identifier": "Deanslist staking",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "CjYTP9jJVmCqnmdPf8tyafTHxTQtAjsFckVGZWMwprca"
+    "name": "Deanslist staking",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "CjYTP9jJVmCqnmdPf8tyafTHxTQtAjsFckVGZWMwprca"
   },
   {
-    "Identifier": "Magic Eden V2 - 1B",
-    "Type": "Program",
-    "Category": "NFTs",
-    "Address": "1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix"
+    "name": "Magic Eden V2 - 1B",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix"
+  },
+  {
+    "name": "Tensor Swap",
+    "type": "Program",
+    "category": "NFTs",
+    "address": "4zdNGgAtFsW1cQgHqkiWyRsxaAgxrSRRynnuunxzjxue"
   }
 ]
