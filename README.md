@@ -24,6 +24,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Degen Royale - https://degenroyale.io/
 - DTB Collection NFT - https://www.degentradingbears.xyz
 - Dev Card - https://www.devnet.directory/
+- doges_unleashed
 - Famous Fox Federation - https://famousfoxes.com
 - GIZMOS : Land - https://playgizmos.com/
 - Grim Syndicate - https://grimsyndicate.com
