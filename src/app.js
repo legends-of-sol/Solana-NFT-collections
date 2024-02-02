@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const dayjs = require("dayjs");
 const { execSync } = require("child_process");
-const { cleanName } = require("./utils");
+const { cleanName, calculateOwnerCounts } = require("./utils");
 
 program
   .command("snapshot <project_name> <collection_address>")
@@ -130,14 +130,16 @@ program
         JSON.stringify(hashlistContent, null, 2)
       );
 
-      // Generate Unique Owners CSV
-      const uniqueOwners = [
-        ...new Set(resultData.results.map((item) => item.ownership.owner)),
-      ];
-      const uniqueOwnersCSV = uniqueOwners.join("\n");
+      // Generate Unique Owners CSV with count
+      const ownerCounts = calculateOwnerCounts(resultData.results);
+      const sortedOwnerCounts = Object.entries(ownerCounts).sort((a, b) => b[1] - a[1]);
+      const uniqueOwnersCSV = sortedOwnerCounts
+        .map(([owner, count]) => `${owner},${count}`)
+        .join("\n");
+
       fs.writeFileSync(
         `${dirPath}/unique_${project_name}_owners_${dateStamp}.csv`,
-        `owner\n${uniqueOwnersCSV}`
+        `owner,count\n${uniqueOwnersCSV}`
       );
 
       console.log(`Snapshot successfully taken for -- ${project_name}`);
@@ -245,14 +247,15 @@ program
         JSON.stringify(hashlistContent, null, 2)
       );
 
-      // Generate Unique Owners CSV
-      const uniqueOwners = [
-        ...new Set(resultData.results.map((item) => item.ownership.owner)),
-      ];
-      const uniqueOwnersCSV = uniqueOwners.join("\n");
+      // Unique owners CSV with count
+      const ownerCounts = calculateOwnerCounts(resultData.results);
+      const sortedOwnerCounts = Object.entries(ownerCounts).sort((a, b) => b[1] - a[1]);
+      const uniqueOwnersCSV = sortedOwnerCounts
+        .map(([owner, count]) => `${owner},${count}`)
+        .join("\n");
       fs.writeFileSync(
         `${dirPath}/unique_${project_name}_owners_${dateStamp}.csv`,
-        `owner\n${uniqueOwnersCSV}`
+        `owner,count\n${uniqueOwnersCSV}`
       );
 
       console.log(`Snapshot successfully taken for -- ${project_name}`);
@@ -335,17 +338,24 @@ program
     console.log("README.md updated with the latest projects list.");
   });
 
-  program
+program
   .command("update_legends")
-  .description("Update legends_partners.json with data from NFTs folders, excluding unconfirmed collections")
+  .description(
+    "Update legends_partners.json with data from NFTs folders, excluding unconfirmed collections"
+  )
   .action(() => {
     const nftsPath = path.join(__dirname, "../NFTs");
-    const legendsPath = path.join(__dirname, "../legends/legends_partners.json");
+    const legendsPath = path.join(
+      __dirname,
+      "../legends/legends_partners.json"
+    );
     const unconfirmedPath = path.join(__dirname, "../legends/unconfirmed.json");
     const folders = fs.readdirSync(nftsPath);
 
     // Load unconfirmed collections
-    const unconfirmedCollections = JSON.parse(fs.readFileSync(unconfirmedPath, "utf8")).map(item => item.name);
+    const unconfirmedCollections = JSON.parse(
+      fs.readFileSync(unconfirmedPath, "utf8")
+    ).map((item) => item.name);
 
     const updatedLegends = folders
       .map((folder) => {
@@ -357,8 +367,12 @@ program
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
           return {
             name: folder,
-            ...(metaData.collectionKey ? { collectionKey: metaData.collectionKey } : {}),
-            ...(metaData.creatorAddress ? { creatorAddress: metaData.creatorAddress } : {}),
+            ...(metaData.collectionKey
+              ? { collectionKey: metaData.collectionKey }
+              : {}),
+            ...(metaData.creatorAddress
+              ? { creatorAddress: metaData.creatorAddress }
+              : {}),
           };
         }
         return null;
@@ -366,7 +380,9 @@ program
       .filter(Boolean);
 
     fs.writeFileSync(legendsPath, JSON.stringify(updatedLegends, null, 2));
-    console.log("legends_partners.json updated successfully, excluding unconfirmed collections.");
+    console.log(
+      "legends_partners.json updated successfully, excluding unconfirmed collections."
+    );
   });
 
 program.parse(process.argv);

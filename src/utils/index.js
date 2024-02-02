@@ -7,4 +7,11 @@ function cleanName(name) {
   return name.split('#')[0].trim();
 }
 
-module.exports = { cleanName };
+function calculateOwnerCounts(results) {
+  return results.reduce((acc, item) => {
+    acc[item.ownership.owner] = (acc[item.ownership.owner] || 0) + 1;
+    return acc;
+  }, {});
+}
+
+module.exports = { cleanName, calculateOwnerCounts };
