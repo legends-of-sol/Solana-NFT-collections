@@ -335,4 +335,38 @@ program
     console.log("README.md updated with the latest projects list.");
   });
 
+  program
+  .command("update_legends")
+  .description("Update legends_partners.json with data from NFTs folders, excluding unconfirmed collections")
+  .action(() => {
+    const nftsPath = path.join(__dirname, "../NFTs");
+    const legendsPath = path.join(__dirname, "../legends/legends_partners.json");
+    const unconfirmedPath = path.join(__dirname, "../legends/unconfirmed.json");
+    const folders = fs.readdirSync(nftsPath);
+
+    // Load unconfirmed collections
+    const unconfirmedCollections = JSON.parse(fs.readFileSync(unconfirmedPath, "utf8")).map(item => item.name);
+
+    const updatedLegends = folders
+      .map((folder) => {
+        if (unconfirmedCollections.includes(folder)) {
+          return null; // Skip unconfirmed collections
+        }
+        const metaPath = path.join(nftsPath, folder, `${folder}_meta.json`);
+        if (fs.existsSync(metaPath)) {
+          const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+          return {
+            name: folder,
+            ...(metaData.collectionKey ? { collectionKey: metaData.collectionKey } : {}),
+            ...(metaData.creatorAddress ? { creatorAddress: metaData.creatorAddress } : {}),
+          };
+        }
+        return null;
+      })
+      .filter(Boolean);
+
+    fs.writeFileSync(legendsPath, JSON.stringify(updatedLegends, null, 2));
+    console.log("legends_partners.json updated successfully, excluding unconfirmed collections.");
+  });
+
 program.parse(process.argv);
