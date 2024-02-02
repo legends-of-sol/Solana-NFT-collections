@@ -11,6 +11,7 @@
     "update:readme": "node src/app.js update_readme",
     "update:legends": "node src/app.js update_legends",
     "weight:legends": "node src/app.js update_legends_weight",
+    "count:legends": "node src/app.js count_legends",
     "build:json": "ts-node src/build-json.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

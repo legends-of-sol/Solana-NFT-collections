@@ -275,7 +275,7 @@ program
     await getAssetsByGroup();
   });
 
-  program
+program
   .command("snapshot_all_legends")
   .description(
     "Cycle through all collections in legends_collections.json and take a snapshot of each"
@@ -485,6 +485,52 @@ program
 
     fs.writeFileSync(legendsWeightPath, JSON.stringify(legendsWeight, null, 2));
     console.log("legends_weight.json updated successfully.");
+  });
+
+program
+  .command("count_legends")
+  .description(
+    "Count the occurrences of unique legends in legends_weight.json and total the id keys"
+  )
+  .action(() => {
+    const legendsWeightData = JSON.parse(
+      fs.readFileSync(Paths.LEGENDS_WEIGHT, "utf8")
+    );
+
+    const legendsCount = legendsWeightData.reduce((acc, entry) => {
+      Object.keys(entry).forEach((key) => {
+        if (key !== "id") {
+          acc[key] = (acc[key] || 0) + 1;
+        } else {
+          acc.totalIds = (acc.totalIds || 0) + 1;
+        }
+      });
+      return acc;
+    }, {});
+
+    const maxLegendNameLength = Math.max(
+      ...Object.keys(legendsCount).map((key) => key.length),
+      "Legend".length,
+      "Total IDs".length // Ensure "Total IDs" is considered in max length calculation
+    );
+    const legendColumnWidth = maxLegendNameLength + 2;
+
+    console.log(
+      `| Legend${" ".repeat(legendColumnWidth - "Legend".length)} | Count |`
+    );
+    console.log(`|-${"-".repeat(legendColumnWidth)}-|-------|`);
+
+    Object.entries(legendsCount).forEach(([key, value]) => {
+      if (key !== "totalIds") {
+        const padding = legendColumnWidth - key.length;
+        console.log(`| ${key}${" ".repeat(padding)} | ${value} |`);
+      }
+    });
+    // Adjust padding for "Total IDs" dynamically based on column width
+    const totalIdsPadding = legendColumnWidth - "Total IDs".length;
+    console.log(
+      `| Total IDs${" ".repeat(totalIdsPadding)} | ${legendsCount.totalIds} |`
+    );
   });
 
 program.parse(process.argv);
