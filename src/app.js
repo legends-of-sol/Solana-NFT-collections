@@ -84,14 +84,16 @@ program
 
       const metaContent = {
         collectionKey: collection_address,
-        name: cleanName(collectionData.content.metadata.name) ?? project_name,
+        name: collectionData?.content?.metadata?.name
+          ? cleanName(collectionData?.content?.metadata?.name)
+          : project_name,
         image:
-          collectionData.content.links.image ||
+          collectionData?.content?.links.image ||
           resultData.results[0].content.links.image ||
           "",
-        description: collectionData.content.metadata.description ?? "",
+        description: collectionData?.content?.metadata.description ?? "",
         url:
-          collectionData.content.links.external_url ||
+          collectionData?.content?.links.external_url ||
           resultData.results[0].content.links.external_url ||
           "",
         token_standard:
@@ -203,9 +205,9 @@ program
 
       const metaContent = {
         creatorAddress: creator_address,
-        name:
-          cleanName(resultData.results[0].content.metadata.name) ??
-          project_name,
+        name: collectionData?.content?.metadata?.name
+          ? cleanName(collectionData?.content?.metadata?.name)
+          : project_name,
         image: resultData.results[0].content.links.image || "",
         description: resultData.results[0].content.metadata.description ?? "",
         url: resultData.results[0].content.links.external_url || "",
