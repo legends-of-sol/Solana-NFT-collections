@@ -205,9 +205,9 @@ program
 
       const metaContent = {
         creatorAddress: creator_address,
-        name: collectionData?.content?.metadata?.name
-          ? cleanName(collectionData?.content?.metadata?.name)
-          : project_name,
+        name:
+          cleanName(resultData.results[0].content.metadata.name) ??
+          project_name,
         image: resultData.results[0].content.links.image || "",
         description: resultData.results[0].content.metadata.description ?? "",
         url: resultData.results[0].content.links.external_url || "",

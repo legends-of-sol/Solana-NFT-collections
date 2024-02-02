@@ -33,6 +33,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Lifinity Flares - https://lifinity.io
 - Mad Lads - https://madlads.com
 - MixtApe - https://mixt-ape.com
+- Solana Money Boy - https://www.solanamoneyboys.com
 - Okay Bears - https://www.okaybears.com/
 - Ordo Nemesis - https://ordonemesis.com/
 - Pesky Penguins - https://pesky-penguins.com
