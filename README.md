@@ -30,7 +30,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Grim Syndicate - https://grimsyndicate.com
 - Lurkers of the Abyss - https://grimsyndicate.com
 - GRINDERS NFTS
-- KongsDAO - https://www.solkongz.net
+- SolKongz - https://www.solkongz.net
 - Lifinity Flares - https://lifinity.io
 - Mad Lads - https://madlads.com
 - MixtApe - https://mixt-ape.com
@@ -46,6 +46,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Sentries - https://sentries.io/
 - Shremps - https://shrempin.com
 - SMB Gen2 - https://solanamonkey.business/
+- Solana Surfer
 - Sollamas - https://sollamas.com
 - Squidz
 - Tensorians - https://www.tensor.trade/
