@@ -4,6 +4,7 @@ const path = require("path");
 const dayjs = require("dayjs");
 const { execSync } = require("child_process");
 const { cleanName, calculateOwnerCounts } = require("./utils");
+require("colors");
 
 const Paths = {
   META_DIR: (project_name) => path.join(__dirname, `../NFTs/${project_name}`),
@@ -511,25 +512,51 @@ program
     const maxLegendNameLength = Math.max(
       ...Object.keys(legendsCount).map((key) => key.length),
       "Legend".length,
-      "Total IDs".length // Ensure "Total IDs" is considered in max length calculation
+      "Total IDs".length
+    );
+    const maxCountLength = Math.max(
+      ...Object.values(legendsCount).map((value) => value.toString().length),
+      "Count".length
     );
     const legendColumnWidth = maxLegendNameLength + 2;
+    const countColumnWidth = maxCountLength + 2;
 
     console.log(
-      `| Legend${" ".repeat(legendColumnWidth - "Legend".length)} | Count |`
+      `| Legend${" ".repeat(
+        legendColumnWidth - "Legend".length
+      )} | Count${" ".repeat(countColumnWidth - "Count".length)}|`.blue
     );
-    console.log(`|-${"-".repeat(legendColumnWidth)}-|-------|`);
+    console.log(
+      `|-${"-".repeat(legendColumnWidth)}-|-${"-".repeat(countColumnWidth)}|`
+        .red
+    );
 
     Object.entries(legendsCount).forEach(([key, value]) => {
       if (key !== "totalIds") {
-        const padding = legendColumnWidth - key.length;
-        console.log(`| ${key}${" ".repeat(padding)} | ${value} |`);
+        const legendPadding = legendColumnWidth - key.length;
+        const countPadding = countColumnWidth - value.toString().length;
+        console.log(
+          `| ${key}${" ".repeat(legendPadding)} | ${value}${" ".repeat(
+            countPadding
+          )} |`
+        );
       }
     });
+
+    // Separator row before "Total IDs"
+    console.log(
+      `|-${"-".repeat(legendColumnWidth)}-|-${"-".repeat(countColumnWidth)}|`
+        .red
+    );
+
     // Adjust padding for "Total IDs" dynamically based on column width
     const totalIdsPadding = legendColumnWidth - "Total IDs".length;
+    const totalCountPadding =
+      countColumnWidth - legendsCount.totalIds.toString().length;
     console.log(
-      `| Total IDs${" ".repeat(totalIdsPadding)} | ${legendsCount.totalIds} |`
+      `| Total IDs${" ".repeat(totalIdsPadding)} | ${
+        legendsCount.totalIds
+      }${" ".repeat(totalCountPadding)} |`
     );
   });
 
