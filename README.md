@@ -7,7 +7,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 ## Project Hashlists
 
 - AEP Life Form
-- AllDomains - https://alldomains.id
+- All Domains - https://alldomains.id
 - BOOGLE
 - Boom Heroes - https://boom.army
 - Bozo Collective - https://twitter.com/BozoCollective
@@ -43,6 +43,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Shremps - https://shrempin.com
 - SMB Gen2 - https://solanamonkey.business/
 - SolKongz - https://www.solkongz.net
+- Sollamas - https://sollamas.com
 - Squidz
 - Tensorians - https://www.tensor.trade/
 - True OG
