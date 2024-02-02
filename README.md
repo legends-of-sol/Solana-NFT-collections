@@ -28,6 +28,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Famous Fox Federation - https://famousfoxes.com
 - GIZMOS : Land - https://playgizmos.com/
 - Grim Syndicate - https://grimsyndicate.com
+- Lurkers of the Abyss - https://grimsyndicate.com
 - GRINDERS NFTS
 - KongsDAO - https://www.solkongz.net
 - Lifinity Flares - https://lifinity.io
