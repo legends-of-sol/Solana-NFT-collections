@@ -7,9 +7,10 @@
     "helpme": "node src/app.js -h",
     "snapshot": "node src/app.js snapshot",
     "snapshot:creator": "node src/app.js creator_snapshot",
-    "snapshot:legends": "node src/app.js legends",
-    "update_readme": "node src/app.js update_readme",
-    "update_legends": "node src/app.js update_legends",
+    "snapshot:legends": "node src/app.js snapshot_all_legends",
+    "update:readme": "node src/app.js update_readme",
+    "update:legends": "node src/app.js update_legends",
+    "weight:legends": "node src/app.js update_legends_weight",
     "build:json": "ts-node src/build-json.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -132,7 +132,9 @@ program
 
       // Generate Unique Owners CSV with count
       const ownerCounts = calculateOwnerCounts(resultData.results);
-      const sortedOwnerCounts = Object.entries(ownerCounts).sort((a, b) => b[1] - a[1]);
+      const sortedOwnerCounts = Object.entries(ownerCounts).sort(
+        (a, b) => b[1] - a[1]
+      );
       const uniqueOwnersCSV = sortedOwnerCounts
         .map(([owner, count]) => `${owner},${count}`)
         .join("\n");
@@ -249,7 +251,9 @@ program
 
       // Unique owners CSV with count
       const ownerCounts = calculateOwnerCounts(resultData.results);
-      const sortedOwnerCounts = Object.entries(ownerCounts).sort((a, b) => b[1] - a[1]);
+      const sortedOwnerCounts = Object.entries(ownerCounts).sort(
+        (a, b) => b[1] - a[1]
+      );
       const uniqueOwnersCSV = sortedOwnerCounts
         .map(([owner, count]) => `${owner},${count}`)
         .join("\n");
@@ -265,7 +269,7 @@ program
   });
 
 program
-  .command("legends")
+  .command("snapshot_all_legends")
   .description(
     "Cycle through all collections in legends_collections.json and take a snapshot of each"
   )
@@ -383,6 +387,85 @@ program
     console.log(
       "legends_partners.json updated successfully, excluding unconfirmed collections."
     );
+  });
+
+program
+  .command("update_legends_weight")
+  .description(
+    "Update legends_weight.json with counts of NFTs per owner per project"
+  )
+  .option(
+    "-p, --projects <projects>",
+    "A comma-separated list of project names to update",
+    (value) => value.split(",")
+  )
+  .action((options) => {
+    const nftsPath = path.join(__dirname, "../NFTs");
+    const legendsWeightPath = path.join(
+      __dirname,
+      "../legends/legends_weight.json"
+    );
+    if (!fs.existsSync(legendsWeightPath)) {
+      fs.writeFileSync(legendsWeightPath, JSON.stringify({}, null, 2));
+    }
+    const legendsPartnersPath = path.join(
+      __dirname,
+      "../legends/legends_partners.json"
+    );
+    const projectsToUpdate = options.projects || [];
+    const legendsPartners = JSON.parse(
+      fs.readFileSync(legendsPartnersPath, "utf8")
+    );
+    const filteredProjects = legendsPartners
+      .filter(
+        (partner) =>
+          projectsToUpdate.length === 0 ||
+          projectsToUpdate.includes(partner.name)
+      )
+      .map((partner) => partner.name);
+
+    let legendsWeight = {};
+    if (fs.existsSync(legendsWeightPath)) {
+      legendsWeight = JSON.parse(fs.readFileSync(legendsWeightPath, "utf8"));
+    }
+
+    const projects = fs
+      .readdirSync(nftsPath)
+      .filter((project) => filteredProjects.includes(project));
+
+    projects.forEach((project) => {
+      const projectPath = path.join(nftsPath, project);
+      const snapshotFolders = fs
+        .readdirSync(projectPath)
+        .filter((folder) => /^\d{8}$/.test(folder));
+      if (snapshotFolders.length > 0) {
+        const mostRecentSnapshot = snapshotFolders.sort().pop();
+        const snapshotPath = path.join(projectPath, mostRecentSnapshot);
+        const uniqueOwnersFile = fs
+          .readdirSync(snapshotPath)
+          .find((file) => file.startsWith("unique") && file.endsWith(".csv"));
+        if (uniqueOwnersFile) {
+          const uniqueOwnersFilePath = path.join(
+            snapshotPath,
+            uniqueOwnersFile
+          );
+          const uniqueOwnersData = fs
+            .readFileSync(uniqueOwnersFilePath, "utf8")
+            .split("\n")
+            .slice(1);
+          uniqueOwnersData.forEach((row) => {
+            const [owner, count] = row.split(",");
+            if (!legendsWeight[owner]) {
+              legendsWeight[owner] = {};
+            }
+            legendsWeight[owner][project] = parseInt(count, 10);
+          });
+        }
+      }
+    });
+
+    fs.writeFileSync(legendsWeightPath, JSON.stringify(legendsWeight, null, 2));
+    console.log("legends_weight.json updated successfully.");
   });
 
 program.parse(process.argv);
