@@ -4,6 +4,7 @@
   "description": "A repository holding collection data for all the Legendary projects across the Solana ecosystem",
   "main": "src/app.ts",
   "scripts": {
+    "helpme": "node src/app.js -h",
     "snapshot": "node src/app.js snapshot",
     "snapshot:creator": "node src/app.js creator_snapshot",
     "snapshot:legends": "node src/app.js legends",
