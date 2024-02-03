@@ -12,6 +12,19 @@ const Paths = {
     path.join(__dirname, `../NFTs/${project_name}/${dateStamp}`),
   COLLECTIONS: path.join(__dirname, "../legends/legends_partners.json"),
   COMMON_ADDRESSES: path.join(__dirname, "../common_addresses.json"),
+  DOMAINS: (() => {
+    const domainsDir = path.join(__dirname, "../domains/alldomains");
+    const latestDateDir = fs
+      .readdirSync(domainsDir)
+      .filter((file) => fs.statSync(path.join(domainsDir, file)).isDirectory())
+      .sort()
+      .pop();
+    return path.join(
+      domainsDir,
+      latestDateDir,
+      `alldomains_${latestDateDir}.json`
+    );
+  })(),
   NFTS: path.join(__dirname, "../NFTs"),
   README: path.join(__dirname, "../README.md"),
   LEGENDS: path.join(__dirname, "../legends/legends_partners.json"),
@@ -562,26 +575,74 @@ program
     );
   });
 
-  program
+program
   .command("filter_mp")
-  .description("Filter out matching addresses from common_addresses.json based on ids in legends_weight.json")
+  .description(
+    "Filter out matching addresses from common_addresses.json based on ids in legends_weight.json"
+  )
   .action(() => {
-    const outputPath = path.join(__dirname, `../legends/mp_${dayjs().format('YYYYMMDD')}.json`);
+    const outputPath = path.join(
+      __dirname,
+      `../legends/mp_${dayjs().format("YYYYMMDD")}.json`
+    );
 
-    const legendsWeight = JSON.parse(fs.readFileSync(Paths.LEGENDS_WEIGHT, 'utf8'));
-    const commonAddresses = JSON.parse(fs.readFileSync(Paths.COMMON_ADDRESSES, 'utf8'));
+    const legendsWeight = JSON.parse(
+      fs.readFileSync(Paths.LEGENDS_WEIGHT, "utf8")
+    );
+    const commonAddresses = JSON.parse(
+      fs.readFileSync(Paths.COMMON_ADDRESSES, "utf8")
+    );
 
-    const ids = new Set(commonAddresses.map(mp => mp.address));
+    const ids = new Set(commonAddresses.map((mp) => mp.address));
 
     // Filter out legends that are in the common addresses
-    const filteredLegendsWeight = legendsWeight.filter(legend => ids.has(legend.id));
-    const updatedLegendsWeight = legendsWeight.filter(legend => !ids.has(legend.id));
+    const filteredLegendsWeight = legendsWeight.filter((legend) =>
+      ids.has(legend.id)
+    );
+    const updatedLegendsWeight = legendsWeight.filter(
+      (legend) => !ids.has(legend.id)
+    );
 
     // Write the filtered legends weight to a new file
-    fs.writeFileSync(outputPath, JSON.stringify(filteredLegendsWeight, null, 2));
-    fs.writeFileSync(Paths.LEGENDS_WEIGHT, JSON.stringify(updatedLegendsWeight, null, 2));
+    fs.writeFileSync(
+      outputPath,
+      JSON.stringify(filteredLegendsWeight, null, 2)
+    );
+    fs.writeFileSync(
+      Paths.LEGENDS_WEIGHT,
+      JSON.stringify(updatedLegendsWeight, null, 2)
+    );
 
     console.log(`Filtered legends weight written to ${outputPath}`);
+  });
+
+program
+  .command("merge_domains")
+  .description("Update legends_weight.json with alldomains information")
+  .action(() => {
+    // Load legends weight data
+    const legendsWeight = JSON.parse(
+      fs.readFileSync(Paths.LEGENDS_WEIGHT, "utf8")
+    );
+    // Load alldomains data
+    const alldomainsData = JSON.parse(fs.readFileSync(Paths.DOMAINS, "utf8"));
+
+    // Process each domain, updating the corresponding legend entry
+    alldomainsData.forEach((domainEntry) => {
+      const legendEntry = legendsWeight.find(
+        (legend) => legend.id === domainEntry.ownerAddress
+      );
+      if (legendEntry) {
+        if (!legendEntry.domains) {
+          legendEntry.domains = [];
+        }
+        legendEntry.domains.push(domainEntry.domain);
+      }
+    });
+
+    // Save the updated legends weight data
+    fs.writeFileSync(Paths.LEGENDS_WEIGHT, JSON.stringify(legendsWeight, null, 2));
+    console.log("Updated legends_weight.json with alldomains information.");
   });
 
 program.parse(process.argv);
