@@ -515,13 +515,18 @@ program
       return acc;
     }, {});
 
+    // Calculate total partners count
+    const totalPartners = Object.keys(legendsCount).length - 1; // Exclude the totalIds key
+
     const maxLegendNameLength = Math.max(
       ...Object.keys(legendsCount).map((key) => key.length),
       "Legend".length,
-      "Total IDs".length
+      "Total IDs".length,
+      "Total Partners".length
     );
     const maxCountLength = Math.max(
       ...Object.values(legendsCount).map((value) => value.toString().length),
+      totalPartners.toString().length,
       "Count".length
     );
     const legendColumnWidth = maxLegendNameLength + 2;
@@ -549,20 +554,30 @@ program
       }
     });
 
-    // Separator row before "Total IDs"
+    // Separator row before "Total IDs" and "Total Partners"
     console.log(
       `|-${"-".repeat(legendColumnWidth)}-|-${"-".repeat(countColumnWidth)}|`
         .red
     );
 
     // Adjust padding for "Total IDs" dynamically based on column width
-    const totalIdsPadding = legendColumnWidth - "Total IDs".length;
+    const totalIdsPadding = legendColumnWidth - "Total Legends".length;
     const totalCountPadding =
       countColumnWidth - legendsCount.totalIds.toString().length;
     console.log(
-      `| Total IDs${" ".repeat(totalIdsPadding)} | ${
+      `| Total Legends${" ".repeat(totalIdsPadding)} | ${
         legendsCount.totalIds
       }${" ".repeat(totalCountPadding)} |`
+    );
+
+    // Adjust padding for "Total Partners" dynamically based on column width
+    const totalPartnersPadding = legendColumnWidth - "Total Partners".length;
+    const totalPartnersCountPadding =
+      countColumnWidth - totalPartners.toString().length;
+    console.log(
+      `| Total Partners${" ".repeat(
+        totalPartnersPadding
+      )} | ${totalPartners}${" ".repeat(totalPartnersCountPadding)} |`
     );
   });
 
