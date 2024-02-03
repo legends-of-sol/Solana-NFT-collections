@@ -6,8 +6,9 @@ const { execSync } = require("child_process");
 const {
   cleanName,
   calculateOwnerCounts,
-  readCSV,
   getMostRecentFile,
+  readCSV,
+  calculateGiniCoefficient,
 } = require("./utils");
 require("colors");
 
@@ -670,12 +671,12 @@ program
     console.log("Updated legends_weight.json with alldomains information.");
   });
 
-program
+  program
   .command("generate_partner_weights")
-  .description("Generate partner weights from unique owners CSV files")
+  .description("Generate metrics for partners based on unique owners CSV files")
   .action(async () => {
     const projects = await fs.promises.readdir(Paths.NFTS);
-    const partnerWeights = {};
+    const projectMetrics = {};
 
     for (const project of projects) {
       const projectPath = path.join(Paths.NFTS, project);
@@ -686,13 +687,23 @@ program
         const mostRecentFile = await getMostRecentFile(projectPath);
         if (!mostRecentFile) continue; // Skip if no CSV file found
 
-        const csvData = await readCSV(path.join(projectPath, mostRecentFile));
-        csvData.forEach(({ owner, count }) => {
-          if (!partnerWeights[owner]) {
-            partnerWeights[owner] = {};
-          }
-          partnerWeights[owner][project] = parseInt(count, 10);
-        });
+        const csvData = await readCSV(mostRecentFile);
+
+        // Calculate metrics
+        const totalNFTs = csvData.reduce((acc, { count }) => acc + parseInt(count, 10), 0);
+        const uniqueHolders = new Set(csvData.map(({ owner }) => owner)).size;
+        const averageHoldings = totalNFTs / uniqueHolders;
+        const holdings = csvData.map(({ count }) => parseInt(count, 10));
+        const giniCoefficient = calculateGiniCoefficient(holdings);
+
+        // Store metrics
+        projectMetrics[project] = {
+          totalNFTs,
+          uniqueHolders,
+          averageHoldings,
+          giniCoefficient
+        };
+
       } catch (error) {
         console.error(`Error processing project ${project}: ${error.message}`);
       }
@@ -700,9 +711,9 @@ program
 
     fs.writeFileSync(
       Paths.PARTNER_WEIGHTS,
-      JSON.stringify(partnerWeights, null, 2)
+      JSON.stringify(projectMetrics, null, 2)
     );
-    console.log(`Partner weights written to ${Paths.PARTNER_WEIGHTS}`);
+    console.log(`Project metrics written to ${Paths.PARTNER_WEIGHTS}`);
   });
 
 program.parse(process.argv);

@@ -1,5 +1,6 @@
 const csvParser = require("csv-parser");
 const fs = require("fs");
+const path = require("path");
 
 /**
  * Cleans a name by removing anything after and including '#' and trims whitespace from the end.
@@ -17,33 +18,51 @@ function calculateOwnerCounts(results) {
   }, {});
 }
 
+async function getMostRecentFile(dirPath) {
+  const directories = await fs.promises.readdir(dirPath, { withFileTypes: true });
+  const sortedDirs = directories
+    .filter(dirent => dirent.isDirectory())
+    .map(dirent => dirent.name)
+    .sort((a, b) => b.localeCompare(a));
+
+  if (sortedDirs.length === 0) return null;
+
+  const latestDir = sortedDirs[0];
+  const latestDirPath = path.join(dirPath, latestDir);
+  const files = await fs.promises.readdir(latestDirPath);
+  const csvFiles = files.filter(file => file.startsWith("unique") && file.endsWith(".csv"));
+
+  if (csvFiles.length === 0) return null;
+
+  return path.join(latestDirPath, csvFiles[0]);
+}
+
 async function readCSV(filePath) {
   return new Promise((resolve, reject) => {
     const results = [];
     fs.createReadStream(filePath)
       .pipe(csvParser())
-      .on("data", (data) => results.push(data))
-      .on("end", () => resolve(results))
-      .on("error", reject);
+      .on('data', (data) => results.push(data))
+      .on('end', () => resolve(results))
+      .on('error', reject);
   });
 }
 
-async function getMostRecentFile(dirPath) {
-  const files = await fs.promises.readdir(dirPath);
-  const csvFiles = files.filter(
-    (file) => file.startsWith("unique") && file.endsWith(".csv")
-  );
-  const sortedByDate = csvFiles.sort((a, b) => {
-    const dateA = a.match(/\d{8}/)[0];
-    const dateB = b.match(/\d{8}/)[0];
-    return dateB.localeCompare(dateA);
-  });
-  return sortedByDate[0];
+function calculateGiniCoefficient(numbers) {
+  numbers = numbers.sort((a, b) => a - b);
+  const n = numbers.length;
+  let numerator = 0;
+  for (let i = 0; i < n; i++) {
+    numerator += (2 * (i + 1) - n - 1) * numbers[i];
+  }
+  const denominator = n * numbers.reduce((acc, val) => acc + val, 0);
+  return numerator / denominator;
 }
 
 module.exports = {
   cleanName,
   calculateOwnerCounts,
-  readCSV,
   getMostRecentFile,
+  readCSV,
+  calculateGiniCoefficient,
 };
