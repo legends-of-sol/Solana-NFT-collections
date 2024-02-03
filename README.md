@@ -27,6 +27,8 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - doges_unleashed
 - Famous Fox Federation - https://famousfoxes.com
 - GIZMOS : Land - https://playgizmos.com/
+- GnomieZ - https://gnomiez.fun
+- GnomieZ: GEN2
 - Grim Syndicate - https://grimsyndicate.com
 - Lurkers of the Abyss - https://grimsyndicate.com
 - GRINDERS NFTS

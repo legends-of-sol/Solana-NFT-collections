@@ -125,6 +125,18 @@
     "averageHoldings": 3.8095238095238093,
     "giniCoefficient": 0.5888514285714286
   },
+  "gnomiez_gen1": {
+    "totalNFTs": 2023,
+    "uniqueHolders": 466,
+    "averageHoldings": 4.3412017167381975,
+    "giniCoefficient": 0.6683430251676535
+  },
+  "gnomiez_gen2": {
+    "totalNFTs": 588,
+    "uniqueHolders": 122,
+    "averageHoldings": 4.819672131147541,
+    "giniCoefficient": 0.6598081855693096
+  },
   "grim_syndicate": {
     "totalNFTs": 9998,
     "uniqueHolders": 2497,
