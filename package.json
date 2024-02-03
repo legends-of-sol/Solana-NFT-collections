@@ -37,6 +37,7 @@
     "@solana/web3.js": "^1.89.1",
     "colors": "^1.4.0",
     "commander": "^11.1.0",
+    "csv-parser": "^3.0.0",
     "dayjs": "^1.11.10"
   }
 }

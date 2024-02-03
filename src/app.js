@@ -3,7 +3,12 @@ const fs = require("fs");
 const path = require("path");
 const dayjs = require("dayjs");
 const { execSync } = require("child_process");
-const { cleanName, calculateOwnerCounts } = require("./utils");
+const {
+  cleanName,
+  calculateOwnerCounts,
+  readCSV,
+  getMostRecentFile,
+} = require("./utils");
 require("colors");
 
 const Paths = {
@@ -31,6 +36,7 @@ const Paths = {
   UNCONFIRMED: path.join(__dirname, "../legends/unconfirmed.json"),
   LEGENDS_WEIGHT: path.join(__dirname, "../legends/legends_weight.json"),
   LEGENDS_PARTNERS: path.join(__dirname, "../legends/legends_partners.json"),
+  PARTNER_WEIGHTS: path.join(__dirname, "../legends/partner_weights.json"),
 };
 
 program
@@ -662,6 +668,41 @@ program
       JSON.stringify(legendsWeight, null, 2)
     );
     console.log("Updated legends_weight.json with alldomains information.");
+  });
+
+program
+  .command("generate_partner_weights")
+  .description("Generate partner weights from unique owners CSV files")
+  .action(async () => {
+    const projects = await fs.promises.readdir(Paths.NFTS);
+    const partnerWeights = {};
+
+    for (const project of projects) {
+      const projectPath = path.join(Paths.NFTS, project);
+      try {
+        const stats = await fs.promises.stat(projectPath);
+        if (!stats.isDirectory()) continue; // Skip non-directory files
+
+        const mostRecentFile = await getMostRecentFile(projectPath);
+        if (!mostRecentFile) continue; // Skip if no CSV file found
+
+        const csvData = await readCSV(path.join(projectPath, mostRecentFile));
+        csvData.forEach(({ owner, count }) => {
+          if (!partnerWeights[owner]) {
+            partnerWeights[owner] = {};
+          }
+          partnerWeights[owner][project] = parseInt(count, 10);
+        });
+      } catch (error) {
+        console.error(`Error processing project ${project}: ${error.message}`);
+      }
+    }
+
+    fs.writeFileSync(
+      Paths.PARTNER_WEIGHTS,
+      JSON.stringify(partnerWeights, null, 2)
+    );
+    console.log(`Partner weights written to ${Paths.PARTNER_WEIGHTS}`);
   });
 
 program.parse(process.argv);
