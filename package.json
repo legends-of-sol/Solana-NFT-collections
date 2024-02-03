@@ -12,6 +12,7 @@
     "update:legends": "node src/app.js update_legends",
     "weight:legends": "node src/app.js update_legends_weight",
     "count:legends": "node src/app.js count_legends",
+    "filter:mp": "node src/app.js filter_mp",
     "build:json": "ts-node src/build-json.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
