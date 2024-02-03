@@ -251,6 +251,12 @@
     "averageHoldings": 3.0490035935968636,
     "giniCoefficient": 0.603192285102729
   },
+  "species": {
+    "totalNFTs": 4952,
+    "uniqueHolders": 418,
+    "averageHoldings": 11.84688995215311,
+    "giniCoefficient": 0.7850735481676728
+  },
   "squidz": {
     "totalNFTs": 4904,
     "uniqueHolders": 835,

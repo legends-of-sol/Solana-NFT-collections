@@ -48,6 +48,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - SMB Gen2 - https://solanamonkey.business/
 - Solana Surfer
 - Sollamas - https://sollamas.com
+- species
 - Squidz
 - Tensorians - https://www.tensor.trade/
 - True OG
