@@ -43,6 +43,7 @@ program
   )
   .action(async (project_name, collection_address, options) => {
     const RPC = options.rpc;
+    console.log(`Using RPC endpoint: ${RPC}`);
     const getAssetsByGroup = async () => {
       console.time("getAssetsByGroup"); // Start the timer
       let page = 1;
@@ -185,6 +186,7 @@ program
   )
   .action(async (project_name, creator_address, options) => {
     const RPC = options.rpc;
+    console.log(`Using RPC endpoint: ${RPC}`);
     const getAssetsByGroup = async () => {
       console.time("getAssetsByGroup"); // Start the timer
       let page = 1;
@@ -305,14 +307,15 @@ program
       fs.readFileSync(Paths.LEGENDS_PARTNERS, "utf8")
     );
     const RPC = options.rpc;
+    console.log(`Uber snap RPC: ${RPC}`);
 
     collections.forEach((collection) => {
       console.log(`Taking snapshot for: ${collection.name}`);
       try {
         // Determine the command based on the presence of collectionKey or creatorAddress
         const command = collection.collectionKey
-          ? `npm run snapshot "${collection.name}" "${collection.collectionKey}" -r "${RPC}"`
-          : `npm run snapshot:creator "${collection.name}" "${collection.creatorAddress}" -r "${RPC}"`;
+          ? `node src/app.js snapshot ${collection.name} ${collection.collectionKey} --rpc ${RPC}`
+          : `node src/app.js creator_snapshot ${collection.name} ${collection.creatorAddress} --rpc ${RPC}`;
 
         execSync(command, { stdio: "inherit" });
       } catch (error) {

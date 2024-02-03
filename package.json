@@ -4,6 +4,7 @@
   "description": "A repository holding collection data for all the Legendary projects across the Solana ecosystem",
   "main": "src/app.ts",
   "scripts": {
+    "run_the_jewels": "npm run update:readme && npm run update:legends && npm run weight:legends && npm run merge:domains && npm run filter:mp && npm run count:legends",
     "helpme": "node src/app.js -h",
     "snapshot": "node src/app.js snapshot",
     "snapshot:creator": "node src/app.js creator_snapshot",
