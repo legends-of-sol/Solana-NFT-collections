@@ -76,7 +76,8 @@
     "id": "JCqS33xZ18fWc95iTBa3bAW4B2vpfXYyMQHySdmppJrS",
     "boom_heroes": 15,
     "raccs": 1,
-    "solana_surfers": 12
+    "solana_surfers": 12,
+    "secret_sphynx_society": 1
   },
   {
     "id": "9MSygCP2RKyYEK4xdCtASEGgnfuJYgcg48khe7oQuxfW",
@@ -184,7 +185,8 @@
     "brewed_bones": 40,
     "bvdcats": 1,
     "lifinity_flares": 1,
-    "sentries": 4
+    "sentries": 4,
+    "degen_royale": 1
   },
   {
     "id": "77YoLnxE3VpQwDvLTDWzgiESrEZ4yi7CdKy6so6y5mgt",
@@ -273,7 +275,9 @@
     "squidz": 7,
     "domains": [
       "imatemu.ser"
-    ]
+    ],
+    "degen_royale": 2,
+    "gizmos_land": 2
   },
   {
     "id": "CVb8RFxhATWS9guknH5RS2EqjngKecJqvKZdg9RLrUBj",
@@ -516,7 +520,8 @@
   {
     "id": "BBw2yWoiPBVV6vzo7GhrH2gh1CHWccmcJQRHNGfNw9vT",
     "boom_heroes": 1,
-    "brewed_bones": 1
+    "brewed_bones": 1,
+    "secret_sphynx_society": 20
   },
   {
     "id": "4mxWYhvit13Z8icfEuihtph1Mws5tR8fvL1ZfAiLo6wm",
@@ -713,7 +718,8 @@
     "the_1303": 1,
     "solana_surfers": 9,
     "squidz": 269,
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "degen_dads": 1
   },
   {
     "id": "B8aUUcRdDRTGpx9cTs8p3nktNkjGwebjbVzS5Hxhbx4o",
@@ -726,7 +732,7 @@
   },
   {
     "id": "6JHNuP8ESbkaL9QwvQ235p3HNsHhrVTZhbxNKzz3Dked",
-    "boom_heroes": 1
+    "boom_heroes": 2
   },
   {
     "id": "FgamsGJTZeKWgB2xvRhk9BjYZUMA4bvMhNAxSx7Gy8Mv",
@@ -1486,7 +1492,8 @@
     "moneyboys": 2,
     "cets": 2,
     "grim_syndicate": 6,
-    "pesky_penguins": 2
+    "pesky_penguins": 2,
+    "secret_sphynx_society": 1
   },
   {
     "id": "2bdH2BQc7Ta92h2Xe3sSE9DWzynmTjGGAreq2SrWYEHs",
@@ -1521,7 +1528,8 @@
     "grim_syndicate": 1,
     "grim_syndicate_lurkers_of_the_abyss": 2,
     "sollamas": 2,
-    "squidz": 1
+    "squidz": 1,
+    "degen_royale": 1
   },
   {
     "id": "8B31tsb6wDtfP2u86qBXqq5sHRb4KwnmF74jieYWQB8H",
@@ -1603,7 +1611,8 @@
     "sollamas": 6,
     "domains": [
       "cheese.poor"
-    ]
+    ],
+    "degen_royale": 1
   },
   {
     "id": "HdtvvpR3ALLasDHBibboSZ4CNUi4eQEgfrCuzKejzmB2",
@@ -2145,7 +2154,8 @@
     "degenerate_trading_bears": 1,
     "pesky_penguins": 1,
     "sollamas": 4,
-    "thugbirdz": 5
+    "thugbirdz": 5,
+    "degen_royale": 1
   },
   {
     "id": "H2KqBLB27hNHDsrVkL7AiCJJjozzMeWQZdU4TxmVAJSi",
@@ -2273,7 +2283,8 @@
     "grim_syndicate": 6,
     "grim_syndicate_lurkers_of_the_abyss": 3,
     "sollamas": 1,
-    "thugbirdz": 5
+    "thugbirdz": 5,
+    "secret_sphynx_society": 2
   },
   {
     "id": "BUGQtmusERHSoaGzvTJPLL3aLHWwJTgEbfcDAc8R4XKH",
@@ -3639,7 +3650,8 @@
   },
   {
     "id": "2bDwCNz7oaZacDNiRKbhAMfnid8hAmqsUEAE6hNwNxyg",
-    "moneyboys": 1
+    "moneyboys": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "VqWVMbhZvcWYwcm14DFt6VMtbeoao9m1rtUFX8x3bJt",
@@ -4283,7 +4295,8 @@
   },
   {
     "id": "61XkeQuNkdjP3xWsiAjBWK4kPQntqmmcugCkRaMYhw23",
-    "aep_lifeform": 5
+    "aep_lifeform": 5,
+    "gizmos_land": 1
   },
   {
     "id": "CoEtYAKvbXL9b2APUnxYN8npzjKUSUvNhgViTsHgtRkc",
@@ -4340,7 +4353,8 @@
   },
   {
     "id": "73DdHEcuEZ8MhmSdK2vJiHPR9sWwfBA9J1ZQ8MXHtdzD",
-    "aep_lifeform": 4
+    "aep_lifeform": 4,
+    "gizmos_land": 12
   },
   {
     "id": "zcX4FnjNxaCr9xu1HkztCKjgEgMTYf81ryDAo5Tx2fs",
@@ -4372,7 +4386,8 @@
   },
   {
     "id": "4rzPrKwC9ycPjKWkUnPsvYvyx4M2Jpwco5UD5oGx2MWV",
-    "aep_lifeform": 4
+    "aep_lifeform": 4,
+    "gizmos_land": 4
   },
   {
     "id": "3mBmXXbBvGSZmttosAeMngMYs7M6hnR1hj2nu21th8ez",
@@ -4483,7 +4498,8 @@
   {
     "id": "GHpmaYCQpsHdia7qJLzSANwCXjQGhBaqrjcJkQF1WxhA",
     "aep_lifeform": 3,
-    "bvdcats": 66
+    "bvdcats": 66,
+    "gizmos_land": 4
   },
   {
     "id": "8kCh75TaTVy8cMD9qxUFCYMJTQ59nsqaYLT353iCkQ1z",
@@ -4684,7 +4700,8 @@
   },
   {
     "id": "J1kuHGJF5FQey9eVYvBSaRFiWBH8u6RrLQnZmgHYjrQg",
-    "aep_lifeform": 1
+    "aep_lifeform": 1,
+    "gizmos_land": 2
   },
   {
     "id": "7CMu7FcGRwq9CmYjUDSRiNXtRhkvKytEk44yCC12ny9L",
@@ -4779,7 +4796,8 @@
   },
   {
     "id": "E3jEWev66C6K4FwumvEYVb65k2zVxPZiwBWfa3ipv9NZ",
-    "aep_lifeform": 1
+    "aep_lifeform": 1,
+    "gizmos_land": 2
   },
   {
     "id": "DB3sXTW6URWvtKRKRreyGs6kt6GjawAWzgg3YueeTcRf",
@@ -4791,7 +4809,8 @@
   },
   {
     "id": "4ty59C1EM1XpA7nEE82zbBJL8hzPdxxki8PWsuHUtUQD",
-    "aep_lifeform": 1
+    "aep_lifeform": 1,
+    "gizmos_land": 3
   },
   {
     "id": "FLMjUu6jks5Q1b31jvB6gqxvQN6mACHK15gpgFide8je",
@@ -4820,7 +4839,8 @@
   {
     "id": "AVSFyeDdaVRU2bNpoYZjNZUqtbT2tzTLkP4SRYNMqShu",
     "aep_lifeform": 1,
-    "brewed_bones": 15
+    "brewed_bones": 15,
+    "degen_dads": 1
   },
   {
     "id": "C599SvB63NB9cN79r7KMzuasAPoDyteePkJJjT7Pd8Kx",
@@ -4873,7 +4893,8 @@
   },
   {
     "id": "FT9Lr22crwZRhTcco4m62a8fbrjVUqa4ppHPaCbeDTc1",
-    "aep_lifeform": 1
+    "aep_lifeform": 1,
+    "gizmos_land": 9
   },
   {
     "id": "BoNWh7EN7XELNmPVf3Y9EsHwm8Lo2fmYkzvzrGwVAkjb",
@@ -4973,7 +4994,8 @@
   },
   {
     "id": "2VTkHHsr6vkXmMrsfgFLj31h6cyN9SxJ5vMuoVAi9xAt",
-    "aep_lifeform": 1
+    "aep_lifeform": 1,
+    "gizmos_land": 3
   },
   {
     "id": "BGAdMSTrfevhXnTLdtR7S7ngapWbmNYrYFUm4asw7VpV",
@@ -5012,7 +5034,8 @@
     "aep_lifeform": 1,
     "domains": [
       "padugz.wao"
-    ]
+    ],
+    "gizmos_land": 3
   },
   {
     "id": "39f3BCZizbfzU2K3XsNYbSt6NxRKakAgvHkue68nypWi",
@@ -5032,7 +5055,8 @@
   },
   {
     "id": "GaKTvvrb1mnBVSWEmkJEizHeupP4eCRah5Qg6xYYzNmU",
-    "aep_lifeform": 1
+    "aep_lifeform": 1,
+    "gizmos_land": 2
   },
   {
     "id": "E2NX8Jz6dopUH7n8V2qcAddGE3AHkeeTrau2q5WydZqp",
@@ -5076,7 +5100,8 @@
     "aep_lifeform": 1,
     "bullyz_crew": 1,
     "bullyz_loot_box": 59,
-    "bullyz_shipz": 125
+    "bullyz_shipz": 125,
+    "gizmos_land": 36
   },
   {
     "id": "6j7SqvVTdyyxGsEHJVuTn13dkbRUnpPa9iYRgYWRegPW",
@@ -5096,15 +5121,17 @@
   },
   {
     "id": "ofZZyiXbiYF7XZcniKL6wcvyZhgKKEzcTUfvAEiNhCx",
-    "bozo_collective": 93
+    "bozo_collective": 90
   },
   {
     "id": "3QZ6nZggxDZh6tXZALLBAc4xydeT3i9B2gfP75gqHa1L",
-    "bozo_collective": 76
+    "bozo_collective": 76,
+    "gizmos_land": 2
   },
   {
     "id": "9PWSuVBfEvrUTRax73g4iYufJRC1FUez5asiaBMwXhKQ",
-    "bozo_collective": 68
+    "bozo_collective": 68,
+    "gizmos_land": 31
   },
   {
     "id": "CfbC1TahBkc2hywKq47cVBpyYvTGHeYqAghMKNiHvn14",
@@ -5121,7 +5148,8 @@
   },
   {
     "id": "D7XpwXgHrr66R4w4iukiuvhJAqtaqva7BDufncqQLG86",
-    "bozo_collective": 40
+    "bozo_collective": 40,
+    "gizmos_land": 3
   },
   {
     "id": "5x9BrXZg8mzvvgWbch3M4MLZwYkfUQjneqEvvfFVMgTf",
@@ -5129,7 +5157,7 @@
   },
   {
     "id": "JAcLCX7Hs8cH2i4CVs4SHEtjs7Wnu1YDT5bubrV6bijb",
-    "bozo_collective": 36
+    "bozo_collective": 12
   },
   {
     "id": "GphAdix9nEBAPNg8eEp6omj3g4KXoTpieAgLFgddFpp4",
@@ -5137,7 +5165,7 @@
   },
   {
     "id": "DuemArQpWvko1FmYvv5h9ZY1npaG462WQiSdEEcXtYnH",
-    "bozo_collective": 32
+    "bozo_collective": 30
   },
   {
     "id": "yZ4BVT2Cww311frnyEXP2JN4GoXjhRMZySPFwVRtZ3X",
@@ -5190,7 +5218,8 @@
       "dandies.bonk",
       "gentlemonke.bonk",
       "gentle.monke"
-    ]
+    ],
+    "secret_sphynx_society": 29
   },
   {
     "id": "CYMWqMR8GxWPJnR1HmadjE4mqtrhd7utaX39QUvcfxn6",
@@ -5198,7 +5227,8 @@
   },
   {
     "id": "Dt3UgdJ2kFag3Dmb1DgSeKgYSDXBjnhDkVoapPHRtbXc",
-    "bozo_collective": 20
+    "bozo_collective": 20,
+    "gizmos_land": 3
   },
   {
     "id": "Ac4TnymmyCmG8SjTD7Kv1jMhCbqEWWoYupqmg6i5qpQE",
@@ -5222,7 +5252,7 @@
   },
   {
     "id": "As7VTXqCBgLHkaLKCRqQr6ixdKzGru4t5MdXqnWF52it",
-    "bozo_collective": 17
+    "bozo_collective": 18
   },
   {
     "id": "GyUaebVe6jQ5w5scixWsuiVvSep7hoZQr1i2YrFa8wKY",
@@ -5280,7 +5310,8 @@
   {
     "id": "HH5oT2AvhS2iyd4J1jGoaWiCbC5zzbpmehCsKSXdcjnB",
     "bozo_collective": 11,
-    "bvdcats": 2
+    "bvdcats": 2,
+    "gizmos_land": 20
   },
   {
     "id": "F2Ae5nFCdXSSkXkfGVEEpy4k9X5qaY92JVU1LT4nZAGE",
@@ -5446,7 +5477,7 @@
   },
   {
     "id": "SPh4biMrDoSC5JyzXUhWccHkjVMsmtGDn223LU3E2gn",
-    "bozo_collective": 8
+    "bozo_collective": 9
   },
   {
     "id": "53BCoapoNxRHNGhP2MAvNBEU9RJQuD2YPQiu1qje1Zki",
@@ -5492,7 +5523,7 @@
   },
   {
     "id": "9quxT2BQFPd8j4y6yMJQPB9oBX75jifptWypbzQ88onB",
-    "bozo_collective": 7
+    "bozo_collective": 12
   },
   {
     "id": "35wpGrzUVcWAHMhSKudQQHUZ86DjPceV8mEmQdAeutaA",
@@ -5504,7 +5535,8 @@
   },
   {
     "id": "AchcRZsRyJ9MdTZDPsUyo15QEypKKKyLeitsPYfiYvyg",
-    "bozo_collective": 7
+    "bozo_collective": 6,
+    "gizmos_land": 1
   },
   {
     "id": "1452aLWngFLSAhDTkbPXDUhpSt7bWoCgK5vU8fBquW2p",
@@ -5843,7 +5875,8 @@
     "id": "9fxwmyNGAmAx9suvmUiAw6Lmqwu6ReEr4a8EdroknUpR",
     "bozo_collective": 4,
     "bullyz_shipz": 1,
-    "kongzdao": 2
+    "kongzdao": 2,
+    "gizmos_land": 1
   },
   {
     "id": "BYrzmn7ohHQHBdYzqdQNSXpcYLbceG6GZCAVqqJ9gWbe",
@@ -6144,7 +6177,8 @@
     "grim_syndicate": 1,
     "grim_syndicate_lurkers_of_the_abyss": 1,
     "pesky_penguins": 1,
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "degen_royale": 1
   },
   {
     "id": "8kgqYn5B1xEgYMeeFryGcSsQTdnrAZPms7YQ1qqUd9N",
@@ -6459,7 +6493,8 @@
   },
   {
     "id": "GK3SXJFkBsqzTyCpreNbXMJ89ZBMa9g2yJgH5xgmvkZT",
-    "bozo_collective": 2
+    "bozo_collective": 2,
+    "gizmos_land": 2
   },
   {
     "id": "FsTjshsTvnnxTyiKNghwxutggBSjuom8zNNt9cd71Psr",
@@ -6503,7 +6538,8 @@
   },
   {
     "id": "AJxWoTnqez1BwBgxPPN315qnfq8Fhi16NfUn6BqiBuQy",
-    "bozo_collective": 2
+    "bozo_collective": 2,
+    "gizmos_land": 11
   },
   {
     "id": "2k9Rzmbq94tBqwUFHcyw43XNWPkRuFK7dYb24xztGxNr",
@@ -6555,7 +6591,8 @@
   },
   {
     "id": "9s33SxM9cXVVS74r36fzb1gUgVjiS6U92a6SpejjQNk2",
-    "bozo_collective": 2
+    "bozo_collective": 2,
+    "saga_monkes": 1
   },
   {
     "id": "G3wDeLDRV7PSMrPqK3Y36SBJmNpk9Kyt8hpoDuSuKgdZ",
@@ -6575,7 +6612,8 @@
       "4065.abc",
       "adrian.abc",
       "154.abc"
-    ]
+    ],
+    "gizmos_land": 3
   },
   {
     "id": "d7hfwy7Asm3HyrFVBdLcWK5V9HA5Nt3qD4UvyaHtJwE",
@@ -6587,7 +6625,8 @@
   },
   {
     "id": "5sUKDboW3iRoTpZ8WJriJ5L7VR4TC8doVQBhoYLaU9pj",
-    "bozo_collective": 2
+    "bozo_collective": 2,
+    "pesky_penguins": 1
   },
   {
     "id": "83RSJvUrAcEStnDNahwwqGzZwm3EvdkHcSkTZz3L1UVp",
@@ -6644,7 +6683,8 @@
   },
   {
     "id": "Er2u85nrcSZjPHCw6Y3mXpt7kkbJvzwxz35xuoemp4ke",
-    "bozo_collective": 2
+    "bozo_collective": 2,
+    "gizmos_land": 10
   },
   {
     "id": "4wzfH3uk8Zv8A5fPzWqPspAzt3A5LF6zm5Hgi69Xa2sx",
@@ -6922,7 +6962,8 @@
   },
   {
     "id": "HGDwgeZrGJhaYPantKTZCpL3Qugpqp1N1Njf2SFzgqHL",
-    "bozo_collective": 2
+    "bozo_collective": 2,
+    "saga_monkes": 1
   },
   {
     "id": "GABTaTJaCGkj4pYGRHY6xC4QHUYZkU3JepGodUf3Y2Ma",
@@ -7157,7 +7198,8 @@
   },
   {
     "id": "FYS9uoLXkt1kaLfoD6fRRrxcdRaQ4tuUp1GcxGHB5G9t",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 2
   },
   {
     "id": "BFcu8wWdJsk6Xirf7s7tQRHCABfyjALiDVJMr2Y5qdAz",
@@ -7396,7 +7438,8 @@
   },
   {
     "id": "CRZUdacW3tzgDvPiEPeiXCsNzVtSBCgztuUwPwNz1JYv",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 2
   },
   {
     "id": "8gN6wihcXwpHsTprZaRYpaiQe3xETiwwYe9jrFxvreWY",
@@ -7599,7 +7642,8 @@
   },
   {
     "id": "7SKeebk8fA6m3QmoTrjLjNCp8KACcxqLXT17F2YJcbVX",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 2
   },
   {
     "id": "AFVkjbAcdja6ocstck9PZfoyg1gjpv7W41YzuqRq8UEw",
@@ -7625,7 +7669,8 @@
   },
   {
     "id": "EotgvWEELpjkxXvc9VrvWsvYQM9GSW9U3HdG6eXqdhNm",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 2
   },
   {
     "id": "2x1Eu3ge8b9gqnptKyD87hqYAuGQkSsyd87hv39Litte",
@@ -7682,7 +7727,8 @@
   },
   {
     "id": "CBYkcn9MWYWtYtd7Jk5THcqCNYVNJvfE4u5qeoNZNZer",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "degen_royale": 10
   },
   {
     "id": "8rjBZep7iTKBec3fHXh3KaK47gmujbvGQzVqZ18TeS5W",
@@ -7691,7 +7737,9 @@
     "bullyz_loot_box": 5,
     "bullyz_shipz": 1,
     "bvdcats": 43,
-    "degenerate_trading_bears": 15
+    "degenerate_trading_bears": 15,
+    "degen_royale": 5,
+    "gizmos_land": 8
   },
   {
     "id": "8BtEKbUy1eh7pmvUAAP4t5yZEivXyZ4hnjMSvJnrDY5H",
@@ -7799,7 +7847,8 @@
   },
   {
     "id": "84R4MzASbWiufm5wGbQP9mgq32Ndo2VWNV9297gaJJcW",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 2
   },
   {
     "id": "5zV2pDquVy1R1VsoqCM8S3ShiGx82gLZhPaA6FLyNGnY",
@@ -7983,7 +8032,7 @@
   },
   {
     "id": "97D2bZSCPHgTmk9AtTrXn6y24FYw8hgvZMLSSLW5JYVT",
-    "bozo_collective": 1
+    "bozo_collective": 2
   },
   {
     "id": "E4zDW7Z8YTL6g1Asqg6ZUwb3fkfaL6ogfxNuagaSg4HN",
@@ -8101,7 +8150,8 @@
   },
   {
     "id": "4Mn2qwPmsUuhb8CYpYqwonQo1bTssxymwGC5kAv7GarD",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "degen_royale": 1
   },
   {
     "id": "2BsVWReAPmnkRqpfEmFPX7Syor7dEudfZdJMSsAqkZNB",
@@ -8142,7 +8192,8 @@
   },
   {
     "id": "Nf8SavyzPD3HEs6T9W1CjEW3cF8RqkMBGamDnmAnKSh",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "degen_royale": 1
   },
   {
     "id": "8VZh532Eijua1c3f23m6F8XLaYRJqVyqf8pWDQCWAE2o",
@@ -8235,7 +8286,8 @@
   },
   {
     "id": "FweYVpbjvccrJYx6NxDvimxrLtju3XiopW2BbZGxP1KN",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 7
   },
   {
     "id": "HNdkyeRgvdXggs71xJmFu6AUZWp735AEGHvPiYeaMsDH",
@@ -8353,7 +8405,8 @@
   },
   {
     "id": "FBzLZUcQQx7PXymcg7Tt1uFdhberpTtYVqEH792i5Hpb",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 2
   },
   {
     "id": "9Rdppv9THjomA9NBdSu21U1e3aPxYrB3UTa2UDBdEbt1",
@@ -8419,7 +8472,8 @@
   },
   {
     "id": "DqDksj1tbRAKmBhQCT9UBrRA2gi7r8i8TyKwYfg34roL",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 3
   },
   {
     "id": "7k9Kj2xanxgpgMmB1sitH8s3NZQ68zWwVSNCPn8GBqSB",
@@ -9008,7 +9062,9 @@
     "degenerate_trading_bears": 19,
     "domains": [
       "byloom.abc"
-    ]
+    ],
+    "degen_royale": 2,
+    "gizmos_land": 5
   },
   {
     "id": "3K28c2mFpNDj8oD89ntA8jf3K5wXZdpPAvkHDRdUqZY8",
@@ -9209,7 +9265,8 @@
   {
     "id": "GZFJtD3FutimCxiLg2QvRkziUuUeL9ZHAnyvuDv2xqyk",
     "bozo_collective": 1,
-    "bvdcats": 2
+    "bvdcats": 2,
+    "gizmos_land": 2
   },
   {
     "id": "CGfKS4FH7N6opjU3MikARZN9XhkQNqjeuVEiQJyg9RYN",
@@ -9430,7 +9487,8 @@
   },
   {
     "id": "GHAzzBHB744TLpQNBwuiyceSgWrnsuNgCVwNiBt96rVS",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 3
   },
   {
     "id": "5kA3rrGboopXQUvMAVmonRJ88nvmWvR7MVCJC28FyL6D",
@@ -9481,7 +9539,8 @@
     "id": "5rVVvQb9Y2zh6mNPSLF4haNVYmDDT7kVXQyGSHPLcLgM",
     "bozo_collective": 1,
     "cets": 1,
-    "saga_monkes": 1
+    "saga_monkes": 2,
+    "gizmos_land": 33
   },
   {
     "id": "GZMYFv4SnE9x5rYJWUAdESsk7ms71RNAmndU6uKuW5ko",
@@ -9509,7 +9568,8 @@
   },
   {
     "id": "CXY3Eme1VdbUYffJD2ZnNCzqELhF49mGPQzEy6LNzxrE",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "saga_monkes": 1
   },
   {
     "id": "TBoZyZ8t3wRjrHU8Ckvtgd6bpQQ3mgqcmWTjnCjkrxt",
@@ -9818,7 +9878,8 @@
   {
     "id": "EGUcEgwGPEzPXtuSo9Tkzh1fQST9DfiPoBGYjHDghpKZ",
     "bozo_collective": 1,
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "gizmos_land": 1
   },
   {
     "id": "DiKt3SC5hzThnhXUMtepykQt9pGb33CmtHgAz8JbMPXM",
@@ -10339,7 +10400,8 @@
   },
   {
     "id": "FL54JkThtzCDZLksuGjSUobg76LAwt3MgmJa3mCmAS37",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 1
   },
   {
     "id": "61YuPi7CTynyELyfheyLjgDwKm1Jjs6EyceSFvfT1HNa",
@@ -10404,11 +10466,13 @@
   },
   {
     "id": "AieQtBfYMZzb1mGFj1p2vXXmVD12T6Q57qzrdPCQmsBz",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 1
   },
   {
     "id": "FkuQdGyvdKBpo4me4DnFf9u1Wz3PUaG4yv5n6viRzMBz",
-    "bozo_collective": 1
+    "bozo_collective": 1,
+    "gizmos_land": 5
   },
   {
     "id": "8PLVjfcsCkS9zpCvW7bPfSEnL5ee2Bb2JJi847q8qnmh",
@@ -10559,12 +10623,13 @@
   {
     "id": "3o5MzmynZvxz4ZfmYmVLnChHCyRtRVmj1Aaca4FyaFm7",
     "bozo_collective": 1,
-    "degenerate_trading_bears": 10
+    "degenerate_trading_bears": 10,
+    "gizmos_land": 3
   },
   {
     "id": "Ay44Mmhtx8DrvCbhMsd7kqCZYn4BC3ubJss9WNfMmKHo",
     "bozo_collective": 1,
-    "chads": 5,
+    "chads": 1,
     "raccs": 3,
     "squidz": 1
   },
@@ -10694,10 +10759,12 @@
   {
     "id": "4nftFjLmRSZtKAAAiZspjiiLQ3WjeBSzCB57vcskVBAj",
     "bozo_collective": 1,
-    "degenerate_trading_bears": 21,
+    "degenerate_trading_bears": 19,
     "domains": [
       "zupah.bonk"
-    ]
+    ],
+    "degen_royale": 1,
+    "gizmos_land": 5
   },
   {
     "id": "CpzgBeWWvWaHWNXSXupW9GsRZ4EsogPUsYpXs6QDEXrm",
@@ -10710,7 +10777,8 @@
   {
     "id": "3HpunBhpvBWuH3jhNCnLuJciCfuSjsQVs2z7oKQZigqA",
     "brewed_bones": 506,
-    "zilly_goat_7777": 2
+    "zilly_goat_7777": 2,
+    "degen_dads": 1
   },
   {
     "id": "24GVVs3KpEMyHbGSjayUxfSdzFu9jL2vQjEW865kTTXu",
@@ -10751,7 +10819,8 @@
   },
   {
     "id": "Gia1N641h4Vgm2xGwuswuDHT7rh5bLfDcD7jtpVfR8iL",
-    "brewed_bones": 50
+    "brewed_bones": 50,
+    "degen_dads": 1
   },
   {
     "id": "2mYphnZR7aX9Jxfj9HkwGtcprZ8ByaZd83ecJRXUC1By",
@@ -10764,11 +10833,13 @@
   {
     "id": "HKiNeY14zzN5y9pVh4MQqphopzbV6cyTkPtPyC17XtHt",
     "brewed_bones": 43,
-    "bvdcats": 7
+    "bvdcats": 7,
+    "degen_dads": 1
   },
   {
     "id": "BLjLmSV7KZxrGYtF8QPeVwNRZydv5uHwEgCNNumkN4un",
-    "brewed_bones": 43
+    "brewed_bones": 43,
+    "degen_dads": 1
   },
   {
     "id": "5PLiBAkno6FxnZ8U7Ui7JNvSDeDsQMR6PPcFkA78WxtV",
@@ -10809,7 +10880,8 @@
   },
   {
     "id": "BS61tv1KbsPhns3ppU8pmWozfReZjhxFL2MPhBdDWNEm",
-    "brewed_bones": 40
+    "brewed_bones": 40,
+    "degen_dads": 1
   },
   {
     "id": "HpZKJgW7ggxSA6SC2HqYq9bet8wduuWJdA9m1q89j89X",
@@ -10966,7 +11038,8 @@
   },
   {
     "id": "5vnoBoq4seHtFh9sjjEcNmBSciL4gtiUgT72iAp81Hw2",
-    "brewed_bones": 6
+    "brewed_bones": 6,
+    "degen_dads": 1
   },
   {
     "id": "8Hr67vJDyt2fiFFagbjdgJ54AcXun4dkWuRFoY6nWapX",
@@ -10987,7 +11060,8 @@
   {
     "id": "FB21Ctg3EqdKap5i9B2cFiMxmPs8SxMvoWoMzENM4f3t",
     "brewed_bones": 5,
-    "chads": 9
+    "chads": 9,
+    "degen_dads": 1
   },
   {
     "id": "3o2gKTkemaxxTZuCXYNnK2hXuqhn6vm5B6W66Xwr1L7U",
@@ -11003,7 +11077,8 @@
   },
   {
     "id": "UZNHFtZ1R6DCuxnmmg2Lh545xKDCSUBpUVNWu9iWZhF",
-    "brewed_bones": 5
+    "brewed_bones": 5,
+    "gizmos_land": 1
   },
   {
     "id": "BFRfP1ZkTyJKEPR5UxcGxAwQxQbfgW8DjB1beNyAyjcZ",
@@ -11023,7 +11098,8 @@
   {
     "id": "BHBdyoR4hv1xZDNmVRFFCRJ1bfHS36g9rvQpS9o8uD3v",
     "brewed_bones": 5,
-    "chads": 1
+    "chads": 1,
+    "degen_dads": 1
   },
   {
     "id": "DTekM8MpTygVNF9zEtqDQHnJ1LdoKMvr9yMxcA8Epx2T",
@@ -11108,7 +11184,8 @@
   },
   {
     "id": "37tyAEMWypXRvdagephXYXBHBVus4UVpChot5cskCtQU",
-    "brewed_bones": 3
+    "brewed_bones": 3,
+    "degen_dads": 1
   },
   {
     "id": "5CgTqGXuXvZysc6RwBVmtTwP85BAZHrdtJ5o9xife4Pg",
@@ -11130,7 +11207,9 @@
       "jpbedoya.abc",
       "juanpablo.abc",
       "bedoya.abc"
-    ]
+    ],
+    "degen_dads": 1,
+    "gizmos_land": 3
   },
   {
     "id": "445Nn1GW4YJ51HC1VCrMoUvckNeKvvXfwNcWFePPwPFS",
@@ -11247,7 +11326,8 @@
   },
   {
     "id": "13SL6GULz6SnjAjzRdaArGrcHX4TWd4v66EKtWbYZi7r",
-    "brewed_bones": 2
+    "brewed_bones": 2,
+    "gizmos_land": 4
   },
   {
     "id": "755SkTXi8sAPQJYdfGEzA4veTt2DaNc9AS2aNUL8SJoh",
@@ -11262,11 +11342,13 @@
       "nico.anon",
       "iam.anon",
       "semiliqui.id"
-    ]
+    ],
+    "secret_sphynx_society": 1
   },
   {
     "id": "5cCNwCX7tqLLJEDw4WYoSvpVJTn4h8AGCTtYdhxDqNRK",
-    "brewed_bones": 2
+    "brewed_bones": 2,
+    "gizmos_land": 1
   },
   {
     "id": "HyeZwdsacqSsE9FVYNdyvA5vrztTk6U1NuVgkDE5Gd3B",
@@ -11310,14 +11392,16 @@
   {
     "id": "Dkt7NdYXE3eCHEnSSf6gmgyHqnfBfpiTMjBXJJh9DNQH",
     "brewed_bones": 1,
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "degen_royale": 1
   },
   {
     "id": "NAtEp6bhjuRkXDxEesv72ZoYjrvSKpvGUeQKygjU5V2",
     "brewed_bones": 1,
     "chads": 1,
     "kongzdao": 17,
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "degen_dads": 1
   },
   {
     "id": "CmNfM4QmmZ86eDdFJSrtBtzL42Km8xauL6x93PUBJDiJ",
@@ -11360,14 +11444,16 @@
     "brewed_bones": 1,
     "chads": 3,
     "pesky_penguins": 1,
-    "shremps": 1
+    "shremps": 1,
+    "degen_dads": 1
   },
   {
     "id": "Duky36UqnVfkysDWAWnTN6Xd5KaBwxCBkofFms4sPwsF",
     "brewed_bones": 1,
     "bvdcats": 1,
     "sentries": 1,
-    "woofers": 22
+    "woofers": 22,
+    "gizmos_land": 1
   },
   {
     "id": "9dRH1QAQUh1a8tBepqUe5VyBrKduK4Q2dAaP6sczaqQ5",
@@ -11397,7 +11483,8 @@
   {
     "id": "6G8Cu53PRgm5aPHxMaZRguYHJfaNxmnmgoR129cKMvJk",
     "brewed_bones": 1,
-    "kongzdao": 1
+    "kongzdao": 1,
+    "degen_dads": 1
   },
   {
     "id": "EeJHdXajunDVc3RxQJpDZ5PMFwumGG9ckcRf5BFUFGtZ",
@@ -11521,7 +11608,8 @@
   {
     "id": "5RrfxsAXTHZHzqBkqdYH6kJAuWnek4bdLSKDRcdaVjmN",
     "brewed_bones": 1,
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "gizmos_land": 4
   },
   {
     "id": "FUSV8CdHCvEPgSMGzB2XEKqptNegSXzisLrvjjbXaD27",
@@ -11564,7 +11652,7 @@
   {
     "id": "3ukVQkntQ1Ydosb5yMrwA7xuDbbRij2JNSb22zYLWCQT",
     "bullyz_crew": 192,
-    "bullyz_loot_box": 1487,
+    "bullyz_loot_box": 1490,
     "bullyz_shipz": 52,
     "kongzdao": 1,
     "sollamas": 4
@@ -11572,13 +11660,15 @@
   {
     "id": "A1DZeL4TBtGvKb11ei4eBoAs1aRN9fB6wjgkLY8ER2dg",
     "bullyz_crew": 170,
-    "bullyz_loot_box": 969,
-    "bullyz_shipz": 113
+    "bullyz_loot_box": 970,
+    "bullyz_shipz": 113,
+    "degen_royale": 1,
+    "gizmos_land": 7
   },
   {
     "id": "8Q4fYfyDCD9vHBxYqdFww32SBSVWFy3N7mx5tyyj5KZb",
     "bullyz_crew": 138,
-    "bullyz_loot_box": 504,
+    "bullyz_loot_box": 506,
     "bullyz_shipz": 29
   },
   {
@@ -11595,13 +11685,13 @@
   {
     "id": "B56NDdqVevb6K6aV9QwFkNN7VgNY3ZdjwMMCKSHZzC6L",
     "bullyz_crew": 58,
-    "bullyz_loot_box": 197,
+    "bullyz_loot_box": 198,
     "bullyz_shipz": 64
   },
   {
     "id": "APMZny84AZDWCY33trBMF9noxrLAMRzH8Yanau8hn6Fs",
     "bullyz_crew": 58,
-    "bullyz_loot_box": 375,
+    "bullyz_loot_box": 377,
     "bullyz_shipz": 16
   },
   {
@@ -11612,7 +11702,7 @@
   },
   {
     "id": "FRiKTTtBFCraXxAdN9WbE9gHsJHauHzLKf2t53xiyFRR",
-    "bullyz_crew": 52,
+    "bullyz_crew": 51,
     "bullyz_loot_box": 298,
     "bullyz_shipz": 41
   },
@@ -11625,8 +11715,9 @@
   {
     "id": "DenXVLRxRR3yrXFzwMEpnuizCcP6YMpaN9jUdZy2N8hB",
     "bullyz_crew": 46,
-    "bullyz_loot_box": 226,
-    "bullyz_shipz": 29
+    "bullyz_loot_box": 228,
+    "bullyz_shipz": 29,
+    "gizmos_land": 1
   },
   {
     "id": "7dy8heSXUKaX3nRLkQ69NetzQxZYNQgUQsCsvTeV8MVt",
@@ -11643,7 +11734,7 @@
   {
     "id": "3HpsMQv5vnUHW3Pc8sbU8U3KTGVd98Aa6pJUu7zgQwzU",
     "bullyz_crew": 34,
-    "bullyz_loot_box": 293,
+    "bullyz_loot_box": 295,
     "bullyz_shipz": 22
   },
   {
@@ -11701,7 +11792,7 @@
   {
     "id": "DmsFcT68wqampP78Hm9E29DBLG99FuZJJmZAYw34uvrF",
     "bullyz_crew": 19,
-    "bullyz_loot_box": 170,
+    "bullyz_loot_box": 171,
     "bullyz_shipz": 28
   },
   {
@@ -11714,7 +11805,8 @@
     "id": "5u7YxcfWvh2wMf5yQP1pujNmxQTohzSgp1w3umJXEASV",
     "bullyz_crew": 18,
     "bullyz_loot_box": 36,
-    "bullyz_shipz": 2
+    "bullyz_shipz": 2,
+    "gizmos_land": 7
   },
   {
     "id": "G6bfDikmBmntCLcLdFTQhZ2zhqcuWygDpgou2Nq8YqX1",
@@ -11735,7 +11827,8 @@
     "id": "gCv41sQZpWwVx7K8ec8GqtMqVqJBkmb6p1bXwbNZEUJ",
     "bullyz_crew": 17,
     "bullyz_loot_box": 225,
-    "bullyz_shipz": 27
+    "bullyz_shipz": 27,
+    "gizmos_land": 2
   },
   {
     "id": "7LRBhNG6mt8rtChxbi1CLEAxUfmpr3HGAWYgZQmTuv1c",
@@ -11744,20 +11837,22 @@
   {
     "id": "4vt5Ey7PJZqroBiDEJ52YY3jfYfZtqEmzSLsugFiLpnc",
     "bullyz_crew": 16,
-    "bullyz_loot_box": 60,
+    "bullyz_loot_box": 61,
     "bullyz_shipz": 1
   },
   {
     "id": "7s6g9JGg3P5vZMnW1NXqfCWMhz7q1ZYrJVaQL1CNsqmk",
     "bullyz_crew": 16,
     "bullyz_loot_box": 103,
-    "bullyz_shipz": 13
+    "bullyz_shipz": 13,
+    "gizmos_land": 10
   },
   {
     "id": "EKeBStmHfjFBu3RHaMCtZivjUvBwVmeNSoVthJGoXyEe",
     "bullyz_crew": 15,
     "bullyz_loot_box": 143,
-    "bullyz_shipz": 10
+    "bullyz_shipz": 10,
+    "gizmos_land": 1
   },
   {
     "id": "E3oCYcv9yDgwumzx4pCe2QoLUXoftBgb33McjLX1yckE",
@@ -11796,7 +11891,8 @@
     "id": "7yEKqyfRMMw7idsttmkqXp2Jtc1ooDgT6aZ6jm3Vmqgn",
     "bullyz_crew": 12,
     "bullyz_loot_box": 114,
-    "bullyz_shipz": 28
+    "bullyz_shipz": 28,
+    "gizmos_land": 24
   },
   {
     "id": "HMoZN3FEvxuecjGETQMa8EGPsCvibAbPfXP6h3cL4E8b",
@@ -11813,13 +11909,13 @@
   {
     "id": "ErvEmQWHfnvJX6D5VkPQorEWKYf2kKbVBemXLq8WzbKK",
     "bullyz_crew": 12,
-    "bullyz_loot_box": 18,
+    "bullyz_loot_box": 27,
     "bullyz_shipz": 13,
     "dev_card": 1
   },
   {
     "id": "EKdKuE44UqsVuhMARRBvXDxp32dXDK3eKUzM1CPHcfsT",
-    "bullyz_crew": 12
+    "bullyz_crew": 17
   },
   {
     "id": "9inbs7UHB1kuQEt9BoBaiVvv8PoznY7LnEFaAZXJXtpo",
@@ -11841,7 +11937,7 @@
   {
     "id": "J4BKzARbSSrPYUn417JsSRnHHwNAKf6YVeQPpokaYMnQ",
     "bullyz_crew": 11,
-    "bullyz_loot_box": 69,
+    "bullyz_loot_box": 70,
     "bullyz_shipz": 27
   },
   {
@@ -11860,19 +11956,21 @@
   {
     "id": "5RRzt5impbDhzGepEZj44JqTu7o6NmXNRKSM4rSQPX1z",
     "bullyz_crew": 10,
-    "bullyz_loot_box": 111,
+    "bullyz_loot_box": 112,
     "bullyz_shipz": 42,
     "saga_monkes": 1,
     "domains": [
       "jup.maxi",
       "solana.hodl"
-    ]
+    ],
+    "gizmos_land": 21
   },
   {
     "id": "BLjtsrixbNWyDd3w5z33wyrttZ5MoqweSsnUJU9CBknJ",
     "bullyz_crew": 10,
-    "bullyz_loot_box": 87,
-    "bullyz_shipz": 15
+    "bullyz_loot_box": 88,
+    "bullyz_shipz": 15,
+    "gizmos_land": 2
   },
   {
     "id": "7P4C8xShndcnt1uUVdNUx2pxCyzWLaWV2tCypiJn1Wcd",
@@ -11888,7 +11986,7 @@
   {
     "id": "9xdoAzBMTQ27U8jQtHE6CjZvQFRGNpdv6FhA4GHRPdYn",
     "bullyz_crew": 10,
-    "bullyz_loot_box": 100,
+    "bullyz_loot_box": 102,
     "bullyz_shipz": 17,
     "chads": 4
   },
@@ -11930,9 +12028,9 @@
   },
   {
     "id": "773aDzyDLsTy4VtkKX3mG6Umdkg34Xk8yfdtTTpzDBf",
-    "bullyz_crew": 7,
+    "bullyz_crew": 8,
     "bullyz_loot_box": 39,
-    "bullyz_shipz": 16
+    "bullyz_shipz": 22
   },
   {
     "id": "5gc1A9tGyTqXpEtP9ys1A6CupF9t2MUPmthuB9qGkvhp",
@@ -11979,7 +12077,7 @@
   {
     "id": "6tzGsLw4DzxFw7vXsGZjkgYxtRukUyWQ23jTTVWgvKXZ",
     "bullyz_crew": 7,
-    "bullyz_loot_box": 63,
+    "bullyz_loot_box": 64,
     "bullyz_shipz": 7
   },
   {
@@ -11995,9 +12093,10 @@
   },
   {
     "id": "6ccHryyBkCEiCMouZU1a2MqZqgJA5NU1gkmrS5L9ajsf",
-    "bullyz_crew": 6,
+    "bullyz_crew": 7,
     "bullyz_loot_box": 52,
-    "bullyz_shipz": 7
+    "bullyz_shipz": 7,
+    "gizmos_land": 1
   },
   {
     "id": "8jf2oh46XVfatsquSLbkEwNNvL6W9w7Fqu2L6cefRrHP",
@@ -12038,7 +12137,8 @@
     "id": "A9KHxwCgS35QeVPBqtMvXrRfvLbaPXtad57GiRaDJ5zM",
     "bullyz_crew": 6,
     "bullyz_loot_box": 29,
-    "bullyz_shipz": 9
+    "bullyz_shipz": 9,
+    "gizmos_land": 2
   },
   {
     "id": "GCpdCyDoga1UhbKFk1kMBnDhhHWZJiXWT78CSsXkSN9p",
@@ -12118,8 +12218,9 @@
   {
     "id": "9wZfVrquxEzQjR6fiGmP4s4Q5MwQFFTDFaGwJi762JLK",
     "bullyz_crew": 4,
-    "bullyz_loot_box": 59,
-    "bullyz_shipz": 11
+    "bullyz_loot_box": 60,
+    "bullyz_shipz": 11,
+    "degen_royale": 1
   },
   {
     "id": "cjgXYtBG1N91c4nktMvg2SmC3nxUpGXr5JV7FgcZw9W",
@@ -12174,7 +12275,7 @@
   {
     "id": "4qpVA22vFmP71dbqC5n3iRchbUTqWN7ToY75zwCYqge3",
     "bullyz_crew": 4,
-    "bullyz_loot_box": 19,
+    "bullyz_loot_box": 20,
     "bullyz_shipz": 9
   },
   {
@@ -12217,7 +12318,8 @@
     "bullyz_crew": 4,
     "bullyz_loot_box": 170,
     "bullyz_shipz": 10,
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "gizmos_land": 80
   },
   {
     "id": "744TYMqNBjmRpWUBA3tvbZkS7W6dKz5VYigeRTkWAise",
@@ -12234,7 +12336,8 @@
     "id": "GzMVoF7wgMXsKEu4bDFiXBQibDJz5NjSR38PptngzDr2",
     "bullyz_crew": 4,
     "bullyz_loot_box": 55,
-    "bullyz_shipz": 8
+    "bullyz_shipz": 8,
+    "degen_royale": 1
   },
   {
     "id": "5nBFfumxMQGc6jP6j6F3xJtzmvMjDGtWAnTU3XWRMHvz",
@@ -12264,7 +12367,8 @@
     "id": "HbVpCR5NRmXSZtbP1JazWiTscWsQxfyoneU2WdAR7Za8",
     "bullyz_crew": 4,
     "bullyz_loot_box": 31,
-    "bullyz_shipz": 2
+    "bullyz_shipz": 2,
+    "gizmos_land": 9
   },
   {
     "id": "9F91HmFYbAfMujt2uRAtV5vKRRC7GwJXuP1aBs9J69Yw",
@@ -12292,7 +12396,7 @@
   {
     "id": "C4yo35zPv7x1MxRpMYeDzvAYYsaWur22mrZ282b54ySM",
     "bullyz_crew": 3,
-    "bullyz_loot_box": 69,
+    "bullyz_loot_box": 70,
     "bullyz_shipz": 26
   },
   {
@@ -12345,7 +12449,8 @@
     "id": "G46y1sADk9zrQStAxRu4W8ad1DK9ceccEzMVMCc2XUTM",
     "bullyz_crew": 3,
     "bullyz_loot_box": 18,
-    "bullyz_shipz": 2
+    "bullyz_shipz": 2,
+    "gizmos_land": 2
   },
   {
     "id": "3UFmscW19Jmds66SbYr39CpYrfcGjoFnbGHPmZXk8Z1w",
@@ -12373,7 +12478,8 @@
     "id": "HcSsPqbZevRR6sXfPC4ebbRoYD1391rL3iCK1cjD52QP",
     "bullyz_crew": 3,
     "bullyz_loot_box": 43,
-    "bullyz_shipz": 4
+    "bullyz_shipz": 4,
+    "gizmos_land": 1
   },
   {
     "id": "HYn8C7jiyawxxYjVwV4eUzUw2yndmHYDBZb7zCFScp83",
@@ -12400,7 +12506,8 @@
     "id": "78ztHyTQviFMDWUYHgkoH4PvTgt2wtiHXrZucysSxiY8",
     "bullyz_crew": 3,
     "bullyz_loot_box": 24,
-    "bullyz_shipz": 1
+    "bullyz_shipz": 1,
+    "gizmos_land": 1
   },
   {
     "id": "D4JQJvYCHGpygknPBF4JPmSbHU1kup5E9uwBdiqFag9h",
@@ -12498,7 +12605,7 @@
   {
     "id": "7QjpEYTntTZzdghCcE6hxKK1BM3s1Kyrtq5NuyzVE6sk",
     "bullyz_crew": 2,
-    "bullyz_loot_box": 31,
+    "bullyz_loot_box": 32,
     "bullyz_shipz": 7
   },
   {
@@ -12522,7 +12629,7 @@
   {
     "id": "6qjgr83UvGaVym4fA2Ms2BmzbzxiQN8MwGZsFjxZRwpo",
     "bullyz_crew": 2,
-    "bullyz_loot_box": 36,
+    "bullyz_loot_box": 37,
     "bullyz_shipz": 7
   },
   {
@@ -12557,7 +12664,8 @@
     "id": "77rCaJUV9xsJH7kB1x67meECUjTB2z5qPZzWnjafeK5M",
     "bullyz_crew": 2,
     "bullyz_loot_box": 2,
-    "bullyz_shipz": 1
+    "bullyz_shipz": 1,
+    "degen_royale": 1
   },
   {
     "id": "Fx7w2we9k1GUG5ZidppcRKJgYmT2ZZCNMGnwXTrNXCCv",
@@ -12637,12 +12745,12 @@
   {
     "id": "J48S25rj1udxC8rydzCq94GkqHMriLa3HKCxJodujRdx",
     "bullyz_crew": 2,
-    "bullyz_loot_box": 46,
+    "bullyz_loot_box": 47,
     "bullyz_shipz": 5
   },
   {
     "id": "57Ccm7yoa5YKVXehJHAQ8WwK6CXc8RL87gG53xYdrJex",
-    "bullyz_crew": 2
+    "bullyz_crew": 1
   },
   {
     "id": "ABvohqfbZmyyXWPjsTW4LmidA83hZCBu8PQULYarSDne",
@@ -12733,7 +12841,8 @@
     "id": "9hHyGvPWZQHifTVikZhzu4wvHCHAbVny7WMx75YicbDH",
     "bullyz_crew": 2,
     "bullyz_loot_box": 9,
-    "bullyz_shipz": 2
+    "bullyz_shipz": 2,
+    "degen_royale": 1
   },
   {
     "id": "BGgNvgCkmqy1sB6vrqZ6pF6me3TFjJP29Tg91rFaiL7R",
@@ -12790,7 +12899,8 @@
     "id": "DoXgkzBXa33v45m2kbMToH9FsDyAPNWXuk4xYCMsmAHf",
     "bullyz_crew": 1,
     "bullyz_loot_box": 29,
-    "bullyz_shipz": 6
+    "bullyz_shipz": 6,
+    "gizmos_land": 1
   },
   {
     "id": "5p9vfiCCENPUjV9Cj4pDBz2pAkcHhfBuQnxsQoenQYiB",
@@ -12907,7 +13017,9 @@
     "id": "6jKoMo97ify51J2ZdHNj8d8vBvU9VdQvNfBCyEUaqagC",
     "bullyz_crew": 1,
     "bullyz_loot_box": 33,
-    "bullyz_shipz": 5
+    "bullyz_shipz": 5,
+    "degen_royale": 1,
+    "gizmos_land": 2
   },
   {
     "id": "5ZrUCVrG9ipPrXmEYvtg5mwr8UQTmgnBvsko7EcoBeHW",
@@ -12917,7 +13029,8 @@
     "id": "DrwaAEvSVYo1eP8KaQ2wMs4LcC52FioHPjfYw4nYfMvo",
     "bullyz_crew": 1,
     "bullyz_loot_box": 4,
-    "bullyz_shipz": 1
+    "bullyz_shipz": 1,
+    "gizmos_land": 4
   },
   {
     "id": "DY3nR6qCwD9RenDwVpVisSnG5bXV128XsitNJvBhqZt1",
@@ -13021,7 +13134,8 @@
   {
     "id": "FnyQM2ncPF7TGkCMaoPPr3489HTYczH6ybeNpiiVjguB",
     "bullyz_crew": 1,
-    "bullyz_loot_box": 1
+    "bullyz_loot_box": 1,
+    "degen_royale": 1
   },
   {
     "id": "faraVvDajMs9FRwLvjRKdpfvDwetTBqgdwy95MsQ6VZ",
@@ -13072,7 +13186,7 @@
   {
     "id": "Fs3M34Y4F3PV9K9xenfdLDp9bBXgp5ZF6utxdaXainY3",
     "bullyz_crew": 1,
-    "bullyz_loot_box": 52,
+    "bullyz_loot_box": 55,
     "bullyz_shipz": 8
   },
   {
@@ -13101,7 +13215,8 @@
   {
     "id": "7F85SJxFnWc4yzu3Gk7MMHZeyjwCLPR9wHXiNmn6rG5u",
     "bullyz_crew": 1,
-    "bullyz_loot_box": 1
+    "bullyz_loot_box": 1,
+    "degen_royale": 1
   },
   {
     "id": "GptJndbxnLim4jhLuhB8WyQCBs6R1G89YQiatFJBn4te",
@@ -13363,7 +13478,8 @@
   },
   {
     "id": "AMaybhkytr4eB1CwAbub4TWXRXsGWCYegfT4zSHgosi3",
-    "bullyz_crew": 1
+    "bullyz_crew": 1,
+    "gizmos_land": 4
   },
   {
     "id": "B9QbnMds7QE2pWn9NggYzrt7GnMWyTYjig33eSeGgM9h",
@@ -13379,7 +13495,7 @@
   {
     "id": "7sJ6wyCDQqyWyAS2ZR1r28makjaf4mUYkRgCi5pDmfQY",
     "bullyz_crew": 1,
-    "bullyz_loot_box": 28,
+    "bullyz_loot_box": 29,
     "bullyz_shipz": 19
   },
   {
@@ -13396,7 +13512,8 @@
   {
     "id": "AnuNtAbW7aVn7p6M7D65bH6zN5TyFYsbsLwtARvg1Uid",
     "bullyz_crew": 1,
-    "degenerate_trading_bears": 2
+    "degenerate_trading_bears": 2,
+    "degen_royale": 1
   },
   {
     "id": "GuUWKJ9LWyUT9JcRFvfQFy7q2uQQMFtCUQfS6AWxurG9",
@@ -13434,7 +13551,8 @@
   {
     "id": "8gQzxZtvM3GwAKR4YPbUqCbCL6f1pgJtMHaMe2ym9eHC",
     "bullyz_crew": 1,
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "gizmos_land": 4
   },
   {
     "id": "4f27WNrJbC8mz737wQuRtqLVvG6fqAo2aeZX8s7dc87D",
@@ -13447,7 +13565,8 @@
     "id": "AwxnQeEskNcZcR3oR75GMsyQN9wST1zCyK1TRkcktpVQ",
     "bullyz_crew": 1,
     "bullyz_loot_box": 13,
-    "bullyz_shipz": 2
+    "bullyz_shipz": 2,
+    "gizmos_land": 2
   },
   {
     "id": "4z78caaQQFzSzpVPGve9aDrkrP2oy3ivG1z7io4YWefD",
@@ -13486,14 +13605,16 @@
     "id": "7hJVULaTstYMWWJJyr1JweXGd8PQCuMeqviHcAx8aY39",
     "bullyz_crew": 1,
     "bullyz_loot_box": 11,
-    "bullyz_shipz": 1
+    "bullyz_shipz": 1,
+    "degen_royale": 1
   },
   {
     "id": "Bcsnad9CqGtwf2YmMU6ZeAjw7atA4bseub6wZ8eYaQGk",
     "bullyz_crew": 1,
     "bullyz_loot_box": 7,
     "bullyz_shipz": 2,
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "degen_royale": 3
   },
   {
     "id": "4cnZM42pZwjPdJVr1tvUSCeqna27yFmBwEXXvmWAbJZt",
@@ -13515,7 +13636,7 @@
   {
     "id": "DEoo1D7gLk4LWtEeWhMCvdpNV8ZvAB7GwPaSAccaxQZx",
     "bullyz_crew": 1,
-    "bullyz_loot_box": 61,
+    "bullyz_loot_box": 63,
     "bullyz_shipz": 9
   },
   {
@@ -13574,7 +13695,8 @@
     "id": "71BCyN7hLuj6wVvvWZJZg6in1RPGHfc3H13gQvt2jKY6",
     "bullyz_crew": 1,
     "bullyz_loot_box": 20,
-    "bullyz_shipz": 5
+    "bullyz_shipz": 5,
+    "gizmos_land": 1
   },
   {
     "id": "5HU9NP3ekit7xfbaEtPe4Hodz9QuGXftACvuPEYpkEsB",
@@ -13696,7 +13818,7 @@
     "id": "2aSJBUGpWWUZty3dafov1Z8Edw3YPA6Z1e2X3aqXu27i",
     "bullyz_loot_box": 338,
     "grinders_nfts": 20,
-    "saga_monkes": 242
+    "saga_monkes": 268
   },
   {
     "id": "LBcYxeJM9hcypST7dcsY8gpCxgtukGo9nbDPaxjdLZ4",
@@ -13756,8 +13878,9 @@
   },
   {
     "id": "ExEKCyhJ54KFngHcc8J4Q1ftxwrv5tbfmBbaVxp2dSkE",
-    "bullyz_loot_box": 20,
-    "bullyz_shipz": 6
+    "bullyz_loot_box": 24,
+    "bullyz_shipz": 6,
+    "gizmos_land": 1
   },
   {
     "id": "DGjQ7o6kYJ6nTAyiYEXFyM4EThTMdavm55b1sJzVHCHq",
@@ -13858,11 +13981,12 @@
   },
   {
     "id": "8MVtuYX4WxcFWhXMqEQGVFV2rbQCJd2EDCcGnzJayPqQ",
-    "bullyz_loot_box": 8
+    "bullyz_loot_box": 8,
+    "degen_royale": 1
   },
   {
     "id": "2S9j99J8SiRs1HdCymjGD1vUX37se3X71n8ueek8CEeG",
-    "bullyz_loot_box": 7
+    "bullyz_loot_box": 8
   },
   {
     "id": "GQ6XhY7X53wLGwUq87JCjNPXMwVkWeNVzsbP5uHMdrSL",
@@ -13899,7 +14023,8 @@
   {
     "id": "5fPeiibACJDbQ2JZJNc7HMKHXvtC6KrnVJR61aANJPCN",
     "bullyz_loot_box": 5,
-    "bullyz_shipz": 5
+    "bullyz_shipz": 5,
+    "degen_royale": 1
   },
   {
     "id": "4xsJuLwBRgqtgfgVsiZhu2ASZk6GyN2iJpmFg3udtPA3",
@@ -13960,7 +14085,8 @@
     "raccs": 1,
     "sentries": 1,
     "shremps": 1,
-    "sollamas": 2
+    "sollamas": 2,
+    "gizmos_land": 4
   },
   {
     "id": "7wajA91qYKeyHMBzPLHPhTyBL2i3dNweiPvCm3Rh2Z26",
@@ -13969,7 +14095,8 @@
   {
     "id": "AgwzDjcxtc1yyHGjJLjE9XyyXa2sP5yBDmqwUPK9FmJw",
     "bullyz_loot_box": 3,
-    "bullyz_shipz": 1
+    "bullyz_shipz": 1,
+    "gizmos_land": 1
   },
   {
     "id": "DSoW2kHAaosyzUD9wCFqLZ4Sj5wLDvTEg8Adxs6wxBcY",
@@ -14180,7 +14307,8 @@
   {
     "id": "4n3J58xezLUorD62tR2gDE4QSahsEmb6U1ZhF245dW5r",
     "bullyz_loot_box": 2,
-    "bvdcats": 1
+    "bvdcats": 1,
+    "gizmos_land": 4
   },
   {
     "id": "2VNmp7BVxswjK4kS89A1mzm4vzU2LBAguMhWMZtmZRga",
@@ -14402,7 +14530,9 @@
     "id": "GZDZFmuPbpMmpey7RahXzWoE6exgF6uToRcEFzD8fQSE",
     "bullyz_loot_box": 1,
     "degenerate_trading_bears": 2,
-    "raccs": 2
+    "raccs": 2,
+    "degen_royale": 1,
+    "gizmos_land": 6
   },
   {
     "id": "871Li2pCvegRrBB8sjrhnVYvuf54BnmFqj8XgdkqxKat",
@@ -14472,7 +14602,8 @@
   {
     "id": "9pP5WTuDtNJtTjo4UA4oRhCoWh8VRhS9PEWSiRXqsLdh",
     "bullyz_loot_box": 1,
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "degen_royale": 1
   },
   {
     "id": "7W8PmRzrDkHZB8erqqwKQaBbZtwwqS9dppyuAPzTJUAi",
@@ -14810,7 +14941,8 @@
     "id": "DjkBxevcw7MNUAiHWodiLVNEgyC9n6S8uVDTdyfAcoDA",
     "bullyz_loot_box": 1,
     "cets": 1,
-    "shremps": 5
+    "shremps": 5,
+    "degen_royale": 1
   },
   {
     "id": "GaS4iay9X3dv9VuBiocn7W5NSsUPJFNgSiC52NnC5jbX",
@@ -15434,7 +15566,8 @@
   },
   {
     "id": "6fuMHJiL4X26Y9cjLS11CvUmFHaDFfDguXdpFJDLXVJ8",
-    "bullyz_loot_box": 1
+    "bullyz_loot_box": 1,
+    "gizmos_land": 1
   },
   {
     "id": "6uSqeKDUBNboD4YfiSimYfJYEWdpgL7EwRnbhLHgTW67",
@@ -15524,7 +15657,8 @@
   {
     "id": "Cc9PPZAhU477nFYyeDHuh6toP9wjA5gYV4PU29K7bC1n",
     "bullyz_loot_box": 1,
-    "bvdcats": 1
+    "bvdcats": 1,
+    "degen_royale": 1
   },
   {
     "id": "3cJSUGVtV2udHRUL9iBc6xEjDqHSGgmDPxJQLp2WwbM6",
@@ -15780,7 +15914,8 @@
   },
   {
     "id": "4EmkFS2Bc6UhnjJBicVZBu4wERTFSyfYj7er33f6nC7W",
-    "bullyz_loot_box": 1
+    "bullyz_loot_box": 1,
+    "degen_royale": 1
   },
   {
     "id": "7DLpUiWA9uWibmAbESmYZzq3uebBkMZFmV7YV3gRGVrc",
@@ -16150,7 +16285,8 @@
   },
   {
     "id": "AGQZHHX1cDnNgQfnCYnbGsGnrMtvxfEYxSF4M8kv7Rd7",
-    "bullyz_shipz": 2
+    "bullyz_shipz": 2,
+    "degen_royale": 1
   },
   {
     "id": "8pkvUUVAHkZM3bV1kZAxuVrcW6rhb43bhqRp6KznnJMF",
@@ -16263,7 +16399,8 @@
   },
   {
     "id": "GYwhYWpkSqcXCqRs9MDL5hBPxYiK8NA6tDuhox9HhJ5S",
-    "bullyz_shipz": 1
+    "bullyz_shipz": 1,
+    "degen_royale": 1
   },
   {
     "id": "92Q6nJnnXsgYsWvopj7ghM8otkoFxEpednLic1XGE4HF",
@@ -17516,7 +17653,7 @@
   },
   {
     "id": "HKQHASeq5wKYgfh8HkV3KHeuBxr1AjCXLwrCHqF9f2Uo",
-    "bvdcats": 141
+    "bvdcats": 140
   },
   {
     "id": "GJVk1hQr9NdeLG5hUm8WHPqyJ6EqpsMqQeeqq2URES7y",
@@ -17847,7 +17984,8 @@
   },
   {
     "id": "HWm1aeoDWGMumwsYmqxRNs2mJC3TtHCFauM8qJkGpwFq",
-    "bvdcats": 22
+    "bvdcats": 22,
+    "degen_royale": 1
   },
   {
     "id": "DARKhuqaX4YbsrBFAfc7CgERBcVueQxQfjH63Y2GGpYr",
@@ -17899,7 +18037,7 @@
     "bvdcats": 20,
     "pesky_penguins": 2,
     "raccs": 6,
-    "saga_monkes": 13
+    "saga_monkes": 4
   },
   {
     "id": "ntmz9FzwA3tq1wzawDSksSLkBrcXW6U24HHVGkpKEYS",
@@ -18434,7 +18572,7 @@
   },
   {
     "id": "CobApCb2LQscXVhrDLc8DacdkYgJhBtzACHcYbNwfBUV",
-    "bvdcats": 7
+    "bvdcats": 8
   },
   {
     "id": "7XTmVGewJHNq2AKE8LLgQwkZHGtkx5hUDzLkS8eZat7D",
@@ -18525,7 +18663,8 @@
     "grim_syndicate": 46,
     "grim_syndicate_lurkers_of_the_abyss": 3,
     "pesky_penguins": 5,
-    "thugbirdz": 2
+    "thugbirdz": 2,
+    "degen_royale": 2
   },
   {
     "id": "4Xi6gnT8hvSHQy9DegZzXZTFtHSPGaogwx7QYFQo6rNc",
@@ -19256,7 +19395,8 @@
   {
     "id": "8YZiXu5T4trJRrtobGCEerkEFm8NKQcJNyeMSVeF1nn3",
     "bvdcats": 3,
-    "cets": 1
+    "cets": 1,
+    "degen_royale": 1
   },
   {
     "id": "GiLGNY8mQbRyhogDHJbx8HkVySstz1XWeQhq8E6D9Q2G",
@@ -19517,7 +19657,8 @@
   },
   {
     "id": "7wPgb4DUHFy3kFzj7MNeqEBgaX3SKSNDoc1ETunu9ioS",
-    "bvdcats": 3
+    "bvdcats": 3,
+    "degen_royale": 1
   },
   {
     "id": "8CF2YpZBEZxmPmrahypzStDRVhizyBEAK1D1991b81dD",
@@ -20069,7 +20210,8 @@
   },
   {
     "id": "B4P4miyudoJTSpiuchDJs4HvxhSvyStni49LtEVoYVM",
-    "bvdcats": 2
+    "bvdcats": 2,
+    "secret_sphynx_society": 1
   },
   {
     "id": "PEZdm8Yj6t747kspbtyiveN2mGK6PgBMQGDach5GTAN",
@@ -21021,7 +21163,8 @@
   {
     "id": "FNBb12zch5XdYXy2ahYHWopbmDat9HmQYdJTiuB9qXLF",
     "bvdcats": 1,
-    "woofers": 1
+    "woofers": 1,
+    "raccs": 1
   },
   {
     "id": "CU9eCMvDx9e8HbNXZM893oVWL6Bivjij2WSFcq7C4zex",
@@ -22254,7 +22397,9 @@
     "chads": 1,
     "pesky_penguins": 1,
     "raccs": 1,
-    "squidz": 4
+    "squidz": 4,
+    "degen_royale": 2,
+    "gizmos_land": 3
   },
   {
     "id": "hWXBnbLyhVUE5dnVzbfirS17DezopSfRakdCeLgSV7L",
@@ -22344,7 +22489,8 @@
   },
   {
     "id": "8NumK7feqVAdEj8LYSvv33qRCw4GQAV8Wm8ysR5E78sV",
-    "bvdcats": 1
+    "bvdcats": 1,
+    "degen_royale": 1
   },
   {
     "id": "GJu9rA8JD9QUuS1KwLt3bumWP1wHj6gQ9WiLHutecSJY",
@@ -22584,7 +22730,8 @@
   },
   {
     "id": "9q5R3B2mHnLJ939HY76ELS5mZ4KoL9bYzqJHE12Bbb5Y",
-    "bvdcats": 1
+    "bvdcats": 1,
+    "degen_royale": 1
   },
   {
     "id": "AYCtSmXP8eo4gBT7GTtSmGaB5jgdrajqTWmE9xhEAXuy",
@@ -25414,7 +25561,8 @@
   },
   {
     "id": "3JXzQMcBpkgNoT2zDxEoXe3wCndjd8p8XuW8My3Xw6Lr",
-    "cets": 10
+    "cets": 10,
+    "chads": 4
   },
   {
     "id": "4aBW5YZaB9Rscw2HZwTuao4zsSM64Gi4fmSvUHTTyRLU",
@@ -27624,7 +27772,8 @@
     "ordo_nemesis": 1,
     "pesky_penguins": 2,
     "raccs": 1,
-    "squidz": 21
+    "squidz": 21,
+    "secret_sphynx_society": 1
   },
   {
     "id": "HpaxjcBJssWz9hPenqNympZ74dj79KGSLuunBnAo6noK",
@@ -27634,7 +27783,8 @@
   {
     "id": "8h2KLaqT7JwVHSkjNmwqTynFGaCsTbqa6iQoJ4a7ycu8",
     "cets": 2,
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "gizmos_land": 1
   },
   {
     "id": "Cb7Rzwo1EDx3Z9L6YAnJ6REx2NR1AwSjD6tESA6z6mWj",
@@ -27898,7 +28048,8 @@
     "ordo_nemesis": 1,
     "raccs": 1,
     "saga_monkes": 4,
-    "the_roundies": 1
+    "the_roundies": 1,
+    "secret_sphynx_society": 2
   },
   {
     "id": "BnLGvt6exVNiHLrzXiVH6jMycPtBe3JvHrgoXqgKDnks",
@@ -29657,7 +29808,8 @@
     "domains": [
       "toly.opos",
       "toly.manlet"
-    ]
+    ],
+    "degen_dads": 1
   },
   {
     "id": "5ytNm8ykd189fkwf9bxZQW3dAUkMfELf3aAnqrcw3Eif",
@@ -29889,7 +30041,8 @@
   },
   {
     "id": "AHeLVKyN8p7BNKtZUhoJMnxQBpxkkZYDjiiNSXZ5DnW6",
-    "cets": 1
+    "cets": 1,
+    "saga_monkes": 1
   },
   {
     "id": "JAMRuCZfaCPGjJhFRXazGZLF6MAWJ2snRt584QYrrjmf",
@@ -30133,7 +30286,8 @@
   },
   {
     "id": "EobdomwXEg4PaHfxwd6ieDHPXLjqX6CGjxyryA7DDxCd",
-    "cets": 1
+    "cets": 1,
+    "gizmos_land": 10
   },
   {
     "id": "Ask4tpFeuGLF63CMeUgEgJFAVzWbMhBbeXvbzjMdxxbp",
@@ -30256,7 +30410,8 @@
   },
   {
     "id": "C2u6CLouG1Bkr7JvnNo6vubNsUYDUoMRwVMzCZeA1yEd",
-    "cets": 1
+    "cets": 1,
+    "secret_sphynx_society": 8
   },
   {
     "id": "EBgN2dCkDSywNXqn4PEwmvmP65oPSa8omZUfq9Yv6Jrt",
@@ -30278,7 +30433,8 @@
     "id": "BNjewtYuc7afxGHaBNqSgixaiVBchUuUBHz2XpT82odo",
     "cets": 1,
     "lifinity_flares": 2,
-    "woofers": 1
+    "woofers": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "8L2bMt5qQzVkKNWAQHHQP6YNwtqob1U4y79krBWZggZd",
@@ -30675,7 +30831,8 @@
     "cets": 1,
     "domains": [
       "lambastic.abc"
-    ]
+    ],
+    "secret_sphynx_society": 1
   },
   {
     "id": "BzQq9TsKcdn27FiV2HbsAw2fSX5qc4d1xaG7ZVFtgzc1",
@@ -31955,7 +32112,7 @@
   {
     "id": "C5Q5TXuWmBBeCLEZK6L3jBqwodAPH5doM9YR1LDrCuuk",
     "cets": 1,
-    "saga_monkes": 4
+    "saga_monkes": 3
   },
   {
     "id": "97ojv2duFQxi318EQxs9oyoRZDQXY46FcwJvAJhjuf9Y",
@@ -32418,7 +32575,8 @@
   },
   {
     "id": "DwW6SY9iDFNVX1dFe4hgeN1vdA1hgseUdcBkCLxjMTjC",
-    "cets": 1
+    "cets": 1,
+    "secret_sphynx_society": 2
   },
   {
     "id": "9cLY4MzSao5TuynYb1HWR7G8UsePBeK2AsSZNUjW7TfM",
@@ -32576,7 +32734,8 @@
   {
     "id": "8B2tArEWo35YqqHKv4caDztShMBPP4FK8o8XmuEmiKe7",
     "cets": 1,
-    "sentries": 1
+    "sentries": 1,
+    "gizmos_land": 2
   },
   {
     "id": "GRkxYNKZCdv91E8zLd1KH9Gjoz34pQw1wanbu4PFRys1",
@@ -32679,7 +32838,8 @@
     "id": "GXAdZChgvHLgCwp5uSEkTDfHT8bmPYK8QibbtK3w2nZ1",
     "cets": 1,
     "raccs": 1,
-    "sentries": 1
+    "sentries": 1,
+    "gizmos_land": 2
   },
   {
     "id": "FBf1J4Ljadu7oFwcxm2EJFmJewkiLGjVFP7uh4DeuR24",
@@ -32793,7 +32953,8 @@
   },
   {
     "id": "D3fnMfBaRDwzoXBkY6EKEvFp3RaURk8Gzi7qcbHRpgYT",
-    "cets": 1
+    "cets": 1,
+    "gizmos_land": 3
   },
   {
     "id": "CY8u3GLbm8TwCpHi3GiPpNaFqbYScHVuR8NWST4mxDV7",
@@ -32819,7 +32980,7 @@
   },
   {
     "id": "DgUjbDgYaUqWWy3W4836n5Eq3cRhXbaZMXXF1qcfiNnR",
-    "cets": 1
+    "cets": 2
   },
   {
     "id": "6i7kJCH9Rpwko4gimnJtvHWLfJ9MfcgkGb7GTftr14Ep",
@@ -33023,7 +33184,8 @@
     "cets": 1,
     "domains": [
       "im.bonk"
-    ]
+    ],
+    "gizmos_land": 5
   },
   {
     "id": "71SmkRQBN7U4Qh4gdfwR3taon66ViuGtLwTEVpfcYFbN",
@@ -33036,7 +33198,8 @@
   {
     "id": "AGXCjeXdqBSjSgSXShqZqsQiCC3PoqMLvrtAwfVoEsf4",
     "cets": 1,
-    "chads": 1
+    "chads": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "Ho7FjaPBRAbYSD5o646SWgF5NR4cJsBWsKrc31cBiTfL",
@@ -33520,7 +33683,8 @@
   },
   {
     "id": "3MLRvo7yXpXZ6v6YoWdjnP1yB7fi2LPaGg5KRhXEYQbE",
-    "cets": 1
+    "cets": 1,
+    "degen_royale": 1
   },
   {
     "id": "36RNMvFBeiVKt7GDy6FLwXbB7FxnoWCW7zpqbjP8Wckh",
@@ -33541,7 +33705,8 @@
   },
   {
     "id": "Bk3Fgv7NyurxN8RB2mkpbM4b6TkGJA89bJEGQ2B6Db4a",
-    "cets": 1
+    "cets": 1,
+    "gizmos_land": 1
   },
   {
     "id": "DU8DvgVAKDgD2xMaSvYgwejXaokC83eYRJtKRujGWshM",
@@ -34032,7 +34197,9 @@
     "domains": [
       "ronswanson.abc",
       "we.poor"
-    ]
+    ],
+    "degen_royale": 2,
+    "gizmos_land": 1
   },
   {
     "id": "6MD7hgasPojgC5stiG6yVGtEErYk4wdZrhBfQz9qzRQN",
@@ -35019,7 +35186,8 @@
   },
   {
     "id": "4ukmwNHgByy91v16bY5M8epjX7GVDTisKRKH86Vg8Mc5",
-    "cets": 1
+    "cets": 1,
+    "gizmos_land": 1
   },
   {
     "id": "F1Z6gsEyZT5vNjc6Qjm6Mbji7S18LK8UqzgdqLiXd6So",
@@ -37008,7 +37176,8 @@
   {
     "id": "Eg9Z1bhtqY2sjuLB72k9tLNWrjUHY6FsZuCb8CVKxey6",
     "chads": 52,
-    "solana_surfers": 18
+    "solana_surfers": 18,
+    "degen_dads": 1
   },
   {
     "id": "DUqs2Nuwf5L66FPjcX7CpScmp2Vg6n39vxffsPYhaAtk",
@@ -37027,7 +37196,8 @@
     "chads": 44,
     "domains": [
       "matt.chad"
-    ]
+    ],
+    "degen_dads": 1
   },
   {
     "id": "6ipj8nAvbPLhwhTpoHd74LXcf8zMVZmg3iRgpNscxgKT",
@@ -37118,7 +37288,8 @@
   },
   {
     "id": "7LZ7epD7Gfm76UBTDQKih3eeewbQJfKJiT2Zs1HkedXz",
-    "chads": 24
+    "chads": 24,
+    "degen_dads": 1
   },
   {
     "id": "FoY9X8PazUKphpJPyn1x31MitVpf2QGyGie9ArKaZWL",
@@ -37150,7 +37321,8 @@
   },
   {
     "id": "GuYtBMQxSoLmMC7cMSZ341F9958k7oGGkv5ztsU985SX",
-    "chads": 18
+    "chads": 18,
+    "degen_dads": 1
   },
   {
     "id": "9dkoJVMZ7pgx8XN8dNF4r1PNMBKHSHhAoCXcKfNSAP5A",
@@ -37306,7 +37478,7 @@
   },
   {
     "id": "39bMmudaFnmwUtcugxDT9SK9wN2LcGjV3n59WdmMKaX5",
-    "chads": 9
+    "chads": 13
   },
   {
     "id": "F1uwDE6NMh2vmGptaM5fJm6qQf5szhtY9Y8FWj3g9QTf",
@@ -37697,7 +37869,8 @@
   },
   {
     "id": "9S426eJi7Ydzc3bawR7DpxbMcGUuNvvj8ru2UePWr4x4",
-    "chads": 4
+    "chads": 4,
+    "degen_dads": 1
   },
   {
     "id": "9oTLsobuCqsjZLcTB4McmN2gnKbC5hRw6FsAHKr2smK4",
@@ -37805,7 +37978,7 @@
   },
   {
     "id": "8odKtCk9rAqDAwzkAdV7BN4WvnoetVdqsC3MGPSQddYt",
-    "chads": 3
+    "chads": 4
   },
   {
     "id": "3DJVHEvXwRLpCqN5p5W1eYwCQ1ZkK8EySx9qja9w1im2",
@@ -37878,7 +38051,8 @@
   {
     "id": "EtWNam7b9i1jU87EVRZPzpbZVBab7MpPdivZ6oHy6BcN",
     "chads": 3,
-    "pesky_penguins": 3
+    "pesky_penguins": 3,
+    "gizmos_land": 10
   },
   {
     "id": "6QzzHiTwRUVWUuPwCX5J2tKb9Xf7DhSd8kf6ibHqwqJr",
@@ -38156,7 +38330,7 @@
   },
   {
     "id": "AvJ9yCuAVSVWirnwjpdACUh6pgGZpnisPP4gPzkdv3tT",
-    "chads": 2
+    "chads": 3
   },
   {
     "id": "5tXpNxFEYiiyLuXjrgsFY3FkvYrLM1J52kiQN9tMjTds",
@@ -39163,7 +39337,8 @@
   },
   {
     "id": "5kM12nDDv6mfaL29552z49ZMU5oe72CkbKs2UDj48r5N",
-    "chads": 1
+    "chads": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "7V2K7AxhGv9YZh63G9Tar5K6t7eea2uZrsLYzix4fryq",
@@ -39495,7 +39670,8 @@
   },
   {
     "id": "HoFFumsPaa8q6RTr1vLaM5yGofq3eqAw9zf9jsrStaKA",
-    "chads": 1
+    "chads": 1,
+    "degen_dads": 1
   },
   {
     "id": "CtTzcR4qwx7j5hjXCDMt69KtHpqSJCWzTYo2iEMYf4tD",
@@ -40582,7 +40758,7 @@
     "chads": 1,
     "ordo_nemesis": 1,
     "pesky_penguins": 2,
-    "raccs": 1,
+    "raccs": 2,
     "saga_monkes": 2,
     "squidz": 13
   },
@@ -40608,7 +40784,8 @@
   },
   {
     "id": "DrSfGTvCeEozzomCigVL82MC5QcZSRy4mbP9CMPthZ8h",
-    "chads": 1
+    "chads": 1,
+    "degen_royale": 1
   },
   {
     "id": "CnosNCVYAfDsEAaRnMDFPUpuQvGnSx2ZYZbz4Z4Zj66e",
@@ -40644,7 +40821,8 @@
   },
   {
     "id": "93ccg27u1tHK1FzqoyRtaUVh3kRwbvYNJcz4NbWWSt1P",
-    "chads": 1
+    "chads": 1,
+    "gizmos_land": 4
   },
   {
     "id": "DEKivYGKdiCsLivSYwxaCggpDgvk9ibKu4gvdD5dUkrH",
@@ -41260,7 +41438,8 @@
     "chads": 1,
     "pesky_penguins": 1,
     "raccs": 1,
-    "sollamas": 2
+    "sollamas": 2,
+    "degen_royale": 1
   },
   {
     "id": "7cKgsdoyx5c9SriChdYf5zZdhbd4mr65U9JQxogHbWHf",
@@ -41359,7 +41538,8 @@
       "3737.abc",
       "9595.abc",
       "7979.abc"
-    ]
+    ],
+    "gizmos_land": 10
   },
   {
     "id": "JUjivgHz94Xq3ytnsqnU4cdc3ajCRu9kGhQzHQ2tJkL",
@@ -41403,7 +41583,9 @@
     "id": "45a6jRcsnC9yXF1zzvu2KbqFSDxdtGA3hFigoC8NZHSz",
     "dawnbreakers": 1,
     "grim_syndicate": 1,
-    "sollamas": 1
+    "sollamas": 1,
+    "gizmos_land": 4,
+    "secret_sphynx_society": 12
   },
   {
     "id": "FAEYozsZVkxhXwG1HnVJn58Ks3dff31zjtA8b3KezFJ6",
@@ -41545,7 +41727,8 @@
   },
   {
     "id": "8Lur6ZHpEfgtXcrWGBGjaXR4df7R4jw9qaRbSJLsheLw",
-    "degenerate_trading_bears": 100
+    "degenerate_trading_bears": 100,
+    "degen_royale": 1
   },
   {
     "id": "7ZCdErVezhZ4DMA59oLkwqTyeekrgt3xv1jhP5HS1U1q",
@@ -41557,11 +41740,13 @@
   },
   {
     "id": "3YbZpUUnGkaNLWEgcKcEatySY6zdV7x5NKZGCNcA7274",
-    "degenerate_trading_bears": 84
+    "degenerate_trading_bears": 84,
+    "degen_royale": 1
   },
   {
     "id": "4STvkUCohtbrBmm4JuWP8F8FxPRwg7CGwYP8QS1J4KNY",
-    "degenerate_trading_bears": 76
+    "degenerate_trading_bears": 76,
+    "gizmos_land": 2
   },
   {
     "id": "6ty4jnCsA2hhAFN7ym8VEEGvmo1XCgkC3esVKEBYSM4c",
@@ -41571,7 +41756,8 @@
     "id": "7hQyfXBXauoUNqWs9R7NQnj35CWiWnNEvtqyxUgeR74F",
     "degenerate_trading_bears": 46,
     "grim_syndicate": 71,
-    "grim_syndicate_lurkers_of_the_abyss": 7
+    "grim_syndicate_lurkers_of_the_abyss": 7,
+    "degen_royale": 1
   },
   {
     "id": "7FsJ4w52h5De1CAgSqRrRzTte6v4zVqy4Ks4JCQobXrR",
@@ -41587,22 +41773,26 @@
   },
   {
     "id": "9LXbfw249HSAcmAzRfMoufBoZYWGk4C7EDFP1ubmBsHw",
-    "degenerate_trading_bears": 30
+    "degenerate_trading_bears": 30,
+    "gizmos_land": 1
   },
   {
     "id": "GM9qs7GPAbHc1G8f7qGLNmQe5fGTY2sSXRNMMwUZ2kA7",
-    "degenerate_trading_bears": 30
+    "degenerate_trading_bears": 30,
+    "degen_royale": 1
   },
   {
     "id": "mWWsoNqDCTZLAohpxbH4hkbuvhLTPJWpTY7UNju9M2V",
-    "degenerate_trading_bears": 30
+    "degenerate_trading_bears": 30,
+    "gizmos_land": 7
   },
   {
     "id": "JSBx99kVZxAGG4sTm81wZRPMWfjn4fLN2KH8Cor1UGd",
     "degenerate_trading_bears": 26,
     "dev_card": 1,
     "grim_syndicate": 4,
-    "grim_syndicate_lurkers_of_the_abyss": 2
+    "grim_syndicate_lurkers_of_the_abyss": 2,
+    "gizmos_land": 5
   },
   {
     "id": "911MTbi97jDiqCwrtP6tDPx9FuC8HSETboTKcSfcqtpT",
@@ -41630,7 +41820,8 @@
   },
   {
     "id": "6CEtzPbWcCewMMCaNs9d7og1qERdeoQ1Fhepy419zhCH",
-    "degenerate_trading_bears": 19
+    "degenerate_trading_bears": 19,
+    "degen_royale": 1
   },
   {
     "id": "7qqH2DArViNSZ4wfCjPyfdP1iTv98Z4LpDvCDwFkYRMe",
@@ -41643,7 +41834,9 @@
   },
   {
     "id": "59MPK1LnkhD64Evb8Hw1E9zeT4WcpmGsd25sCqyYkvRe",
-    "degenerate_trading_bears": 18
+    "degenerate_trading_bears": 18,
+    "degen_royale": 2,
+    "gizmos_land": 3
   },
   {
     "id": "fVdNxGvxqFMbj68HD4x6mmaKBTBAvUSJ3rjzRGBNfFf",
@@ -41663,7 +41856,8 @@
     "degenerate_trading_bears": 16,
     "domains": [
       "cryptoschuster.bonk"
-    ]
+    ],
+    "degen_royale": 2
   },
   {
     "id": "ByK9REszeehpyQwZbCU6ndfpUhSunP8m35bvdfNrbQp9",
@@ -41671,7 +41865,8 @@
   },
   {
     "id": "88nuCLNA4bop9rwS7P7HpXrAXjxEjLzFhfkv9ojhGWxz",
-    "degenerate_trading_bears": 15
+    "degenerate_trading_bears": 15,
+    "degen_royale": 2
   },
   {
     "id": "3WqgsEfQQu1eyR7L3Cfhz6ToHFY8d9heZoFyP6Zp5ZRM",
@@ -41679,7 +41874,8 @@
   },
   {
     "id": "BVZa992V4hbixxoBApgR9ZLiMjgKT24SqCsDvYRmA87K",
-    "degenerate_trading_bears": 14
+    "degenerate_trading_bears": 14,
+    "degen_royale": 1
   },
   {
     "id": "8XCUnZ2Er44sD34xzH1iaiZTfKY7e8mAatLBvhPySm2Q",
@@ -41703,15 +41899,18 @@
     "domains": [
       "imnotfuckingselling.btc",
       "imnotfuckingselling.defi"
-    ]
+    ],
+    "degen_royale": 1
   },
   {
     "id": "GNdb7FNJfTznE3YnhA8zzzXGPzQZtqWE5uX5VuGmGfh3",
-    "degenerate_trading_bears": 11
+    "degenerate_trading_bears": 11,
+    "gizmos_land": 2
   },
   {
     "id": "Ei5x1wiMPY23ASMrzEkGFJd9pbq2A4uacLoUv6NwxQzo",
-    "degenerate_trading_bears": 11
+    "degenerate_trading_bears": 11,
+    "gizmos_land": 1
   },
   {
     "id": "FevvcbTbZKJJmbG85PUTrb2uEhpRXjVmdTiSLP9X32pk",
@@ -41732,7 +41931,9 @@
   {
     "id": "3t7GrFKEjY3Ef9dZdgqYNpfctRVkC413aN13EKx1Wwcx",
     "degenerate_trading_bears": 10,
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "degen_royale": 2,
+    "gizmos_land": 4
   },
   {
     "id": "2trBitX5BGoFhXQuguRmuHj6JiTFKUHBBAJkzikeAn6r",
@@ -41748,24 +41949,30 @@
   },
   {
     "id": "7iiwWT1Yvd18gDRX3P2c9QhArKKunnwZng81btQ3KgLY",
-    "degenerate_trading_bears": 10
+    "degenerate_trading_bears": 10,
+    "degen_royale": 1,
+    "gizmos_land": 2
   },
   {
     "id": "6E28eHz73TYiVQiKnb9uVY5UpWJq5ziM6J7TF1PruakS",
-    "degenerate_trading_bears": 10
+    "degenerate_trading_bears": 10,
+    "gizmos_land": 1
   },
   {
     "id": "BS175uA81TNooVZHMSeVswr9cgtJThkubX9BSkoUgcEx",
     "degenerate_trading_bears": 9,
-    "pesky_penguins": 47
+    "pesky_penguins": 47,
+    "degen_royale": 1
   },
   {
     "id": "J3KAkrKMM429iJRAUm2t6Gweeta8qnnEY1iRMztZTMcU",
-    "degenerate_trading_bears": 9
+    "degenerate_trading_bears": 9,
+    "gizmos_land": 10
   },
   {
     "id": "2hx9Je3RCTArTNhWJ4JYKreKxa1NPdTQqXZyBrgtUiKS",
-    "degenerate_trading_bears": 8
+    "degenerate_trading_bears": 8,
+    "degen_royale": 1
   },
   {
     "id": "8LDmTz6n5qmGW7aTM5jRbXNFfjddpVMAeNWr6u3CFJqw",
@@ -41782,12 +41989,14 @@
   {
     "id": "JDUgZFqjhUHQWrsmCGnTqbHxkgEu8zD8dnhEhRffWLA",
     "degenerate_trading_bears": 7,
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "degen_royale": 4
   },
   {
     "id": "BU8XpHexE7vJsmNXTkXL3fwmhzkirTwXo9uXbVu7Sni",
     "degenerate_trading_bears": 7,
-    "saga_monkes": 2
+    "saga_monkes": 1,
+    "gizmos_land": 31
   },
   {
     "id": "Bdz56n2b53VioBVVxSGabBd1WGZXyxEo5RN5QkQQ8yP8",
@@ -41796,7 +42005,8 @@
       "knox.poor",
       "wen.poor",
       "21.poor"
-    ]
+    ],
+    "gizmos_land": 2
   },
   {
     "id": "CS69xjgF8f9EdYcm4yzt9tfhVuPfVDQWnTbHbugBQvwU",
@@ -41822,7 +42032,8 @@
   },
   {
     "id": "CzDvEeEL8PWktErSofdDJLkE2JepnrMYQcGpY3ZRT1Ta",
-    "degenerate_trading_bears": 5
+    "degenerate_trading_bears": 5,
+    "degen_royale": 1
   },
   {
     "id": "3EtNAbxBUW5gscid6TuWTNJanMDMqVCBxod8RFp6sMQw",
@@ -41873,7 +42084,8 @@
     "id": "9fVu5HvhX2zBr1bGUYcRcxWfrGpzeCH5dsgi5aqS8W7f",
     "degenerate_trading_bears": 4,
     "ordo_nemesis": 1,
-    "shremps": 4
+    "shremps": 4,
+    "degen_royale": 1
   },
   {
     "id": "136ZT8ToDDekskoukUzC5V6tCBUXkKeedoeHcJajxi2f",
@@ -41897,7 +42109,9 @@
   },
   {
     "id": "6M78Y5bgWTsipiYszY9jMvHqGxJtzHHZkoye7kihzVHr",
-    "degenerate_trading_bears": 4
+    "degenerate_trading_bears": 4,
+    "degen_royale": 28,
+    "gizmos_land": 5
   },
   {
     "id": "DwUFyggeVHnDwKisVwXrcn6Y2uAM4ZfVijuWCjaMUsgo",
@@ -41990,7 +42204,8 @@
     "raccs": 1,
     "domains": [
       "troysballs.bern"
-    ]
+    ],
+    "gizmos_land": 22
   },
   {
     "id": "C8Qmf5cVuK6MyqEZG3gCj22SzTaxsdXx8fV6TrzYYyVV",
@@ -42004,7 +42219,8 @@
   {
     "id": "FJqB9npggS4DHpLWi4YCsSa9qj1vH7dWmz64jJezhkBF",
     "degenerate_trading_bears": 3,
-    "pesky_penguins": 2
+    "pesky_penguins": 2,
+    "degen_royale": 1
   },
   {
     "id": "3VjS7W8GA4UiQXkFW7dH76BAc3uZvkuRAoJzoMz1DKhL",
@@ -42100,7 +42316,8 @@
   },
   {
     "id": "H8jQTnXqbyZ9keygdQDmonbEN8Ttxb3Cq4cBzxGk5cgQ",
-    "degenerate_trading_bears": 2
+    "degenerate_trading_bears": 2,
+    "gizmos_land": 3
   },
   {
     "id": "8zdWydoFDkQSRZjxDYgxGWRX8UBmGD9kdDasFAEHoiSD",
@@ -42190,7 +42407,8 @@
   },
   {
     "id": "91DxbZiqtoMYeLWJoMTrfDY1HqQ76qRpMUSR2CLWx3Bo",
-    "degenerate_trading_bears": 2
+    "degenerate_trading_bears": 2,
+    "degen_royale": 1
   },
   {
     "id": "H961BDSgK6CY812uc3hdWKkS3PjbEvhrC5WgYZekSEjS",
@@ -42208,7 +42426,8 @@
   },
   {
     "id": "DGENwBtcASMQkf2iRapctH6fLoAxDZosmZWyhmZiuvBN",
-    "degenerate_trading_bears": 2
+    "degenerate_trading_bears": 2,
+    "gizmos_land": 1
   },
   {
     "id": "DTBxZPApTCCE5Cqto7V93vsZv9ZLeHnTfxtTdrC5aarC",
@@ -42256,7 +42475,8 @@
   },
   {
     "id": "Chpw2CMLVTm5yYZvdRAsCkFsDiZszJbqCMmyXcoYMDyy",
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "gizmos_land": 2
   },
   {
     "id": "8G73CkB9y4djR9pqKpDnzuPWveoK8x9daijyfjs2cDLg",
@@ -42369,7 +42589,8 @@
     "shremps": 1,
     "domains": [
       "jque.abc"
-    ]
+    ],
+    "degen_royale": 1
   },
   {
     "id": "3k4TeJUC1zQkxtmtDfT9zxBPnmLqyg2o81Jhu2M3svie",
@@ -42496,7 +42717,8 @@
   },
   {
     "id": "42288UuCeRcW5T2tnPZPwyfXaugRaBLnLK28y139yoTY",
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "degen_royale": 2
   },
   {
     "id": "3qGBjAJ9CLsCX22zUbgnybgdQobhdh3d57GuGLLQiSGB",
@@ -42573,7 +42795,8 @@
   },
   {
     "id": "FkM2LtWGTc8LkhsSh2zonS4fqJzQRipyvD6CWox8CZdb",
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "degen_royale": 3
   },
   {
     "id": "FmRnAp3u4Hgnu3hVzykbPoe8idXJn6FAGC95ghiMeP8z",
@@ -42585,7 +42808,8 @@
   },
   {
     "id": "AtVsVVeDWLYmZkLn83j6KszzsJR9yrDs43z7Uhx4JgK1",
-    "degenerate_trading_bears": 1
+    "degenerate_trading_bears": 1,
+    "degen_royale": 1
   },
   {
     "id": "9kRjvLpTpV6HhSJfPDxMfzacMJuuojnEjBqBqSBRig8c",
@@ -43178,7 +43402,8 @@
   },
   {
     "id": "7wdcV2MX6yaCYYPaiaSG6PzRT2L7RMSdpT9uzRUzm91K",
-    "dev_card": 1
+    "dev_card": 1,
+    "degen_royale": 1
   },
   {
     "id": "255qB7tHoL1o2dnHfZZaeBQHYPpCwJpRQ5RSXwUUsCVi",
@@ -43234,7 +43459,8 @@
     "grim_syndicate": 40,
     "grim_syndicate_lurkers_of_the_abyss": 3,
     "squidz": 3,
-    "the_roundies": 13
+    "the_roundies": 13,
+    "degen_royale": 2
   },
   {
     "id": "FceqDiyvfkxHtTN1QSKUDLJ6iY7VQHKbkARwcbUavq4W",
@@ -43490,7 +43716,8 @@
   {
     "id": "HZvFfeRsUep7xzQiNcsDVxfYZgwAANfVyfCCNPCpNoSh",
     "dev_card": 1,
-    "squidz": 1
+    "squidz": 1,
+    "gizmos_land": 1
   },
   {
     "id": "EJCbdHTPAMBzAr7rDiXUMvf5Vj63QAyrhLryAFzspNX1",
@@ -43926,7 +44153,8 @@
       "🍌.poor",
       "🤖.poor",
       "🌈.poor"
-    ]
+    ],
+    "degen_dads": 1
   },
   {
     "id": "6xcTtJLTWmeG7deiV21ZA3jjnZvtfBzSbvMD2EAj36wk",
@@ -45650,7 +45878,8 @@
   {
     "id": "252ukoPTZ4xM7dK6N9v1nTaN12kSuKKrCcxMsiw5ucoq",
     "doges_unleashed": 1,
-    "grim_syndicate_lurkers_of_the_abyss": 1
+    "grim_syndicate_lurkers_of_the_abyss": 1,
+    "secret_sphynx_society": 7
   },
   {
     "id": "F3hQ84c52yVXb1J7x921pEJnJXehNkxzT8VzhizbqNHX",
@@ -48333,7 +48562,7 @@
   },
   {
     "id": "ByGYEZ5WXy5FZ6htwbKKuB58RrzEm4bBVAhoftRoTT7w",
-    "grim_syndicate": 5
+    "grim_syndicate": 6
   },
   {
     "id": "GZQWhGdrL8sAfrWxNghL5tdcUwBurbSWTsJt5Epo6A5g",
@@ -51384,7 +51613,7 @@
   },
   {
     "id": "5EcJevf5bj2MKFC2ZXkKJjJtC1mpqHygUKe7AwUycnB2",
-    "grim_syndicate": 2,
+    "grim_syndicate": 3,
     "grim_syndicate_lurkers_of_the_abyss": 1,
     "shremps": 27,
     "sollamas": 2,
@@ -51582,7 +51811,8 @@
     "id": "9baWnrFhwfiKpC47WNEXLpidj3kYiRy12hRo9n8FfJUZ",
     "grim_syndicate": 2,
     "grim_syndicate_lurkers_of_the_abyss": 2,
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "HtaRgYZqWfM3suvsyGKXpsmHivXm3VjsAHGF847Pj2Q1",
@@ -51784,7 +52014,8 @@
   },
   {
     "id": "9kesvgf51ZF9hQgtSLahLF5MDjMxHEAYPzXa8QxSnHrs",
-    "grim_syndicate": 2
+    "grim_syndicate": 2,
+    "secret_sphynx_society": 1
   },
   {
     "id": "4bXpR8qyjUmzzevSCWGSwu9jCKyGFsQzAYK2J3eWaBJR",
@@ -52698,7 +52929,8 @@
     "squidz": 1,
     "domains": [
       "sn.bonk"
-    ]
+    ],
+    "degen_royale": 1
   },
   {
     "id": "3uf4G2EeYWRMuiS6vanrwhn5qHDjfq7SFCi1K3edciFc",
@@ -55585,7 +55817,8 @@
     "saga_monkes": 1,
     "domains": [
       "theherdsman.abc"
-    ]
+    ],
+    "gizmos_land": 7
   },
   {
     "id": "91t59Mc69S7mWbP8uBfhGReVwmcFguar2weXku91MAya",
@@ -56509,7 +56742,8 @@
   {
     "id": "AYayfRcq8fsMbt5zuRpn2BfNjVActcqqMcyqsqAfj1DZ",
     "grim_syndicate": 1,
-    "grim_syndicate_lurkers_of_the_abyss": 1
+    "grim_syndicate_lurkers_of_the_abyss": 1,
+    "saga_monkes": 1
   },
   {
     "id": "8KDq2snbntsGrqmENhKfBGehkEQi9pcGiPWiNrBGT8T3",
@@ -58580,7 +58814,8 @@
   },
   {
     "id": "EZrXLNqMNyNG6xwiSm16RV3jmJhE1tGWRFuwAhmT5GbV",
-    "grinders_nfts": 4
+    "grinders_nfts": 4,
+    "gizmos_land": 2
   },
   {
     "id": "9BSYe3CoorgKrWhXGeyVGzr93yiivJJtFz4zrQTrDMiv",
@@ -59704,7 +59939,8 @@
   },
   {
     "id": "HW4vJRCPTFns35LmiDVnfm7TiFJeEyhtMUQAaEmk9Uct",
-    "kongzdao": 3
+    "kongzdao": 3,
+    "secret_sphynx_society": 1
   },
   {
     "id": "CVriyx4tGwHtBHF7RNubU1faS2sN1Sm9CjY1mDiGPxSE",
@@ -59955,7 +60191,8 @@
   },
   {
     "id": "9s22TuFm1mm9vvk6m7uEJFajeg9c1pYuPmynpmWPEdMD",
-    "kongzdao": 2
+    "kongzdao": 2,
+    "degen_dads": 1
   },
   {
     "id": "6UT9UGktes5c3B5yGpJuJqs8sbkwYNPnmK8pgjwkHpsj",
@@ -59999,7 +60236,8 @@
   },
   {
     "id": "5pCYvy7y5PLvR3oVkRjT8i5N1TKcJysEzoeSgGqnxLBe",
-    "kongzdao": 2
+    "kongzdao": 2,
+    "secret_sphynx_society": 1
   },
   {
     "id": "BgiQEY2JLcvxnfseck2v9zjwRiaFFRq97TgxQfRUwZBd",
@@ -61285,7 +61523,8 @@
   {
     "id": "GdM5EWkayF4VGdc4jxwiN7HXNBP12TrJJWB6rK2A34ZP",
     "lifinity_flares": 25,
-    "woofers": 1
+    "woofers": 1,
+    "degen_dads": 1
   },
   {
     "id": "5KETLGZYMufaQJF6iGj9KPv8S2xQ7xdYosSznjdMp8F3",
@@ -62284,7 +62523,8 @@
   },
   {
     "id": "2tGBFRntcHtU1tarwZarMy9wPNM6vtDwWabTd7BftC1S",
-    "lifinity_flares": 3
+    "lifinity_flares": 3,
+    "degen_royale": 1
   },
   {
     "id": "7YQidgY3Je2ghDAidxf9Na6HuYGMspSAdN3hudajW5Be",
@@ -62310,7 +62550,8 @@
     "id": "Gm3KfULKPzTG4az9ugLQa7rJYmUH9HbzQSS1aCEeidH9",
     "lifinity_flares": 3,
     "pesky_penguins": 1,
-    "thugbirdz": 3
+    "thugbirdz": 3,
+    "degen_royale": 1
   },
   {
     "id": "E8XXTCwwZKYy2aK4rEgdAfHMtEh5gxEzWssfxi7BNSmC",
@@ -66018,7 +66259,8 @@
   },
   {
     "id": "ES5TFzkyXAMSsBMiTErXUDobiQcyu3SwAaa4afuLTZJ5",
-    "lifinity_flares": 1
+    "lifinity_flares": 1,
+    "degen_royale": 7
   },
   {
     "id": "6jQhabQe6fF4FXwq79oDxHPLAAXJGM89f8LxnAPd6EZr",
@@ -66563,7 +66805,8 @@
   },
   {
     "id": "5JFhHuc3grAGVmXmorCqSTfpCX1LBXkceCzzPxthyX6k",
-    "ordo_nemesis": 1
+    "ordo_nemesis": 1,
+    "saga_monkes": 1
   },
   {
     "id": "DXhBzMjE3yPLtbP61KricqkMqmmJbYxeXJkjo5SREFUt",
@@ -66775,7 +67018,8 @@
       "krtv.monke",
       "returnto.monke",
       "1161.monke"
-    ]
+    ],
+    "secret_sphynx_society": 3
   },
   {
     "id": "AHefd24g3uEyhBdSMrtRDQrM93sJvrjLjZVd85YcMYjd",
@@ -66983,7 +67227,8 @@
   },
   {
     "id": "98sk8a9WyCrXWGitDbDmg3Y3S3nLPa2JCWQfqtM4C2qQ",
-    "ordo_nemesis": 1
+    "ordo_nemesis": 1,
+    "degen_royale": 1
   },
   {
     "id": "6z793ShZEZPWYa1PQrBheL9BNPezQWr4G3y2cyLJvnrm",
@@ -67024,7 +67269,8 @@
   {
     "id": "F8owpRdVD2GrHc3CKS5ySKpi5kPrBp1JEKP436LrPepn",
     "ordo_nemesis": 1,
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "degen_dads": 1
   },
   {
     "id": "DbN1rbwrdBT8H3wm2fYeCV7gzU6iSGmP6E8SzrBJ6s16",
@@ -67152,7 +67398,8 @@
   },
   {
     "id": "7ugegoXh9hq5astjfkJwHR7vFW16kKzYqWGZ3fED8NNb",
-    "ordo_nemesis": 1
+    "ordo_nemesis": 1,
+    "degen_dads": 1
   },
   {
     "id": "BPR1HhWwytjsRHuELtK86m2BLqwvsQAYo1smLDSaa2Xb",
@@ -67427,7 +67674,8 @@
     "id": "GXh5bfD2Dd5sMJEG37F9oVCDHYGUrHhebngGg55gLbop",
     "pesky_penguins": 12,
     "saga_monkes": 1,
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "degen_dads": 1
   },
   {
     "id": "4nXUJjMg8QArTzUp2as3WNQRK4HiNXa1zFsmf5kisXuB",
@@ -68049,7 +68297,7 @@
   },
   {
     "id": "8cnUY37i4rHNwS7J9ezATGR38p1nBQ3Yj1RochCU9v1c",
-    "pesky_penguins": 5
+    "pesky_penguins": 8
   },
   {
     "id": "FYMkMEhB72m9TtuyWiC5SWNVdBNrRm6PR7dDwKR63pGp",
@@ -68809,7 +69057,7 @@
   {
     "id": "AFro6PGXoqEZTH9ySHuTQ2B21zHWxHJoFjfzJdMV4387",
     "pesky_penguins": 3,
-    "saga_monkes": 3,
+    "saga_monkes": 5,
     "shremps": 2
   },
   {
@@ -69241,7 +69489,8 @@
   },
   {
     "id": "95TrE1EqeHDRz6fY2KkfwLMp4KmuSGzDseddFYqWHvRX",
-    "pesky_penguins": 2
+    "pesky_penguins": 2,
+    "degen_royale": 20
   },
   {
     "id": "3wYeVvVMnfbVipLjUJBDctTUxhNhNyS2Jr5rHxnpJDR1",
@@ -69308,7 +69557,8 @@
   {
     "id": "JB7SYpAHpHFbinEF747DY4wt18UqUgRM4Xi3Z9vQuZiL",
     "pesky_penguins": 2,
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "KYLiExZmW4QgA9j773C9m4JS7nns6L1XtZ4jbfdZcp5",
@@ -69601,7 +69851,8 @@
   },
   {
     "id": "6ny8vzuCpVuKd4Ei2CY9HWj8k6tRcVEULbmtjE8zHFqo",
-    "pesky_penguins": 2
+    "pesky_penguins": 2,
+    "gizmos_land": 2
   },
   {
     "id": "8hbJB13TkukY8RdofLpC4qhNaqd2iRYifQ7YzuafkLYP",
@@ -70899,7 +71150,8 @@
   },
   {
     "id": "FsT84VhfRcrapysDRtyDHuARGdTsR8fqEMqtrxFqx7ar",
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "F1xEvcHgdjbE1wYsmMcPv8jKGUpwuDbbgt5cQhmC9ZHo",
@@ -71317,7 +71569,8 @@
   },
   {
     "id": "GUkRs2gEr8jDcdi7kCd9mWffUxRLUPeJpfsKEWKVALdy",
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "gizmos_land": 9
   },
   {
     "id": "5B1BR67aPuzGbk8LZtqL6sq4w5Ntp5tUDMUgR59SxFvk",
@@ -71492,7 +71745,8 @@
   },
   {
     "id": "51vnbpE2Wc5xwMDA2wk4z4RUBQ8sfF2WUbfSac3RVBqw",
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "DcTJMRhvZSLEjGgKEN39sXXHZ5YLUxLWgD7MUfKd3Cgw",
@@ -73455,7 +73709,8 @@
   },
   {
     "id": "3yUYfnh1kgfnZSXid7QR5oYtmg21pArT7ixXxUQkywYm",
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "GHpAHfbzx3gcLMPPxXvdsWjHGvSKMmKyfLriuXGuTinJ",
@@ -73680,7 +73935,8 @@
   },
   {
     "id": "VLawmZTgLAbdeqrU579ohsdey9H1h3Mi1UeUJpg2mQB",
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "9ewKpyBqjp8WCtndtVv8W8gwJG7Rerm62ZeMHjXYeZew",
@@ -75354,7 +75610,8 @@
   },
   {
     "id": "DYn3Xkx7PGtVoZiooxFGh5kHPawp3SM4uW94zBFVqKkN",
-    "pesky_penguins": 1
+    "pesky_penguins": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "hb67mHSbmMhRAmRLBp4wQ5GYLXMCdZk4cUAJVbDKQiq",
@@ -76680,7 +76937,8 @@
   {
     "id": "Dhb2wVkE4CGSY4LZWSHczveS9ya9kVgf9WAifXPH8e87",
     "pesky_penguins": 1,
-    "sollamas": 2
+    "sollamas": 2,
+    "degen_royale": 1
   },
   {
     "id": "FE1FKUWAtDVsDaaaLRKSLQnqJhUTHxsZhuvABQtrjp7W",
@@ -77018,7 +77276,8 @@
   {
     "id": "4Tcyovv5CVpEj7YzqBaiPptBdA7nVSXGCWXTSJZK3w12",
     "pesky_penguins": 1,
-    "sollamas": 1
+    "sollamas": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "6bcnuPbVDknksYUV5u8VUkjwk6JdWguZ7EbkCWb34ktG",
@@ -78962,7 +79221,8 @@
     "id": "4hxG2guLCosgVEmMwj6fKett5Vb9635F7cQn5rwkdmsT",
     "pesky_penguins": 1,
     "sentries": 5,
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "degen_royale": 1
   },
   {
     "id": "FjXiWEGeyoer64HdoSnL35tY6M9WSvNMoAMy9sDwP1KM",
@@ -78979,7 +79239,8 @@
   {
     "id": "8GLfVCq5gxCbr4tn39AcV6TzKXExXR2uijLPNvebQzXK",
     "pesky_penguins": 1,
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "91NrESPvZXzteFUwfvJX9XBVvrwLJdpM4ewkqZDPwYNw",
@@ -80488,7 +80749,8 @@
   },
   {
     "id": "EwoQHdCJwnK6m3Cu3mLnbmk8zk6Dm8vvARmoYWiyeYXu",
-    "raccs": 1
+    "raccs": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "5sTjiRMCoRe7Lpw4Cnw7NSmPWzw1pKCtbmidnMZ8Qj9e",
@@ -80947,7 +81209,8 @@
   },
   {
     "id": "3iC9QmrmMydkvdQETd83USSyFALZdnYZNGghSPkFgRqD",
-    "raccs": 1
+    "raccs": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "5agG1oXw1hcq1Mou1BhzFFdS8QtnQasCMfchnTNJ59v4",
@@ -81036,7 +81299,7 @@
   },
   {
     "id": "BvJgurwac2Sp5owaDduzp93NNNDqnkRks7THSrihWqCs",
-    "raccs": 1
+    "raccs": 2
   },
   {
     "id": "63Kaxzs8BxXh7sPZHDnAy9HwvkeLwJ3mF33EcXKSjpT9",
@@ -81243,7 +81506,8 @@
   },
   {
     "id": "9AihNo84zvCbJNPH6aceCa3SuGDCJZrRuJ3XR1SypZ5n",
-    "raccs": 1
+    "raccs": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "4DFgq561xthzFjvCfAwJW4zfNRnNm9U4DqkiiAhnmFv1",
@@ -81286,7 +81550,8 @@
   {
     "id": "FKhNzgSY8ZU12ydREfNGks97ew7dBgyRu2CWhrwnVZEy",
     "raccs": 1,
-    "squidz": 9
+    "squidz": 9,
+    "gizmos_land": 2
   },
   {
     "id": "HRf1r83VcuPr1RmApz4Fg27kZPY2jiqU4crodCxqF9KL",
@@ -81527,7 +81792,7 @@
   },
   {
     "id": "CR6QZwmhhHxgp2QD96JdkSVqsRPwYRcVGMnCGYiTQNDf",
-    "saga_monkes": 52
+    "saga_monkes": 42
   },
   {
     "id": "EdpcdGbwG1Z3hcWMpvGjDpqenT5mwecQ8DFvT5iBFe7M",
@@ -81535,7 +81800,7 @@
   },
   {
     "id": "auPZSAxgnBy6DFVnTc9yHdp4WjNEu4tjNKkPtPUyy54",
-    "saga_monkes": 43
+    "saga_monkes": 49
   },
   {
     "id": "HV71PfCQwVEoJGiuvwrffJ1iVLZiAGM165aDx7LLmKeA",
@@ -81547,7 +81812,7 @@
   },
   {
     "id": "58Dc6iEDW1drqxHu1mcautSi8ckshx8rE4K2qSNPjND4",
-    "saga_monkes": 35
+    "saga_monkes": 29
   },
   {
     "id": "8McVhmNjsYSkwQ34QXJb2ADgLWERcHcpqxSzRZUCRZfQ",
@@ -81579,7 +81844,7 @@
   },
   {
     "id": "FoNprxYzYmwnYzhM964CxEHchhj17YREieJtSAXg9FMU",
-    "saga_monkes": 21
+    "saga_monkes": 33
   },
   {
     "id": "DXZQs9TvuqcdfZpnyewtJSGQPRudoryRoKm1ZrXS6jpj",
@@ -81587,7 +81852,7 @@
   },
   {
     "id": "4gssWvu7Cx5zKLKdcRWo3cFiBR87tBHtn7gopcqptt9e",
-    "saga_monkes": 19
+    "saga_monkes": 16
   },
   {
     "id": "CybB3S31khSiYa7CBdzrn7jVDcdqEUxHQait1oBKUbU8",
@@ -81610,7 +81875,7 @@
   },
   {
     "id": "925KRepdZndgoXwifzqd3aE5yQDsEGbuHVrKSGLe15c",
-    "saga_monkes": 17
+    "saga_monkes": 19
   },
   {
     "id": "46KiU5jAAvrY7oEmtgFdKsLLPL1RfTQsKySge7SQPxXu",
@@ -81634,7 +81899,7 @@
   },
   {
     "id": "DYZdR88LEJwyzboCfBUwRLBYduDnZhSFWTPyoembSRHj",
-    "saga_monkes": 14,
+    "saga_monkes": 15,
     "domains": [
       "monke.based"
     ]
@@ -81722,7 +81987,7 @@
   },
   {
     "id": "6iG4Z7CVpQggE2b4Fzt4zsBuV3wSZHhWaXmT1fDdECDk",
-    "saga_monkes": 9
+    "saga_monkes": 10
   },
   {
     "id": "HsfT6TexAxcaz2c4m8Yymq1kdPn9yxgdCCgUKdVZu2t8",
@@ -81730,7 +81995,7 @@
   },
   {
     "id": "AiHJhoka9qKEhFzxUfPfBk5DzknA7Ak9oPevvwjLGPCk",
-    "saga_monkes": 9
+    "saga_monkes": 10
   },
   {
     "id": "G5cEfEsG6jofH8WHbYLZs7Y4194UUkDWUsXnxKKvT7go",
@@ -81782,7 +82047,7 @@
   },
   {
     "id": "2vt8WeVNkraxey49jp5FPfseKFjBtHfGw238R3WfKHnq",
-    "saga_monkes": 8
+    "saga_monkes": 5
   },
   {
     "id": "CDu9326Zk4Mp2yvVYTUdH4DbB6AjBxKxMkZYwY9gt3tD",
@@ -81802,7 +82067,7 @@
   },
   {
     "id": "419CXEtBSroyRrAQdEd7AkA5PbJVWQxqmPqbJWgmBfF7",
-    "saga_monkes": 7
+    "saga_monkes": 3
   },
   {
     "id": "4H32QNst5R1W65jkdsENcMeKftzLmyJ5D979fqwHGeZi",
@@ -81822,7 +82087,7 @@
   },
   {
     "id": "B4if1wXRUDscN3eLCvBiuj1CRVZPcNkAb2xkVrstbA4F",
-    "saga_monkes": 7
+    "saga_monkes": 8
   },
   {
     "id": "J3DdEZxPHuasWHQ6HxXiMXp2CzHpMDKbTMsbH8LSg3vR",
@@ -81846,7 +82111,7 @@
   },
   {
     "id": "Fb5f1AYeGWwsX7SBM7gkueW53a6yXi6HJ1hPxG2aw9Dd",
-    "saga_monkes": 6
+    "saga_monkes": 5
   },
   {
     "id": "2wiCNGKDMHHqXKuS9iZQDa2myMToBrTH6ctZ8LTrFebY",
@@ -81976,7 +82241,7 @@
   },
   {
     "id": "FURdkFomTfRrBmxG6BC5KD9mW2y5Ecs6qEu4Nb3Xs4fc",
-    "saga_monkes": 4
+    "saga_monkes": 2
   },
   {
     "id": "8Pb7ca9eude1BdJarYDv7P6iv5w8wqPQ4mmb2NYiHrQH",
@@ -82036,7 +82301,7 @@
   },
   {
     "id": "5Zmrdto1EX6wdjKdzTMdVDqJg2eyYZPzcMZ9AVUsmAjx",
-    "saga_monkes": 4
+    "saga_monkes": 3
   },
   {
     "id": "2kCfDPtaGyccCabFHgT32W4t99myz8iPqKMGtYYS8ziS",
@@ -82190,7 +82455,7 @@
   },
   {
     "id": "HfGu93QEozPLGJbooqfDHdgNPRU5dgsRvCTVCp4cQV4j",
-    "saga_monkes": 3
+    "saga_monkes": 4
   },
   {
     "id": "2wrpcSK6dfZ5CrhzfKR3YHfB92bokAmJYgUWLiPhww2E",
@@ -82230,7 +82495,7 @@
   },
   {
     "id": "ALGaF6nZfGdAjKBAgmKs5pQr9XaQqwNMA9MH56PqWZor",
-    "saga_monkes": 3
+    "saga_monkes": 5
   },
   {
     "id": "Axt724jX8XumiuRX3ZLakBSCk1h3p3scmNwE8TnfpLf",
@@ -82278,7 +82543,8 @@
   },
   {
     "id": "J831GuJtTCiLNymq4RW9bsEjAujhFvqsDNXbcHP6uxdU",
-    "saga_monkes": 3
+    "saga_monkes": 3,
+    "gizmos_land": 4
   },
   {
     "id": "4QEz8e9CTfyMCQXXrpiUEthr1XYHR3iYbE2oNFMa7Ltn",
@@ -82451,7 +82717,7 @@
   },
   {
     "id": "7zCARko7TYUEY6cyuDAAaz3K8Y8xrroPWQEKQ6tdmob2",
-    "saga_monkes": 3
+    "saga_monkes": 2
   },
   {
     "id": "BMUWvF2EEF7Wc79B6gPPpHjzncMLJScCj2agvWPu74Jw",
@@ -82487,7 +82753,7 @@
   },
   {
     "id": "3BTynXHUJHNVxjbKh1F51sMrmZvK6J8PiDYCG4u823RK",
-    "saga_monkes": 3
+    "saga_monkes": 2
   },
   {
     "id": "F92F7FKVw43U6YdNBrUVso7K66Srv414XdYpfAaf7QZA",
@@ -82560,7 +82826,7 @@
   },
   {
     "id": "ubPLKUePYtYavFHhprZ8BRjYzKG1p3H9NiBVtBdJEL4",
-    "saga_monkes": 3
+    "saga_monkes": 4
   },
   {
     "id": "26bV1aHvy42tGgLssGuW4byyGnUN8jrZSBwCTEZ3QrB6",
@@ -82576,7 +82842,7 @@
   },
   {
     "id": "BGGhLQ8A5FBLwsCeW9ukNaUsiLMiNHb7xwC654WhgbtC",
-    "saga_monkes": 3
+    "saga_monkes": 2
   },
   {
     "id": "59mbhGhEMmT4cKEuerpBAiMsN3ACTCsqm5QDVWmKoMrw",
@@ -82601,7 +82867,7 @@
   },
   {
     "id": "GQuuR7UUpqfmySvWSChwRdCJUq4ifboonputiM8Amg7D",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "DA1FyFGq1PUZ8GZ2MaS7n5Ya6QG9MUZ96jWo3EVXPRXi",
@@ -82709,7 +82975,7 @@
   },
   {
     "id": "9fnFhqqYbNpXCayv1eHjb1FeiBTLYpNnUeMDGYZoQzwn",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "FPDs9Y9MVHCddbbzPjZmzyTTG5y2eSuQfAMC6LA5jezB",
@@ -82806,7 +83072,7 @@
   },
   {
     "id": "Dzma9FM16mhvHXyhc5XNuKGq7UdgoNN3KHVcRVUDFW7D",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "J1z2Wi6BLaT86rzkSCw8TxkTmrLWBAwzXXcU7xZBuBcV",
@@ -82818,7 +83084,7 @@
   },
   {
     "id": "9PgBNhVKg1to8mpTX5HuwxUqjXyb3ThXWLzVPe9uGRSY",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "58wzU3w5Yxk6D7mBvHZj2uAPQPPJ9qY8SA4TcEDbamLk",
@@ -82854,7 +83120,7 @@
   },
   {
     "id": "4mdWTpGaZvgfYA1Togfxv2cy1RcJQ2LeAHoV9YCoRt9E",
-    "saga_monkes": 2
+    "saga_monkes": 3
   },
   {
     "id": "CGEg28P2JdLXxyGc28it7rynfWN3R5uoshChoXigW993",
@@ -82891,7 +83157,7 @@
   },
   {
     "id": "4jvJMGgLqwP25CE9NH3HhkQWrCjG3K7Uxr27szxokJJk",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "EW4PECsgbjLogZhGb4hnEq6zyK1JC7Wd151MJQkTbg3y",
@@ -82899,7 +83165,7 @@
   },
   {
     "id": "5AgWgZJrh3ZwKsueWstUDA85sXAcffMbWmV3xsuRLsv",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "G2MkeNcyiPjpFrCaHLeKinzos4aibS96py8FeatkZ34C",
@@ -82915,7 +83181,7 @@
   },
   {
     "id": "7KpiHZGW7ueEGWvRkdHvzFuRBKEH3BEDrDuVWXBRnHx7",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "7Gfq318dHT9kKDbi8oNbRJWi7DmVyThDzsr2d71eQHGY",
@@ -83154,11 +83420,11 @@
   },
   {
     "id": "3qmGPv4rodtvUYmovfbzuDwzRK7a5W2hW8SKKRhfhYSy",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "3A6TycMT5qNfJjDvff2nKruYG2V4t5Wdo6g3uG1pszbE",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "C4XB7pvugjZXYH33zGmgEzinnDAiBMo1ZpQMDfgWaARH",
@@ -83178,7 +83444,7 @@
   },
   {
     "id": "4Vk34GUk9WaagrnuwZ9rWkJ93ZtFP2gXMAxYctn24cB6",
-    "saga_monkes": 2
+    "saga_monkes": 3
   },
   {
     "id": "387Bsa7ckTb797Xn75VeA1T6tBtvtVJw8epDDgc5QJEx",
@@ -83202,7 +83468,7 @@
   },
   {
     "id": "G1bzC9zJkH9RtfhZXfUJEv7jnJKWJs4SwhBLuZy7kNi7",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "2HH79vUF7gxwL4gRw33VN7Q7j8fC5jEVGQmuppqdKyMC",
@@ -83305,7 +83571,7 @@
   },
   {
     "id": "Ab1f48FJ5A7PYpXr7BdjgHqdvy6boMMtP5EoBbyknmsA",
-    "saga_monkes": 2
+    "saga_monkes": 3
   },
   {
     "id": "AYGZ2iRMzUpiV3fYcJ1C2q2d9fyXzdoTAFevsrzAJS2X",
@@ -83438,7 +83704,7 @@
   },
   {
     "id": "CR4nSWZ8e1CXrNubbjitCoD2zEEqfVhSF8p3oPMuHxb8",
-    "saga_monkes": 2
+    "saga_monkes": 3
   },
   {
     "id": "nveARneVtWKAA26bQ2nJhTKDSRYwSUZKhAnL2oEfpyG",
@@ -83486,7 +83752,7 @@
   },
   {
     "id": "buLiHwtY4SSQ4FjCXDL96d3F1K5r8HfCy94rknpzF6Z",
-    "saga_monkes": 2
+    "saga_monkes": 4
   },
   {
     "id": "2f4MNSakhGP6uAaSSs8mneUkji8yKCnzZ1oFAdfPvkah",
@@ -83554,7 +83820,7 @@
   },
   {
     "id": "AVwDrD9ySocQrwmbC24zUu5V1a62ej6g36CaGanwdWRE",
-    "saga_monkes": 2
+    "saga_monkes": 1
   },
   {
     "id": "4s2ugnfBWwcTQJbqGbi58y6AgaFhZNvQa5fSe8EnAFKM",
@@ -85399,7 +85665,7 @@
   },
   {
     "id": "C2Jhhwx33HiHcVZvP1LaZnZdtmkH8F5GtaA7WFfPo3oa",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "EatUbeyU2adVixmBSUQDfPjjNScMsQtraWS6SWwaZmy7",
@@ -86760,7 +87026,8 @@
   },
   {
     "id": "9ixHpvQJmVFznK3wu5VCLqicdvWpvk38RUKFQnTbaE2v",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "gizmos_land": 6
   },
   {
     "id": "HMbjYg7pMeJmP8niEmNuvUoLyexyVksZE3d1SYw75jTJ",
@@ -88646,7 +88913,8 @@
   },
   {
     "id": "orwjARLPPzgiGWZd6PZnT6TTHG2Be7mx4NmeyUkdjV4",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "secret_sphynx_society": 7
   },
   {
     "id": "ChfCpWZWWoD478ALJcaeNjGvizndrpi7LgEkfty6v9Mr",
@@ -91295,7 +91563,7 @@
   },
   {
     "id": "ED76bASakAnRZ1Lrz6f6Bk3pwXeRLCRbHGfM2rbcw7Jq",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "62kJLaLpWCibhmMS9YE1DPpfzFpXv5KeUNF5N4yzNmrs",
@@ -91575,7 +91843,8 @@
   },
   {
     "id": "9v7YGPB3H2z8GKqNCVhrxemsBuwLksQgSErWQJSgeHu8",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "gizmos_land": 1
   },
   {
     "id": "4AUe792sbqvoM4cDNvqNFze33sn7GsRtVV4sNr1hTTaW",
@@ -91840,7 +92109,8 @@
   },
   {
     "id": "stoog8LBUSAsSqDN8y7LvCX22ZFonQVSHbhg9jNMS9s",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "secret_sphynx_society": 15
   },
   {
     "id": "3fkb9VBajYditLzdDtgMb8zM4Df3SLdWsUc4UyrVkcWU",
@@ -91964,7 +92234,8 @@
   },
   {
     "id": "GFtxzYYA4NCqcq9GoqLkcMrUNRVGgRUQgNakvPLi7Fan",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "gizmos_land": 2
   },
   {
     "id": "5wJwMtSnbJxc2SQWLAqvTb1G1EQoQnzTv8FbqqSuh1WH",
@@ -92465,7 +92736,8 @@
   },
   {
     "id": "7JBXTEyaxtDVf881CUcJ1P6mZ4zJRTKiQEAjmBEjWZgb",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "gizmos_land": 2
   },
   {
     "id": "99qoMTebE6feAQScRBhHu5EnXfQF7BEwmiCuJarBdmxz",
@@ -93587,7 +93859,7 @@
   },
   {
     "id": "94ZN3A2CWHM3Xbs1kWSkvfJw7MWnJZyTzarnWBjd1v8X",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "HWGmKb9QHoMCA3SUQcJDQyP1Mgg9y5oia9GEgxx2thcr",
@@ -93947,7 +94219,7 @@
   },
   {
     "id": "3at7SDaqqZ2zvd87Hw4odG6QodLMMnUbbj5353YX1DsR",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "FXtDBPLYebM2ivNi9m4tX6YnsDm366WpyYU8oHDxooR2",
@@ -94723,7 +94995,7 @@
   },
   {
     "id": "21b2NXeX8TFEwNVrF4YHdZfZAdshTZGQeFhLyQHnR5bQ",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "4RickTWAxoi2BqtrDFhFsmiTQd5C6gVv726DexnZim8o",
@@ -95180,7 +95452,7 @@
   },
   {
     "id": "4NKxxo2AxUSoqh2YDerChDaV2xSSoY8cVKgBM2SidpAf",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "Hi69Tzx6vWZxU6w3kTAjY2nJcPmL4W5VdJbzLE3Gzcmr",
@@ -96821,7 +97093,7 @@
   },
   {
     "id": "3B8sKEcUoGawo7HqkFHTmbUPuPyaAgbaRygC5fPc6Dic",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "gfAWQ28zc5Dr1m1SCmXFo7jUisuNTwUHqwX8gy1R3s8",
@@ -98602,7 +98874,7 @@
   },
   {
     "id": "Pc3587NGhLQP3DKzoX2Kgsoie46F84zW5qVNAexEnZP",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "H5sS4YLH3PG8AGf23JBpWhPiL4k3t37aZRWqG2KfCtap",
@@ -98882,7 +99154,8 @@
   },
   {
     "id": "FjvVJJoJAh8PxKzsYSVSXca9zfgFZ9bbKFWnmt8biGaA",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "raccs": 2
   },
   {
     "id": "2EnCNSSHTfsWNrTMGxUi19TC117Wwi7fVNGKyMvnHGbf",
@@ -98950,7 +99223,7 @@
   },
   {
     "id": "8L8gPzuRrhvjzRZ1UZrWmn6iMUGv9MFJs93wpBGpe2Q7",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "3WZKsgqudtKu9dK3fJ4n9sYT3aLy5BCUqothJhMuQa8z",
@@ -99166,7 +99439,7 @@
   },
   {
     "id": "HYiizDz6q6ZQn15Xgae8rg9iiQEnowr5uqYRXTwhkB4t",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "3nTmaLuqaJ5rArtLMutjsGzmLdzEf4fgB3hn1N4ErLMZ",
@@ -101569,7 +101842,8 @@
   },
   {
     "id": "GthntwsenbFgwdTRFyaVZ2psx46oT1Q2w4PjUQCptg19",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "secret_sphynx_society": 9
   },
   {
     "id": "DswsBFmx9pu54ABmzphiWy8CGm2c3XUvJGQTERyfHQyx",
@@ -103419,7 +103693,7 @@
   },
   {
     "id": "3wqvB6tFEWbTqNEYg5ofNsUnx7UWEmWdmoEnnaZWAyL8",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "78svtFd2HjxiEY51NqB9AyT4MrfNk8MLdhmBGVHWzPpN",
@@ -105826,7 +106100,8 @@
   },
   {
     "id": "B6ynMa5wHcEg5wkezXxijvHfpPNynfMfoYU1WB1LvEXv",
-    "saga_monkes": 1
+    "saga_monkes": 1,
+    "gizmos_land": 1
   },
   {
     "id": "FYZYiy5MC9hhZETQCPWL82c3dzpK1C1fKZwBxVdAxooE",
@@ -106602,7 +106877,7 @@
   },
   {
     "id": "9Pr7wQNUKXpj9btR4JzhDcETbu66X4z2iWh4uomMTa3D",
-    "saga_monkes": 1
+    "saga_monkes": 2
   },
   {
     "id": "5wWx9VJbg83Lq6qxTwA6URpjDFf8BCU3JhbQQfHFPyNx",
@@ -106795,7 +107070,8 @@
   },
   {
     "id": "8KataTXcSTCZ1724RtKSst9vXzAGd1P3LHp9YDrmAq8Q",
-    "sentries": 8
+    "sentries": 8,
+    "secret_sphynx_society": 1
   },
   {
     "id": "Ae3ah1Ss9Y8Mg3ghWS3Pukry5iXVQSqeqxZHCjjf9AE",
@@ -107656,7 +107932,8 @@
   },
   {
     "id": "4memjMEHS7TjyjxyxxUTdwjiAnGZL4ncu4kjEJ42Dve3",
-    "sentries": 1
+    "sentries": 1,
+    "gizmos_land": 1
   },
   {
     "id": "BBYSGDGKkgZe7RDMDWYpuoS4N6cPTiCo2RY9ukSFLZ6T",
@@ -107928,7 +108205,8 @@
   {
     "id": "4GzSh5dzT6cy5PQQCrb2yfNah2XETRv9RobnG9Ng16Uk",
     "sentries": 1,
-    "squidz": 43
+    "squidz": 43,
+    "gizmos_land": 10
   },
   {
     "id": "HyKsjeGK6WyS71uvxaF7BJrwYXjoLXcpsT18Ae9EVejs",
@@ -108174,7 +108452,8 @@
   },
   {
     "id": "2cxkVeUmUpSExydWJkSbkcKtigsxggVKEqtzGCRKVXXF",
-    "sentries": 1
+    "sentries": 1,
+    "degen_royale": 1
   },
   {
     "id": "GFRR2vC8z2sHDgq3ZtDtRpQt89QrSya7x2Mkr3BPepeX",
@@ -108427,7 +108706,8 @@
   },
   {
     "id": "EdS75MzDPRtUjF4SK2NtAMoMvYb5ZtsaKn2SWE6TCQW9",
-    "sentries": 1
+    "sentries": 1,
+    "degen_royale": 1
   },
   {
     "id": "DnYjAsMC5RVgiJdjy7pG3Go82xa2twEqtAH2y33Drji5",
@@ -109274,7 +109554,7 @@
   },
   {
     "id": "BcmbGCLqk9ifH4jY9abDbqfHCzMAaanyQJ4zQ1ft6G1",
-    "shremps": 48,
+    "shremps": 49,
     "domains": [
       "poor.monke",
       "2.monke"
@@ -109485,7 +109765,8 @@
   },
   {
     "id": "CTe9kaDxyGimSE9ZnUabGmi1H3L2FeFCZgTXo1N3x9Zv",
-    "shremps": 6
+    "shremps": 6,
+    "degen_royale": 1
   },
   {
     "id": "BY65FqktUKA9kSZnkBLjXnWZeZDTwaggMBE5ZSn3L59U",
@@ -110442,7 +110723,8 @@
   {
     "id": "4QC6uARtuZXPbW5vyZJDs9UAPzg4h2Wb65XmASsXsZab",
     "shremps": 1,
-    "squidz": 5
+    "squidz": 5,
+    "degen_royale": 1
   },
   {
     "id": "29DRfi3dXS9s2FkTgsx6iE8EguiapXsvB2KridjALSLW",
@@ -110855,7 +111137,8 @@
   },
   {
     "id": "EiMzXJXH51RR1JzC8EYr2fTf512dE49Lag55MBmKvwZE",
-    "shremps": 1
+    "shremps": 1,
+    "gizmos_land": 1
   },
   {
     "id": "DkwaC37bcvbLbRiUibgMfcDDTH71zNmDSqzVULu3SHHx",
@@ -111415,7 +111698,8 @@
   },
   {
     "id": "4AinrkvDbTQw5ihJ4dNqn1e258uMQVrNpqmcSwziRAhK",
-    "shremps": 1
+    "shremps": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "5P6cUHNHey61mYw3iVnMkSSUbSLDM51x8ZK5EAz6BZMi",
@@ -111441,7 +111725,8 @@
     "id": "9wv2mRaMVkvdFmrxkffET4XGn37AfGjvDnXcwKqgysfC",
     "shremps": 1,
     "thugbirdz": 1,
-    "woofers": 1
+    "woofers": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "FuJZgH65PxRgrie1UwmFAyn2gHfbb6f93LUq8UvVQwrL",
@@ -112228,7 +112513,8 @@
   {
     "id": "53mFteuL794o6wLezWfsLk8hehJeh2dzvS8foeWQadeG",
     "shremps": 1,
-    "squidz": 1
+    "squidz": 1,
+    "degen_royale": 1
   },
   {
     "id": "729yHQ6HioJuA9t9MckGXSmQ5E4Mmuu6H7Zuru8zdC3j",
@@ -112342,7 +112628,8 @@
   },
   {
     "id": "4iCU823VbFu4pJmT8iuTE8fZzseUBRXoq2nUzVuMwRJq",
-    "solana_surfers": 15
+    "solana_surfers": 15,
+    "secret_sphynx_society": 3
   },
   {
     "id": "HrQJUGuZJTDCjbN7qf7X59KzxKP1tQ6HbkpmcgXodPt2",
@@ -113581,7 +113868,8 @@
   {
     "id": "4ixAFLqo6xgBtKhFaUBojWdtdX5rwN4HZUG3Y1pSxJkV",
     "solana_surfers": 2,
-    "sollamas": 1
+    "sollamas": 1,
+    "secret_sphynx_society": 2
   },
   {
     "id": "5XbdXtEwtCJodGHqVvjFRA1u1QZ37v3snHwsfJw22HAw",
@@ -116501,7 +116789,8 @@
   },
   {
     "id": "2X9UKSS1pEdE5Br7zv6wGRLi4f2Tw1jKF6ND7Cn2wJ8z",
-    "sollamas": 6
+    "sollamas": 6,
+    "secret_sphynx_society": 3
   },
   {
     "id": "HegbXqdSjyAarH8HQ8N8A8WVoQF1BDLRiK7GENaZyUCw",
@@ -116806,7 +117095,7 @@
   },
   {
     "id": "JBM32PqezW5yoUtYWF7KpoA2gTF84DEZtPMWy15Ykdb5",
-    "sollamas": 4
+    "sollamas": 5
   },
   {
     "id": "88cEcBEfm53HxtdZajTdwTh3zi5XRPEaJfRzgRqYZtob",
@@ -117584,7 +117873,7 @@
   },
   {
     "id": "FyGoZrbbo55WNE27mouR7ir5uMEsnFZYqmgcizGsL2zt",
-    "sollamas": 3
+    "sollamas": 2
   },
   {
     "id": "6un9Bz8xqkPfEdw1pAJKqfcgKPZh8ciVvfPVHNDbVNWW",
@@ -118246,7 +118535,7 @@
   },
   {
     "id": "8jYd5zPCs1yS1zwX43TCrrCgue6GsT6yvBpAZy15nKym",
-    "sollamas": 2
+    "sollamas": 1
   },
   {
     "id": "3j6C2rJjxPS3JLa8vMdiU4natuyKeM7gptyw3e6FqgmD",
@@ -121871,7 +122160,8 @@
   },
   {
     "id": "2basx27U2FLWUAQ7jWGFNQnftS4dNHuNR313arWbqC8T",
-    "sollamas": 1
+    "sollamas": 1,
+    "degen_royale": 1
   },
   {
     "id": "8Nk9mpy3ZLR3CgHPs7CsSwAeoCyiVJXfT1BYpTfY14A6",
@@ -126726,7 +127016,8 @@
   },
   {
     "id": "DDCWC5rG6EDTQx413L98rnB55ybdEphzdut1wYw3iTiU",
-    "squidz": 20
+    "squidz": 20,
+    "degen_dads": 1
   },
   {
     "id": "82guy2YUXaZpnqLgf9gVRDtTG69zvEccRKwBaPjqjCpL",
@@ -127400,7 +127691,8 @@
   },
   {
     "id": "4NqbHBxiJwR1JtqsvqouqP2WV27hN5nFcyQf9yCxZNGj",
-    "squidz": 3
+    "squidz": 3,
+    "gizmos_land": 1
   },
   {
     "id": "GFPCjopkuUH8dWjnMviRxdbPbS5Tq6uNN6TXcSMKDvj2",
@@ -127737,7 +128029,8 @@
       "garbage.bonk",
       "incinerator.bonk",
       "hkine.monke"
-    ]
+    ],
+    "degen_dads": 1
   },
   {
     "id": "A3yPatWKd79Tb9hUwaCiAQBMyzuC7R7R3fC6vYfATA1J",
@@ -128035,7 +128328,8 @@
   },
   {
     "id": "CtyChBpZ7h2rsUzbQW4BXhrq5hatNuuTn5W8wkfmXsSa",
-    "squidz": 1
+    "squidz": 1,
+    "gizmos_land": 1
   },
   {
     "id": "EZM2m8Ffg2AdUqTRiv9r5EYSJCMWwrCuuNRPBHGoK7XF",
@@ -128097,7 +128391,8 @@
     "squidz": 1,
     "domains": [
       "memetoken.id"
-    ]
+    ],
+    "gizmos_land": 4
   },
   {
     "id": "5CZKXPXDWVyLDr2z8jZpNoJ3Db19yCturgMo3Hiw7U2L",
@@ -128540,7 +128835,7 @@
   },
   {
     "id": "FF9zt95R9PQyExsvscMCxgtJoCMovSJ5JJP1xvwZ8Bz2",
-    "squidz": 1
+    "squidz": 2
   },
   {
     "id": "3dh2YDrnNg6M72k8fCFsSfZNNcnE8B9fH7YAQDCt7jez",
@@ -128591,7 +128886,8 @@
   },
   {
     "id": "EssapgUQjzkqPEWsjNedAiAtryiYwUeHo1kpLogv4Aup",
-    "squidz": 1
+    "squidz": 1,
+    "gizmos_land": 5
   },
   {
     "id": "BeGFTtnj2BPCu9EvVDY6HHVk4dBYUy9ZbxWkSTFwcKUB",
@@ -129146,7 +129442,8 @@
   },
   {
     "id": "GvugKZrUqQ8b2g3DYDJNd4yqnFTTxGLYwhSVvTpgyd5J",
-    "squidz": 1
+    "squidz": 1,
+    "gizmos_land": 3
   },
   {
     "id": "2FRC1s7eDqDSg7G2ji1tiuDdxwN8wAH2zz4U7K6hrJGd",
@@ -129829,7 +130126,8 @@
   },
   {
     "id": "EvvVAaqrg43sSLUZvyHXmJnuX98WCgxXsnvfr3mf1icL",
-    "thugbirdz": 2
+    "thugbirdz": 2,
+    "secret_sphynx_society": 1
   },
   {
     "id": "42Y5A5djQxarDtz8oHTWxGUDbkR9LTrqFM64dJadeGFr",
@@ -129965,7 +130263,7 @@
   },
   {
     "id": "8QZQyodTsoHdEKuKAEgGs2z2bbKbZbJRFHQtKbhu9qi4",
-    "thugbirdz": 2
+    "thugbirdz": 3
   },
   {
     "id": "GZd6Bowp1x6FhDBnVnuUaF4Dsjo6nusKFK1vrAFF72d",
@@ -130276,7 +130574,8 @@
   },
   {
     "id": "EJsPCMrLmku7RiupGqvkuGdwsqp3WKSqGAccGk1z4WwU",
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "secret_sphynx_society": 1
   },
   {
     "id": "Az1epSxuTwKHdqY8EPGYQY6wZXkA8NV6YbLVgFoquL8",
@@ -131520,7 +131819,8 @@
   },
   {
     "id": "2VN3tY8SZMS7UHeYANUQRhpyV8aReqiU1aBqx6sLZ2w8",
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "secret_sphynx_society": 2
   },
   {
     "id": "A7m9Gk2gYZW1bKGwspCDVpVjUyjFh3njgemuFRAEdSzG",
@@ -131556,7 +131856,8 @@
   },
   {
     "id": "5hYSju3HYzLQJRtoQiovSyjsEWUsARFDz4BTv3gcNZyy",
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "ordo_nemesis": 1
   },
   {
     "id": "BCKSeD6Tirf8EejBQEj7uxn6BAXQ5z17xg5nDP66Nizn",
@@ -131739,7 +132040,8 @@
     "thugbirdz": 1,
     "domains": [
       "0.poor"
-    ]
+    ],
+    "degen_royale": 1
   },
   {
     "id": "5tFRUcaG2sfaxXz13iDznQeksYD9n73QmGMNKpRUoKry",
@@ -131984,7 +132286,8 @@
   },
   {
     "id": "8v1hvu6zYoRb68sWej77hNq9KrrWJb4c3DeAeWUYP3QZ",
-    "thugbirdz": 1
+    "thugbirdz": 1,
+    "gizmos_land": 1
   },
   {
     "id": "C6aMi6SuYomnknwGSvZo7VvpRdjikbAUJ5oqnXv1k6nw",
@@ -132953,7 +133256,7 @@
   },
   {
     "id": "HP7a3kfZSVbCwARqkPwXr1bCakBXpw6YmbBitiTvfWho",
-    "woofers": 3,
+    "woofers": 4,
     "domains": [
       "tnr.bonk"
     ]
@@ -138620,7 +138923,8 @@
   },
   {
     "id": "HqFwZwzM5nx51GZaAoAvezn4wEMfoQx62LH17YBQbpYu",
-    "woofers": 1
+    "woofers": 1,
+    "raccs": 1
   },
   {
     "id": "7wvobLdCVoBwGc12SuWWPor3b32siUiU3gFVfm8G3zYH",
@@ -138748,7 +139052,7 @@
   },
   {
     "id": "AppZG1JXBTmstBsu64dodpzoSdixzRxzEeYe2nK4nfXZ",
-    "zilly_goat_7777": 17
+    "zilly_goat_7777": 18
   },
   {
     "id": "4e8mr7qa64wHGsqQqwohp9sHFp14coPxhhKrGhaoHTmJ",
@@ -139587,5 +139891,3468 @@
   {
     "id": "zofXU2rTTRVSfcc9FNbR9Jica3LmQ1aHh4kjCunEjTF",
     "zilly_goat_7777": 1
+  },
+  {
+    "id": "CHADvZfMKNR37yaeCx9xg2HkML5nhBQUUaPiZ2DnASzB",
+    "bozo_collective": 1
+  },
+  {
+    "id": "CYpd9cuphjV5kuHAuPh9NCHm8YfZ3VkdsTSkfrJVVzg2",
+    "bozo_collective": 1
+  },
+  {
+    "id": "EGNdqurPrDaq16RcnWhvJMpKV793baLiyrWiURxh2LGq",
+    "bozo_collective": 1
+  },
+  {
+    "id": "vmS1piiNzdw7Mpayr675ZUuH8JwNeKNS2iDjvWX3VxQ",
+    "bozo_collective": 1
+  },
+  {
+    "id": "EKaqeMHHvwvy4NQUhbvF3GcAdnbCXh2F2i4NgHdQS7SD",
+    "bozo_collective": 1
+  },
+  {
+    "id": "8dsExd3V6q84JF76xdq8vJUHgs5R4aDS97hj11XMiLoq",
+    "cets": 1
+  },
+  {
+    "id": "3WppBq1nYAuLWTd2sTZBvjFhuaZRgrcnL1hQxpnLDG4M",
+    "cets": 1
+  },
+  {
+    "id": "HJWpTA2cHcjyxUxkWwWQZxUaXymz8F6DhP9mxLLYj4S2",
+    "cets": 1
+  },
+  {
+    "id": "4G9wzkAL8oVz7KihCsY9RNUB2rd8aWmqtgJPAPPYARiJ",
+    "cets": 1
+  },
+  {
+    "id": "BN6cdQ4RBU6APUCGpcQemxW9DynPeQQKN3fTujsHcDhd",
+    "chads": 2
+  },
+  {
+    "id": "48sCzarKJ3JsVmVUUg5VGZfDuZdQJihwKZgM2XypcoM1",
+    "degen_dads": 1
+  },
+  {
+    "id": "EjR4X2BMCsfMcXnQJ55JvdJGiYmabWpbB9mpnYudnEdp",
+    "degen_dads": 1
+  },
+  {
+    "id": "BQCdNqJMPhtTtgMVSznXHeELHzZ2o6xm5PXW9RhwJyxF",
+    "degen_dads": 1
+  },
+  {
+    "id": "7hmdovzHL8mws1iu7jU7Eg8k2PCacWeVdFHTZ5wNhXBw",
+    "degen_dads": 1
+  },
+  {
+    "id": "Gj11mzihVe6t78KUSZcf61Tn5LD5AXRn21gRzr58DKTQ",
+    "degen_dads": 1
+  },
+  {
+    "id": "4nYxgt5umwwU2fdcDQGBhL4u8AN298Z8KV2HKCL2P1QJ",
+    "degen_dads": 1
+  },
+  {
+    "id": "CrtmbUg4FVZ1Y7QkyUS37h3yeZuUvAgfhMRwhyrE2wgG",
+    "degen_dads": 1
+  },
+  {
+    "id": "2HKmEGg2eeqGpWU83yhAoxM38ous4msCmAThyyjh11ba",
+    "degen_dads": 1
+  },
+  {
+    "id": "DzTmFfjJCjtpAiQt8CePyFouyeBUNF1s79ETicL6ZL4n",
+    "degen_dads": 1
+  },
+  {
+    "id": "DJAMxUxz5YmnHvqEEEk44JDuRQshW3ky37xUmk5sfwS8",
+    "degen_dads": 1
+  },
+  {
+    "id": "6jRCQUSLAVdFRKBamyGuXu2uZduqNwniytWoxh2HYaD7",
+    "degen_dads": 1
+  },
+  {
+    "id": "6dpSCv2X4StwxrkV9UGDZakb8aB9m2bHEiHrRGE7Vy2F",
+    "degen_dads": 1
+  },
+  {
+    "id": "Cd124tLfHEdghi2q4CgyQ2X35UEwTePW3HanUaXFgm4a",
+    "degen_dads": 1
+  },
+  {
+    "id": "FsA4sroiWapoFJpuVdZCtmAs3oYCpDRwDLjJ599un7LD",
+    "degen_dads": 1
+  },
+  {
+    "id": "6QMV5hUfNa1LWtyogJsK3Hjm5DHFM1TRof2bHKHd2F1Y",
+    "degen_dads": 1
+  },
+  {
+    "id": "4DxNof5gzWs1KKDjLhZqHYk7XCHRMc9gHLGDbVyqqCLR",
+    "degen_dads": 1
+  },
+  {
+    "id": "2dJmEG9a5priSWXMz4pY6XfTJXQqBdYTgyD35M1subNM",
+    "degen_dads": 1
+  },
+  {
+    "id": "8ub37tWVkhFTX2m3FqYvYvg2uVnQQCxPfZXggEMqi5V7",
+    "degen_dads": 1
+  },
+  {
+    "id": "CfzB5hBA9qYxa9oWDdwxKeYsnV4vwHw5QXZcRNgqMkJf",
+    "degen_dads": 1
+  },
+  {
+    "id": "Df4Bivx8xss1wVuYZ8QLjBWbM2oNV5LG8L6gJUvrwpS9",
+    "degen_dads": 1
+  },
+  {
+    "id": "jXw8i3HyWPrgh9AK6XqQ26YKc9dCBcNkFDm52fuWYnW",
+    "degen_dads": 1
+  },
+  {
+    "id": "HTh7iDddknKAD7NZcik9nY8HWnnCq9BiQv9bMbtPcsZx",
+    "degen_dads": 1
+  },
+  {
+    "id": "CoAqbc8AkMUHnRPA8hkfZgMDH9U6XmY2GZQuqitQ6SGJ",
+    "degen_dads": 1
+  },
+  {
+    "id": "27krhRkpc2UJAg44tUv6kTLh5o9euFnyY6dKGRAphAi4",
+    "degen_dads": 1
+  },
+  {
+    "id": "2auc2eh1RhTgvUYFqyVJkunYZcdH5QeQS6jxTNC3jqcC",
+    "degen_dads": 1,
+    "domains": [
+      "tom.bonk"
+    ]
+  },
+  {
+    "id": "3gZ7bsWobXeGiLLWdict4zN9jQvFeLU8Erfi7y9g4Rzb",
+    "degen_dads": 1
+  },
+  {
+    "id": "AWeJqHoMrmJEiZgokwsi8MVFhhvAAqZTpcQ18BsjVXjh",
+    "degen_dads": 1
+  },
+  {
+    "id": "CZn3kipcB9vhFb1rua4jXfWD1QzpJLQJTiUiGqvDGTEx",
+    "degen_dads": 1
+  },
+  {
+    "id": "B7KX6SD5hzFdgWWTqeSF8zgePXWw8hfHzqH8kemZ2PCU",
+    "degen_dads": 1
+  },
+  {
+    "id": "GYgRP6UccbkaKRZLDNjCCVSDt8mtad9P12umyNYBYmAn",
+    "degen_dads": 1
+  },
+  {
+    "id": "7SRVHKDL8YwMYiq9Bn1CwrsDtaLdPmC1PQJqv5sokqGN",
+    "degen_royale": 461
+  },
+  {
+    "id": "AVtjxHgMtZqZUmzxE5DhKnyPszbkZa71fVaV8UskmbC3",
+    "degen_royale": 27
+  },
+  {
+    "id": "HMAkZcbB5ebc8CgQR7sPkcGkFqbrupK5X2huQ4Hthfwh",
+    "degen_royale": 10
+  },
+  {
+    "id": "GQHbfaW7NyUvMidFhLRkFrnm8JLcXJ5CbXJgREvtz6vj",
+    "degen_royale": 10
+  },
+  {
+    "id": "GPDJxGX4S9DmhtzyDbdQdBd33VNw3oMjv1ET9aeW7Er8",
+    "degen_royale": 10,
+    "gizmos_land": 11
+  },
+  {
+    "id": "7853D2TzGXoehHnoVFZ65SYd7rVTTKLCdytC7gYm7boX",
+    "degen_royale": 10,
+    "gizmos_land": 2
+  },
+  {
+    "id": "AnZ8nYvgndtsBw69YraZdm98xGqnitt9udZrxTzD7ffn",
+    "degen_royale": 10
+  },
+  {
+    "id": "2XCpPxiPLTrqJhce63CwnAqR8n7otG3sNEGfpiqamuYt",
+    "degen_royale": 9
+  },
+  {
+    "id": "89Nf4BkkuTFY2JKuKkPCJKRBzeypXAQw5yBDG9VMkKEp",
+    "degen_royale": 8
+  },
+  {
+    "id": "9jQPprNqFutBw5Zo8HmvGdf5NGATtzzZvMHg2jvvKLMX",
+    "degen_royale": 7
+  },
+  {
+    "id": "DH7o77d6uV7tXKRjfag98wDKvUipersLSjyicgQuNkLD",
+    "degen_royale": 5
+  },
+  {
+    "id": "3R3kP2ev6chEA58uYahxpcahmnsVtqMYuNu4Dz9SdKVT",
+    "degen_royale": 5
+  },
+  {
+    "id": "ECy1ZhnNrAhokCb2YDhLMkksmAUzDqoT3yCwbbJpLFzv",
+    "degen_royale": 5
+  },
+  {
+    "id": "9YEdbHMQTUvHBXd7z7Q4KJGfZoL6DGPn7R9zoDyh5GhX",
+    "degen_royale": 5
+  },
+  {
+    "id": "GpFY3eAb6uZBhRngdTqndVaStkSDytR8mkVkAYEzT4iz",
+    "degen_royale": 4
+  },
+  {
+    "id": "DQPQzh9bKKLDPFCYNkHdBpbdZjSMf4vkYu4fYaJEiT38",
+    "degen_royale": 3
+  },
+  {
+    "id": "6M137ndJNjTbDeaDecsZQUZCx6wUbJeMJsQEhCq7WB5o",
+    "degen_royale": 3
+  },
+  {
+    "id": "64scLeTV86qRuFwpe7DCYLr6nuP1bDieH6M478Vc4Qrt",
+    "degen_royale": 3
+  },
+  {
+    "id": "fA1tCsdY2BfrCDcvEmUozpANLgc6r681HwLeMbSm8jr",
+    "degen_royale": 3
+  },
+  {
+    "id": "8ZnzJFzZGgfcxy2Dg6NKLVVuE1jR76Pb72aHgNjMJnd9",
+    "degen_royale": 3
+  },
+  {
+    "id": "5TtQwdrvWScZrsNxF7snYE9rNS3tkcVef4DBJsXndfRm",
+    "degen_royale": 3,
+    "gizmos_land": 2
+  },
+  {
+    "id": "3UZr12QqZF9aHH1t6BzmghjYaJ7k8z9Jijp2VzdYX1Vm",
+    "degen_royale": 3,
+    "gizmos_land": 1
+  },
+  {
+    "id": "D3jJAXFiDt4DnuTZv3ogvgfDLgmh9caGKDiFgsErt7r8",
+    "degen_royale": 3
+  },
+  {
+    "id": "3PvTFJVzdXtENShNYVskZuJgyDokpbMwowgobMJfPyGE",
+    "degen_royale": 2
+  },
+  {
+    "id": "2iBjqbaBMFpWh4fh7ZnBXZ1LKiTj5XCPBZeRnNeDCPQf",
+    "degen_royale": 2
+  },
+  {
+    "id": "2sb5YVhpbCMVEvYZfCCCDpjw3paF2dm5WEyeaHyRyZ2n",
+    "degen_royale": 2
+  },
+  {
+    "id": "BREkjhZVv1W6JjzjSdGE17EbyDA4koDoe6cVnQd6Czvz",
+    "degen_royale": 2
+  },
+  {
+    "id": "4YJgTFhDJwT5YkbCuAPvopL2x5HTkmWK9BnRuaitpGWk",
+    "degen_royale": 2
+  },
+  {
+    "id": "4FcZ9AkCipq8RSG4ozGoukcqpEq2oK6cGpHJK18yEHvT",
+    "degen_royale": 2
+  },
+  {
+    "id": "88soVfv4BDCuj2RPz6jorna4DGP8TSuMtXuihaUNG9b9",
+    "degen_royale": 2
+  },
+  {
+    "id": "EMzzBd8bC181uyFSmNFLaTPTKJwaMhvFLXDvMdPet5rV",
+    "degen_royale": 2
+  },
+  {
+    "id": "7WVHvyL6mNU54q5X46zjcLbvoUQ7gDGKVzZPNdbe5hSn",
+    "degen_royale": 2
+  },
+  {
+    "id": "ARMyVXYBvsB2oqL82HJxxj2uvLxN2nnpsC2L6mukRydk",
+    "degen_royale": 2
+  },
+  {
+    "id": "63QtdfLAUTNSbyGaxWBW7wS8sxcTdQkBAzCkmPEZ9Mev",
+    "degen_royale": 2
+  },
+  {
+    "id": "94zDxUAoCfnAnN5iSHjEvpTtUEH7cUepJVb117wuA32e",
+    "degen_royale": 2
+  },
+  {
+    "id": "FDHXcep8EGGaWLiGRfR4yZzJkJgreH4sMEvFEdYhbu5Z",
+    "degen_royale": 2
+  },
+  {
+    "id": "CsRJJvaqkGWuVLFd4EoEjPjJKmMWjsbteLtEEPSrYjvY",
+    "degen_royale": 2
+  },
+  {
+    "id": "DiDESGCE1RmN1q1wLwzW8gq3BLncXgZtfyexjd1AnMnS",
+    "degen_royale": 2,
+    "gizmos_land": 1
+  },
+  {
+    "id": "Dp6YBz3PCfdMH8EByHVkVktud9zmhwz9iAPv5jpYwPwR",
+    "degen_royale": 2
+  },
+  {
+    "id": "429bCv54NM9HwEQopYX9ZCYSntt8VbM6M7zEC9MZCdBT",
+    "degen_royale": 2
+  },
+  {
+    "id": "mUEwKoHpcsrLqc7mDRNtYZ2p4eh7ftrbmYe9odF51k4",
+    "degen_royale": 2
+  },
+  {
+    "id": "DpBNv9SPsmhbeQmS5PLEGQ79fPdK57TuA3cMmHPLYkGu",
+    "degen_royale": 2
+  },
+  {
+    "id": "7zJ3G4qrXRKrDvwwSX3fWqcJq3KM6YmDtYMPLidpjCkL",
+    "degen_royale": 2
+  },
+  {
+    "id": "CXuBkms4QLMToYTjKnBSj42XoNfAHigzZg5Fu7nxPpQb",
+    "degen_royale": 2
+  },
+  {
+    "id": "GWsoGxtqQepcov8aYHtQEtam6Mhzsbgc86gLdvKxVn4H",
+    "degen_royale": 2
+  },
+  {
+    "id": "GDJkshyWJLQaMKKtnoH5pJ17jTRcWpo3ffirQjyW6pZr",
+    "degen_royale": 2
+  },
+  {
+    "id": "2YY2o7tDicnVrnZ8yRMKfoTxU16MQ7K8br85STSdzx8k",
+    "degen_royale": 2
+  },
+  {
+    "id": "Dk7fUbdpMu9ChPP87UJUqfyzZ4Z8ybpQgQHG5C2LpDSB",
+    "degen_royale": 2
+  },
+  {
+    "id": "3H8LrnMocfEJ6FJptZt4WGnzJKHF4x3veaUkAWTgrAkR",
+    "degen_royale": 2
+  },
+  {
+    "id": "9FbDHwS6zLYgP3MPCCHJJC76Hz5ajSiKeKQQgEEqVWUY",
+    "degen_royale": 1
+  },
+  {
+    "id": "6fXUy5pQFQSHhXnz4StD6toALiL7ibjGc84iosewKtn5",
+    "degen_royale": 1
+  },
+  {
+    "id": "HzoYJCqZBLNrLSCFbJgS4NgtCTizdZ9VW1QMkTv6Vtp2",
+    "degen_royale": 1
+  },
+  {
+    "id": "Ag1c7pDfu4LHc4eyUBoTm9Sp8Tvinw1KS6xhMECpLbkz",
+    "degen_royale": 1
+  },
+  {
+    "id": "7FHe4vEdvwRYqjZ7GqLFDfbZwEVaE2MXNUEmbuX5MMHv",
+    "degen_royale": 1
+  },
+  {
+    "id": "BHJKCFkx3UeznP718UgCJG9GgEXgVTomziiNxPGUUv4U",
+    "degen_royale": 1,
+    "domains": [
+      "only.bonk"
+    ]
+  },
+  {
+    "id": "4Da6xDrsp65ckqS2Ejv8sbewbBjiULr4n8MDLAJGhiaZ",
+    "degen_royale": 1
+  },
+  {
+    "id": "9htj9RAh7RxkYVerWXBAiYy6wBiC9W77AtcjK1TnmK15",
+    "degen_royale": 1
+  },
+  {
+    "id": "6BbUQEkDzhz7fzLcB5GCfRP7HvmUNypw8PjieQgyFpPY",
+    "degen_royale": 1
+  },
+  {
+    "id": "BULLVvUf4bAU7CVfwycMukx4HF7ttLFAQuooKS4p3WxY",
+    "degen_royale": 1
+  },
+  {
+    "id": "8BXx8o9QfJ2CSC8DMynxmTQuX6xyMtgjwBdWKf4UbrqM",
+    "degen_royale": 1
+  },
+  {
+    "id": "37XPyw5e1bAbMKhKqwJkJ7ar3d7KDMSA5kpW7dMkHDWp",
+    "degen_royale": 1
+  },
+  {
+    "id": "6kb66mzk3jYn2xsFffdgyTSWiBGJMYU1ARqDDYCy7vn5",
+    "degen_royale": 1
+  },
+  {
+    "id": "FtxSEneVfsad4eg9mhL5jC2ZQ7jG3vXELtUQvwWfuycL",
+    "degen_royale": 1
+  },
+  {
+    "id": "3xPtbZ1tjnc6JNxHQc9eMLMSykhtKiXJTPvj8af878xH",
+    "degen_royale": 1
+  },
+  {
+    "id": "5zPMiQBevnCPhpcwMHFGwdsQuuaFTzE3AZWAniCbNPXF",
+    "degen_royale": 1
+  },
+  {
+    "id": "E6Fw97xqAY47xXmro2ioZ7wkcLNeueKcKMyorHg7fEfU",
+    "degen_royale": 1
+  },
+  {
+    "id": "9nhPMehrVpJMojXwEujKyBLQgbYALVg43MUgyh9CzNU2",
+    "degen_royale": 1
+  },
+  {
+    "id": "6WyB4sFodARxwZgtJ9t3zNayJmSoDkTMYCrQnMmmrpBC",
+    "degen_royale": 1
+  },
+  {
+    "id": "9RDLtW8Vp6xRc2YbFBCXpzX4h2q19uXGSzn6P68hnvMg",
+    "degen_royale": 1
+  },
+  {
+    "id": "JBGyxsXL1HGWGNZ84w18tXedNctA1o34b3AsFsN3xcPH",
+    "degen_royale": 1
+  },
+  {
+    "id": "GHzakhyuBEbaQXn1RxvfXjWqkRJagfMJuLX7b9eoBAzE",
+    "degen_royale": 1
+  },
+  {
+    "id": "JC5ZZLJPxDDMX7MtUtPFCSvCeY6xMARtv33ggLsei2zg",
+    "degen_royale": 1
+  },
+  {
+    "id": "8jF8k6TQtDBDJF3Xm5ahfJkKR1zTq9Nu5AyiQ5EpNkFe",
+    "degen_royale": 1
+  },
+  {
+    "id": "sg8Fx9rB2z33yskdZfTsAjq5JECSiWg9xNZnaGoVMFd",
+    "degen_royale": 1
+  },
+  {
+    "id": "53ETASPMXAkw4JWyez3FEb26avAL6E7Qrie3vEcqGpou",
+    "degen_royale": 1
+  },
+  {
+    "id": "5GPmNkWipkyfPRBtZJ6LYxP66PyVDA6tAc9tRbQC2kks",
+    "degen_royale": 1
+  },
+  {
+    "id": "CGiK6UHTGxER1Myt5SjC28fkP49hNDYRYShPwjnfj4Ex",
+    "degen_royale": 1
+  },
+  {
+    "id": "2as3FfnAeSpLpeaLKembUjqBZbrpbgnSLxGiv2tCy8zZ",
+    "degen_royale": 1
+  },
+  {
+    "id": "9irpvDMwQLpxAb2wdXtkjU2K6YJEUhFgUcT1FN7XBvM1",
+    "degen_royale": 1
+  },
+  {
+    "id": "12Nwf8b3ngxHdY838aLpmNugf8CJQ11EFXPwL9afAnZD",
+    "degen_royale": 1
+  },
+  {
+    "id": "2cBADKZzRNbgBmFeoZ2WSwQVvqYz2CtQFJ2sjMe1Lir7",
+    "degen_royale": 1
+  },
+  {
+    "id": "Fb8dJfGpizV2rb3c783DAvWnVrJTF8RZKcLvHPLUdn1a",
+    "degen_royale": 1,
+    "gizmos_land": 90
+  },
+  {
+    "id": "DJtTuSDjtNDQyJ25F5fsy4PjPpyvYcTRKisagmZ17eYF",
+    "degen_royale": 1
+  },
+  {
+    "id": "5oYsHfsXnrjyQG7mxjDrjbnXNvh9tMcGrgwLDS8YGaoG",
+    "degen_royale": 1
+  },
+  {
+    "id": "8pb3Sgx9NNGP1E3Md2VPmqpo8ckPmswXZ4TnNk1AKDTW",
+    "degen_royale": 1
+  },
+  {
+    "id": "ApaqjVa8m6gPGVR3uC4P4gPHyCXTiPNvd6qrLeyeLmFf",
+    "degen_royale": 1
+  },
+  {
+    "id": "BeyEwp9QQLujpakiU68PzKm5LkChRXFou3HDGQ5yLAnE",
+    "degen_royale": 1
+  },
+  {
+    "id": "6rbSArCXD77DA2t2wBPxDjQEt2N4QxGNQVNmi8PR9DML",
+    "degen_royale": 1
+  },
+  {
+    "id": "2BSrSoskwFn79ssfzwWajkaCD5uZA5mnzwFiXefRdfqd",
+    "degen_royale": 1
+  },
+  {
+    "id": "z9ypctTYHaMu1XSz27aKMxRHB245HGTKqjxuiupDJZU",
+    "degen_royale": 1
+  },
+  {
+    "id": "DFz1rPQkJTkRHXA78Z53yxyXPzypv7n7WZN6Fq8WQNGz",
+    "degen_royale": 1
+  },
+  {
+    "id": "ExkusdSbQXEgt61qZrArCR39MEDd69E4bwYkiscrv48B",
+    "degen_royale": 1,
+    "domains": [
+      "chillcity.abc"
+    ]
+  },
+  {
+    "id": "3c6E1EKZ4nwTHbo6S4kiiaqcaUyzV4Rsu54zFMKPj2XV",
+    "degen_royale": 1
+  },
+  {
+    "id": "8xdZaTNdUBzFNnWf9itc7wy3rBzoEQGrJAAhZgYRKubX",
+    "degen_royale": 1
+  },
+  {
+    "id": "Fr1ro5htPoVfKe4jRBKVLbDjpUGqKrVxEsi8UpZPxDYZ",
+    "degen_royale": 1,
+    "gizmos_land": 7
+  },
+  {
+    "id": "F8VWj5MRSj6LZNhNZMxLcaCcn16RtFPWRJEaPjt5d85m",
+    "degen_royale": 1
+  },
+  {
+    "id": "HDb7pMQZEzYSrjZZFn1dDBiF4xEAAGPHzhy8H5RUS818",
+    "degen_royale": 1
+  },
+  {
+    "id": "Cc4MsZ3N2tWZ2mgxojjybUhU8JMBnppKxcfpGLjR3mHa",
+    "degen_royale": 1
+  },
+  {
+    "id": "3EN7FoFQZEuZ4Zm1sZF6qkA9ABqAkGDARikjsrUYLpQc",
+    "degen_royale": 1
+  },
+  {
+    "id": "2KtkMD5XSiLdK7rgCb4KFFPHkf7YWb2CBHYkwGp3vnFE",
+    "degen_royale": 1
+  },
+  {
+    "id": "GactyKtJw9y4TLnprjNS3ue3UBPiZXnwxk12fraeoqNK",
+    "degen_royale": 1
+  },
+  {
+    "id": "GwyT2sNE3gF2PkvHtgjAmERmSz3enVf2qiL66gw6ZWqs",
+    "degen_royale": 1
+  },
+  {
+    "id": "9qzJhsRBacYKMFbYSHyEcDJxwRi9Ah9BUgoMhDJLWi8h",
+    "degen_royale": 1,
+    "gizmos_land": 1
+  },
+  {
+    "id": "8BWukZdAo1XLJjdb828QSTTS27RvTf5Ct8LgEgZLwyHF",
+    "degen_royale": 1
+  },
+  {
+    "id": "51CTPduQephuUe69oo8JJGiFozdw8UpfdC6udXAG9WEw",
+    "degen_royale": 1,
+    "gizmos_land": 1
+  },
+  {
+    "id": "yc2MrS9Z2geXmvEMtLihRirZubNoNK1jD71nX1fQK8n",
+    "degen_royale": 1
+  },
+  {
+    "id": "HTCricRNQEBFJniKka3QQGYfGgFQTRydF44qY869UuhK",
+    "degen_royale": 1
+  },
+  {
+    "id": "EuUfLkrYujcgYocL3DQ7xzbAvW8THKcbkKYy7nJPSLLr",
+    "degen_royale": 1
+  },
+  {
+    "id": "6M26k99p76sm8c1GMR13SPxAmAmf2ihUpMnLAC1DWncd",
+    "degen_royale": 1
+  },
+  {
+    "id": "BqwMvoR2ktaQcWDMsUMeFyes4UEE5yWJaxn6kBVjPpBH",
+    "degen_royale": 1
+  },
+  {
+    "id": "4fez8d6qhJXuNn14mhG53AHjBiKTCQBN8uCqwFQJfF9N",
+    "degen_royale": 1
+  },
+  {
+    "id": "BKCiFQy7Wo6H4u2mpXFxCbNDn2HVnAwiVzcUVuHe81Fh",
+    "degen_royale": 1
+  },
+  {
+    "id": "BS98wPMMydMsYeqQsgSzed6kdwjYfkqcoWMLn6Qy88oi",
+    "degen_royale": 1
+  },
+  {
+    "id": "9ZdVKusaH4MeTEQd6u4VxSNEWWFvL8LhVsUWzqRAcF1i",
+    "degen_royale": 1
+  },
+  {
+    "id": "Gv3X5MUxgSvGSZK7H7EB4fg7v2oH5gFhkw3hyH53tQFL",
+    "degen_royale": 1
+  },
+  {
+    "id": "4YahqXFiX6ggYYWYN2YMwLkYyaW8LeFikoKL7nEJp93i",
+    "degen_royale": 1
+  },
+  {
+    "id": "4pse1CmBt1wMc8GHSmHaUPVEQp6GwM2h1UXSXaYNmjXx",
+    "degen_royale": 1
+  },
+  {
+    "id": "HQjH1ztH3ytrt7vtYPUCNu8xYJACrdE3S4T6epbGjRn2",
+    "degen_royale": 1
+  },
+  {
+    "id": "MiepTg4XksHBBLdVzzLHe55aRu4zoUjQeMYCANsh5Cn",
+    "degen_royale": 1
+  },
+  {
+    "id": "77YjD3rHd2jpZsxDNsP4AkMVECZm14LJXTuhdJ1VuMGY",
+    "degen_royale": 1
+  },
+  {
+    "id": "9UuEemVfX7KRbjyK5aYTcREtuxnTuGF9AbhhEkdYbwJF",
+    "degen_royale": 1
+  },
+  {
+    "id": "9fyRmY3yvSatBVadP27B63rzxgKTgjNAtqwaJnfgqQqE",
+    "degen_royale": 1
+  },
+  {
+    "id": "AAacB2fbSbumB7CViHoY1zuZF9psXXjeKyhR1cqjLuzF",
+    "degen_royale": 1
+  },
+  {
+    "id": "FmhRhX23U1hNjYqvfH54EbkKbNuqnzUcJtpSkLeBvfyr",
+    "degen_royale": 1
+  },
+  {
+    "id": "4WnTicdR49Jk42XzX5guAdQjQ2dsYggyZAKuBj19tA1n",
+    "degen_royale": 1
+  },
+  {
+    "id": "HZKpxqre7YvRGAo2wTue63LhLJKU4BjURxTfZD6f5VwK",
+    "degen_royale": 1
+  },
+  {
+    "id": "FKwfBetdKLxM6cfQtguieRW6Ty2Ma8efrqp6H2Whft7f",
+    "degen_royale": 1,
+    "gizmos_land": 1
+  },
+  {
+    "id": "F11WkEfKXKzuYGp3Ym1tgUDiTQW7eczTxQGSdJCKmgUW",
+    "degen_royale": 1
+  },
+  {
+    "id": "BQMmEycXbcyE3vBg3Krir6bXVi5q7jWACSFneLTFhMAk",
+    "degen_royale": 1
+  },
+  {
+    "id": "FmqopxLXsLe8GPPNHuBbc6dbnm721dADEvHiB4DRaatZ",
+    "degen_royale": 1
+  },
+  {
+    "id": "FVNjkRv4fKjZz3Av5JiiTmZ37LcPtQXNBKRPfW653jJN",
+    "degen_royale": 1
+  },
+  {
+    "id": "8yE5K4Vwho9roDEU7saQ18FjyCuPJtXbAWjfBoQmgbTh",
+    "degen_royale": 1
+  },
+  {
+    "id": "Bk593w8QtVcRrLhLMutCNjM49wG6yoSTnvcvLQNiULni",
+    "degen_royale": 1
+  },
+  {
+    "id": "AJWfnhV7ZkRV7TXqZb3nyX8BE7Dr35M9PeMk8nhdVj4v",
+    "degen_royale": 1
+  },
+  {
+    "id": "92Y2Mfyh2TsQ99pigthBj9AvBBcooLCsXxNSZCeRBkyF",
+    "degen_royale": 1
+  },
+  {
+    "id": "5hmw2Z68Zh71uiwSPM6yDRKFNhNAbDeLas2GC9nd4Pjf",
+    "degen_royale": 1
+  },
+  {
+    "id": "7vVBgSWw7VmsgvJYFPR6opuFtSfqbRtVpJS1bTayaZev",
+    "degen_royale": 1
+  },
+  {
+    "id": "P9szxQhz9CUksPcPNh4XtjCnJ14S9cxf7FUPkrkkjSZ",
+    "degen_royale": 1
+  },
+  {
+    "id": "4DVEq2YcmRpbEhVDyLrAy3mbmdFThW9fs2K2uJoik18N",
+    "degen_royale": 1,
+    "domains": [
+      "kaejhee.bonk"
+    ]
+  },
+  {
+    "id": "BjmjAVb2YRwSeF2YYCqiUJHoGiHByFra4pjnpsfxaazD",
+    "degen_royale": 1
+  },
+  {
+    "id": "5VPLaiAwbrig2mtVNkNoLmAxKGFxiD1CDMoqvAkqhZzy",
+    "degen_royale": 1,
+    "domains": [
+      "0323.abc",
+      "1323.abc",
+      "5232.abc",
+      "778.abc",
+      "7780.abc",
+      "3421.abc",
+      "1523.abc",
+      "3424.abc"
+    ]
+  },
+  {
+    "id": "FiiujxNLZTydbkddo6STVunaVcHnKtzqdSQrzmX6Rknc",
+    "degen_royale": 1
+  },
+  {
+    "id": "6eZvVoJNEP2gdegBFpEuh9GFQqpUZTVgVxouCbcvzsLR",
+    "degen_royale": 1
+  },
+  {
+    "id": "9E2Le2PMuHcin94jDn9uogNDwT9pHgDGcpDF8dEWZ6yk",
+    "degen_royale": 1,
+    "gizmos_land": 1
+  },
+  {
+    "id": "7KioKf2RcgkeiH8dKQA9GgQeHrhsT9FB55bmTNtdH5Jw",
+    "degen_royale": 1
+  },
+  {
+    "id": "dutchx8bkoZ7hz3rDvev18LpvJh8t2UnaAGKcpt1AGw",
+    "degen_royale": 1
+  },
+  {
+    "id": "7TPXVorY2KcjfHRe6yiaARXZh59UYrc5mZqhjTCN1iCu",
+    "degen_royale": 1
+  },
+  {
+    "id": "G9PTKuzCjNxruTECq4jhoiy3jjxPoNi7i5Z44ExwRRbz",
+    "degen_royale": 1
+  },
+  {
+    "id": "DC7W6gqF8qwxBtQivhCNZzpAWJLjwnibFhV7QSmq21us",
+    "degen_royale": 1
+  },
+  {
+    "id": "6EK6beg69uTJqAASiwHFyBb1cAcu4dwAuxSbjb71jEBy",
+    "degen_royale": 1
+  },
+  {
+    "id": "GZg5uyDG5QSgVuprPzjFek6HboB9abHoXAaUCvxJTBC2",
+    "degen_royale": 1
+  },
+  {
+    "id": "9saoeMr8vzFN4UtDVWcDQ6tkbPSKDVGQg1S2fCVamxxo",
+    "degen_royale": 1
+  },
+  {
+    "id": "BACJ68NuawFRuMbg5d4ooeSwoXZrHUeif88ocw7tBM5P",
+    "degen_royale": 1
+  },
+  {
+    "id": "dcks2461iPvCK7YvJ9j44exdSiA6fraGghqPYGgceHs",
+    "degen_royale": 1
+  },
+  {
+    "id": "28meYE4iN5phXQE9Ug95VJmYy3mC6winHDmeEQ1SSusM",
+    "degen_royale": 1
+  },
+  {
+    "id": "BANKSvL1aQ2nXyVNLS3DUS7yfq7EABGcTjZ5U2GNRHtm",
+    "gizmos_land": 35
+  },
+  {
+    "id": "2afpXhJnC8GjhrXqe35vHobJKZd3KiG6gZGtB9VpSYCQ",
+    "gizmos_land": 27
+  },
+  {
+    "id": "6fPeCrroRH17Hra7tuztUJ3RUfbDETrrVYSmEyG19S1R",
+    "gizmos_land": 24
+  },
+  {
+    "id": "48UiKUMumWnJJ6U9VCeoLnsYLxM7WsXb7Pp4ZbtoSzU2",
+    "gizmos_land": 20
+  },
+  {
+    "id": "DaSyY4Azzq6h7k3GxdCby9PdGsg6GvoCXp4XPgFrSjqt",
+    "gizmos_land": 20
+  },
+  {
+    "id": "2qu35BmQ98uRV8jSarry4ZTpTtYwveLx9ASzzMwBM5Ck",
+    "gizmos_land": 20
+  },
+  {
+    "id": "8sFmZeZ3sDpNex3kJiF5z3XE59PgNDoP6eXwm97JCAxc",
+    "gizmos_land": 19
+  },
+  {
+    "id": "Gj15k2wbW4eswiyE7BEELTzYFXJ954JHzzggUzFErgry",
+    "gizmos_land": 18
+  },
+  {
+    "id": "DhfAkBZWMAmD6pYsWdpMb9Q7vKHQECv9m5eg6Yu9DZSj",
+    "gizmos_land": 18
+  },
+  {
+    "id": "BYNp7VUPXNdYREe1E5Xd3mMPSNpYRkHWUcD4RXotHUG",
+    "gizmos_land": 18
+  },
+  {
+    "id": "68hjCvKxhKk5CUpeyFkXm2LVzkYYTkSt1eirPQSnC7Ay",
+    "gizmos_land": 17
+  },
+  {
+    "id": "26XiuWDmXpj4btMCN8qJLM2Thik4BVU7VfA5orAUgQEF",
+    "gizmos_land": 14,
+    "domains": [
+      "chapel.abc"
+    ]
+  },
+  {
+    "id": "5SNPWYJXMVv23atTMj2xNvqs8oSJ6Ue4Vkbnvn5CngAS",
+    "gizmos_land": 14
+  },
+  {
+    "id": "8Pqeg9MCGKaYkX5Ri29SfT3eUfPFDzjbcM8cZKJMwQ2p",
+    "gizmos_land": 12
+  },
+  {
+    "id": "DWcFRJrpzsrn624983W3qTuYccYnwLnL582gQ8CLohvY",
+    "gizmos_land": 12
+  },
+  {
+    "id": "5kmYpbL5SKJw5U6ijE5rKsS7z7g9ZJhKB5k1T8boPWzt",
+    "gizmos_land": 12
+  },
+  {
+    "id": "3jBd3p2HeyqwbXeqTtE8AfD1xYesxVEvUseNAeNjADZ3",
+    "gizmos_land": 12
+  },
+  {
+    "id": "4piWQGJ4b6c6ukEzuxYCYWJk8b21fBGXTVT3nVR5FJjL",
+    "gizmos_land": 11
+  },
+  {
+    "id": "2PS94D76WNetGuEP38AxX391WPwJR3Zn9DLinpaGmVDD",
+    "gizmos_land": 10
+  },
+  {
+    "id": "8bd4vS98hahqAs6pyxxoBts9syj61AYKWJtDK632zn6H",
+    "gizmos_land": 10
+  },
+  {
+    "id": "2Q6xikZapyRmyA1fbpAw16RAtZhoUXsJw5BEk6CTUrTU",
+    "gizmos_land": 10
+  },
+  {
+    "id": "BhsjZ53LfL7atW2GAXMj4gQ2bs6iBRM7Cx5wrpBBi5vS",
+    "gizmos_land": 10,
+    "domains": [
+      "222.opos",
+      "kukamaneiro.opos"
+    ]
+  },
+  {
+    "id": "HgHX1o9CT1reaDGswR3mWywj1uw59N1jccUGAZQtbutZ",
+    "gizmos_land": 10
+  },
+  {
+    "id": "ChuBBY4QKEn5yBBae16WrP3EoXmoSeEyGysXXDkucAKE",
+    "gizmos_land": 10,
+    "domains": [
+      "sassy.bonk",
+      "chubby.bonk"
+    ]
+  },
+  {
+    "id": "7DC2JmnUPa4RnUMff9NmUWjp2psFYeNYQ9GufaEho2Cv",
+    "gizmos_land": 10
+  },
+  {
+    "id": "FZn86xGAHtQKrWB95AJnTuWnxptMmrjkvH35xHvQDfT7",
+    "gizmos_land": 10
+  },
+  {
+    "id": "4vYBR1AkdtQ1hTeVyKyNMH8B1iaANYhnBaT1HbXx6zw6",
+    "gizmos_land": 10
+  },
+  {
+    "id": "GShK8kZ4KVTrzMYBe4UCiKU8d9QUFWsSz93Z3hGDe8wG",
+    "gizmos_land": 9
+  },
+  {
+    "id": "FATDbVNCXx3TpMjXtQypqTA4nrJcLDjeJggkfZ8gzvaZ",
+    "gizmos_land": 9
+  },
+  {
+    "id": "GtMNRD15EejVpAsM8xqMLM4UYd9YpQBYFd9rE81ebCfz",
+    "gizmos_land": 8
+  },
+  {
+    "id": "DNRrDnPWMKfQsSLCZCa9th1SBsd2n5TYAzqcfEGZafpH",
+    "gizmos_land": 8
+  },
+  {
+    "id": "GchMJEkmd2nzJHRBQbPyjqwFpBCxHPbQUzW8WRChPmDp",
+    "gizmos_land": 8
+  },
+  {
+    "id": "HWH5F8cLteBF2BEELMWZoZ3VQ1qrR3fxnb7VbSZ86aV6",
+    "gizmos_land": 7
+  },
+  {
+    "id": "E8CgzJCSj94wrfMS4Da7ZyqoTZmhhoYkkK3WdZ7JXaFY",
+    "gizmos_land": 7
+  },
+  {
+    "id": "35rUwH1SmjkJCAtrDVdPXeo4D4ejm9VXHAD1K6pgfwnt",
+    "gizmos_land": 7
+  },
+  {
+    "id": "HLTaecCNtcZuReVbnPnEgkWpRGAKjpGHMX3VDhYV7YgX",
+    "gizmos_land": 6
+  },
+  {
+    "id": "FRURkrX8j5bXYhWng1HzkuFD5ihiGJD78mr6uczhq5cV",
+    "gizmos_land": 6
+  },
+  {
+    "id": "5i9nPYuEZErLgeYxQfLCZ8a62nS37ocue91zDZpfw8fV",
+    "gizmos_land": 6
+  },
+  {
+    "id": "4xRVhs1dHvEHrGUN1kRfSU2NvA1kAqR4UTw1Pg6Yi4e3",
+    "gizmos_land": 6
+  },
+  {
+    "id": "3MMbPP7hewvCsWjdbq8GmknNgAxQ1z87qbtZaM7BDaXV",
+    "gizmos_land": 6
+  },
+  {
+    "id": "8Kypb1jatQfZBKuFD8WWSLGTKpVuRAnfZoLRsaKGoHUE",
+    "gizmos_land": 6
+  },
+  {
+    "id": "HTW7ed3Dmh5Mb5btuYz2b1XwzQYabjcPE7DRYPxUeF5S",
+    "gizmos_land": 6
+  },
+  {
+    "id": "Apj8B2mKz4uMMoiQpV2DHjqfSMywfhSYktqJWBq7KaT1",
+    "gizmos_land": 6
+  },
+  {
+    "id": "7LDiVjq1hv25AEQpK2S6HPr6DzBq396GCW44h6kKRP4b",
+    "gizmos_land": 6
+  },
+  {
+    "id": "CifS4Rw8iLd1ApmAPgALnrCcXLECU6ewAoJeAbU2fzcP",
+    "gizmos_land": 5
+  },
+  {
+    "id": "C2koBfj7Lrku5Xe5JAnETSWoeFW34ReHdLWTZTj2m3iy",
+    "gizmos_land": 5
+  },
+  {
+    "id": "4x4hqBEMJj85TLYYzMhtCGdPUHc4gyekyQe4M9ebmsZJ",
+    "gizmos_land": 5
+  },
+  {
+    "id": "HwnDqr3H5CcfYMGQqC3c3hnPjf1jj8XgGoHkrY1ACdfH",
+    "gizmos_land": 5
+  },
+  {
+    "id": "9T8nuteeVWqMHUGd5UnhgoTEC55W2oiSW5VehEqUMgsp",
+    "gizmos_land": 5
+  },
+  {
+    "id": "G3eheQwhdtdb971VzR3xQv6CxHcGLhCmtjfkkmfozjak",
+    "gizmos_land": 5
+  },
+  {
+    "id": "BdNMWL35qtTSckUQrnBy5tUCKvcQjBTMhdybDP551u6C",
+    "gizmos_land": 4
+  },
+  {
+    "id": "GBSLgRrVF7KBTmVzaZimt6quoi6a7QmcRmMBHArMYTX7",
+    "gizmos_land": 4
+  },
+  {
+    "id": "BqAe2oQx9PMdawKAe1Jw8PPwWsFCfiLG71Gg3omU8u1e",
+    "gizmos_land": 4
+  },
+  {
+    "id": "9YoKcGjGQq6EErBYNVgKDoy3hKppK6uNDFRa4GLT92yV",
+    "gizmos_land": 4
+  },
+  {
+    "id": "DUyo5efa4j16CdJga7vbXtPLZRSSpfrNLrB9hXfkCALv",
+    "gizmos_land": 4
+  },
+  {
+    "id": "2gWkQUaApvpdsHRGfVB6oYoTfaaD8wWGzTsJXC9hLF39",
+    "gizmos_land": 4
+  },
+  {
+    "id": "4zKWiR7E2H25x1jV7mSyRo3ucAvtdTXAUjKKvKbYXdJq",
+    "gizmos_land": 4
+  },
+  {
+    "id": "7uwUCfRg5oyBWKBSFcM3Rz8VtTW7u3h9ZbvF24b2FRFM",
+    "gizmos_land": 4
+  },
+  {
+    "id": "HFfJCpMEs7vqgeNorkEJKGpGjWDNpYc5UJWAq9F5MDEf",
+    "gizmos_land": 4
+  },
+  {
+    "id": "68qZUb4UviBobRWxaMJQPjGzEpVkb6xuY5k3YMfU5zCN",
+    "gizmos_land": 4
+  },
+  {
+    "id": "5hSpZpSHBR5Mf8tafLF6Bz2Z3uDm2n8LsZgED6e1ZgB7",
+    "gizmos_land": 4
+  },
+  {
+    "id": "4khoEeQcJy6xy5ACGNsFqnyHnPtPnr8dtLd1dJoYLAxz",
+    "gizmos_land": 4
+  },
+  {
+    "id": "Hk7msejLhc3Ra7F5eGZE462YXs9VHjTMNHRDg2qhiiCC",
+    "gizmos_land": 4
+  },
+  {
+    "id": "5SEhicCmWywYKC4WsVmvE36jKayjSBEMoANCdvqufzC9",
+    "gizmos_land": 4
+  },
+  {
+    "id": "3DKnStcKsThLN5kse9RmNWAmof81zRpEZzhkVs8zj7Uq",
+    "gizmos_land": 4
+  },
+  {
+    "id": "5UmEZCPuvPFCGPyZ5HmrhNZscxJrHUGhtSYz7tJdG3cC",
+    "gizmos_land": 4
+  },
+  {
+    "id": "JGsER6vkXBReSyJbpH2vSyws4n8czRgmzeWTKCjep1h",
+    "gizmos_land": 4
+  },
+  {
+    "id": "CU3MJLRUvSZWCk228zYTDoQodTWoNir7E8nPWmKkSkGE",
+    "gizmos_land": 4
+  },
+  {
+    "id": "H1yoCzK1pYrxKXT6Bh8eaPrdHFPmkSYu6h22u9av26uL",
+    "gizmos_land": 4
+  },
+  {
+    "id": "EYW35YfGunyAcgQL5Ewwq7AxFFJG5bHgZzKMVjoqGu7T",
+    "gizmos_land": 4
+  },
+  {
+    "id": "H1U7e2ciYzvuVWjBVGWwg5jws9KuaBWmBanreBx13ETX",
+    "gizmos_land": 4
+  },
+  {
+    "id": "AzFkVUJxCQ77xvbpzn28SSRer3MQWbuTTuXHyiNRN6ec",
+    "gizmos_land": 4
+  },
+  {
+    "id": "6hezBg94yF9Job3gb7PSgxvEbKPbwiZNMPLTDSRRkUFH",
+    "gizmos_land": 4
+  },
+  {
+    "id": "98ccTMQkUkJGh3Q3anN5pFa34PeBecyzmsc4pMV42MKg",
+    "gizmos_land": 4
+  },
+  {
+    "id": "CAH8MBL3B5L9XzyxF3srx6tM4V48MajtBoqLL9Ga7Rf9",
+    "gizmos_land": 4
+  },
+  {
+    "id": "BPBpowk2grgf2x95MZkRZhNwVhdW4eEMxkpUqPUk6Ak6",
+    "gizmos_land": 3
+  },
+  {
+    "id": "8GbDMiWNeSvK3q14akvpFCtDH4XwLM9ATJHS2ydqBTqN",
+    "gizmos_land": 3
+  },
+  {
+    "id": "6MbGnUQRdXneLqPZUcBEYEfpF4zCBcvYPg4ojesD3ws9",
+    "gizmos_land": 3
+  },
+  {
+    "id": "5w5cGfKxNwxYWS3AEL9EDRpsF9EkVqj4hN3L1HcpsAJr",
+    "gizmos_land": 3
+  },
+  {
+    "id": "B979a9nhMpQtdUm7eM754t6Ci3XR1s2QEbw2pWruFCZ3",
+    "gizmos_land": 3
+  },
+  {
+    "id": "F6qwQhpZGBdgSrZkBFWehtzWK5pRHa15ra7CAUZmPpxF",
+    "gizmos_land": 3
+  },
+  {
+    "id": "D3MXkHJGJGWMDTwxsEjwEzygr7FYjikMUzWQFcewdDpm",
+    "gizmos_land": 3
+  },
+  {
+    "id": "4S6R63jspWE8BfLJJMFz4uC8WQgGXnVGuKAmkov9kXvA",
+    "gizmos_land": 3
+  },
+  {
+    "id": "7cqUqoHjnZoXDz3Qb7kBrtjggKTBRKYwoQAFJ1swQKSH",
+    "gizmos_land": 3
+  },
+  {
+    "id": "5mvZFRMT4aguVvpQCKeaQiPD3tYeDiGaBzh1zC1hQNoH",
+    "gizmos_land": 3
+  },
+  {
+    "id": "4ULth11nsRntrLb3TjaUHPAr2NWF2jDPWjYEkCkGFcF2",
+    "gizmos_land": 3
+  },
+  {
+    "id": "2iVT6HPRieoMWED5WqYNMueSU5hSBUp7GRGzqX47NtUn",
+    "gizmos_land": 3
+  },
+  {
+    "id": "GCnsNEC59Er3FRMpdBVsWoJepNP2XpZKdLnngcd75M3G",
+    "gizmos_land": 3
+  },
+  {
+    "id": "2SkeDrTcQu9HQhRdRskaEAhzzPShQG9o7613BDWfNnZ8",
+    "gizmos_land": 3
+  },
+  {
+    "id": "GyWDFgRbYeefQr8k7EPn9mzcMNFvKWdQLkokVqujGQeW",
+    "gizmos_land": 3
+  },
+  {
+    "id": "3LEAuhVasjqvvZTYGH9f3ELCewTAh3VUTQVkq19mz7NF",
+    "gizmos_land": 3
+  },
+  {
+    "id": "AwQM4hmepeZeCmnHLibA35Mvaj3Z4aVV6F6Duq3k6jT6",
+    "gizmos_land": 3
+  },
+  {
+    "id": "B8r2EqZtFm4JsJdXTedudUWdtUSmX9WkpZ5W1ZPhSoQw",
+    "gizmos_land": 3
+  },
+  {
+    "id": "555v9UUC4z6aJaU2zeX1ES6AiZBHXEUTVVbeUufy1QEb",
+    "gizmos_land": 3
+  },
+  {
+    "id": "FepBit8n3u4126z85RKSkgeA7h1GdnHTJbsVzgbH8qVb",
+    "gizmos_land": 3
+  },
+  {
+    "id": "6yDHA4KqVqo8KNzRJZwpp54QhM6nQR7WyD88XDBXwJk1",
+    "gizmos_land": 3
+  },
+  {
+    "id": "YWZqG6SbuuN4feD7749w8mLbT7nMa2ha15KyagXbfL3",
+    "gizmos_land": 3
+  },
+  {
+    "id": "Fh9c4e5gtvWJowUCQy2BwHrNZcvUgFbMa2e5ik6KXikR",
+    "gizmos_land": 3
+  },
+  {
+    "id": "Fx1DGU8PHmQFn4zZUwiuMQomfaSHMLaSCaW7Yx82NbAm",
+    "gizmos_land": 3
+  },
+  {
+    "id": "DtYQwUSMn9AuHDPJPWcjZ1jsBp6nUfPj2hkwnaetRt3g",
+    "gizmos_land": 3
+  },
+  {
+    "id": "EwVvCTRvf7p9SZmiNomSndM9EYepU3TqVhgTtBNTakkS",
+    "gizmos_land": 2
+  },
+  {
+    "id": "9EiZgoq483T2c5PEqQC79ACva6opzNNSTCGkZP6qiPTN",
+    "gizmos_land": 2
+  },
+  {
+    "id": "sXbQxtRg4GuwUq33TQxdaNLXf5z1sQuHcwHAa8HDZrV",
+    "gizmos_land": 2
+  },
+  {
+    "id": "3AeLCFTWWjD7fdtmHUxYnDvhKGKTDiUhnbmmwLe4YGnm",
+    "gizmos_land": 2
+  },
+  {
+    "id": "3PRscKDmrWrp3bkMDpkaGXhZWo5uyRZMqR9ecWLaDREi",
+    "gizmos_land": 2
+  },
+  {
+    "id": "3FTeNsneProe6ewTZrN3McP7MULggjbybJuqHauuF9mW",
+    "gizmos_land": 2
+  },
+  {
+    "id": "HazsuX3HbrGVNrbhdSx4RMZxnuhN1eENECeSKnjL1VMV",
+    "gizmos_land": 2
+  },
+  {
+    "id": "BdxVCVmCbpHAa5NR1SoDvg89MQMCh8gnT16p9kMh8UpT",
+    "gizmos_land": 2
+  },
+  {
+    "id": "EP1v5ch4BC6TYbAdPuvFrdwvSgqVTKrYaS5yowufSEsf",
+    "gizmos_land": 2
+  },
+  {
+    "id": "6goGeBKrdhJCLRcTdKY4bTbqGdKW5FXerz9hcfnhjGSk",
+    "gizmos_land": 2
+  },
+  {
+    "id": "GRRrSA3f6AHpVXJBiFQgvBoGcZB5azWGHmvVRz4PdSB6",
+    "gizmos_land": 2
+  },
+  {
+    "id": "2kvzMbMhfgmXaEQpptSHckUCeYQELWLinBZP4svR8mSX",
+    "gizmos_land": 2
+  },
+  {
+    "id": "7RXLqie8YnukVPJtE8Z2qaC8Y4VrZj5vVwEiu3cHf2E6",
+    "gizmos_land": 2
+  },
+  {
+    "id": "FzQYfytjijjig1Pgi2RSjJNiBPWj7GVZiMaQHdcYPAuC",
+    "gizmos_land": 2
+  },
+  {
+    "id": "9jEECaB7yMJZym86zCFTfyzpaLrdDDJcBgKYEmfpBcXe",
+    "gizmos_land": 2
+  },
+  {
+    "id": "8pdJHyButK9Z4eZDC3qGgB3rUqYrPyMtLauwVNTnxZkr",
+    "gizmos_land": 2
+  },
+  {
+    "id": "4vL9gR3nfhh3Gzg3kpyBQ9QfSirsJhqyFjVatkFSV2yg",
+    "gizmos_land": 2
+  },
+  {
+    "id": "AZkHPqyjzCx3FfTLVRNSjvLgtnpchUrZcJQfwKS9koJm",
+    "gizmos_land": 2
+  },
+  {
+    "id": "3E924AfkxptCqm13Tm7vq2cJkLQDBiYsXTCBVf3vjwft",
+    "gizmos_land": 2
+  },
+  {
+    "id": "5Bpa4tToxC6enfi8FrCjN38FDQc6edxf7rBNoKAfv83K",
+    "gizmos_land": 2
+  },
+  {
+    "id": "Hjz6pQZhmPFb3uMVf2ggTRU9hFpxQB6xxW9t5bi2P55x",
+    "gizmos_land": 2
+  },
+  {
+    "id": "8guaBkWV8YF6LjDE6mukK4SbZ9K3uQ8Y2sYAQzWHeRC3",
+    "gizmos_land": 2
+  },
+  {
+    "id": "5d8KyfJeUqDRXc9u9Q8JGKno2RAxNB2V4JgZf2rJ1dry",
+    "gizmos_land": 2
+  },
+  {
+    "id": "2cvvkGkdgBCJ64qr5xrtF7cD5VhfhU2sDJFxhE7meFV6",
+    "gizmos_land": 2
+  },
+  {
+    "id": "5vydv61FL5MG9opEqE4PD2VrNpRdzh6UL7syTidKeKqz",
+    "gizmos_land": 2
+  },
+  {
+    "id": "BnAT3xjyvAbTk8rGgYzWpGUoHufEUpGZvgvwinKmsqs2",
+    "gizmos_land": 2
+  },
+  {
+    "id": "B1CQjxx2DwnDpCPrADNAV7FrCU4ZeWvUiEsZkpfjh3JS",
+    "gizmos_land": 2
+  },
+  {
+    "id": "Ds9ZESHreCg7FtSAbj2srajdbFPhcaEiyVEUdxjDD1rS",
+    "gizmos_land": 2
+  },
+  {
+    "id": "Hev1svvAGVPbyAw6Bb8YshvvBomRvscbSEY18DpoPxF8",
+    "gizmos_land": 2
+  },
+  {
+    "id": "3c3VDcBQkjUMoQhRXa8NGLJxwpJ4n1oR25JNhxxfdMZ9",
+    "gizmos_land": 2
+  },
+  {
+    "id": "CsFxxD7pjeXt6FMGE8sT5LzMkNxxy6GztjxPFUsqBXeC",
+    "gizmos_land": 2
+  },
+  {
+    "id": "8hrnPfrEUgRKVRE6Q7bCHEsHHj2VpBWFPzPRa1hzkuYc",
+    "gizmos_land": 2
+  },
+  {
+    "id": "GVF7TkjLs2vKevVuVNPoaQSpRtut7bseVsRN1HXWGAWX",
+    "gizmos_land": 2
+  },
+  {
+    "id": "E7E9WewcokpvBi8unYept7Xi1zHizJXDviPi5vcF5uZP",
+    "gizmos_land": 2
+  },
+  {
+    "id": "4ynhVo3L3B4r9PmMCbsx9KFXgYxTfcL9ZEy6mjbFELpW",
+    "gizmos_land": 2
+  },
+  {
+    "id": "4QZrTXjGfaGNxnxZzpKTmvKojQc6VFw6Bw56kjkq9aoC",
+    "gizmos_land": 2
+  },
+  {
+    "id": "4Bkj5ejVccgdZtxrDrTruhKdgJfX3Pf6CwU15kMviLTS",
+    "gizmos_land": 2
+  },
+  {
+    "id": "51wuraRqTamzownwRA6FXahzhaXAAdaoKzP5dE7xGHcK",
+    "gizmos_land": 2
+  },
+  {
+    "id": "5LKmDC6wvZMpJuY3npwr4yNkPGQYJ2EZfRLguphiYkA2",
+    "gizmos_land": 2
+  },
+  {
+    "id": "GsuAHTdqADAn4UEKtb6P6mKAj4StfJAfhHT33GaGRog7",
+    "gizmos_land": 2
+  },
+  {
+    "id": "3n3AeH1GpXXv4uD54YHfVg26E89his96bYcab1Aus4dm",
+    "gizmos_land": 2
+  },
+  {
+    "id": "EyGVD7qFHFNyG6Cs9vfGZa9UnPGShi3ae8GaPK1j9Mib",
+    "gizmos_land": 2
+  },
+  {
+    "id": "8VDwMnPAuqsUFm7Mqnr9sHPARtfk55tWYBzxx1ym3aFL",
+    "gizmos_land": 2
+  },
+  {
+    "id": "GY6u5yhWfJgtCA2zTPcmhjUTGXGzFJPqf2zXrzMCUQ8F",
+    "gizmos_land": 2
+  },
+  {
+    "id": "ET6F9cvtBPnkzoX7kdSPbRqzuVMUGVwUwokRL4DC4vtH",
+    "gizmos_land": 2
+  },
+  {
+    "id": "3CwFNTQNsubFtBGNgnsvPW4EXP31uCmEDEiM35nDPCPL",
+    "gizmos_land": 2
+  },
+  {
+    "id": "FCjc8RVojbdNkQgrRXLZJmxaqCCZYs3uvv9ZnserGuf1",
+    "gizmos_land": 2
+  },
+  {
+    "id": "77W6x8WYa5NGphid1EestzaeXK4bNqtRJJRbVsFiL6yo",
+    "gizmos_land": 2
+  },
+  {
+    "id": "8Dw3A4hE7kEYxruqw5Nd7GjcwLzKnCtXsXsJxtygJdbE",
+    "gizmos_land": 2
+  },
+  {
+    "id": "AK5gKnu9awqRvxPwA81tNsPvK3w8D3tNPrYhLwKtUcyS",
+    "gizmos_land": 2
+  },
+  {
+    "id": "EAQqqA46UHSb7FCAFFCvR6uZ81sjpTfYjibcM8ucWh5e",
+    "gizmos_land": 2
+  },
+  {
+    "id": "Bc9xVcu6RY77EHHWrPPkKiLJQtdCfWTauyqFWry1cQt",
+    "gizmos_land": 2,
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "83dvw81jVxRZpe7XEWSnmC49ZtkvxX8oRbQqDddcbGaH",
+    "gizmos_land": 2
+  },
+  {
+    "id": "6VjU83M51EVNXTFqx12xqWQfPCU9Ce8vGxqxvDKLd3SD",
+    "gizmos_land": 2
+  },
+  {
+    "id": "HZrhvqmJrnz9NcZW1ezy83Hs2sDSEXSFnkZaT6h3DrYS",
+    "gizmos_land": 2
+  },
+  {
+    "id": "6RuH1jNRq98BSfeiTTkUNtwnGRTvs9QCWg7be12tneow",
+    "gizmos_land": 2
+  },
+  {
+    "id": "234gspqqGHxASXQHiZbD8UjF7ttbtjpLwuBx3ux7vToH",
+    "gizmos_land": 2
+  },
+  {
+    "id": "EWv3pbfY9wrnUZcNXnKhBtd673q3hvNDFxa9T6uYZYXQ",
+    "gizmos_land": 2
+  },
+  {
+    "id": "J9aiQtFqLji6SC8racgNZkpJqLoa5sMS1ok88miiGEnG",
+    "gizmos_land": 2
+  },
+  {
+    "id": "7NJ1d6coUJRk3sGsiP8cM21SviZHLzFpDZzUkjpW8zCW",
+    "gizmos_land": 2
+  },
+  {
+    "id": "GfqA2bDPN2munnwP3CJnqKK7XYHhswYiJf4rKHAu1ptb",
+    "gizmos_land": 2
+  },
+  {
+    "id": "6Kk8kwJfFUg2snFnx2Yjpzs2VLAq27pexjCbazDtoYg7",
+    "gizmos_land": 2
+  },
+  {
+    "id": "4curd7f6HRJkCjp7C2MpxZZFDee18mpxYNF6t5JWTNPA",
+    "gizmos_land": 2
+  },
+  {
+    "id": "J1ucpKyFJuEv9FwVKLtUYCwczXNU6wa124B9HtNAbP8h",
+    "gizmos_land": 2
+  },
+  {
+    "id": "7gxTghaVZPNNwaNEdtQHh4QDCJ4JgigYMd4MMCC9VtFo",
+    "gizmos_land": 2
+  },
+  {
+    "id": "6WFHNZxsKDoQDVxbyB9yid6Pv4z2AB7McgzDEz8K9ecV",
+    "gizmos_land": 2
+  },
+  {
+    "id": "8C36v6ms6umLeUFXF9RZkE4UowPRFq3Q5AAjUenCdS6P",
+    "gizmos_land": 2
+  },
+  {
+    "id": "H6273971YDoFgEy4SegXYcQNnpLvnniCNsUV9GK8Fc2C",
+    "gizmos_land": 2
+  },
+  {
+    "id": "E2xiRyiTjNULmJgHYbFeJACHqFaUSwptPcLANctL5ocP",
+    "gizmos_land": 2
+  },
+  {
+    "id": "EmsS9SEp7b1Kt6ijDM6dSw5jC1W54M6our8jdYT5dVkX",
+    "gizmos_land": 2
+  },
+  {
+    "id": "77ewmbJzG9nCVuyMq77EoXPLReW2DnsCs1cUNQnShqrb",
+    "gizmos_land": 2
+  },
+  {
+    "id": "D6vokxZXNWEGz9Tfhfi3DdwU3TCzE5z9hJTec7gWSMw7",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BifLf1fat1pZfkV7ditmkeSvPiUQwjCRooEM2mm2Eduo",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EqfcLKwVQ4GxBBhPQMXUmyLoq5b374Ec8LD1NXwZLwNP",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9bhzBoGugrGFqp8YzM8vAwdnbKWRWzvqE8J1aLVKEzYb",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6kV2zS1jR6xQ7i57zJpGhc73n7tae7ZHFKHzyPTWkJpx",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8gYZpyvHZHz7HtCpGxVz5s9ziAFWKEssbinoX222Tr5m",
+    "gizmos_land": 1
+  },
+  {
+    "id": "HN3n44GjhZV6RM9p6x52a3MtFzKDFGLCAQa1WqyniRte",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9Vx4MZES94dvZJ6esrM86oRGWppNk1b6kmYurSrfD3un",
+    "gizmos_land": 1
+  },
+  {
+    "id": "AyVQRyzY475ntbfb48LSzAnqqpbGVuawikJ5qU2r9hP6",
+    "gizmos_land": 1
+  },
+  {
+    "id": "GbKJ57M25t1HB6TFCZ4eKiEL1aFPYc6crtgHrPPzYDGs",
+    "gizmos_land": 1
+  },
+  {
+    "id": "F49ydyLFSdTfF5ZPEzR1CYPh8W1Z23eUufrACxHm9SR6",
+    "gizmos_land": 1
+  },
+  {
+    "id": "AmDkgFg1dbLeGppfou612eeoygbRjuXZ1Kv5hfynSurs",
+    "gizmos_land": 1
+  },
+  {
+    "id": "zgrauF4VpPS4RbYPpUH5anWdToV93MxR8z5uXuse9bo",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EXH3MZBkYADTYDss1xrih9AFQ9ZigKrUexxktAJPZmvV",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7bs2YjztfXpJh5KBV2MBTtttQGVQrGXrzQY9XJ4kLWWj",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4S717fSYdkK1f6C2RRJjhFhDN2LUdici4bpR72XrJity",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9MBMmhTxqdD4wjPkPcZ7TtN7ViFzQFraYMrFvFoT3iVc",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6N8SUQQtyvyN1fLPWmDUrSKmfukURjgt2WsdS5nnqjpf",
+    "gizmos_land": 1
+  },
+  {
+    "id": "36vNtX1ridW6sxkvfLDdNzFdnqYxZS6Gh2oLdrwoCkHn",
+    "gizmos_land": 1
+  },
+  {
+    "id": "Fw5JfzCzQFxs2LmDVAkNjzPa1qC6StZhmc4c4w2QJuRE",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DPFCF5LKQxiKfsraiE2X9RS2twm9cQvuyf7BDZJzWp2H",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4dEmF2v6usGZqCHkSXJvrMSD7JdLSMzmFG4FLvL6K1Hs",
+    "gizmos_land": 1
+  },
+  {
+    "id": "99udTYF9GDXAXVxEJEm5fZftxvFbtr5ZsXvQX1KyQYCT",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4SYQbc5pGSvGCshAFxvcc19qXsrotzjTJwidACcujUqc",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8ZBringYgUx4g1fHANFnFfN3GLtSSGnDtv3D695vX9E1",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4pcqceQfNckv1YVBELfqaEcVPMZu2KjeMfsSRotZdSLu",
+    "gizmos_land": 1
+  },
+  {
+    "id": "WZRJHQsjdb6nZroTtxM65uzArD5iyLz2LWhxexXgHL7",
+    "gizmos_land": 1
+  },
+  {
+    "id": "76E324MUgoE635m59ZNkcS2S7pdjUvtj3SdQJnn2mL8t",
+    "gizmos_land": 1
+  },
+  {
+    "id": "G3hjYthAfPAD4DR7VVfgpKTQoa27RwAewXzoBVSEG1vM",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3RndV4tgMhqqNAcF1LpeQxWd2UAZff3D2bPD6taGopE3",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CoGCs1pBBRKJYNb1GyWTubANvWK4vYvic4h6eevEthdh",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7zJ92kuzPcbKNXLZoUN11pv36RdAvoJdiTpJdoPnEYFc",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DSomrqrYpuASW7vxncpqaMfLjVjNTFmXDYW2oEQJoeZ1",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8adACW6avcQpmWHSaUgPhoVyuA4m6gj7dAn1vzeEotbw",
+    "gizmos_land": 1
+  },
+  {
+    "id": "AxdWZ45AUkDWTwy7daexFNMgqHk9XYiPyirdexunsa7W",
+    "gizmos_land": 1
+  },
+  {
+    "id": "AtBo6gouPR8ZZQS3HvKecyx4FtbiS45mSKCnPQp1sFX3",
+    "gizmos_land": 1
+  },
+  {
+    "id": "59g7iAAXrbzyDbejnEmfUVh3M58dmc5SLUjwRSuw3CQS",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7f5kNPryhFK5tCBtmQi6XtLQzskypJz2pXe1vyLB4jj6",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6VGy7ndrCHbb4bYtVchNdvVxyaav5CWn9a8JkqLsQM1H",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2SRckkdHdxhc2UwyWbTMKSRAdX9drn7aqohmG7YvFMpx",
+    "gizmos_land": 1
+  },
+  {
+    "id": "317HfVB2HWFijwDNJ6YSUiyoWNcBPsVRmnmt4XbZekN1",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EyBtDZGD1KsfvjGkGh7w2cXUBY39BJxZyvcx7Gij1Zp4",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9umGJFv55eDaxURrKWH3coA4nmrXGmbkpPrbpMyy12dY",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3HyGEM4MYKdygPHiStAgqNWEy87XBZDmVi4fpVWDDJQN",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EFggipTrxUCcPAF2sRLKZUvAucUCRQ8NpSPC9i2GhdNt",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7abS4sv7VTBcc1BeiiLrvZhLDy66qgvuUJmrZqAZzvaj",
+    "gizmos_land": 1,
+    "domains": [
+      "77777.madlads"
+    ]
+  },
+  {
+    "id": "F2AShbSsg3RaWMLaQbrPDiPLGoQcDjFQxyeZaF33MAyg",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7xCbpxXLG2GkJ8ZcPG4tFsmw5HXhs6rmMc8PH5AKuwDt",
+    "gizmos_land": 1
+  },
+  {
+    "id": "Ay96CeirwEYneiKCPRgkwxiLSsPeAHVFyzV59SV2iS61",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7qktnV3rumgrJceWCnkNZWBuWVHB2cxqnoCL6vjr6dUA",
+    "gizmos_land": 1
+  },
+  {
+    "id": "AGUWvxB1gWdCS3ChVy572JQ7oVsCYhVhr2XG9DRnXG7W",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4G9fFo9LebKuyxcLGqNuodxyRBbiEsYx2uzRpCV2eEXB",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EtVuqvbNnSfLuJP7BkT4AqxfvixQfxeyDNFKadPUAZCv",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2gZupWc8gRtyDEeQVwMPujowa2jzq7ThZfEMV9S5atE3",
+    "gizmos_land": 1
+  },
+  {
+    "id": "B9uj6NsLZk633AH9bNUyfW1j5zWv2oT9q7bmaNsFho6W",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5USMqUABRtGgLUwkEo2cxQTRLtnFGtvB1kTV7GXKu5a2",
+    "gizmos_land": 1
+  },
+  {
+    "id": "B7FkHY96yZEVphjSNbexzNh97eHsnbA4aod6TTdKYCkv",
+    "gizmos_land": 1
+  },
+  {
+    "id": "84vFeBRsmooMBsj2sc93JjVJbzXRHzxgiYqZ2vuGAN45",
+    "gizmos_land": 1,
+    "domains": [
+      "🙏💙⛩️🧘‍♂️🧘‍♀️.eyekon"
+    ]
+  },
+  {
+    "id": "9bsqLuHSn1Gz6tcYjGHKbDAXoy5xvp6UTcgAo7d3oAuz",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4Yh28bpchrBtxSehcRuNBJRaAjkBSwe7nCqGt9cHoREK",
+    "gizmos_land": 1
+  },
+  {
+    "id": "vGXmWxQ7NiDNymd6DvRQizoaC71NDS1XfPTkBvtRThb",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DYLZsvhRwo4aaiXMiF6rS3rCg9LQM5Ao9rAVttM5FG7T",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5jxX1xBWK9MXbE2FT1w2kBd9B4NwQT5yZWLXGEfmx2tJ",
+    "gizmos_land": 1
+  },
+  {
+    "id": "93w9ghU76YRfAvfdEhGCmhUJkHGZFQLLgCp3Q7HUeVTu",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8m5QXCwbLhavukVMYpaxoj5aJm3aYM9LCFNSkYzBdSz",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DAVbhkAbJccE67upQUaFXtKit2WuBYxrrRs7PQ89uffj",
+    "gizmos_land": 1
+  },
+  {
+    "id": "ACPrDYfRpHKKSWimHHpUB4aeAc2NyyWzEF45JptseJvN",
+    "gizmos_land": 1
+  },
+  {
+    "id": "ewHxxN6YXxSEtPvmAbDaD1VFG6TVpVUzExtJgYUb7LQ",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CjV2C8nSr9jg48iJznnH6DRguKPQeZ7srN2Vnjd1vpmg",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6d9t6VfKs9ymApezYnWnUijFTznjD6fa8cwjub4N9B8f",
+    "gizmos_land": 1
+  },
+  {
+    "id": "Hpf9cywzkQ1DpGnA766Go88qEkAoe6XzzSELPuAxT3ow",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5eASDhDgT6zC1aAyyegqYA5mM6eiE1VB4PkLCfAoJCGT",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5RePDXntNCCcYFdR1J3au3PRWsRYMe5pwi1u77wTo8FP",
+    "gizmos_land": 1
+  },
+  {
+    "id": "GAuqM4Yvq5SPTXvqxsEnVo5Qzx5ZZJq7s4oVXrwhmNyE",
+    "gizmos_land": 1
+  },
+  {
+    "id": "Bdcb2S1ywSiitAH4QYWAoUAFmvK21gLLpN6fjTAxuXBC",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DucD56p8Ai1GHJ4Pyq3TurdmeRyZuvkimqmpdAiMv1w3",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6jCyCdyZEEZy9bCKvFiq4CPzX4hRLufBui9PY5VG4dz1",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DWzXxFVsw4YBpzQz5oL7yEpwKuqp7qHCcLQeNbLq5yAU",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9r4pkvthSgZ54dTxuyPxcJdDZM16PKuFUpEYe4YAE1JV",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DVK8kEXUXQBmFozBAjBqEscYRrXCtkSt3BFWAvQngLDr",
+    "gizmos_land": 1
+  },
+  {
+    "id": "GgWe99vapWt135dSu8pbYyy1uco6q1J14LoiBLSVHmSC",
+    "gizmos_land": 1
+  },
+  {
+    "id": "494kVQhL6vmqmcPikCuazrsn4ELQr22BmugTmfxHCt5P",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CheeZyTtgCyxGdEr6BrSLLHFC4bHvpkQ3P7NCBbjjYiy",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8okzSDcbSHBH74pggsGWDDrU7rUzER5t8LfEJz9SdkLF",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BKqPQfrkfQ8p6vYyLsPkwoKrmoKHFz1An2Upk8pSDh9K",
+    "gizmos_land": 1
+  },
+  {
+    "id": "23LPyVtgPfQYj6dWvDF5S1LkfvLdnsGgTe4wHBzFhwbn",
+    "gizmos_land": 1
+  },
+  {
+    "id": "Fcaon6eNhj8qvTbusi8BSKpR2QEkDZAomSWNFU5py24z",
+    "gizmos_land": 1
+  },
+  {
+    "id": "27XKk8czUfSt3kS1kWHZRCe88PSowKM3r6RRP3Po1m1u",
+    "gizmos_land": 1
+  },
+  {
+    "id": "AaKL2cabF6PUruNeDifNgG6Cg7Wp2i3PfxczkPJBSvhg",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EQYUWtYbtvN9C9ixiupXPjHyFWHsYa7dUh4DSd6rxbzt",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7t97BXEzv9icDa3drF8vjekZ43Hc7ubLQrHEHhpB78en",
+    "gizmos_land": 1
+  },
+  {
+    "id": "mPnnjt1JqKA3PojCJn3uawrKne9WmDq6Kt15A4ThdU3",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EK72pmM3sKq8ZACk6GiZh872tZWCN15JKjM5pZ6BjTT6",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BGCFdg5WJ2vUSzVC8X4jVdZr2bf1qjcRRGkRVeSUgNDX",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8fzt5eesj9GSAoJu28aqn3XWahs1phwjDBPzzp9Ts6M",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5jacVnmgV1VZAqQRkQUXhBAV1MyiD4BPzEGYuphyLi9t",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5kG4mMYM8rs629ooGDxnzBBgd9RDoADj4Y3dVWbden9n",
+    "gizmos_land": 1
+  },
+  {
+    "id": "C4b9dMRt2QtZUtW8cE2dNmJngNto5VWQHD2FqZHtGJFL",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9i6KoeGfagPFxUkFPu33g1zSSBTWZHVr7rfKZZaA6y37",
+    "gizmos_land": 1
+  },
+  {
+    "id": "41eptrg4TTBZxGfc4289GsHPWkBiGjAghcUyJmT9y8We",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8M9ZeWQo13igApfQjqim8qFo4drb8cLoNJya9wK8XfTz",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9yBGsKP6jpNcNTPW93gXKPtFPPk1oUTJrkzDNj2q2hLN",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FkBpj7YVQEXVhQCXzSokVLECi5nCKembtzhudSzUhVgJ",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FMWh8gj89roMDwHzt7JPxs6n4rn2SngtRbG5Q1Hi2B29",
+    "gizmos_land": 1
+  },
+  {
+    "id": "54pgWNU3PGd83wfgZ9ozYaPyHrKAZoukoX2umhMbiYen",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4ny4ExvNExb38Tfnu6cpE7pYX8V9iESnnisUVSF4joiu",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8vaq2ebGPjpfwLszYvnYPJkzUtwrHAeWSPawNhLsuMW3",
+    "gizmos_land": 1
+  },
+  {
+    "id": "foJUrP3mGHhV8Roj488JRy6RGFpmCrcrBw4VNPky2ZZ",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8dDQ54UmTrzsabCFpT6VuDiKLjXYkgarhcExyxuMtiE9",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5JqVMiL5CQ1ZcC3QwcAThb9jEaqPYeXTyM999ar1YFdg",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2vssGtmf3Tq9jKc22ZtnBqs3aFQ2k1vYgXX9uX5SpGAv",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FLgY8Pohm9ryepbexQw4FHfybhFV3pNcbLypB7CaEyXK",
+    "gizmos_land": 1
+  },
+  {
+    "id": "nWMND7DQKWZGAzqsd4tA6wSao6Mc7y9MD57iD1czvRR",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6kZUFXLoNwDARuFkrHGqW18SdSwnkZEL3zoZ4thGuLgD",
+    "gizmos_land": 1
+  },
+  {
+    "id": "mrZZv1XjVE4zvUGQtX4v74hAygT67hw7tbFymSruXXK",
+    "gizmos_land": 1
+  },
+  {
+    "id": "97m6nyvAbQn5QZBwwpYtqFZ9PyqUkixet96uXuEWur55",
+    "gizmos_land": 1
+  },
+  {
+    "id": "GYGxDg5CxpH39GHynmEAvmCH21ME6hTvBCNhuGDLdsZz",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2dmiKFREuQyN69NB6LTMuSXjoqaumkrchtUgqaE6mt2W",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8tKLgBdAjBqTTcZRXTAAPrt5QJaX1r1AXMxhwHBxyPd",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3zAyB1F2RjvaUpYcVNJWFzts3F9c4fumLyKSgB4T1bTY",
+    "gizmos_land": 1
+  },
+  {
+    "id": "B6XKBm8KWSE58UDGDJDut8Ys1khcuopRtzRLpjNGKYa3",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5MUCMMTpcyVRoR26spV4vrJTEUycBLriafmzrR5sxosT",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9dhUenwQBUCa7uCBVo8MHmWtXdLG6F5D5bmDPQFXCLye",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FavLh1YwPsGWQo2nnCXAaaSMnRGsgFWmHeUkSMXHa5WF",
+    "gizmos_land": 1
+  },
+  {
+    "id": "V3shYZhKfTaCRAoE46fxCo8z8vRRrvfKuivSWTxpbcP",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CnEBrse1iXzgo7gEz8CbYydVf8dcFMNcKLxuo2oKRQHW",
+    "gizmos_land": 1
+  },
+  {
+    "id": "H98L1sqrDLykcxfuk7r5pKuCVcLCvwCFcLawdXfFbchj",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7mZLFNwHekSsdBiP6UwTYLUQ6E7jWBuHegsFGhjLEE17",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9o42aj2JWppyaMgJXGGTE2JrPV3bqZMn7TYG1ntfb2uo",
+    "gizmos_land": 1
+  },
+  {
+    "id": "48amwJBHeyAB33xDMyg5jUxx2UxpoS7jN8PBMUV7LdQd",
+    "gizmos_land": 1
+  },
+  {
+    "id": "C1JXyi5PkMKtbzB3ZnhK1yovQzyTW4Acvxma5eWnqoTb",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7FhEgfHFR6hKyn26VsJhPDUZPMZY3PfA4MVqKaqiSfPz",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7tB13eAbhS9CZ59Zc71jniJkcc5pKBSviwkDM9w4bfEc",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7FKNkaYMSPdgzkscSwHJwsHQNWeSdjfS8qsbW4rptf2b",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6mcT7Y45P1svWzxyu6bwb6rdToz2xJN4PG3iWnFhCF2K",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CsFj7XvKwRwuNB2GTLuFQfLeNKAbFED3M9pnKJEmaTGr",
+    "gizmos_land": 1
+  },
+  {
+    "id": "H2ya7syvPkaondUNxH4FMhapHwHznyswpa4wnPtggMjb",
+    "gizmos_land": 1
+  },
+  {
+    "id": "HKGhkgZKJcspL1AXAPmn9xnyispTMpW1C6J1fKmd5zxY",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BsxQUaToM1cDAeety3iPtNpxrdYPfrfCXYFYEVkcU5LF",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6fY3tQnwi6Syynimqed4U8c5e3UekX3A88dSuEPc3FYv",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BERAhf68arZbN6BjEdk1e2i6QTik8WV2qJderHXk7Eqz",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6cpW6HUUeG5W9CwyLeUPTED8P4c81bNUeMTuucRdBCuk",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EztpTKr2qE1Xz8EZHcmGMUKV8ywJbdiDQGfVm3MGsd85",
+    "gizmos_land": 1
+  },
+  {
+    "id": "J3Rm9e8FeBG6mix71qdpksPaj6ErvnoS7X9p5qMDMSwT",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EbPrq9Njp3TpjZ1Ct3meUC31oCMuEi8T2bMrN2Dqpvzy",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3vjJKbSEF6MpMFkKx2a8kcPJ168twg6aYWm6vjtwMC6q",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9wxNWZ6pJ9zGbJYM5N7DhZdzUh7C3UE9PpkMmuR7nNEj",
+    "gizmos_land": 1
+  },
+  {
+    "id": "ArqLqnpYPPc14bRWAGzReS9cFWCLNuRgdzTFZYHdVVDC",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4v6MmJ6cRvXkwwLqGXNSXSPaVZ8qSujjGrneuuEBzxB4",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CyJ9pPputdYXCJiSqe3ZaiqFC96Xpfm4JRcp3M3aUvLk",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3qjY5vGJ4DevgTN7MjjJNmzG4PfPhEgmpBVnSv5stRCa",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5H3oNZVjznmgFnVkkuJnMdA5wmiJL943CtF1j4UidCSK",
+    "gizmos_land": 1
+  },
+  {
+    "id": "Bp8dBv7LdDchiDqiM2BsdAT1SM5EtAwUsxccX2uY5PGz",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3oVAq5hD1Dz4GF1cktEo3zk2knTpTt2m6eeCdLisaj5p",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7iq1L4dDGagPpWMQBEddhH9Z3fesJahhUc68TWVSTsG8",
+    "gizmos_land": 1
+  },
+  {
+    "id": "MEkBSAmLnKRkFvc9xfTQRV4BZea25zidec82dGMmiya",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5UBiv17A3vDiU5LuyvZznC6votZSCU5wL3vdneAKc4RY",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DV4xEyvG892xofioLxryAyhjYua6RFHxtuo95n5xQMSv",
+    "gizmos_land": 1
+  },
+  {
+    "id": "HZ2A8UNT3FdKqAPMJ6QN3wx71pBcTrVMF8UZEDoKg1kD",
+    "gizmos_land": 1
+  },
+  {
+    "id": "GagrJN9FSscdMp4RpSwGeYxkyamNJCSTEg1iMpCDoarH",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FqAFHQhHojksXPa6k8HueMfjhLsgd8LaEzoyYDXZabRU",
+    "gizmos_land": 1
+  },
+  {
+    "id": "7rGisNbWhZfcX7R6Qzw3ibw5X2oak1mwFBUtKbnH7GpU",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5opZjT8e8VAynpod7e4EJ3jV5pJRrtoSkChLys7mbQdj",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FfYtpoQ73G68SwShDYNDY3qbw8iHioaYduYc9kQUtjXb",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9X5umAdHH6iK4BSXjb5SrshYRUE9EKQrMAfJdeJvEhYj",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FaPScjr65zaoUgTJPtDAaKdH5EavXmzLAGhn9jszdXXS",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2aqDqFPbCrXrubh3hH4vKDvzW2wMqjiNgWkswxhutU1f",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9ca6n578aLQpMWE81EGU7WQDWAqzNNLmQRuhe2oQRb85",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FDEDbdH2uL1YzH9VJ2gvM21ePjqYjkJxyk4zaZstSL53",
+    "gizmos_land": 1
+  },
+  {
+    "id": "Hwp5pYXTDjpTbgU2E61seJuVjCoPPKyjRCmQpozktqx2",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3c96F4iBoMCxDV1iqWNkU2nwgNQP8XVHdvn2D4eYCwCe",
+    "gizmos_land": 1
+  },
+  {
+    "id": "5AQU5QynDuNvxuFR9aGQTG66cuJzTsiJa88qobpgrUP9",
+    "gizmos_land": 1
+  },
+  {
+    "id": "9TXrPg5ymCoDm4msdubEkBvcNqFyo4eyytig39fHTrFy",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8zPUhoL95QZVpj4yjA8pquM27SQo3fUYDSqezY1kuu8a",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BsfoEvk5SKufSbiCathre67qBrkub6R5hiHxVvWAtfqV",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6Noowh5N1sWsDj3aixN69M7BWgHDzedZM4hawwctCcoN",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2krTG2VMA7AAYLfHrKw5LtRMLfaAUSUFsRg7afbWRCQE",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4sXsWEvBND2oKfcLFZrqdTprjA9B9kdatkgqexhFjxZd",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EX1LtaxHDriv7pj8oRFJhN7GPwEDHawBNfT91RXUsMCJ",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2Y7avMeS6L8x6UisTTg2YYKX1fs9Pz5y3SoEd3U6ECqo",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4q2hMzja6MtuV5njiPjTqZCUGtiPYiPnfCSjDLuWLTa7",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4NX7jN8ewt4Ega1JbmubTc5VdufhDe2SRn3Zyokxf74e",
+    "gizmos_land": 1
+  },
+  {
+    "id": "81Y8o331aQoTrLnJWxUcuJoRriehNnWfFmaXssikGXSt",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3PhD9wkLq15MD2cLju4AeYFKywa9HCvd5tcyvAmuLsRr",
+    "gizmos_land": 1
+  },
+  {
+    "id": "97WfLeXWdATneuNK1Lh239mGH7U8wUkVyPzGJzMC7yxn",
+    "gizmos_land": 1
+  },
+  {
+    "id": "A1pmodmqaEDu7ZPsrwNzBNgBBCWZph8MoHLAXrBXEJCd",
+    "gizmos_land": 1
+  },
+  {
+    "id": "AopS2saCp4dCKn1d7ziTyFdjyoG9Pmdc7vbzWCGgCfPL",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CYQuHieeRRnjwf1sARLJ9Phv9nXtrdLHrhKoeULH97tQ",
+    "gizmos_land": 1
+  },
+  {
+    "id": "DXQwpcW1sYUQXqNyjz8JEfsoC4sVqm1oA1xw1gkvhhFY",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FEj3mKGAhYVAVDF68AhWLJybm399AJgi7urdHDujwiRa",
+    "gizmos_land": 1
+  },
+  {
+    "id": "6DRaFsgGdxyaTxEQGXppEkTup3BiTBYni9uj52giJBLj",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BxpZHZ5HDyucjMFN61Vj7EVumGmjJCEZKiMZkebyF7pW",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BCTE7TfnekiYunDRiamiWQ5VAD7vFLsm9qNap6ckQfPf",
+    "gizmos_land": 1
+  },
+  {
+    "id": "Cw4A7AKJyUwh4fu12fyjo4zLj8YCNqCsoqjuLLi967ae",
+    "gizmos_land": 1
+  },
+  {
+    "id": "GjRZ4GPofZVE9mRZZuJsYPoxe7Nqr4QsHF1FTN8K5kQH",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EdzND74kYDfA8rT5uBq97xynewiNAPgpVC39wt2qKLpG",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2zHqhAsNqPBVykmxRoBaY2NkW9G9KPtnJpfiRCRy5DAV",
+    "gizmos_land": 1
+  },
+  {
+    "id": "2NbFFGSrXQEp7FpYtbu9e2Nn1tznNaRjzkYPcFG2G5hS",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3Ay2shN5hhZ6jMendXVGuZNSanw6udAvCmNbHYZK9tGQ",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CtqionPQJfmit9tA9yhnj6sz8VQgW9eEFfDVaC8fhmek",
+    "gizmos_land": 1
+  },
+  {
+    "id": "BoYE215vERZP3w7GUykXGn5DbQgaqyWA4rSpXy4ZFA8m",
+    "gizmos_land": 1
+  },
+  {
+    "id": "76HssSQ1eH2Q7rz3Q1aVrDGj2yXLykNnwZ3aizmz3WkM",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FqkMiHNQsjyGB3GLBwNDt3d2v3u5qwsHesyt33P1yujT",
+    "gizmos_land": 1
+  },
+  {
+    "id": "FRJ4eh8Wvw7v7vzkUWn8zR7oNeyM3Ve5p2zqaeaV7GMY",
+    "gizmos_land": 1
+  },
+  {
+    "id": "3GV6XpU6zuu3EzByqp7V3arFGA494tyokT1EjWXepmnU",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8zWVPEDwx4sdujiDmhYNvqkVPKUBeiK8iKSV4XW4e6Rv",
+    "gizmos_land": 1
+  },
+  {
+    "id": "tfKpssjKPAkZbSAHZdxE83gTNvuaJ1R9iikmeGGthst",
+    "gizmos_land": 1
+  },
+  {
+    "id": "CPMdoWR5VG7RELqvgJyU79PuimqRtciCnNBWEiqMAAFj",
+    "gizmos_land": 1
+  },
+  {
+    "id": "EbfJGPMo4U985jor3h3hhkF1eN6frViB38fBz8mMT3sY",
+    "gizmos_land": 1
+  },
+  {
+    "id": "4AhGNvkV9GN9heTMRZnWfr5MpEZace6W4J2xCqXwtU3M",
+    "gizmos_land": 1
+  },
+  {
+    "id": "8544cg8qpLFJQZssaoCkSMcABp8r7NFujhu3AmoTXeHs",
+    "lifinity_flares": 1
+  },
+  {
+    "id": "78Tzd7WMeKrJSxV47TB5QxuChhG4jfo1VUc4cz76WuCp",
+    "ordo_nemesis": 1
+  },
+  {
+    "id": "8j1aUnMggbx9HimDJN488oLVWCpC3BMaqVVkBAhQAGCA",
+    "raccs": 1
+  },
+  {
+    "id": "24CfTy2J1JRQQGd17pooAzcpRWB5pkrEMyWXcwvxia75",
+    "saga_monkes": 10
+  },
+  {
+    "id": "6agJ1fgnCUpH1s1yEEPQvqKrqK4CA2cGd14h2MjTN5x9",
+    "saga_monkes": 10
+  },
+  {
+    "id": "8HfES5UKpyW4NmDeQB3cJ8Snu1MxaiqUwD4hwBC1THBZ",
+    "saga_monkes": 3
+  },
+  {
+    "id": "7EbGcSrtB1XaitwiXmCCVpxMhCzV9VvRVSY5WgXi5Nmu",
+    "saga_monkes": 3
+  },
+  {
+    "id": "5ADSJCVYzneVjgrSMrbxvKhEZ9QQBhECe7fXi78TgHCo",
+    "saga_monkes": 2
+  },
+  {
+    "id": "6LbXvE64Q71KmkHVFGumKUutn2v52tcrzTYxcRTfMDgP",
+    "saga_monkes": 2
+  },
+  {
+    "id": "CF76ix5GPkC4LnrGVcYsAsmC98wpVcczrK5SAq7NGpAy",
+    "saga_monkes": 1
+  },
+  {
+    "id": "HxTvVnpGwxV6kJnuu13E5sN7Nb5CnpLDrYTNf2PYyw5c",
+    "saga_monkes": 1
+  },
+  {
+    "id": "9c8UfTNJjKvwpY11N6BmC2uteq1o4o8Av7AaEXbanjLn",
+    "saga_monkes": 1
+  },
+  {
+    "id": "szRQvxip9DAzVokgZy4tGDJUrEf6xHhbNuPNyYfqDtP",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Ap6keVpp87qMLYuJfXG7rCHc9FrxXQBu3fWhnystExYN",
+    "saga_monkes": 1
+  },
+  {
+    "id": "9P1uYnvusXrNWPPpwTeycyTpBwXjYaH3giQu2XEdeXKq",
+    "saga_monkes": 1
+  },
+  {
+    "id": "FjDDnB1RoBajQqqtqgRq7CCfX7hvuYxJXvqp1tDQoW4Y",
+    "saga_monkes": 1
+  },
+  {
+    "id": "5mRxqguCBsRNuo2a6FMkdbgnePMxcj9mFW11MbkfRPRw",
+    "saga_monkes": 1
+  },
+  {
+    "id": "815ha7J9HzFLhe5MvswTGo2nFqcsWE5awZqbLthhJGNK",
+    "saga_monkes": 1
+  },
+  {
+    "id": "AtjQ3NhqziVwyy9zBEF4pChgrA8tLa99oDxzrw3DgWLT",
+    "saga_monkes": 1
+  },
+  {
+    "id": "3HTpSdkra33MghFbnrfnHLPcYKWiokhL2wcVTiQvik5S",
+    "saga_monkes": 1
+  },
+  {
+    "id": "BQH676Jew2J88EUmGjG3RHABGvtc4n92LZck42NWGbLJ",
+    "saga_monkes": 1
+  },
+  {
+    "id": "A7MTu7ErCK65vbgH59qdL1pxbuZM7pJwRahWx3nbJoN8",
+    "saga_monkes": 1
+  },
+  {
+    "id": "8QhrYWD3Yj88qErgTJxd436y5MwbE4ZL1Scrzg9QZgWc",
+    "saga_monkes": 1
+  },
+  {
+    "id": "EexKSyaKPNtbg29VVH3fCHczGJQY9moc4KLMJkcpjmSP",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Az5tJSBzCDhLmftKpnhvn6FbbgurkyLZv2pjixrUZ2s8",
+    "saga_monkes": 1
+  },
+  {
+    "id": "3yZMQe5MFxRwHXXJkRb2oXcNgc4BZq8Pxr45vRnMseeB",
+    "saga_monkes": 1
+  },
+  {
+    "id": "8jt78nAwzPdiXHZKFEiA4hxTPwPG7fvnoNDU5XHeQFmp",
+    "saga_monkes": 1
+  },
+  {
+    "id": "39NAMRViXWBS5yN9mFG4w5tdNW1CXdEDhx9vprPQfPnL",
+    "saga_monkes": 1
+  },
+  {
+    "id": "3nfdFdg8jZZqkxEbrTomWVP9jAPF6usX1ch91wQLeFv2",
+    "saga_monkes": 1
+  },
+  {
+    "id": "C7TSZX5pRB6DFdQJXeEbbAYx39widJjady7EYRKLgXma",
+    "saga_monkes": 1
+  },
+  {
+    "id": "7y6m7WrXMkDmK5cJ7jP8fUgan6Hh6FTEV3TrWa1bRNE2",
+    "saga_monkes": 1
+  },
+  {
+    "id": "ZBAtHW6QVFzfL3NwxRXDTs1QC4uQqSUoiJKffp3EFGb",
+    "saga_monkes": 1
+  },
+  {
+    "id": "E2N1Wtz9EbQStRMuSUTzSbi2XkFWdtmxL8wx5EK7dnKS",
+    "saga_monkes": 1
+  },
+  {
+    "id": "6YGXFsUvWz4Xb3n6wEFWSuFsZp7HDGkmGfZsS81GGjt9",
+    "saga_monkes": 1
+  },
+  {
+    "id": "8iemXojxvWRdLWWLKaVaxdBpEz6dMB95CWTUoFpiVvZo",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Q7hLfJsY51tKv7e6Yt1BNhmujpPipVQNPZDCp2whL66",
+    "saga_monkes": 1
+  },
+  {
+    "id": "9mxZDa87627aYhjgz71HiSjKhyz5fFYHbfU5jNmGEDe5",
+    "saga_monkes": 1
+  },
+  {
+    "id": "AxS2bgLJbkaQyyGGTQYK6ZcS1d95zuDvcnUyzLQYzKd5",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Sb3DkqeB6kLADVKNJgJLcU1ZYDEcyeoucrg53VM1ZJT",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Hw9k1T5tRYjE9MRfLgJEAuhjT1bM6DRCztXkczNLgpNu",
+    "saga_monkes": 1
+  },
+  {
+    "id": "6QVRbU4Q4wTYS84eAKT4XGqs9SZWWWjK987g74oKFod",
+    "saga_monkes": 1
+  },
+  {
+    "id": "FhW8Ep3qCsaSttcvRXgrCLTdNQoikBA6fA9PWit8gYJi",
+    "saga_monkes": 1
+  },
+  {
+    "id": "2s7FRVQk6jrNVzqhBPULFkyRzLJd1NkFNmaMBbYazse8",
+    "saga_monkes": 1
+  },
+  {
+    "id": "E9iZYWhzHkAQb95RtWLusCWRQh6BPRNsV5FCyCowms1e",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Fv56NGG1VLmEHUUe4ijXV357Ne54BERU7bikzWeoA9ub",
+    "saga_monkes": 1
+  },
+  {
+    "id": "27aDfYGUtYbE6DaZk3tKv16mQdQUKhXvze6uWcXBnCeE",
+    "saga_monkes": 1
+  },
+  {
+    "id": "3hppmMamvcHTaapapJbdcLKvawRqeXcBpyycjybv993m",
+    "saga_monkes": 1
+  },
+  {
+    "id": "7Hj3V1evWAhixHUtuW4E4GyHqnLGzxzugFEtrbQnW5YL",
+    "saga_monkes": 1
+  },
+  {
+    "id": "FDrsZ8HXyNbBKZzNvJHKcDfvSh7itQYkuKYgQ6vAk1Aa",
+    "saga_monkes": 1
+  },
+  {
+    "id": "55EcpkwQrjwmaoTfjcMDMWau8qLHdDixRouVwX6fBvLn",
+    "saga_monkes": 1
+  },
+  {
+    "id": "GqjwxgHC4R6cviKuJtafi1ponagtpPMn9DE2jpKK1aBi",
+    "saga_monkes": 1
+  },
+  {
+    "id": "5kwxR9sHfMtZkwhmFRo57wk7Sz4CFtBR8UPdnquicLCm",
+    "saga_monkes": 1
+  },
+  {
+    "id": "8XnjCDJuLnDwF3cPT9x2koYdrF7hBUoHVJw3HK3b5i51",
+    "saga_monkes": 1
+  },
+  {
+    "id": "DjHKH3zSV7YSpKDNcVKRXHrW27K57hQ23m7StEWtWVsb",
+    "saga_monkes": 1
+  },
+  {
+    "id": "6p8jKKJi1oEqEGAAPGbpJ2DBMLZVfeWp3gUKXi2GvFqQ",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Ek4tyEHSDNM2Yz2VSgaP6Fitd55ToFqLWHHGhbUnVPy4",
+    "saga_monkes": 1
+  },
+  {
+    "id": "6Z6NLH9WWxQRx6PPHnqpLB98HtmobViyfN8CkYn6wEr",
+    "saga_monkes": 1
+  },
+  {
+    "id": "H1awWTd7LvhttUY1gFpYLS43GYLRDfCTi9pvyXRaxG7T",
+    "saga_monkes": 1
+  },
+  {
+    "id": "F6PLzR4FG21WhfsE1LQ4oGGvLTALjVovcRSABEBMwAcf",
+    "saga_monkes": 1
+  },
+  {
+    "id": "8Zp5htn4Ze2JxpiMKJmmkFJbCs2DikhtVdzDKC6fhEvU",
+    "saga_monkes": 1
+  },
+  {
+    "id": "9PNRAXhiXNC6b5xhj3etSd7Xp1aF3cP1iKGnyrhPzt44",
+    "saga_monkes": 1
+  },
+  {
+    "id": "AHxhbUhMXuTxt2wLhA3LvZqRakDrVYZmBGmYd8K1DzhN",
+    "saga_monkes": 1
+  },
+  {
+    "id": "3fV9R5vArVSC8pAihzegcP4jGi7j8BHX72o9WCEop7ta",
+    "saga_monkes": 1
+  },
+  {
+    "id": "5jZZkaL2Tgnc1Cxqeb8EZrcugqd2cqXRr5yWgtVcExkb",
+    "saga_monkes": 1
+  },
+  {
+    "id": "9weV6iWWbxQAUxWt362YmR1U77vxSkqFdmSxYwRLJhTo",
+    "saga_monkes": 1
+  },
+  {
+    "id": "eDQGSpUnMgJUAR1B3yvfv1iQHnHa8SZZCYhCp2jC9nw",
+    "saga_monkes": 1
+  },
+  {
+    "id": "9tkzwSSJK9KeeoC9tF4FLAQ7hUCzMPj75dzFAtFgfTxe",
+    "saga_monkes": 1
+  },
+  {
+    "id": "HFAXj9t6p1YueyX9vaMzvrgSR4vvexpqtBshwNwkWBTb",
+    "saga_monkes": 1
+  },
+  {
+    "id": "DGZWX6M9Yof4KjAnCwMRRD8TtyKsvMjoB4UUyTGr2WC1",
+    "saga_monkes": 1
+  },
+  {
+    "id": "H4gv4b5ehGr3bPUPf6kuKqsW2RmjUsgq6rJdsmzc44fD",
+    "saga_monkes": 1
+  },
+  {
+    "id": "3miAomxrXLjPpumw387AtyWJhLmgLr2HrAXBsijwd9MV",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Dg7WczYcq2tjS3z3sY6viKGXdqLBngGwcinjR8b4RxsP",
+    "saga_monkes": 1
+  },
+  {
+    "id": "53xHiuLMVjM7nkYWTTw2byuDHPZT6RGd442unMMBMVts",
+    "saga_monkes": 1
+  },
+  {
+    "id": "HL8zKqQH6AThFQdRJUCNX62efggVX8q1axcVnzpxM2yR",
+    "saga_monkes": 1
+  },
+  {
+    "id": "3brf1eVPtVuB4BffvyMR6XH75Aiw9x6XU4dcD5B3WXrL",
+    "saga_monkes": 1
+  },
+  {
+    "id": "9yFsQwqCBVXH4SwQQgHpjV3iJi4QrFs4nBKVdZGV46rH",
+    "saga_monkes": 1
+  },
+  {
+    "id": "AAow7tMiDxmcNKZvfJD7wcHKMjoea7enoEdnWKVxHPYF",
+    "saga_monkes": 1
+  },
+  {
+    "id": "97ecZiDQP3wti42W6wxXjyEnnYC9FUgRjNPomDgZsMKa",
+    "saga_monkes": 1
+  },
+  {
+    "id": "785fL9T2jwLC5E3wx8AXnfPKoKNwT4Nn8TQTWA6Rj2DD",
+    "saga_monkes": 1
+  },
+  {
+    "id": "CPD9embUDbwyYSDLDMrzy772x8SSiLzJH2HEdPGsF6KR",
+    "saga_monkes": 1
+  },
+  {
+    "id": "47npGJ8Ey1yFCXUcvPpprmpB5aYHNPRspekNobYEvtKx",
+    "saga_monkes": 1
+  },
+  {
+    "id": "72iQAjZse78Bexvrm5qREFZqaoD57JW5pojiRLQsF998",
+    "saga_monkes": 1
+  },
+  {
+    "id": "6wa2D2GXqQbgpp5h6mVLKsrBckN1squ3WJv3TNKm3k7a",
+    "saga_monkes": 1
+  },
+  {
+    "id": "4NParpaTWphE8JHXoNxW9BZQrLYuDduN5aW98z6zXdtM",
+    "saga_monkes": 1
+  },
+  {
+    "id": "EG74d9aqckMsft1ryESjh577AaMf98DNfa2bsfvAuKFb",
+    "saga_monkes": 1
+  },
+  {
+    "id": "67hF3X6LgY7zYhVQk3Edmyq9HhtuZ7eeDpGTKxvEqe6",
+    "saga_monkes": 1
+  },
+  {
+    "id": "8674CgRX273AZUS1drfdhVsx1SERSbtFKmeKB92v5WwJ",
+    "saga_monkes": 1
+  },
+  {
+    "id": "618pE1kuRn1LTSHv8WXqWFUThwzPaCgEBnvrRUZxy4Em",
+    "saga_monkes": 1
+  },
+  {
+    "id": "5NZJVikDSD3XeGfdxBCiAVYv9a9X6vNZ9a2cackW32ym",
+    "saga_monkes": 1
+  },
+  {
+    "id": "GSPLStx5q6kkFjwDPxidn6SxpPwMEJAwwFEW6LLhk2kZ",
+    "saga_monkes": 1
+  },
+  {
+    "id": "G6hwQ8VJZ8sDUFKX3DubgyFrnTcBPk4RnfsKg23WUGYm",
+    "saga_monkes": 1
+  },
+  {
+    "id": "8F1mV2yuVu4YvmKT3KYuuho1Rrh5UUdLAWcafe5q5Xeb",
+    "saga_monkes": 1
+  },
+  {
+    "id": "DtECKkQnszforhU4jL94zj7Yd43TwvNEp1sb5ia3PtxS",
+    "saga_monkes": 1
+  },
+  {
+    "id": "K6Y7FkYTgyet6F5mhzYQ39RK642ELxFNeLCiJt5gXiN",
+    "saga_monkes": 1
+  },
+  {
+    "id": "C2sDh1WmnQa37EqC9Y6CDp14GVtcWvTkAdXQ8u2Pwo1P",
+    "saga_monkes": 1
+  },
+  {
+    "id": "7v2ukCtLWrEHfvijJexmX1VM15iMQxvNvEyDT3QmTkQv",
+    "saga_monkes": 1
+  },
+  {
+    "id": "H9UNwik87EGdoEE7Ppq4hjBDtX1MXxqTdHQ4Lm6hPscM",
+    "saga_monkes": 1
+  },
+  {
+    "id": "KHt7SJyzZavQ3KytkoxSkTX9bZR7vFsVRDYyWS2HCd3",
+    "saga_monkes": 1
+  },
+  {
+    "id": "5hUubHRXkqS6b77hzHju5LYsJtp73iU6226YhxdDB6WQ",
+    "saga_monkes": 1
+  },
+  {
+    "id": "7ykKiLobipR7ha6zwA1aaFiGsFpFfKX5GVAmbsLNHzcy",
+    "saga_monkes": 1
+  },
+  {
+    "id": "Gh4b5ewCw6CAxTEcaW6tjpvoEgHo4K2E8BZsg5ovFsPr",
+    "saga_monkes": 1
+  },
+  {
+    "id": "wmheur7Kpme75qyR9ssZzjMPg1CuvMavjTLQDRQuZGy",
+    "saga_monkes": 1
+  },
+  {
+    "id": "G4uRicjQGof1PCt68z6PMXSMFwDX12oaGaVTw55ABujC",
+    "saga_monkes": 1
+  },
+  {
+    "id": "9NCzfp9KB287vtSBTrncwViYDzU6gXoZoNcbk8T9edUq",
+    "saga_monkes": 1
+  },
+  {
+    "id": "HWBdK8rPLVnxBBeCuHTmhsgt46nb5bmcREyPn67Ttqdi",
+    "saga_monkes": 1
+  },
+  {
+    "id": "HqqhNy5WBPHnP64hVNc2C7EC4f44gB3SK9MpyDbgHuE1",
+    "saga_monkes": 1
+  },
+  {
+    "id": "69VG1GRmzruWcGh962yKsu5wzJNfmjDRoczHsozAbfG1",
+    "saga_monkes": 1
+  },
+  {
+    "id": "2qcsemgk9X5H8s9J6dba9sPdqzaajM1umzRfjFWG9MeZ",
+    "saga_monkes": 1
+  },
+  {
+    "id": "GMVRCF8cMHZYbnVF8RyYWToVyqJWwT3dvhCY79iNYqYk",
+    "saga_monkes": 1
+  },
+  {
+    "id": "FuttMi7TWYxbX57AA9j7tYj1Nnvcmk2xHFwXhRdtmkZ3",
+    "saga_monkes": 1
+  },
+  {
+    "id": "3wb5SZ3UoQ8n9CF9HNyD5ZLNLbJ9WUL69AR6wtAJPetb",
+    "saga_monkes": 1
+  },
+  {
+    "id": "71J4HHo63guwevLtsfZDsbeNt97r8wdPvGMTGRayJQ1W",
+    "saga_monkes": 1
+  },
+  {
+    "id": "6wNs2S2ppyMHop4X6jdMmUQjLor7BY3oMNaR4gR96HiG",
+    "saga_monkes": 1
+  },
+  {
+    "id": "jbWoF6PKvgny5mFTiYoNfDmn2b2PBZ6pcUNpBL2hKVm",
+    "saga_monkes": 1
+  },
+  {
+    "id": "HAPYL5BXfXPZyfonHYuZka4KKjd7ZWG4pcS5vsSCDbm6",
+    "saga_monkes": 1
+  },
+  {
+    "id": "AWHVh1m73UpZJ1UWcZY6stmd79tjsCzEZQjrHFpjw4KE",
+    "saga_monkes": 1
+  },
+  {
+    "id": "A7yXUevNoZ6oyjwiNhk3BzqBfHbYMfUPK1y4EYa5PkYo",
+    "saga_monkes": 1
+  },
+  {
+    "id": "FXdD2yYQiejbiyGhognFsYzFMPDRLQdsPcHqZCHTnTBR",
+    "saga_monkes": 1
+  },
+  {
+    "id": "EkCBwUYcKMLTiEL3DuBuavi3VvJ64ESj8ZotB2kDBskk",
+    "saga_monkes": 1
+  },
+  {
+    "id": "8uyBw82q9xwBb7BkSBD5J7fVSAYuGdLidLEueiEoquQA",
+    "saga_monkes": 1
+  },
+  {
+    "id": "ALUs1Csc2FMthardy5bxeeH1to6DyUzh7baejeepbm4i",
+    "saga_monkes": 1
+  },
+  {
+    "id": "SFNXV6ronvBhLKHF7Gnvhk27oz398YGLUu31jYqnZ8H",
+    "secret_sphynx_society": 694
+  },
+  {
+    "id": "9VBHuTzGv8fZ6wSfkhbUp9sKR5wS9yEfkQ4uU2zFHkeX",
+    "secret_sphynx_society": 147
+  },
+  {
+    "id": "SphnxLd7SHwhZrawVLaPBbPHUwziB2p2WHBzJ462x3h",
+    "secret_sphynx_society": 93
+  },
+  {
+    "id": "3vzQ5Jg1Cq4od6YRj6i68ahHYVEQ9SgykDZQ7ko3oVuf",
+    "secret_sphynx_society": 33
+  },
+  {
+    "id": "CeY8YFU4b3g58tu7WgeG42qoDnr1fGvEPs6U35N4W4Ee",
+    "secret_sphynx_society": 17
+  },
+  {
+    "id": "6mctiWZ1khuCwbCEpaxgNZ4uTaWbVWAgxei6ChnkEhpc",
+    "secret_sphynx_society": 14
+  },
+  {
+    "id": "JDds92xXJysFofX3pv9Ef387cibKmznhBBjf681Yf1eM",
+    "secret_sphynx_society": 11
+  },
+  {
+    "id": "Aysy1zGmpLoD3uPRUDR7BYJYrp9NtjwH8mbnp8YSeEqN",
+    "secret_sphynx_society": 10
+  },
+  {
+    "id": "59kRLu8bNrkuEFjLoD7a8LHeziAgiSCkmR9L9q9G2Kgk",
+    "secret_sphynx_society": 10
+  },
+  {
+    "id": "8ZM9Z7fSAZ6TbefnAgm7vrogk3qPVg6csneXwe42WG8B",
+    "secret_sphynx_society": 10
+  },
+  {
+    "id": "GHqDbrCwWYDhz98bF2DU6wUfgQRbqJTF9LnkYar6h8gz",
+    "secret_sphynx_society": 9
+  },
+  {
+    "id": "EDbHjqjuZhf6QYesmHpdtBicJHkF59wKFpn8ET8Lz6y2",
+    "secret_sphynx_society": 7
+  },
+  {
+    "id": "C1u4UJkA91aZtY1Df8M2gL2ixPzgJtTfbF2h3q1UkHma",
+    "secret_sphynx_society": 6
+  },
+  {
+    "id": "9BP4W2X8F57eKzW4bFvd1zUmWVF9yngxJTRm3g8fBFbe",
+    "secret_sphynx_society": 5
+  },
+  {
+    "id": "FSMamVHrKvdT91NbXCL4rZXRBtqRt93DNq16gh6ytWki",
+    "secret_sphynx_society": 5
+  },
+  {
+    "id": "4m1xJNrzTH2Q8XVhX1NQeii5oKo9UpKrhY9Yvv2oMjyj",
+    "secret_sphynx_society": 4
+  },
+  {
+    "id": "DCceHNGeeomvt4H2oZ1HBoNCLqdQ4VABY2xU6zgQKQ2D",
+    "secret_sphynx_society": 4
+  },
+  {
+    "id": "FNQTG8sTRvGjJ99C3Y1FZ7wLJroAbdwpu7PWPxfvFZD7",
+    "secret_sphynx_society": 4
+  },
+  {
+    "id": "8wfjKAV6yA9t8uhPem77GcjQyCmEyEwanac43XMneBYz",
+    "secret_sphynx_society": 4
+  },
+  {
+    "id": "3F8jW48KG16uKeA5HFmunCVrR5BqBpKrxH6ZZptsapgt",
+    "secret_sphynx_society": 4
+  },
+  {
+    "id": "218JtpiEn5ZUvMoLwPmZtXf7ZM6PvMXvrmYuw6ZaoeB1",
+    "secret_sphynx_society": 4
+  },
+  {
+    "id": "HEoXNHmqRM9rX4a2suzH8rtq4wLgTCxuGHgWGsaVFE5e",
+    "secret_sphynx_society": 4
+  },
+  {
+    "id": "AnGajWfHRiNH2dzXqgaQ8XkajyCNRPyNguFUuCV8Y8j6",
+    "secret_sphynx_society": 3
+  },
+  {
+    "id": "bqB2YXTGV1NqZ2WyN5x21iFryKv9Htb7c44Pp66Q3RX",
+    "secret_sphynx_society": 3
+  },
+  {
+    "id": "97JCfsVouyTRbUyimzYT2dKDMQfRd9zna8WgDgwajFY4",
+    "secret_sphynx_society": 3
+  },
+  {
+    "id": "AhQ4dU5ytEn5imJMbxDGrUGNUzofpstVsTFEQSWzpn15",
+    "secret_sphynx_society": 3
+  },
+  {
+    "id": "9X7kSbT9Wuu32C9nzyGbsvYt7EqGbRMgwWhBCBAMwfYF",
+    "secret_sphynx_society": 3
+  },
+  {
+    "id": "78W3t7rHbZ3aZX72GvT9Yce3guRNCLwuLZQN8hFuryat",
+    "secret_sphynx_society": 3
+  },
+  {
+    "id": "7oBj4pUzcNAH1SKpDbKZqChBWq86NcdKtFh7zKKJZd86",
+    "secret_sphynx_society": 3
+  },
+  {
+    "id": "GBKKNfZcVdFcByJMAuADvpuEAaskWV7srrEsUf2Jz9u",
+    "secret_sphynx_society": 3
+  },
+  {
+    "id": "yfNX42S5m3oMu5hF8zeBS6DPARAiN5ZcERspzPJfUB2",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "6jTDLTkGqpEaWeD6Nopu5zLsVM1qp7W52PsRbBN4FALf",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "33mCFoqcJEQZaUnTVYBeed7DRMDH1fAdL2frsAYSzd79",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "51tSwztLZjogdEaqYLE1yAyyKvwZiPxX9soRUYcjwFk",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "6iZwrDScZWnsYCeov2yrjNNggUb36NEjXkVFGwoPFqFt",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "C6tge1WcvdihvrJg1V8P1V4M4KUuojfkbQbW1cKNW8wD",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "ECATzgnSidaeexyBh3QNCKj2cdjzv5qfwhxgsvBLt3D5",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "5FrDbhoCyKJPTV2CBAkNPw9V9eagnraGw956iGv9k6iB",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "APqN1YExPzwXCRP3r1zsKMR8NQPZMUnn6NHi6QTQZqeB",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "HoommGTstyveg5KzYYjU6cdxpcYRBupiWx3b5Sh2ZBgu",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "JDeQh3DuHXYax5XTLAsyhxGJMbMbpnPHrNi71js3gMeM",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "5dNaZgG7gmjkKABM9outGfgNr79ns3kH8snSXFgyRMb6",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "4iDTW8WRU6b2wELAMSfxZDgKL6zobHZy6kbbmG8icKHr",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "DoTDDrGMLNSbZDV8Szuaef4Kg1wdMajVMsfV5wy3zUdr",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "DWyDXnjevGyTWvxUpR44KazEuCPTPvZ8kUhGsCqg3yxL",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "9b3uVUw2sUsx3U812aF4YXCEpq6ycRZFGMK6LVUt2C3C",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "F8v5DYD24T58jsbY99FAbr38oFjyFXkcZTD55Bxf439V",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "F9jMt9xGzVgoiXrHo7N6kqVHutcycR9iyQMbKL5REzdR",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "H5n3SYMpZDjPQq6ympgX4ArrPUhw6wACkrkiSHAnvZzs",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "Ffzh54YhMoKeXQprSXEMSPYFALNiprhe3KzeKisWAAEg",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "BgEq3Dtu8oGUVjnvSg1pq3YH6E1MDppnvntXDEzGkx52",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "5ocVgtEsPC8kw5yrZWKjZdZTCoEthpbv1xXS2SbLF4AT",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "4yEdkJdL23wBeuMQuX21S8wtMBHBBCQRr4hELiQE228i",
+    "secret_sphynx_society": 2
+  },
+  {
+    "id": "5uLhXC8KjQvXeDGMC6S2ivyZHnGYi7FiMe28MDnUEut2",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "H6n5QhzYCDVevAX9mYAdrUbQB2nz1T8zzz4iJkqP6CJC",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "EybWHGJtESe6z75v78kjqdenkW76WuR6fNJnuZqrqsR1",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "3n4nDqDqHVjYujfrwtargGyLGjuemQpgs1hg3WpwS2k2",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "E5MCbtVP3PKTU6W7pVNXDZAF4WzXprwp3YDopTv7hRtx",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "HiQNqAdLf8pBWRxWFkQo1NtPMYz3NVfeWeie6TXPqs1H",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "Sie9rxSLi8HNKpC8NAprAQBw98evw8A1995g5qp12q4",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "xbJyW1MzRsvMSHqhFFzYr4jd1gniBY3RYKNnKV7np7M",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "3J1WzxcdQFevd2ijrHmz3d3pPuZqvP2cUXN7wm31ZF7w",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "1eng1Eg2KVash5wXZMt2TRZm7nPXSoDZSwtzsporKXb",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "7r67nnFp8BAa4kUez3T8jPfHFkcenCEKyB9LbjpRbqzw",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "Eg3SeEK4AkRKz1nWw7Avy8pEg69WC2ddnD9P9qwijEx6",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "9KXqTMHS9bCAeTSE8YswXZEnSY2NyVNCHc1dVpYxWpFG",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "8U8YVR8FkfBkP85rR6UNbe2tsGVs9j4c65HxEFrJt1LX",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "Hsqy2rLxuMkQAnTikjedm8vuZXszHW5GWreGytnVPYVW",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "HHAxJtQuKdcMeZPhipc67KJrGjQoBUtRe77gia9jUzVY",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "99RWTXQEP4w9ip9EwYPwmcweDukFqDL6EfUJGWkNbfzy",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "BtzzKCzi2Xw9EoMAjVitHdnVuQiy8LGRms7CEwoWFwCH",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "9qqMYk6teiK3uJZgjvJboJBtfuiQbqcu4cThbh2BNhFv",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "HZfHB75yiPdkuL5aAxSbFxjp5sdwSLrQm9r9CjdZJ84t",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "5ar6JwZpd4q2ESu1dNdyhAS97xr9wQ88R82SZiVj3sAV",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "DkV8wsQiy2VJHpkt2jX5zffNEqv96B7j6WoDdetexa9F",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "4YwczXUQswH5YSdTG3o1SpESjxo7F8X86kFjrbQvw2hB",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "Dcva3EfPkwp25U2kEV6cW684Frm7PaNqrJFJADEGkm5J",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "FSh3m1LDQKDBDmPU5Do3U7ngyarNz71aj2sqXs4mMSiT",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "A66EfyYtAoXHBCf9QAWcn4Uh5wzibwvBcQUb7GQRcR2Y",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "fftd6ZDT9camvByY9spDgdABmfVmFSLPCUkjGgj3x2C",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "GpsDeT9uxTeHmDh4o9Qb7pNdNTcyxL5Ac4X1odJSW5yD",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "4DJKp3bRj3L6f6PZnfKNXtXMv9mGyUoNf83XAjRFhXc8",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "Amr3zfc9tTN9b9c81NdqnGVfYUZmYK577dbxsV5QMFt",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "CodJgiBevKdPk8QdHQeBRrqFcYdZfGenTjmpJ3B8JuPA",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "2cdfNLJMdjEnD9MzBz8QYHU1vCgA1Z39a9WPzmU7PmZP",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "G2Jiae9GB64LYVb9EU3XbJAC2PkfHGuioDZJjvgwCLSg",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "DTDEcoM4SFo1kdMnpqetPtZNSKwSTJ4H45NdWB24KG9Y",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "2jKNJgDozBzh4pbYky6Nc4RiFwZZue3mK6FF2xVwHTBq",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "6Ro58eK7S693wgaNdKUzptEG28DJZ2aEvpPDts7Sg4uf",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "F4WFMoiWCCdxmRoY7brHNrUcjMxrRM7L3shDKksJg9tS",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "A3BVqWp8gMutKkpdBj3gLvJNMzWhfUxW2AHKpSYo7QZf",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "9mNFZVeSjjbFUWj7hcaDW87SzTetqmsEjsz1AAXPSv1n",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "A6DuAsocWuMpMbeSyWYoV9CXZce8kVdtvQY4UN7U8p9",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "2p6MQXnV5GQaNuMcC1sWvhjbgKykvu9mRH1TGzTkDrZW",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "6nq7PWx9EbCP461Qvey1kri95qaGLdDAov8u3FYEm3NE",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "Euv3rAEw95kj4bNRRBcKLuMeviswrKbnDdF8k7hXTpi",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "DWUcGUkG1mhWwbr5Ff7TW8ZENCvwKsefEUExYJyhtM8D",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "51rUkRrjLerVXN2mSE44x9U4tPCjGnRkAN4jd5JWdJoV",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "CrixrN9ggaG61ZQnkhVN3exbTcysxWv9nzxkHgvuQtAq",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "4JoyYz1582cUxQ2ahwMT13XPEMSvNbBkxPF5cAi5qst5",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "FypLrCDz63K2R6uSk3b4my8CR3fWreu8T3XHm4EGvjfT",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "99oZLStFc7RqEgU5ZtiZNmJdDmbHA35XcLEfzmFUnw1x",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "DD1z2xMuLAt8cbvnWtqvAGbLhGTd1tJcfzEetqqZNQGq",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "AcY1NPznVj1cM9LFNvspwQdVi7Tem3LkaGMHjHU6DyHn",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "8TjvRACgsBqSXg6yGEp99sypyT1yvv5kXGtxcewfhAHz",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "GW5ahB1XPf82DbnR3CiUWYv9hRexgszy8tBB8xKLDGam",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "DqEHbYsFE6TUtCPxmiF5Si5FNf8RBJ2TvqmGoP7zhSuL",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "8Bu5Qx1X857HorCzf4KoqGjZegBRYUUXSyNR4K8yG5s4",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "98hxn5bJwWnwTtucoZgLfG1EgRuZTrGL5JfpgdjeAPi4",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "DsfyuZqPxoS1kAz8rHgdmFmQydN7wu4SEcLv94PkqKo2",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "42ipLKg85bptaAv1uuMRq7c2r3WMzx9MeNba6cLpsDvu",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "DfakTdihSxwKLqUNyKAs8qSnfd99JqQCaDTD8FZBiwDh",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "5bD4F9WMQsWmAJGSkGmZuqHrZJJiMbJfRX5ZFN5FbR2k",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "6UzDHBpYpRDjeBFsQcZgUQ5jsP8C4nMA3wyPwervjwQr",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "6m6ogkFZJQiXkCLDzpQ5Qns5j859MmUbVNkdGZ5vBiqc",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "7Ds1dQU37bTBigBM8xEXa4Lte1uUzvyWaxBPT7ZJEB5Y",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "FaVSR31vE9WJw1EvpKZA21Yg1zHCdQtDawbXDVhv3avi",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "GmJHyHjAFZTxGSteJortyn7u9n4D1d8VHPYusjNSXFvs",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "9bB5WxUPR5nChcPvvqRJHVc8NnQKo8HUjRjYLGn3Cvn3",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "3jRo9mUpjFWNntzrNE39YdnpuDTRHJG7a67qagfL4gAM",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "5PX4iAJcF2VuYxFAoTratgoHKZwxdsdv8D2DnFLf3wmg",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "CdJRVYveEtSjd3kqwhgCq4h4pjLJrMmzNcEp3Qm2fAa8",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "BXd5sTnirxHXZ4KBrnRYubiHJsvWZkxFatZseMMXRbUW",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "AgK5TA3yoKRPMpauTZacWKS2jCF6XYz2vsgEc5JKxecj",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "FYUfUcyqeFAQsgynjELc5xekDk7ASWPTL9Pc2WcTeF1g",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "YVgdPwaWafPeoFGtMhFjbR4CNiuLvu4Exehkxec4uzv",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "7wUCejCrurQ4ARXPWwSYwFsNjATy5To3draqmJgxnFzD",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "CykXYG1ZFoAiA3HcnS7WrkNtkT3XXMpDQ8yhwn8pJK4K",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "7Y8pDsyxd9jjGDE5SMbbRr5sNub9duKx5LdV76oDZfUR",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "AzxPHd6k6AG8ytxZgQdMSprTRtnmJpXM2g3KnTPXW4GE",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "BBB8BMeAzB1pA3NTvavhGQi4iqQbX3JBkeE4yNWuFgf1",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "C957EoV5WXuWcNLKyYdN3zsr9JacoofbP2kFdkBNZdF8",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "GJ1i7NRjA2HM7eZksiLSUiuDBj5Sdp7pbfPhhPFXinYc",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "78BZMY2bFhxzPkzTKhQcrpygjEXwkFibTwrfb3oSmgMN",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "HHbB9Xw644WQAiKPXANHdaeKAWsuJwR9auPVGnA752xQ",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "CY5jc9oAvfDcDiMPjsbw8eBMxt8438EvCvRmv9NsfQLz",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "HycCPPZkttjttb1HoF3kaSA5GRjTxuC8gQRxMFxh873q",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "BaxDGn3MAWEW7r7tAwReJ3VtYJkBi9SSrVhFJ71Yhssj",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "AfW3ojjQDB6RJMeiDPkJaXPzjrwBCrTVnh8cUuDLi8f3",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "293FRspApsnbgGZac1F9hsf5KfXgbph7VCKD6aX2sun2",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "HyrwmwxMFXnJFr9LTbMtV9tXbSVQyiqunEmwjii8qhSH",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "CAtLQAqsG8P6R6CqpDHsXK3DUPd9Ge2v6eEHu5MWrdGw",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "3rHA3awYw8UfNEaU2pkUMPZffkRZhLPo1fF1zvto4ZSR",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "2mWkrAGXwZdaBxXy46KcVNDwmZgc1hanZcxbfQCoR1Rw",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "66CeiG8Z2fcVDid1ZXFjGMAMEFquYfH2ovH6cmSuXgim",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "CriFsBvtkEhE71LokoET4efAQQYmBozRnECTMU3GVt2g",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "DT2SbGppbdPvVYUeLajFPRVANNA6H3eMSD4G9Y7muUti",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "6kYieW9EvUfWuNgQeEcrYLnvGKYkKtVx5TW9Ls7N4by5",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "9dQVadt4jiLVXF1gBthU5Y99b4mQj5yuQ1Z5xEvh66dv",
+    "secret_sphynx_society": 1
+  },
+  {
+    "id": "85dx2rrUHsYwA1STJv8AHKq6GDHJdbGxFGxbTt14YgpY",
+    "shremps": 1
+  },
+  {
+    "id": "AKmmRSnJeGU1uu6kZJLuv2CkoFTiCqqtBu5nVoJhPGjD",
+    "shremps": 1
+  },
+  {
+    "id": "HswPRX6okyoebyNFe65eDMcCXHuj2ZqMw4iMAnG8Vi8w",
+    "squidz": 1
+  },
+  {
+    "id": "eL1ta6XJCc84UsK2vt3ZAZsrojs5EHuB5tfqadAhPS7",
+    "the_1303": 1
+  },
+  {
+    "id": "3BXN8HK1L1DeizqqxvHK1WDo2PuBt6YzqJ27uqDL2rHJ",
+    "thugbirdz": 1
+  },
+  {
+    "id": "DCxVxzCDy11rbH8gNA6NNEQMZoKmBRPiSfq4MXL1T2nU",
+    "thugbirdz": 1
+  },
+  {
+    "id": "755WcZLePjs5eaSAfHRdEaDj1ujweCZ6EjzaCkXhaM57",
+    "zilly_goat_7777": 2
   }
 ]

@@ -380,17 +380,11 @@ program
     "Update legends_partners.json with data from NFTs folders, excluding unconfirmed collections"
   )
   .action(() => {
-    const nftsPath = path.join(__dirname, "../NFTs");
-    const legendsPath = path.join(
-      __dirname,
-      "../legends/legends_partners.json"
-    );
-    const unconfirmedPath = path.join(__dirname, "../legends/unconfirmed.json");
-    const folders = fs.readdirSync(nftsPath);
+    const folders = fs.readdirSync(Paths.NFTS);
 
     // Load unconfirmed collections
     const unconfirmedCollections = JSON.parse(
-      fs.readFileSync(unconfirmedPath, "utf8")
+      fs.readFileSync(Paths.UNCONFIRMED, "utf8")
     ).map((item) => item.name);
 
     const updatedLegends = folders
@@ -398,7 +392,7 @@ program
         if (unconfirmedCollections.includes(folder)) {
           return null; // Skip unconfirmed collections
         }
-        const metaPath = path.join(nftsPath, folder, `${folder}_meta.json`);
+        const metaPath = path.join(Paths.NFTS, folder, `${folder}_meta.json`);
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
           return {
@@ -415,7 +409,7 @@ program
       })
       .filter(Boolean);
 
-    fs.writeFileSync(legendsPath, JSON.stringify(updatedLegends, null, 2));
+    fs.writeFileSync(Paths.LEGENDS, JSON.stringify(updatedLegends, null, 2));
     console.log(
       "legends_partners.json updated successfully, excluding unconfirmed collections."
     );
@@ -432,21 +426,12 @@ program
     (value) => value.split(",")
   )
   .action((options) => {
-    const nftsPath = path.join(__dirname, "../NFTs");
-    const legendsWeightPath = path.join(
-      __dirname,
-      "../legends/legends_weight.json"
-    );
-    if (!fs.existsSync(legendsWeightPath)) {
-      fs.writeFileSync(legendsWeightPath, JSON.stringify([], null, 2));
+    if (!fs.existsSync(Paths.LEGENDS_WEIGHT)) {
+      fs.writeFileSync(Paths.LEGENDS_WEIGHT, JSON.stringify([], null, 2));
     }
-    const legendsPartnersPath = path.join(
-      __dirname,
-      "../legends/legends_partners.json"
-    );
     const projectsToUpdate = options.projects || [];
     const legendsPartners = JSON.parse(
-      fs.readFileSync(legendsPartnersPath, "utf8")
+      fs.readFileSync(Paths.LEGENDS_PARTNERS, "utf8")
     );
     const filteredProjects = legendsPartners
       .filter(
@@ -457,19 +442,19 @@ program
       .map((partner) => partner.name);
 
     let legendsWeight = [];
-    if (fs.existsSync(legendsWeightPath)) {
-      legendsWeight = JSON.parse(fs.readFileSync(legendsWeightPath, "utf8"));
+    if (fs.existsSync(Paths.LEGENDS_WEIGHT)) {
+      legendsWeight = JSON.parse(fs.readFileSync(Paths.LEGENDS_WEIGHT, "utf8"));
     }
 
     const projects = fs
-      .readdirSync(nftsPath)
+      .readdirSync(Paths.NFTS)
       .filter(
         (project) =>
           filteredProjects.includes(project) && project !== "alldomains"
       );
 
     projects.forEach((project) => {
-      const projectPath = path.join(nftsPath, project);
+      const projectPath = path.join(Paths.NFTS, project);
       const snapshotFolders = fs
         .readdirSync(projectPath)
         .filter((folder) => /^\d{8}$/.test(folder));
@@ -501,7 +486,10 @@ program
       }
     });
 
-    fs.writeFileSync(legendsWeightPath, JSON.stringify(legendsWeight, null, 2));
+    fs.writeFileSync(
+      Paths.LEGENDS_WEIGHT,
+      JSON.stringify(legendsWeight, null, 2)
+    );
     execSync("npm run filter:mp", { stdio: "inherit" });
     console.log("legends_weight.json updated successfully.");
   });
@@ -639,12 +627,25 @@ program
         if (!legendEntry.domains) {
           legendEntry.domains = [];
         }
-        legendEntry.domains.push(domainEntry.domain);
+        // Add domain if not already present to avoid duplicates
+        if (!legendEntry.domains.includes(domainEntry.domain)) {
+          legendEntry.domains.push(domainEntry.domain);
+        }
+      }
+    });
+
+    // Deduplicate domains for each legend entry
+    legendsWeight.forEach((legend) => {
+      if (legend.domains) {
+        legend.domains = [...new Set(legend.domains)];
       }
     });
 
     // Save the updated legends weight data
-    fs.writeFileSync(Paths.LEGENDS_WEIGHT, JSON.stringify(legendsWeight, null, 2));
+    fs.writeFileSync(
+      Paths.LEGENDS_WEIGHT,
+      JSON.stringify(legendsWeight, null, 2)
+    );
     console.log("Updated legends_weight.json with alldomains information.");
   });
 
