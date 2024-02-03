@@ -486,6 +486,7 @@ program
     });
 
     fs.writeFileSync(legendsWeightPath, JSON.stringify(legendsWeight, null, 2));
+    execSync("npm run filter:mp", { stdio: "inherit" });
     console.log("legends_weight.json updated successfully.");
   });
 
