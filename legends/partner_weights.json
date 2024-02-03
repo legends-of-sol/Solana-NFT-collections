@@ -6,10 +6,10 @@
     "giniCoefficient": 0.685128740146742
   },
   "boogles_gen1": {
-    "totalNFTs": null,
+    "totalNFTs": 198,
     "uniqueHolders": 184,
-    "averageHoldings": null,
-    "giniCoefficient": null
+    "averageHoldings": 1.076086956521739,
+    "giniCoefficient": 0.06867588932806325
   },
   "boom_heroes": {
     "totalNFTs": 766,
@@ -114,10 +114,10 @@
     "giniCoefficient": null
   },
   "famous_fox_federation": {
-    "totalNFTs": null,
-    "uniqueHolders": 2994,
-    "averageHoldings": null,
-    "giniCoefficient": null
+    "totalNFTs": 7776,
+    "uniqueHolders": 2992,
+    "averageHoldings": 2.5989304812834226,
+    "giniCoefficient": 0.5542055048029313
   },
   "gizmos_land": {
     "totalNFTs": 2000,
@@ -156,10 +156,10 @@
     "giniCoefficient": 0.8068974530567256
   },
   "mad_lads": {
-    "totalNFTs": null,
-    "uniqueHolders": 5299,
-    "averageHoldings": null,
-    "giniCoefficient": null
+    "totalNFTs": 9967,
+    "uniqueHolders": 5395,
+    "averageHoldings": 1.847451343836886,
+    "giniCoefficient": 0.43278864739274453
   },
   "mixtape": {
     "totalNFTs": 94,
@@ -174,10 +174,10 @@
     "giniCoefficient": 0.37514635184448675
   },
   "okay_bears": {
-    "totalNFTs": null,
-    "uniqueHolders": 4204,
-    "averageHoldings": null,
-    "giniCoefficient": null
+    "totalNFTs": 9858,
+    "uniqueHolders": 4185,
+    "averageHoldings": 2.3555555555555556,
+    "giniCoefficient": 0.5157516301371955
   },
   "ordo_nemesis": {
     "totalNFTs": 250,
@@ -234,10 +234,10 @@
     "giniCoefficient": 0.7483999836941013
   },
   "smb_gen2": {
-    "totalNFTs": null,
-    "uniqueHolders": 2540,
-    "averageHoldings": null,
-    "giniCoefficient": null
+    "totalNFTs": 4993,
+    "uniqueHolders": 2544,
+    "averageHoldings": 1.9626572327044025,
+    "giniCoefficient": 0.45079628775883723
   },
   "solana_surfers": {
     "totalNFTs": 3888,
@@ -258,10 +258,10 @@
     "giniCoefficient": 0.7180212169462055
   },
   "tensorians": {
-    "totalNFTs": null,
-    "uniqueHolders": 8847,
-    "averageHoldings": null,
-    "giniCoefficient": null
+    "totalNFTs": 10004,
+    "uniqueHolders": 8849,
+    "averageHoldings": 1.1305232229630466,
+    "giniCoefficient": 0.11538880887920569
   },
   "the_1303": {
     "totalNFTs": 90,

@@ -671,7 +671,7 @@ program
     console.log("Updated legends_weight.json with alldomains information.");
   });
 
-  program
+program
   .command("generate_partner_weights")
   .description("Generate metrics for partners based on unique owners CSV files")
   .action(async () => {
@@ -690,7 +690,10 @@ program
         const csvData = await readCSV(mostRecentFile);
 
         // Calculate metrics
-        const totalNFTs = csvData.reduce((acc, { count }) => acc + parseInt(count, 10), 0);
+        const totalNFTs = csvData.reduce(
+          (acc, { count }) => acc + parseInt(count, 10),
+          0
+        );
         const uniqueHolders = new Set(csvData.map(({ owner }) => owner)).size;
         const averageHoldings = totalNFTs / uniqueHolders;
         const holdings = csvData.map(({ count }) => parseInt(count, 10));
@@ -701,9 +704,8 @@ program
           totalNFTs,
           uniqueHolders,
           averageHoldings,
-          giniCoefficient
+          giniCoefficient,
         };
-
       } catch (error) {
         console.error(`Error processing project ${project}: ${error.message}`);
       }
