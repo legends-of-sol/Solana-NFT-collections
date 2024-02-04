@@ -116,6 +116,14 @@
     "collectionKey": "DjdF3JdTBY9UTy47PHFXbTnhuQxdDi87SunVARBMnteY"
   },
   {
+    "name": "photo_finish_pfp_collection",
+    "collectionKey": "CJMFQVAfnNu9XAAH2Kj5Ebh6J5bYTeN7phi2zBQdM4EM"
+  },
+  {
+    "name": "photo_finish_retired_horse_collection",
+    "creatorAddress": "TTHCZg4V4jESSbYXWfGUALree6B1MAPDtaiEH6Z9voU"
+  },
+  {
     "name": "primus_gladiators",
     "collectionKey": "DrvXoiFpeuQVJDu78tYmgbHnwSLMD3NdbgroAKe6GeXY"
   },

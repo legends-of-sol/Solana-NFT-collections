@@ -7,7 +7,6 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 ## Project Hashlists
 
 - AEP Life Form
-- All Domains - https://alldomains.id
 - BOOGLE
 - Boom Heroes - https://boom.army
 - Bozo Collective - https://twitter.com/BozoCollective
@@ -40,6 +39,8 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Okay Bears - https://www.okaybears.com/
 - Ordo Nemesis - https://ordonemesis.com/
 - Pesky Penguins - https://pesky-penguins.com
+- Photo Finish PFP Collection - https://photofinish.live
+- S- Generation Zero Horse Ticket - https://photofinish.live
 - Primus Gladiators
 - raccs - raccs.io
 - Radiants - https://radiant.nexus/

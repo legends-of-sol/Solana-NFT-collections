@@ -241,13 +241,13 @@ program
       const metaContent = {
         creatorAddress: creator_address,
         name:
-          cleanName(resultData.results[0].content.metadata.name) ??
+          cleanName(resultData.results[0]?.content?.metadata.name) ??
           project_name,
-        image: resultData.results[0].content.links.image || "",
-        description: resultData.results[0].content.metadata.description ?? "",
-        url: resultData.results[0].content.links.external_url || "",
+        image: resultData.results[0]?.content?.links.image || "",
+        description: resultData.results[0]?.content?.metadata.description ?? "",
+        url: resultData.results[0]?.content?.links.external_url || "",
         token_standard:
-          resultData.results[0].content.metadata.token_standard ?? "",
+          resultData.results[0]?.content?.metadata?.token_standard ?? "",
       };
       fs.writeFileSync(
         `${metaDirPath}/${project_name}_meta.json`,

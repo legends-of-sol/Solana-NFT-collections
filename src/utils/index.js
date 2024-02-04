@@ -8,7 +8,7 @@ const path = require("path");
  * @return {string} The cleaned name.
  */
 function cleanName(name) {
-  return name.split("#")[0].trim();
+  return name ? name.split("#")[0].trim() : name;
 }
 
 function calculateOwnerCounts(results) {
