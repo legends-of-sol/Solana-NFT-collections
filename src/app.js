@@ -9,6 +9,7 @@ const {
   getMostRecentFile,
   readCSV,
   calculateGiniCoefficient,
+  latestDateDir,
 } = require("./utils");
 require("colors");
 
@@ -19,17 +20,9 @@ const Paths = {
   COLLECTIONS: path.join(__dirname, "../legends/legends_partners.json"),
   COMMON_ADDRESSES: path.join(__dirname, "../common_addresses.json"),
   DOMAINS: (() => {
-    const domainsDir = path.join(__dirname, "../domains/alldomains");
-    const latestDateDir = fs
-      .readdirSync(domainsDir)
-      .filter((file) => fs.statSync(path.join(domainsDir, file)).isDirectory())
-      .sort()
-      .pop();
-    return path.join(
-      domainsDir,
-      latestDateDir,
-      `alldomains_${latestDateDir}.json`
-    );
+    const domainsDir = path.join(__dirname, "../programs/alldomains");
+    const latestDir = latestDateDir(domainsDir);
+    return path.join(domainsDir, latestDir, `alldomains_${latestDir}.json`);
   })(),
   NFTS: path.join(__dirname, "../NFTs"),
   README: path.join(__dirname, "../README.md"),

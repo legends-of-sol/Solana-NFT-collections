@@ -19,10 +19,12 @@ function calculateOwnerCounts(results) {
 }
 
 async function getMostRecentFile(dirPath) {
-  const directories = await fs.promises.readdir(dirPath, { withFileTypes: true });
+  const directories = await fs.promises.readdir(dirPath, {
+    withFileTypes: true,
+  });
   const sortedDirs = directories
-    .filter(dirent => dirent.isDirectory())
-    .map(dirent => dirent.name)
+    .filter((dirent) => dirent.isDirectory())
+    .map((dirent) => dirent.name)
     .sort((a, b) => b.localeCompare(a));
 
   if (sortedDirs.length === 0) return null;
@@ -30,7 +32,9 @@ async function getMostRecentFile(dirPath) {
   const latestDir = sortedDirs[0];
   const latestDirPath = path.join(dirPath, latestDir);
   const files = await fs.promises.readdir(latestDirPath);
-  const csvFiles = files.filter(file => file.startsWith("unique") && file.endsWith(".csv"));
+  const csvFiles = files.filter(
+    (file) => file.startsWith("unique") && file.endsWith(".csv")
+  );
 
   if (csvFiles.length === 0) return null;
 
@@ -42,9 +46,9 @@ async function readCSV(filePath) {
     const results = [];
     fs.createReadStream(filePath)
       .pipe(csvParser())
-      .on('data', (data) => results.push(data))
-      .on('end', () => resolve(results))
-      .on('error', reject);
+      .on("data", (data) => results.push(data))
+      .on("end", () => resolve(results))
+      .on("error", reject);
   });
 }
 
@@ -59,10 +63,17 @@ function calculateGiniCoefficient(numbers) {
   return numerator / denominator;
 }
 
+const latestDateDir = (dir) => fs
+  .readdirSync(dir)
+  .filter((file) => fs.statSync(path.join(dir, file)).isDirectory())
+  .sort()
+  .pop();
+
 module.exports = {
   cleanName,
   calculateOwnerCounts,
   getMostRecentFile,
   readCSV,
   calculateGiniCoefficient,
+  latestDateDir,
 };

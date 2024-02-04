@@ -233,6 +233,12 @@
     "averageHoldings": 1.0729613733905579,
     "giniCoefficient": 0.06664377682403433
   },
+  "papu": {
+    "totalNFTs": 2982,
+    "uniqueHolders": 735,
+    "averageHoldings": 4.057142857142857,
+    "giniCoefficient": 0.6837058632977
+  },
   "pesky_penguins": {
     "totalNFTs": 8397,
     "uniqueHolders": 3335,
