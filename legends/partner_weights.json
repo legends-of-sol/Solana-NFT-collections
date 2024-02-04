@@ -299,6 +299,12 @@
     "averageHoldings": 1.0843373493975903,
     "giniCoefficient": 0.07389558232931727
   },
+  "the_1303_1": {
+    "totalNFTs": 136,
+    "uniqueHolders": 49,
+    "averageHoldings": 2.7755102040816326,
+    "giniCoefficient": 0.5798319327731093
+  },
   "the_roundies": {
     "totalNFTs": 1274,
     "uniqueHolders": 113,

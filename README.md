@@ -55,6 +55,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Squidz
 - Tensorians - https://www.tensor.trade/
 - True OG
+- True OG
 - The Roundies - https://theroundies.co
 - THUG - https://www.thugbirdz.com/
 - WOOFers - https://www.woofsolana.world
