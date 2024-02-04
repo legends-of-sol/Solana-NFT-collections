@@ -215,6 +215,12 @@
     "averageHoldings": 1.7224806201550387,
     "giniCoefficient": 0.37514635184448675
   },
+  "netrunner": {
+    "totalNFTs": 4611,
+    "uniqueHolders": 2203,
+    "averageHoldings": 2.0930549251021335,
+    "giniCoefficient": 0.481672583658667
+  },
   "okay_bears": {
     "totalNFTs": 9858,
     "uniqueHolders": 4185,
