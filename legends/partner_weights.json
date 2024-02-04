@@ -5,6 +5,24 @@
     "averageHoldings": 8.416666666666666,
     "giniCoefficient": 0.685128740146742
   },
+  "bbl_elite_ticket": {
+    "totalNFTs": 105,
+    "uniqueHolders": 104,
+    "averageHoldings": 1.0096153846153846,
+    "giniCoefficient": 0.009432234432234432
+  },
+  "bbl_premium_ticket": {
+    "totalNFTs": 360,
+    "uniqueHolders": 353,
+    "averageHoldings": 1.019830028328612,
+    "giniCoefficient": 0.01932640856153604
+  },
+  "bbl_royale_ticket": {
+    "totalNFTs": 95,
+    "uniqueHolders": 94,
+    "averageHoldings": 1.0106382978723405,
+    "giniCoefficient": 0.010414333706606943
+  },
   "boogles_gen1": {
     "totalNFTs": 198,
     "uniqueHolders": 184,
@@ -88,6 +106,18 @@
     "uniqueHolders": 242,
     "averageHoldings": 4.107438016528926,
     "giniCoefficient": 0.7195071253970101
+  },
+  "degen_royale_1": {
+    "totalNFTs": 331,
+    "uniqueHolders": 229,
+    "averageHoldings": 1.445414847161572,
+    "giniCoefficient": 0.28886924629612526
+  },
+  "degen_royale_2": {
+    "totalNFTs": 68,
+    "uniqueHolders": 58,
+    "averageHoldings": 1.1724137931034482,
+    "giniCoefficient": 0.14148073022312374
   },
   "degenerate_trading_bears": {
     "totalNFTs": 4264,
@@ -233,6 +263,12 @@
     "averageHoldings": 1,
     "giniCoefficient": 0
   },
+  "redao": {
+    "totalNFTs": 776,
+    "uniqueHolders": 380,
+    "averageHoldings": 2.042105263157895,
+    "giniCoefficient": 0.4444587628865979
+  },
   "saga_monkes": {
     "totalNFTs": 8888,
     "uniqueHolders": 6461,
@@ -268,6 +304,12 @@
     "uniqueHolders": 994,
     "averageHoldings": 3.9114688128772634,
     "giniCoefficient": 0.6515124698810145
+  },
+  "solanauts": {
+    "totalNFTs": 500,
+    "uniqueHolders": 199,
+    "averageHoldings": 2.512562814070352,
+    "giniCoefficient": 0.5279798994974875
   },
   "sollamas": {
     "totalNFTs": 9333,

@@ -7,6 +7,9 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 ## Project Hashlists
 
 - AEP Life Form
+- BBL: Elite
+- BBL: Premium
+- BBL: Royale
 - BOOGLE
 - Boom Heroes - https://boom.army
 - Bozo Collective - https://twitter.com/BozoCollective
@@ -20,6 +23,8 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Dawnbreakers - https://radiant.nexus/
 - Deanslist
 - Degen Dad
+- Degen Royale - https://degenroyale.io/
+- Degen Royale - https://degenroyale.io/
 - Degen Royale - https://degenroyale.io/
 - DTB Collection NFT - https://www.degentradingbears.xyz
 - Dev Card - https://www.devnet.directory/
@@ -44,12 +49,14 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Primus Gladiators
 - raccs - raccs.io
 - Radiants - https://radiant.nexus/
+- REdao Pass
 - Saga Monkes
 - Secret Sphinx - https://secretsphinx.io/
 - Sentries - https://sentries.io/
 - Shremps - https://shrempin.com
 - SMB Gen2 - https://solanamonkey.business/
 - Solana Surfer
+- Solanaut - https://solanauts.io
 - Sollamas - https://sollamas.com
 - species
 - Squidz
