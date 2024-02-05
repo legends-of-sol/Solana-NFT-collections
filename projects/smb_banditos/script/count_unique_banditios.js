@@ -3,9 +3,9 @@ const path = require('path');
 
 // Paths to the JSON files
 const jsonFilePathGen2 = path.join(__dirname, 'banditos_gen2.json');
-const jsonFilePathGen3 = path.join(__dirname, 'banditos_gen3.json');
-// Output CSV file path
-const csvFilePath = path.join(__dirname, 'unique_banditos_count.csv');
+  const jsonFilePathGen3 = path.join(__dirname, 'banditos_gen3.json');
+  // Output CSV file path
+  const csvFilePath = path.join(__dirname, 'unique_banditos_count.csv');
 
 function countNFTs(jsonData, ownerCounts) {
   // Count NFTs for each owner

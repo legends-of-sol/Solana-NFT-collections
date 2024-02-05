@@ -48,6 +48,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Ordo Nemesis - https://ordonemesis.com/
 - Papu Party Rock - https://papusuperstars.com/
 - Pesky Penguins - https://pesky-penguins.com
+- Photo Finish Staked Collection - https://photofinish.live
 - Photo Finish PFP Collection - https://photofinish.live
 - S- Generation Zero Horse Ticket - https://photofinish.live
 - Primus Gladiators

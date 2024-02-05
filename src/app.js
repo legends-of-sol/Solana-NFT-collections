@@ -28,7 +28,6 @@ const Paths = {
   })(),
   PROJECTS: path.join(__dirname, "../projects"),
   README: path.join(__dirname, "../README.md"),
-  LEGENDS: path.join(__dirname, "../legends/legends_partners.json"),
   UNCONFIRMED: path.join(__dirname, "../legends/unconfirmed.json"),
   LEGENDS_WEIGHT: path.join(__dirname, "../legends/legends_weight.json"),
   LEGENDS_PARTNERS: path.join(__dirname, "../legends/legends_partners.json"),
@@ -314,6 +313,12 @@ program
     collections.forEach((collection) => {
       console.log(`Taking snapshot for: ${collection.name}`);
       try {
+        if (!collection.collectionKey && !collection.creatorAddress) {
+          console.error(
+            `Collection ${collection.name} does not have a collectionKey or creatorAddress. Skipping...`
+          );
+          return;
+        }
         // Determine the command based on the presence of collectionKey or creatorAddress
         const command = collection.collectionKey
           ? `node src/app.js snapshot ${collection.name} ${collection.collectionKey} --rpc ${RPC}`
@@ -411,7 +416,7 @@ program
       })
       .filter(Boolean);
 
-    fs.writeFileSync(Paths.LEGENDS, JSON.stringify(updatedLegends, null, 2));
+    fs.writeFileSync(Paths.LEGENDS_PARTNERS, JSON.stringify(updatedLegends, null, 2));
     console.log(
       "legends_partners.json updated successfully, excluding unconfirmed collections."
     );
