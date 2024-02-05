@@ -323,6 +323,12 @@
     "averageHoldings": 5.1954261954261955,
     "giniCoefficient": 0.7483999836941013
   },
+  "smb_banditos": {
+    "totalNFTs": 549,
+    "uniqueHolders": 137,
+    "averageHoldings": 4.007299270072993,
+    "giniCoefficient": 0.6296517889194687
+  },
   "smb_gen2": {
     "totalNFTs": 4993,
     "uniqueHolders": 2544,

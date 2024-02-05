@@ -59,6 +59,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Secret Sphinx - https://secretsphinx.io/
 - Sentries - https://sentries.io/
 - Shremps - https://shrempin.com
+- SMB Banditios - https://banditodao.com/
 - SMB Gen2 - https://solanamonkey.business/
 - Solana Surfer
 - Solanaut - https://solanauts.io

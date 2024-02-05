@@ -402,6 +402,7 @@ program
         const metaPath = path.join(Paths.PROJECTS, folder, `${folder}_meta.json`);
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
+          console.log(metaData);
           return {
             name: folder,
             ...(metaData.collectionKey
