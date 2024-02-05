@@ -23,6 +23,8 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Tribal Chiefs - http://caveworld.com
 - Cets
 - Chads
+- Critters Cult
+- datbois
 - Dawnbreakers - https://radiant.nexus/
 - Deanslist
 - Degen Dad
@@ -57,6 +59,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Photo Finish Staked Collection - https://photofinish.live
 - Photo Finish PFP Collection - https://photofinish.live
 - S- Generation Zero Horse Ticket - https://photofinish.live
+- Pop Pals
 - Primus Gladiators
 - raccs - raccs.io
 - Radiants - https://radiant.nexus/
@@ -84,6 +87,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - The Roundies - https://theroundies.co
 - THUG - https://www.thugbirdz.com/
 - WOOFers - https://www.woofsolana.world
+- Zeebit Zeebros - https://zeebit.io
 - Zilly Goat 7777 Series - https://www.zillionairegoatclub.com
 
 ## Structure of the Repository

@@ -101,6 +101,18 @@
     "averageHoldings": 5.115101289134438,
     "giniCoefficient": 0.7338410636643775
   },
+  "critters_cult": {
+    "totalNFTs": 5553,
+    "uniqueHolders": 1544,
+    "averageHoldings": 3.596502590673575,
+    "giniCoefficient": 0.6442292081300404
+  },
+  "datbois": {
+    "totalNFTs": 2424,
+    "uniqueHolders": 407,
+    "averageHoldings": 5.955773955773956,
+    "giniCoefficient": 0.7268166005789768
+  },
   "dawnbreakers": {
     "totalNFTs": 12,
     "uniqueHolders": 12,
@@ -311,6 +323,12 @@
     "averageHoldings": 21.843457943925234,
     "giniCoefficient": 0.937601152804588
   },
+  "pop_pals": {
+    "totalNFTs": 3995,
+    "uniqueHolders": 221,
+    "averageHoldings": 18.076923076923077,
+    "giniCoefficient": 0.8277428233255371
+  },
   "primus_gladiators": {
     "totalNFTs": 191,
     "uniqueHolders": 144,
@@ -472,6 +490,12 @@
     "uniqueHolders": 1799,
     "averageHoldings": 3.077821011673152,
     "giniCoefficient": 0.607419910907099
+  },
+  "zeebits_zeebros": {
+    "totalNFTs": 3331,
+    "uniqueHolders": 874,
+    "averageHoldings": 3.811212814645309,
+    "giniCoefficient": 0.6303214309513226
   },
   "zilly_goat_7777": {
     "totalNFTs": 1351,
