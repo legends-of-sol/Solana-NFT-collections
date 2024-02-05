@@ -33,7 +33,15 @@ function writeCSV(ownerCounts) {
   // Generate timestamp
   const date = new Date();
   const formattedDate = date.toISOString().split('T')[0].replace(/-/g, ''); // YYYYMMDD format
-  const timestampedCsvFilePath = `${csvFilePath.split('.csv')[0]}_${formattedDate}.csv`;
+
+  // Create a date-stamped folder
+  const dateStampedFolderPath = path.join(__dirname, formattedDate);
+  if (!fs.existsSync(dateStampedFolderPath)){
+    fs.mkdirSync(dateStampedFolderPath);
+  }
+
+  // Update the path for the CSV file to be within the new folder
+  const timestampedCsvFilePath = path.join(dateStampedFolderPath, `unique_banditos_count_${formattedDate}.csv`);
 
   // Write CSV file with timestamp in the filename
   fs.writeFile(timestampedCsvFilePath, csvContent, 'utf8', (err) => {
@@ -41,7 +49,7 @@ function writeCSV(ownerCounts) {
       console.error('Error writing the CSV file:', err);
       return;
     }
-    console.log('CSV file has been saved successfully.');
+    console.log('CSV file has been saved successfully in the date-stamped folder.');
   });
 }
 

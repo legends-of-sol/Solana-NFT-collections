@@ -19,7 +19,8 @@ const Paths = {
     path.join(__dirname, `../NFTs/${project_name}/${dateStamp}`),
   COLLECTIONS: path.join(__dirname, "../legends/legends_partners.json"),
   COMMON_ADDRESSES: path.join(__dirname, "../common_addresses.json"),
-  DOMAINS: (() => {
+  DOMAINS: path.join(__dirname, "../programs/alldomains"),
+  DOMAINS_JSON: (() => {
     const domainsDir = path.join(__dirname, "../programs/alldomains");
     const latestDir = latestDateDir(domainsDir);
     return path.join(domainsDir, latestDir, `alldomains_${latestDir}.json`);
@@ -624,16 +625,17 @@ program
 
 program
   .command("merge_domains")
-  .description("Update legends_weight.json with alldomains information")
+  .description(
+    "Update legends_weight.json with alldomains information and export to CSV"
+  )
   .action(() => {
-    // Load legends weight data
     const legendsWeight = JSON.parse(
       fs.readFileSync(Paths.LEGENDS_WEIGHT, "utf8")
     );
-    // Load alldomains data
-    const alldomainsData = JSON.parse(fs.readFileSync(Paths.DOMAINS, "utf8"));
+    const alldomainsData = JSON.parse(
+      fs.readFileSync(Paths.DOMAINS_JSON, "utf8")
+    );
 
-    // Process each domain, updating the corresponding legend entry
     alldomainsData.forEach((domainEntry) => {
       const legendEntry = legendsWeight.find(
         (legend) => legend.id === domainEntry.ownerAddress
@@ -642,14 +644,12 @@ program
         if (!legendEntry.domains) {
           legendEntry.domains = [];
         }
-        // Add domain if not already present to avoid duplicates
         if (!legendEntry.domains.includes(domainEntry.domain)) {
           legendEntry.domains.push(domainEntry.domain);
         }
       }
     });
 
-    // Deduplicate domains for each legend entry
     legendsWeight.forEach((legend) => {
       if (legend.domains) {
         legend.domains = [...new Set(legend.domains)];
@@ -662,6 +662,35 @@ program
       JSON.stringify(legendsWeight, null, 2)
     );
     console.log("Updated legends_weight.json with alldomains information.");
+
+    // Generate CSV file path with timestamp
+    const date = new Date();
+    const formattedDate = date.toISOString().split("T")[0].replace(/-/g, "");
+    const csvFilePath = path.join(
+      Paths.DOMAINS,
+      `unique_alldomains_count_${formattedDate}.csv`
+    );
+
+    function writeCSV(data, outputPath) {
+      let csvContent = "owner,count\n";
+      const ownerDomainCount = data.reduce((acc, { ownerAddress }) => {
+        if (ownerAddress) { // Check if ownerAddress is not undefined
+          acc[ownerAddress] = (acc[ownerAddress] || 0) + 1;
+        }
+        return acc;
+      }, {});
+    
+      // Convert the object to an array, sort it by count in descending order, and then generate the CSV content
+      const sortedEntries = Object.entries(ownerDomainCount).sort((a, b) => b[1] - a[1]);
+      sortedEntries.forEach(([owner, count]) => {
+        csvContent += `${owner},${count}\n`;
+      });
+    
+      fs.writeFileSync(outputPath, csvContent, "utf8");
+      console.log(`CSV file has been saved successfully to ${outputPath}`);
+    }
+
+    writeCSV(alldomainsData, csvFilePath);
   });
 
 program
