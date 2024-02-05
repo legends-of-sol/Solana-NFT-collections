@@ -26,6 +26,7 @@ const Paths = {
     return path.join(domainsDir, latestDir, `alldomains_${latestDir}.json`);
   })(),
   NFTS: path.join(__dirname, "../NFTs"),
+  PROGRAMS: path.join(__dirname, "../programs"),
   README: path.join(__dirname, "../README.md"),
   LEGENDS: path.join(__dirname, "../legends/legends_partners.json"),
   UNCONFIRMED: path.join(__dirname, "../legends/unconfirmed.json"),
@@ -674,18 +675,21 @@ program
     function writeCSV(data, outputPath) {
       let csvContent = "owner,count\n";
       const ownerDomainCount = data.reduce((acc, { ownerAddress }) => {
-        if (ownerAddress) { // Check if ownerAddress is not undefined
+        if (ownerAddress) {
+          // Check if ownerAddress is not undefined
           acc[ownerAddress] = (acc[ownerAddress] || 0) + 1;
         }
         return acc;
       }, {});
-    
+
       // Convert the object to an array, sort it by count in descending order, and then generate the CSV content
-      const sortedEntries = Object.entries(ownerDomainCount).sort((a, b) => b[1] - a[1]);
+      const sortedEntries = Object.entries(ownerDomainCount).sort(
+        (a, b) => b[1] - a[1]
+      );
       sortedEntries.forEach(([owner, count]) => {
         csvContent += `${owner},${count}\n`;
       });
-    
+
       fs.writeFileSync(outputPath, csvContent, "utf8");
       console.log(`CSV file has been saved successfully to ${outputPath}`);
     }
