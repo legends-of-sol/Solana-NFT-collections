@@ -8,6 +8,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 
 - AEP Life Form
 - All Domains - https://alldomains.id
+- Banx - https://frakt.xyz
 - BBL: Elite
 - BBL: Premium
 - BBL: Royale
@@ -43,6 +44,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Mad Lads - https://madlads.com
 - MixtApe - https://mixt-ape.com
 - Solana Money Boy - https://www.solanamoneyboys.com
+- Namaste - https://twitter.com/solanasensei
 - Netrunner
 - Okay Bears - https://www.okaybears.com/
 - Ordo Nemesis - https://ordonemesis.com/

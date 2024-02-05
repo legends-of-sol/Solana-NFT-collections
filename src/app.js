@@ -402,7 +402,6 @@ program
         const metaPath = path.join(Paths.PROJECTS, folder, `${folder}_meta.json`);
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
-          console.log(metaData);
           return {
             name: folder,
             ...(metaData.collectionKey
@@ -511,9 +510,9 @@ program
 
     const legendsCount = legendsWeightData.reduce((acc, entry) => {
       Object.keys(entry).forEach((key) => {
-        if (key !== "id") {
+        if (key !== "id" && key !== "domains") { // Skip "domains" key
           acc[key] = (acc[key] || 0) + 1;
-        } else {
+        } else if (key === "id") {
           acc.totalIds = (acc.totalIds || 0) + 1;
         }
       });

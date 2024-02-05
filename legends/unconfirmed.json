@@ -16,11 +16,11 @@
     "collectionKey": "3saAedkM9o5g1u5DCqsuMZuC4GRqPB4TuMkvSsSVvGQ3"
   },
   {
-    "name": "smb_gen2",
-    "collectionKey": "SMBtHCCC6RYRutFEPb4gZqeBLUZbMNhRKaMKZZLHi7W"
-  },
-  {
     "name": "tensorians",
     "collectionKey": "5PA96eCFHJSFPY9SWFeRJUHrpoNF5XZL6RrE1JADXhxf"
+  },
+  {
+    "collectionKey": "ABFpGsZBHdfsst5HoCdHXfV17eNEP6cQAFqpV3HApUYi",
+    "name": "namaste"
   }
 ]

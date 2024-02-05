@@ -11,6 +11,12 @@
     "averageHoldings": 1.7580680095299979,
     "giniCoefficient": 0.40378347969159833
   },
+  "banx": {
+    "totalNFTs": 8200,
+    "uniqueHolders": 1039,
+    "averageHoldings": 7.892204042348412,
+    "giniCoefficient": 0.7295807413319562
+  },
   "bbl_elite_ticket": {
     "totalNFTs": 105,
     "uniqueHolders": 104,
@@ -226,6 +232,12 @@
     "uniqueHolders": 645,
     "averageHoldings": 1.7224806201550387,
     "giniCoefficient": 0.37514635184448675
+  },
+  "namaste": {
+    "totalNFTs": 1105,
+    "uniqueHolders": 977,
+    "averageHoldings": 1.1310133060388945,
+    "giniCoefficient": 0.11319349564879097
   },
   "netrunner": {
     "totalNFTs": 4611,
