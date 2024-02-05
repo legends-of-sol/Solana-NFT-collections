@@ -5,6 +5,12 @@
     "averageHoldings": 8.416666666666666,
     "giniCoefficient": 0.685128740146742
   },
+  "alldomains": {
+    "totalNFTs": 8117,
+    "uniqueHolders": 4617,
+    "averageHoldings": 1.7580680095299979,
+    "giniCoefficient": 0.40378347969159833
+  },
   "bbl_elite_ticket": {
     "totalNFTs": 105,
     "uniqueHolders": 104,
@@ -250,6 +256,12 @@
     "uniqueHolders": 3335,
     "averageHoldings": 2.5178410794602697,
     "giniCoefficient": 0.5452779148117974
+  },
+  "photo_finish": {
+    "totalNFTs": 13174,
+    "uniqueHolders": 1014,
+    "averageHoldings": 12.992110453648916,
+    "giniCoefficient": 0.7387950206146887
   },
   "photo_finish_pfp_collection": {
     "totalNFTs": 15008,

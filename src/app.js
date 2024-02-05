@@ -14,19 +14,19 @@ const {
 require("colors");
 
 const Paths = {
-  META_DIR: (project_name) => path.join(__dirname, `../NFTs/${project_name}`),
+  META_DIR: (project_name) =>
+    path.join(__dirname, `../projects/${project_name}`),
   DIR: (project_name, dateStamp) =>
-    path.join(__dirname, `../NFTs/${project_name}/${dateStamp}`),
+    path.join(__dirname, `../projects/${project_name}/${dateStamp}`),
   COLLECTIONS: path.join(__dirname, "../legends/legends_partners.json"),
   COMMON_ADDRESSES: path.join(__dirname, "../common_addresses.json"),
-  DOMAINS: path.join(__dirname, "../programs/alldomains"),
+  DOMAINS: path.join(__dirname, "../projects/alldomains"),
   DOMAINS_JSON: (() => {
-    const domainsDir = path.join(__dirname, "../programs/alldomains");
+    const domainsDir = path.join(__dirname, "../projects/alldomains");
     const latestDir = latestDateDir(domainsDir);
     return path.join(domainsDir, latestDir, `alldomains_${latestDir}.json`);
   })(),
-  NFTS: path.join(__dirname, "../NFTs"),
-  PROGRAMS: path.join(__dirname, "../programs"),
+  PROJECTS: path.join(__dirname, "../projects"),
   README: path.join(__dirname, "../README.md"),
   LEGENDS: path.join(__dirname, "../legends/legends_partners.json"),
   UNCONFIRMED: path.join(__dirname, "../legends/unconfirmed.json"),
@@ -332,11 +332,11 @@ program
   .command("update_readme")
   .description("Update the README.md file with a list of projects")
   .action(() => {
-    const projects = fs.readdirSync(Paths.NFTS);
+    const projects = fs.readdirSync(Paths.PROJECTS);
 
     let projectsList = projects
       .map((project) => {
-        const metaPath = path.join(Paths.NFTS, project, `${project}_meta.json`);
+        const metaPath = path.join(Paths.PROJECTS, project, `${project}_meta.json`);
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
           const projectEntry =
@@ -382,7 +382,7 @@ program
     "Update legends_partners.json with data from NFTs folders, excluding unconfirmed collections"
   )
   .action(() => {
-    const folders = fs.readdirSync(Paths.NFTS);
+    const folders = fs.readdirSync(Paths.PROJECTS);
 
     // Load unconfirmed collections
     const unconfirmedCollections = JSON.parse(
@@ -394,7 +394,7 @@ program
         if (unconfirmedCollections.includes(folder)) {
           return null; // Skip unconfirmed collections
         }
-        const metaPath = path.join(Paths.NFTS, folder, `${folder}_meta.json`);
+        const metaPath = path.join(Paths.PROJECTS, folder, `${folder}_meta.json`);
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
           return {
@@ -449,14 +449,11 @@ program
     }
 
     const projects = fs
-      .readdirSync(Paths.NFTS)
-      .filter(
-        (project) =>
-          filteredProjects.includes(project) && project !== "alldomains"
-      );
+      .readdirSync(Paths.PROJECTS)
+      .filter((project) => filteredProjects.includes(project));
 
     projects.forEach((project) => {
-      const projectPath = path.join(Paths.NFTS, project);
+      const projectPath = path.join(Paths.PROJECTS, project);
       const snapshotFolders = fs
         .readdirSync(projectPath)
         .filter((folder) => /^\d{8}$/.test(folder));
@@ -668,7 +665,7 @@ program
     const date = new Date();
     const formattedDate = date.toISOString().split("T")[0].replace(/-/g, "");
     const csvFilePath = path.join(
-      Paths.DOMAINS,
+      Paths.DIR("alldomains", "20240202"),
       `unique_alldomains_count_${formattedDate}.csv`
     );
 
@@ -701,11 +698,11 @@ program
   .command("generate_partner_weights")
   .description("Generate metrics for partners based on unique owners CSV files")
   .action(async () => {
-    const projects = await fs.promises.readdir(Paths.NFTS);
+    const projects = await fs.promises.readdir(Paths.PROJECTS);
     const projectMetrics = {};
 
     for (const project of projects) {
-      const projectPath = path.join(Paths.NFTS, project);
+      const projectPath = path.join(Paths.PROJECTS, project);
       try {
         const stats = await fs.promises.stat(projectPath);
         if (!stats.isDirectory()) continue; // Skip non-directory files

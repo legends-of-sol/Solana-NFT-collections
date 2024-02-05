@@ -7,6 +7,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 ## Project Hashlists
 
 - AEP Life Form
+- All Domains - https://alldomains.id
 - BBL: Elite
 - BBL: Premium
 - BBL: Royale
@@ -75,7 +76,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 
 The repository is structured as follows:
 
-- The `NFTs/` directory contains folders for each NFT project. Each folder is named after the project it represents.
+- The `projects/` directory contains folders for each NFT project. Each folder is named after the project it represents.
 - Inside each project's folder, there are JSON files named in the format `{project_YYMMDD}.json`. These files are the snapshots for the project.
 
 ## Adding New Snapshots to the Collection
