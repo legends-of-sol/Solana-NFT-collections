@@ -5,7 +5,7 @@ It feels like forever, but in reality just [1 month ago Legends of SOL was born]
 So it is with great pleasure I can now announce the following:
 
 🔒 **Partner Role Closure:**
-Heads up, Legends! The gates 🚪 to the esteemed "Partner Role" have now swung shut. A massive shoutout to the 6̶9̶ 80 partners who've rallied an epic force of 4̶2̶,0̶6̶9̶ 56,753 Solana GOATS 🐐, ready to make "The Choice". Forged in Valhalla, braving the bear market 🐻 together like the legends you are, you have recognised the Legendary experience that awaits and graced us with your Legendary presence.
+Heads up, Legends! The gates 🚪 to the esteemed "Partner Role" have now swung shut. A massive shoutout to the 6̶9̶ [80 partners](https://github.com/Legends-of-Sol/Solana-NFT-collections/blob/main/legends/legends_partners.json) who've rallied an epic force of 4̶2̶,0̶6̶9̶ 56,753 Solana GOATS 🐐, ready to make "The Choice". Forged in Valhalla, braving the bear market 🐻 together like the legends you are, you have recognised the Legendary experience that awaits and graced us with your Legendary presence.
 
 🔥 **The Choice is Upon Us:**
 Brace yourselves! This coming Friday at 6:00 p.m. EST, it's time for "The Choice." You better be fucking ready, because this mfer is going to go down in history 📚. This isn't just any event; it's the decision that will define your journey forward. With only 4,200 spots available, "The Choice" is ALL about cementing your Legendary status 🌟.
