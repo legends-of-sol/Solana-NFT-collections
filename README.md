@@ -47,7 +47,6 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Mad Lads - https://madlads.com
 - MixtApe - https://mixt-ape.com
 - Solana Money Boy - https://www.solanamoneyboys.com
-- Namaste - https://twitter.com/solanasensei
 - Netrunner
 - Ocean Explorers - https://www.explorers.digital/
 - Okay Bears - https://www.okaybears.com/
@@ -68,6 +67,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Secret Sphinx - https://secretsphinx.io/
 - Sentries - https://sentries.io/
 - Shremps - https://shrempin.com
+- Sam
 - SMB Banditios - https://banditodao.com/
 - SMB Gen2 - https://solanamonkey.business/
 - SMB Gen3 - https://solanamonkey.business
@@ -84,6 +84,8 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Tensorians - https://www.tensor.trade/
 - True OG
 - True OG
+- The Heist
+- The Heist Land
 - The Roundies - https://theroundies.co
 - THUG - https://www.thugbirdz.com/
 - WOOFers - https://www.woofsolana.world

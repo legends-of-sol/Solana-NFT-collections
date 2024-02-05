@@ -251,12 +251,6 @@
     "averageHoldings": 1.7224806201550387,
     "giniCoefficient": 0.37514635184448675
   },
-  "namaste": {
-    "totalNFTs": 1105,
-    "uniqueHolders": 977,
-    "averageHoldings": 1.1310133060388945,
-    "giniCoefficient": 0.11319349564879097
-  },
   "netrunner": {
     "totalNFTs": 4611,
     "uniqueHolders": 2203,
@@ -377,6 +371,12 @@
     "averageHoldings": 5.1954261954261955,
     "giniCoefficient": 0.7483999836941013
   },
+  "sixtynine_sams": {
+    "totalNFTs": 69,
+    "uniqueHolders": 56,
+    "averageHoldings": 1.2321428571428572,
+    "giniCoefficient": 0.18038302277432713
+  },
   "smb_banditos": {
     "totalNFTs": 549,
     "uniqueHolders": 137,
@@ -472,6 +472,18 @@
     "uniqueHolders": 49,
     "averageHoldings": 2.7755102040816326,
     "giniCoefficient": 0.5798319327731093
+  },
+  "the_heist": {
+    "totalNFTs": 31090,
+    "uniqueHolders": 2776,
+    "averageHoldings": 11.19956772334294,
+    "giniCoefficient": 0.7445088768037018
+  },
+  "the_heist_land": {
+    "totalNFTs": 15400,
+    "uniqueHolders": 1230,
+    "averageHoldings": 12.520325203252032,
+    "giniCoefficient": 0.7271525710062295
   },
   "the_roundies": {
     "totalNFTs": 1274,
