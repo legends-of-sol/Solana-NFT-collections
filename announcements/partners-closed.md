@@ -29,4 +29,11 @@ But wait, there's more... in a cruel twist of fate, every $LEGEND token wielded 
 
 Legends, this is more than an announcement; it's a call to arms ⚔️. Stand ready, for "The Choice" because it's not just an event; it's the moment where Legends are truly born. See you in The Matrix mfers!
 
+TLDR;
+- Partner Role is closed
+- The Choice is this Friday at 6:00 p.m. EST
+- Nomination deadline is also this Friday at 6:00 p.m. EST
+- Airdrop is 24 hours after The Choice
+- $LEGEND will be burned in The Choice
+
 LFG! 🚀🚀🚀
