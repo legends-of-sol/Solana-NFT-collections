@@ -19,7 +19,7 @@ In the last 3 days, we've DOUBLED our number of partners, so we now need to give
 
 NB: With such a tight allocation of 4,200 spots, you're going to need to make sure you have the BEST chance of making The Choice by having MAX Airdrop allocation of $LEGEND, and holding as many partner NFTs as you can in your connected wallet 🏦. It goes without saying that the more $LEGEND you have, the easier it will be to make The Choice.
 
-NB!! The cutoff for nominating your chosen Legends is also this Friday at 6:00 p.m. EST. So make your voice heard 📣 before the sands of time ⏳ run out.
+NB!! The cutoff for nominating your chosen Legends is also this Friday at 6:00 p.m. EST. This is when we will take the final snapshot of Legends, the partners and their communities.
 
 **The Airdrop:**
 Feel your butt clench as "The Choice" goes live, a FULL 24 hours before The Airdrop descends on us 🪂. It's your chance to get in early and front-run your destiny. Once the gears start turning [LegendsOfSOL.com](https://LegendsOfSOL.com) will transform and the nomination tool will disappear to reveal The Choice and Airdrop claim page. There will be plenty of warning before this happens in the Discord and on Twitter 🐦.
