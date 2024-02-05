@@ -75,6 +75,10 @@
     "creatorAddress": "AjXLBEB48nXQjwbQgGMffSLnH1Wv3B4U5V2bVMJKny2R"
   },
   {
+    "name": "degen_islands",
+    "creatorAddress": "Bir9vB3u3b8DqAQ1ZgBU93A5FtJBQJu6Pr4AyJQMiNqo"
+  },
+  {
     "name": "degen_royale",
     "creatorAddress": "DJK5CDBxKcqsbpreUY4gNcrnopPYoiqueUSq9aULTTsK"
   },
@@ -143,7 +147,19 @@
     "creatorAddress": "1qYQboR1jkeDZdbwBCpXbBcNGPTPh9T5iHWmkvyrtAh"
   },
   {
+    "name": "ocean_explorers",
+    "collectionKey": "8Njk5vCwYi1UtQWkQEEeVv1tZwdF1T1sEczrGu5ugVx3"
+  },
+  {
     "name": "ordo_nemesis",
+    "collectionKey": "86FaGSffUt6pmBEKQMqbpCTyNPjUfiF6EcE9HFzim3iT"
+  },
+  {
+    "name": "ordo_nemesis_knights",
+    "collectionKey": "FwDBqNzQRukc4ku3aQgFi8dfHoEbwrfanGavthznEfwd"
+  },
+  {
+    "name": "ordo_nemesis_shields",
     "collectionKey": "86FaGSffUt6pmBEKQMqbpCTyNPjUfiF6EcE9HFzim3iT"
   },
   {
@@ -201,6 +217,18 @@
     "name": "smb_banditos"
   },
   {
+    "name": "smb_gen2",
+    "collectionKey": "SMBtHCCC6RYRutFEPb4gZqeBLUZbMNhRKaMKZZLHi7W"
+  },
+  {
+    "name": "smb_gen3",
+    "collectionKey": "8Rt3Ayqth4DAiPnW9MDFi63TiQJHmohfTWLMQFHi4KZH"
+  },
+  {
+    "name": "sol_patrol",
+    "collectionKey": "7Zcfq1fdQYYjKreRoKSf6ungwrFGCgoPcapEeTkj1cQX"
+  },
+  {
     "name": "solana_surfers",
     "creatorAddress": "FqWNsZ4QnSCF9f46W2utkdCQUnaDniFusweUPcqfTXsd"
   },
@@ -211,6 +239,22 @@
   {
     "name": "sollamas",
     "collectionKey": "6cUM8jjBiELuE3zDvodCYTyR1ucDXPJfYAUNzkzCzNSD"
+  },
+  {
+    "name": "solluminati",
+    "creatorAddress": "PbMroJ2ViTtHzq1oQprxEcL1n2XjXozb2Q38SFjEp33"
+  },
+  {
+    "name": "solluminati_corrupted",
+    "collectionKey": "EaApD4X9hm6mhJUsd9AQjkzAHaWtR5jsw13NX3n6m77m"
+  },
+  {
+    "name": "solluminati_the_eye",
+    "creatorAddress": "9Bfnsb63pthh58UVZphs2vHX1mTw5fK9zR6cdUn1xX59"
+  },
+  {
+    "name": "solluminati_the_shards",
+    "creatorAddress": "BpWaHYphiaRKpPe5kbY48vrp9wWxdZBJPgnW8E5qi7EJ"
   },
   {
     "name": "species",

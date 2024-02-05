@@ -26,6 +26,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Dawnbreakers - https://radiant.nexus/
 - Deanslist
 - Degen Dad
+- Degen Islands - https://degenislands.com
 - Degen Royale - https://degenroyale.io/
 - Degen Royale - https://degenroyale.io/
 - Degen Royale - https://degenroyale.io/
@@ -46,7 +47,10 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Solana Money Boy - https://www.solanamoneyboys.com
 - Namaste - https://twitter.com/solanasensei
 - Netrunner
+- Ocean Explorers - https://www.explorers.digital/
 - Okay Bears - https://www.okaybears.com/
+- Ordo Nemesis - https://ordonemesis.com/
+- ordo_nemesis_knights
 - Ordo Nemesis - https://ordonemesis.com/
 - Papu Party Rock - https://papusuperstars.com/
 - Pesky Penguins - https://pesky-penguins.com
@@ -63,9 +67,15 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Shremps - https://shrempin.com
 - SMB Banditios - https://banditodao.com/
 - SMB Gen2 - https://solanamonkey.business/
+- SMB Gen3 - https://solanamonkey.business
+- Sol Patrol
 - Solana Surfer
 - Solanaut - https://solanauts.io
 - Sollamas - https://sollamas.com
+- Solluminati - https://solluminati.io
+- Solluminati: Corrupted - https://solluminati.io
+- The Eye - https://solluminati.io/
+- Fragment of The Eye - https://solluminati.io/
 - species
 - Squidz
 - Tensorians - https://www.tensor.trade/

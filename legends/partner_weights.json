@@ -119,6 +119,12 @@
     "averageHoldings": 1,
     "giniCoefficient": 0
   },
+  "degen_islands": {
+    "totalNFTs": 17526,
+    "uniqueHolders": 2264,
+    "averageHoldings": 7.741166077738516,
+    "giniCoefficient": 0.8409008886947973
+  },
   "degen_royale": {
     "totalNFTs": 994,
     "uniqueHolders": 242,
@@ -245,6 +251,12 @@
     "averageHoldings": 2.0930549251021335,
     "giniCoefficient": 0.481672583658667
   },
+  "ocean_explorers": {
+    "totalNFTs": 1618,
+    "uniqueHolders": 254,
+    "averageHoldings": 6.3700787401574805,
+    "giniCoefficient": 0.7130218117049336
+  },
   "okay_bears": {
     "totalNFTs": 9858,
     "uniqueHolders": 4185,
@@ -256,6 +268,18 @@
     "uniqueHolders": 233,
     "averageHoldings": 1.0729613733905579,
     "giniCoefficient": 0.06664377682403433
+  },
+  "ordo_nemesis_knights": {
+    "totalNFTs": 23,
+    "uniqueHolders": 23,
+    "averageHoldings": 1,
+    "giniCoefficient": 0
+  },
+  "ordo_nemesis_shields": {
+    "totalNFTs": 250,
+    "uniqueHolders": 231,
+    "averageHoldings": 1.0822510822510822,
+    "giniCoefficient": 0.07459740259740259
   },
   "papu": {
     "totalNFTs": 2982,
@@ -347,6 +371,18 @@
     "averageHoldings": 1.9626572327044025,
     "giniCoefficient": 0.45079628775883723
   },
+  "smb_gen3": {
+    "totalNFTs": 7351,
+    "uniqueHolders": 2891,
+    "averageHoldings": 2.5427187824282256,
+    "giniCoefficient": 0.5527606420575143
+  },
+  "sol_patrol": {
+    "totalNFTs": 3328,
+    "uniqueHolders": 518,
+    "averageHoldings": 6.424710424710424,
+    "giniCoefficient": 0.7211027992277992
+  },
   "solana_surfers": {
     "totalNFTs": 3888,
     "uniqueHolders": 994,
@@ -364,6 +400,30 @@
     "uniqueHolders": 3061,
     "averageHoldings": 3.0490035935968636,
     "giniCoefficient": 0.603192285102729
+  },
+  "solluminati": {
+    "totalNFTs": 203,
+    "uniqueHolders": 131,
+    "averageHoldings": 1.549618320610687,
+    "giniCoefficient": 0.34106719813484754
+  },
+  "solluminati_corrupted": {
+    "totalNFTs": 1535,
+    "uniqueHolders": 16,
+    "averageHoldings": 95.9375,
+    "giniCoefficient": 0.9192589576547231
+  },
+  "solluminati_the_eye": {
+    "totalNFTs": 200,
+    "uniqueHolders": 64,
+    "averageHoldings": 3.125,
+    "giniCoefficient": 0.64390625
+  },
+  "solluminati_the_shards": {
+    "totalNFTs": 2154,
+    "uniqueHolders": 1444,
+    "averageHoldings": 1.4916897506925209,
+    "giniCoefficient": 0.30340704789388806
   },
   "species": {
     "totalNFTs": 4952,
