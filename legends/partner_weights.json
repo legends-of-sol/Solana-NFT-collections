@@ -71,6 +71,12 @@
     "averageHoldings": 5.476164383561644,
     "giniCoefficient": 0.7243810395826537
   },
+  "caveworld": {
+    "totalNFTs": 8884,
+    "uniqueHolders": 2309,
+    "averageHoldings": 3.847553053269814,
+    "giniCoefficient": 0.6492640137870546
+  },
   "cets": {
     "totalNFTs": 6974,
     "uniqueHolders": 2993,

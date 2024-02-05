@@ -18,6 +18,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Bullyz Loot Box - https://www.bullyzcrew.com
 - Bullyz Shipz - https://www.bullyzcrew.com
 - BVDCATs - https://bvdcat.io/
+- Tribal Chiefs - http://caveworld.com
 - Cets
 - Chads
 - Dawnbreakers - https://radiant.nexus/
