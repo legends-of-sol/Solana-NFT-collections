@@ -66,6 +66,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Saga Monkes
 - Secret Sphinx - https://secretsphinx.io/
 - Sentries - https://sentries.io/
+- sharx by sharky.fi - https://sharky.fi
 - Shremps - https://shrempin.com
 - Sam
 - SMB Banditios - https://banditodao.com/

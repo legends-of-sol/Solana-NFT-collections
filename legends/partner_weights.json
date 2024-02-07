@@ -365,6 +365,12 @@
     "averageHoldings": 10.241997439180539,
     "giniCoefficient": 0.8670802160129171
   },
+  "sharkyfi": {
+    "totalNFTs": 10108,
+    "uniqueHolders": 1555,
+    "averageHoldings": 6.5003215434083605,
+    "giniCoefficient": 0.7610913389413625
+  },
   "shremps": {
     "totalNFTs": 4998,
     "uniqueHolders": 962,

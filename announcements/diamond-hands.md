@@ -14,5 +14,5 @@ We're all about hyping up **Solana**, backing its big moves, major airdrops, and
 
 And yo, keep this on the DL, but if you're smart, you'll **rush towards The Choice like it's solid gold**. Why? 'Cause we've got a sneaky **5% tucked away for the epic Saga 2 rollout**†. Mum's the word, but this is the kinda intel that makes lettuce virgin hands (as the Chads would say), into **diamond fists of fury**. ✊💎
 
-* **Minter** is alpha for an app that we've got in testing that's going to change the game for Solana NFT projects. It's a secret for now, but we're dropping hints like breadcrumbs. Keep your eyes peeled for more info. 🕵️‍♂️🍞
+\* **Minter** is alpha for an app that we've got in testing that's going to change the game for Solana NFT projects. It's a secret for now, but we're dropping hints like breadcrumbs. Keep your eyes peeled for more info. 🕵️‍♂️🍞
 † **ALPHA**
