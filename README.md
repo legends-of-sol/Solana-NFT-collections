@@ -8,6 +8,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 
 - AEP Life Form
 - All Domains - https://alldomains.id
+- Almighty Alpacas - https://almightyalpacas.com/
 - Banx - https://frakt.xyz
 - BBL: Elite
 - BBL: Premium

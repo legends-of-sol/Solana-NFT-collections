@@ -11,6 +11,12 @@
     "averageHoldings": 1.7580680095299979,
     "giniCoefficient": 0.40378347969159833
   },
+  "almighty_alpacas": {
+    "totalNFTs": 3291,
+    "uniqueHolders": 430,
+    "averageHoldings": 7.653488372093023,
+    "giniCoefficient": 0.6756022414901811
+  },
   "banx": {
     "totalNFTs": 8200,
     "uniqueHolders": 1036,
