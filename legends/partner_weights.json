@@ -353,6 +353,12 @@
     "averageHoldings": 1.3756384460609812,
     "giniCoefficient": 0.2640648989833204
   },
+  "sdrive": {
+    "totalNFTs": 880,
+    "uniqueHolders": 880,
+    "averageHoldings": 1,
+    "giniCoefficient": 0
+  },
   "secret_sphynx_society": {
     "totalNFTs": 1490,
     "uniqueHolders": 198,
@@ -418,6 +424,12 @@
     "uniqueHolders": 199,
     "averageHoldings": 2.512562814070352,
     "giniCoefficient": 0.5279798994974875
+  },
+  "solarplex_genesis_reactions": {
+    "totalNFTs": 438,
+    "uniqueHolders": 154,
+    "averageHoldings": 2.844155844155844,
+    "giniCoefficient": 0.5475004447607187
   },
   "sollamas": {
     "totalNFTs": 9333,

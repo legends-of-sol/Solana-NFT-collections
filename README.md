@@ -75,6 +75,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Sol Patrol
 - Solana Surfer
 - Solanaut - https://solanauts.io
+- Solarplex Genesis Reactions
 - Sollamas - https://sollamas.com
 - Solluminati - https://solluminati.io
 - Solluminati: Corrupted - https://solluminati.io
