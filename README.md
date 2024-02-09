@@ -89,6 +89,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - The Heist Land
 - The Roundies - https://theroundies.co
 - THUG - https://www.thugbirdz.com/
+- Oakley Silverman
 - WOOFers - https://www.woofsolana.world
 - Zeebit Zeebros - https://zeebit.io
 - Zilly Goat 7777 Series - https://www.zillionairegoatclub.com

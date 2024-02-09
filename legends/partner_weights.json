@@ -503,6 +503,12 @@
     "averageHoldings": 2.0748440748440746,
     "giniCoefficient": 0.47586024439731855
   },
+  "turtles": {
+    "totalNFTs": 1146,
+    "uniqueHolders": 560,
+    "averageHoldings": 2.0464285714285713,
+    "giniCoefficient": 0.4656101969583645
+  },
   "woofers": {
     "totalNFTs": 5537,
     "uniqueHolders": 1799,
