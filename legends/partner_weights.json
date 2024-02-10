@@ -522,10 +522,10 @@
     "giniCoefficient": 0.4777947916634048
   },
   "turtles": {
-    "totalNFTs": 1146,
-    "uniqueHolders": 560,
-    "averageHoldings": 2.0464285714285713,
-    "giniCoefficient": 0.4656101969583645
+    "totalNFTs": 9999,
+    "uniqueHolders": 701,
+    "averageHoldings": 14.263908701854493,
+    "giniCoefficient": 0.7904702025124053
   },
   "woofers": {
     "totalNFTs": 5537,
