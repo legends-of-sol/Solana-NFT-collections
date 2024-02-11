@@ -52,7 +52,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Ocean Explorers - https://www.explorers.digital/
 - Okay Bears - https://www.okaybears.com/
 - Ordo Nemesis - https://ordonemesis.com/
-- Ordo Nemesis logo
+- ordo_nemesis_knights
 - Ordo Nemesis - https://ordonemesis.com/
 - Papu Party Rock - https://papusuperstars.com/
 - Pesky Penguins - https://pesky-penguins.com
@@ -83,7 +83,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Solluminati: Corrupted - https://solluminati.io
 - The Eye - https://solluminati.io/
 - Fragment of The Eye - https://solluminati.io/
-- Species
+- species
 - Squidz
 - Tensorians - https://www.tensor.trade/
 - True OG
