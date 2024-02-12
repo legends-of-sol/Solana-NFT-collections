@@ -88,6 +88,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Tensorians - https://www.tensor.trade/
 - True OG
 - True OG
+- The Choice
 - The Heist
 - The Heist Land
 - The Roundies - https://theroundies.co
