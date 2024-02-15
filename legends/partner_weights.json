@@ -498,10 +498,10 @@
     "giniCoefficient": 0.5773529411764706
   },
   "the_choice": {
-    "totalNFTs": 3271,
-    "uniqueHolders": 838,
-    "averageHoldings": 3.903341288782816,
-    "giniCoefficient": 0.6620766568725379
+    "totalNFTs": 3356,
+    "uniqueHolders": 875,
+    "averageHoldings": 3.8354285714285714,
+    "giniCoefficient": 0.6575508258130427
   },
   "the_heist": {
     "totalNFTs": 31090,
