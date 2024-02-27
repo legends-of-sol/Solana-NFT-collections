@@ -593,7 +593,7 @@ program
   .action(() => {
     const outputPath = path.join(
       __dirname,
-      `../legends/mp_${dayjs().format("YYYYMMDD")}.json`
+      `../legends/markets/mp_${dayjs().format("YYYYMMDD")}.json`
     );
 
     const legendsWeight = JSON.parse(
