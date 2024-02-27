@@ -761,18 +761,20 @@ program
     console.log(`Project metrics written to ${Paths.PARTNER_WEIGHTS}`);
   });
 
-// I have 525,871,177 tokens and I want to give 25% away over 10 airdrops to 4200 users.
-// 3,130.186 tokens => 3042.069
+// I have 525,871,177 total tokens for NFT holders and I want to give 33% away over around 10 airdrops to 4200 users for the initial launch
+// 4206.9 tokens
+// Makes our total obligation 4206.9 * 10 * 4200 =>  176,689,800 => 33.59% of supply
+// If you hold 10 The Choice NFTs (Top 86 people hold this or more) your drop will be 420690
 program
   .command("calc_legend_dist")
   .description("Calculate snapshot holding for date range")
   .option(
     "-d, --date <date>",
     "Snapshot date in YYYYMMDD format",
-    "20240227" // default
+    "20240228" // default
   )
   .action(async (options) => {
-    const REWARD = 3042.069;
+    const REWARD = 4206.9;
     const baseDir = Paths.THE_CHOICE;
     const rewards = {};
     const targetDate = dayjs(options.date, "YYYYMMDD");
