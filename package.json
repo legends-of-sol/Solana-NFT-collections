@@ -15,6 +15,7 @@
     "weight:partners": "node src/app.js generate_partner_weights",
     "count:legends": "node src/app.js count_legends",
     "merge:domains": "node src/app.js merge_domains",
+    "calc:reward": "node src/app.js calc_legend_dist",
     "filter:mp": "node src/app.js filter_mp",
     "build:json": "ts-node src/build-json.ts",
     "test": "echo \"Error: no test specified\" && exit 1"

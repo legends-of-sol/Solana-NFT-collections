@@ -2,6 +2,7 @@ const { program } = require("commander");
 const fs = require("fs");
 const path = require("path");
 const dayjs = require("dayjs");
+const csv = require('csv-parser');
 const { execSync } = require("child_process");
 const {
   cleanName,
@@ -27,11 +28,13 @@ const Paths = {
     return path.join(domainsDir, latestDir, `alldomains_${latestDir}.json`);
   })(),
   PROJECTS: path.join(__dirname, "../projects"),
+  LEGENDS: path.join(__dirname, "../legends"),
   README: path.join(__dirname, "../README.md"),
   UNCONFIRMED: path.join(__dirname, "../legends/unconfirmed.json"),
   LEGENDS_WEIGHT: path.join(__dirname, "../legends/legends_weight.json"),
   LEGENDS_PARTNERS: path.join(__dirname, "../legends/legends_partners.json"),
   PARTNER_WEIGHTS: path.join(__dirname, "../legends/partner_weights.json"),
+  THE_CHOICE: path.join(__dirname, "../projects/the_choice"),
 };
 
 program
@@ -341,7 +344,11 @@ program
 
     let projectsList = projects
       .map((project) => {
-        const metaPath = path.join(Paths.PROJECTS, project, `${project}_meta.json`);
+        const metaPath = path.join(
+          Paths.PROJECTS,
+          project,
+          `${project}_meta.json`
+        );
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
           const projectEntry =
@@ -399,7 +406,11 @@ program
         if (unconfirmedCollections.includes(folder)) {
           return null; // Skip unconfirmed collections
         }
-        const metaPath = path.join(Paths.PROJECTS, folder, `${folder}_meta.json`);
+        const metaPath = path.join(
+          Paths.PROJECTS,
+          folder,
+          `${folder}_meta.json`
+        );
         if (fs.existsSync(metaPath)) {
           const metaData = JSON.parse(fs.readFileSync(metaPath, "utf8"));
           return {
@@ -416,7 +427,10 @@ program
       })
       .filter(Boolean);
 
-    fs.writeFileSync(Paths.LEGENDS_PARTNERS, JSON.stringify(updatedLegends, null, 2));
+    fs.writeFileSync(
+      Paths.LEGENDS_PARTNERS,
+      JSON.stringify(updatedLegends, null, 2)
+    );
     console.log(
       "legends_partners.json updated successfully, excluding unconfirmed collections."
     );
@@ -510,7 +524,8 @@ program
 
     const legendsCount = legendsWeightData.reduce((acc, entry) => {
       Object.keys(entry).forEach((key) => {
-        if (key !== "id" && key !== "domains") { // Skip "domains" key
+        if (key !== "id" && key !== "domains") {
+          // Skip "domains" key
           acc[key] = (acc[key] || 0) + 1;
         } else if (key === "id") {
           acc.totalIds = (acc.totalIds || 0) + 1;
@@ -744,6 +759,62 @@ program
       JSON.stringify(projectMetrics, null, 2)
     );
     console.log(`Project metrics written to ${Paths.PARTNER_WEIGHTS}`);
+  });
+
+program
+  .command("calc_legend_dist")
+  .description("Calculate snapshot holding for date range")
+  .action(async () => {
+    const REWARD = 10;
+    const baseDir = Paths.THE_CHOICE;
+    const rewards = {};
+
+    fs.readdir(baseDir, (err, folders) => {
+      if (err) {
+        console.error("Failed to read directory:", err);
+        return;
+      }
+
+      let foldersProcessed = 0;
+      folders.forEach((folder) => {
+        const filePath = path.join(
+          baseDir,
+          folder,
+          `unique_the_choice_owners_${folder}.csv`
+        );
+
+        if (fs.existsSync(filePath)) {
+          fs.createReadStream(filePath)
+            .pipe(csv())
+            .on("data", (row) => {
+              const rewardForOwner = REWARD * parseInt(row.count, 10);
+              if (rewards[row.owner]) {
+                rewards[row.owner] += rewardForOwner;
+              } else {
+                rewards[row.owner] = rewardForOwner;
+              }
+            })
+            .on("end", () => {
+              foldersProcessed++;
+              if (foldersProcessed === folders.length) {
+                // All folders have been processed, delete the existing rewards file if it exists, and then create a new one
+                const legendsDir = Paths.LEGENDS;
+                const outputPath = path.join(
+                  legendsDir,
+                  "the_choice_snapshot_rewards.json"
+                );
+                if (fs.existsSync(outputPath)) {
+                  fs.unlinkSync(outputPath);
+                }
+                fs.writeFileSync(outputPath, JSON.stringify(rewards, null, 2));
+                console.log(`Rewards written to ${outputPath}`);
+              }
+            });
+        } else {
+          foldersProcessed++;
+        }
+      });
+    });
   });
 
 program.parse(process.argv);
