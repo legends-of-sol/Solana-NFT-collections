@@ -2,7 +2,7 @@ const { program } = require("commander");
 const fs = require("fs");
 const path = require("path");
 const dayjs = require("dayjs");
-const csv = require('csv-parser');
+const csv = require("csv-parser");
 const { execSync } = require("child_process");
 const {
   cleanName,
@@ -761,13 +761,32 @@ program
     console.log(`Project metrics written to ${Paths.PARTNER_WEIGHTS}`);
   });
 
+// I have 525,871,177 tokens and I want to give 25% away over 10 airdrops to 4200 users.
+// 3,130.186 tokens => 3042.069
 program
   .command("calc_legend_dist")
   .description("Calculate snapshot holding for date range")
-  .action(async () => {
-    const REWARD = 10;
+  .option(
+    "-d, --date <date>",
+    "Snapshot date in YYYYMMDD format",
+    "20240227" // default
+  )
+  .action(async (options) => {
+    const REWARD = 3042.069;
     const baseDir = Paths.THE_CHOICE;
     const rewards = {};
+    const targetDate = dayjs(options.date, "YYYYMMDD");
+    const commonAddressesPath = path.join(
+      __dirname,
+      "../common_addresses.json"
+    );
+    const commonAddressesData = JSON.parse(
+      fs.readFileSync(commonAddressesPath, "utf8")
+    );
+
+    const mpAddresses = new Set(
+      commonAddressesData.map((entry) => entry.address)
+    );
 
     fs.readdir(baseDir, (err, folders) => {
       if (err) {
@@ -777,6 +796,12 @@ program
 
       let foldersProcessed = 0;
       folders.forEach((folder) => {
+        const folderDate = dayjs(folder, "YYYYMMDD");
+        if (folderDate.isBefore(targetDate)) {
+          foldersProcessed++;
+          return; // Skip folders older than the target date
+        }
+
         const filePath = path.join(
           baseDir,
           folder,
@@ -787,17 +812,18 @@ program
           fs.createReadStream(filePath)
             .pipe(csv())
             .on("data", (row) => {
-              const rewardForOwner = REWARD * parseInt(row.count, 10);
-              if (rewards[row.owner]) {
-                rewards[row.owner] += rewardForOwner;
-              } else {
-                rewards[row.owner] = rewardForOwner;
+              if (!mpAddresses.has(row.owner)) {
+                const rewardForOwner = REWARD * parseInt(row.count, 10);
+                if (rewards[row.owner]) {
+                  rewards[row.owner] += rewardForOwner;
+                } else {
+                  rewards[row.owner] = rewardForOwner;
+                }
               }
             })
             .on("end", () => {
               foldersProcessed++;
               if (foldersProcessed === folders.length) {
-                // All folders have been processed, delete the existing rewards file if it exists, and then create a new one
                 const legendsDir = Paths.LEGENDS;
                 const outputPath = path.join(
                   legendsDir,
