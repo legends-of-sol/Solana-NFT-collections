@@ -45,6 +45,11 @@ program
     "RPC endpoint URL",
     "https://api.mainnet-beta.solana.com"
   )
+  .option(
+    "-t, --timestamp",
+    "Append timestamp to the folder name",
+    false
+  )
   .action(async (project_name, collection_address, options) => {
     const RPC = options.rpc;
     console.log(`Using RPC endpoint: ${RPC}`);
@@ -106,8 +111,9 @@ program
         results: assetList,
       };
       const dateStamp = dayjs().format("YYYYMMDD");
+      const timestamp = options.timestamp ? `_${dayjs().format("HHmmss")}` : "";
+      const dirPath = Paths.DIR(project_name, dateStamp + timestamp);
       const metaDirPath = Paths.META_DIR(project_name);
-      const dirPath = Paths.DIR(project_name, dateStamp);
       if (!fs.existsSync(dirPath)) {
         fs.mkdirSync(dirPath, { recursive: true });
       }
@@ -119,15 +125,15 @@ program
           : project_name,
         image:
           collectionData?.content?.links.image ||
-          resultData.results[0].content.links.image ||
+          resultData?.results[0]?.content?.links?.image ||
           "",
         description: collectionData?.content?.metadata.description ?? "",
         url:
           collectionData?.content?.links.external_url ||
-          resultData.results[0].content.links.external_url ||
+          resultData?.results[0]?.content?.links?.external_url ||
           "",
         token_standard:
-          resultData.results[0].content.metadata.token_standard ?? "",
+          resultData?.results[0]?.content?.metadata.token_standard ?? "",
       };
       fs.writeFileSync(
         `${metaDirPath}/${project_name}_meta.json`,
@@ -777,7 +783,7 @@ program
     const REWARD = 4206.9;
     const baseDir = Paths.THE_CHOICE;
     const rewards = {};
-    const targetDate = dayjs(options.date, "YYYYMMDD");
+    const targetDate = dayjs(options.date, "YYYYMMDD").startOf('day');
     const commonAddressesPath = path.join(
       __dirname,
       "../common_addresses.json"
@@ -798,7 +804,11 @@ program
 
       let foldersProcessed = 0;
       folders.forEach((folder) => {
-        const folderDate = dayjs(folder, "YYYYMMDD");
+        // Extract date part before "_" if present, otherwise take the whole folder name
+        const folderNameParts = folder.split("_");
+        const folderDateStr = folderNameParts.length > 1 ? folderNameParts[0] : folder;
+        const folderDate = dayjs(folderDateStr, "YYYYMMDD").startOf('day');
+        console.log(folder, folderNameParts, folderDateStr, folderDate.isBefore(targetDate));
         if (folderDate.isBefore(targetDate)) {
           foldersProcessed++;
           return; // Skip folders older than the target date
@@ -807,7 +817,7 @@ program
         const filePath = path.join(
           baseDir,
           folder,
-          `unique_the_choice_owners_${folder}.csv`
+          `unique_the_choice_owners_${folderDateStr}.csv`
         );
 
         if (fs.existsSync(filePath)) {

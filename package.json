@@ -15,7 +15,7 @@
     "weight:partners": "node src/app.js generate_partner_weights",
     "count:legends": "node src/app.js count_legends",
     "merge:domains": "node src/app.js merge_domains",
-    "calc:reward": "npm run snapshot the_choice 8fmefJZapGpyVMDzj4MSYQfR7mTET1oV9hXyu1axCjLE && node src/app.js calc_legend_dist",
+    "calc:reward": "node src/app.js snapshot --timestamp the_choice 8fmefJZapGpyVMDzj4MSYQfR7mTET1oV9hXyu1axCjLE && node src/app.js calc_legend_dist",
     "filter:mp": "node src/app.js filter_mp",
     "build:json": "ts-node src/build-json.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
