@@ -808,7 +808,6 @@ program
         const folderNameParts = folder.split("_");
         const folderDateStr = folderNameParts.length > 1 ? folderNameParts[0] : folder;
         const folderDate = dayjs(folderDateStr, "YYYYMMDD").startOf('day');
-        console.log(folder, folderNameParts, folderDateStr, folderDate.isBefore(targetDate));
         if (folderDate.isBefore(targetDate)) {
           foldersProcessed++;
           return; // Skip folders older than the target date
