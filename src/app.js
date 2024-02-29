@@ -45,11 +45,7 @@ program
     "RPC endpoint URL",
     "https://api.mainnet-beta.solana.com"
   )
-  .option(
-    "-t, --timestamp",
-    "Append timestamp to the folder name",
-    false
-  )
+  .option("-t, --timestamp", "Append timestamp to the folder name", false)
   .action(async (project_name, collection_address, options) => {
     const RPC = options.rpc;
     console.log(`Using RPC endpoint: ${RPC}`);
@@ -783,7 +779,7 @@ program
     const REWARD = 4206.9;
     const baseDir = Paths.THE_CHOICE;
     const rewards = {};
-    const targetDate = dayjs(options.date, "YYYYMMDD").startOf('day');
+    const targetDate = dayjs(options.date, "YYYYMMDD").startOf("day");
     const commonAddressesPath = path.join(
       __dirname,
       "../common_addresses.json"
@@ -806,8 +802,9 @@ program
       folders.forEach((folder) => {
         // Extract date part before "_" if present, otherwise take the whole folder name
         const folderNameParts = folder.split("_");
-        const folderDateStr = folderNameParts.length > 1 ? folderNameParts[0] : folder;
-        const folderDate = dayjs(folderDateStr, "YYYYMMDD").startOf('day');
+        const folderDateStr =
+          folderNameParts.length > 1 ? folderNameParts[0] : folder;
+        const folderDate = dayjs(folderDateStr, "YYYYMMDD").startOf("day");
         if (folderDate.isBefore(targetDate)) {
           foldersProcessed++;
           return; // Skip folders older than the target date
@@ -852,6 +849,24 @@ program
         }
       });
     });
+  });
+
+program
+  .command("total_rewards")
+  .description(
+    "Calculate and log the total of all rewards in the_choice_snapshot_rewards.json"
+  )
+  .action(() => {
+    const rewardsPath = path.join(
+      Paths.LEGENDS,
+      "the_choice_snapshot_rewards.json"
+    );
+    const rewardsData = JSON.parse(fs.readFileSync(rewardsPath, "utf8"));
+    const totalRewards = Object.values(rewardsData).reduce(
+      (acc, reward) => acc + reward,
+      0
+    );
+    console.log(`Total rewards: ${totalRewards}`);
   });
 
 program.parse(process.argv);
