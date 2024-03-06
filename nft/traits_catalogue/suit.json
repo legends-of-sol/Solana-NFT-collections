@@ -1,0 +1,282 @@
+[
+  {
+    "id": "8732c3d9-6643-4483-9b1f-e2471f7ca787",
+    "src": "nftImg/5_suit/bonk_c5.png",
+    "item": "Bonk",
+    "price": 69,
+    "layer": 5,
+    "rarity": "common",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "f44629a6-228f-46c0-8897-71f3fb8b906d",
+    "src": "nftImg/5_suit/boogle_cloak_r5.png",
+    "item": "Boogle Cloak",
+    "price": 69420,
+    "layer": 5,
+    "rarity": "rare",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "a33853e5-16a9-46ef-b18e-97143e0b0d32",
+    "src": "nftImg/5_suit/boom_og_helmet_c5.png",
+    "item": "Boom Og Helmet",
+    "price": 69,
+    "layer": 5,
+    "rarity": "common",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "cf34f533-baeb-461d-a8db-31c3e7d9b0a5",
+    "src": "nftImg/5_suit/brero_c5.png",
+    "item": "Brero",
+    "price": 69,
+    "layer": 5,
+    "rarity": "common",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "f19d47bf-e1c8-46f3-bd23-b73b76cf7fa2",
+    "src": "nftImg/5_suit/cat_suit_r5.png",
+    "item": "Cat Suit",
+    "price": 69420,
+    "layer": 5,
+    "rarity": "rare",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "9a9a7b2c-58ae-4125-8230-10ef8518ec92",
+    "src": "nftImg/5_suit/chadhawk_u5.png",
+    "item": "Chadhawk",
+    "price": 20069,
+    "layer": 5,
+    "rarity": "uncommon",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "39fc3f5c-82a8-4031-b4ec-6485acf65a8b",
+    "src": "nftImg/5_suit/chef_c5.png",
+    "item": "Chef",
+    "price": 69,
+    "layer": 5,
+    "rarity": "common",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "69bab2cd-ed76-4271-bc22-02a87b333789",
+    "src": "nftImg/5_suit/claynosaur_suit_r5.png",
+    "item": "Claynosaur Suit",
+    "price": 69420,
+    "layer": 5,
+    "rarity": "rare",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "5fbec3cb-7cc3-49ec-a3d2-80c2b36fbc4c",
+    "src": "nftImg/5_suit/crown_u5.png",
+    "item": "Crown",
+    "price": 20069,
+    "layer": 5,
+    "rarity": "uncommon",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "116d588d-85a7-4fa1-84dd-8001833654dc",
+    "src": "nftImg/5_suit/fox_suit_r5.png",
+    "item": "Fox Suit",
+    "price": 69420,
+    "layer": 5,
+    "rarity": "rare",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "48224467-9129-46ef-8490-0f9502b8cd8b",
+    "src": "nftImg/5_suit/gecko_suit_r5.png",
+    "item": "Gecko Suit",
+    "price": 69420,
+    "layer": 5,
+    "rarity": "rare",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "0b3db6fc-d16c-4d41-97d0-b4f2853b543b",
+    "src": "nftImg/5_suit/howdy_c5.png",
+    "item": "Howdy",
+    "price": 69,
+    "layer": 5,
+    "rarity": "common",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "fa6dd42b-0b63-4c92-831f-a3f99a2dc2ec",
+    "src": "nftImg/5_suit/jester_cowl_black_c5.png",
+    "item": "Jester Cowl Black",
+    "price": 69,
+    "layer": 5,
+    "rarity": "common",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "ab3a2558-b38c-4a13-8522-70a19c61c92d",
+    "src": "nftImg/5_suit/jester_cowl_red_u5.png",
+    "item": "Jester Cowl Red",
+    "price": 20069,
+    "layer": 5,
+    "rarity": "uncommon",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "559f6f3e-8a1c-4ff5-b988-cde0e64ea1d5",
+    "src": "nftImg/5_suit/lollipopped_suit_m5.png",
+    "item": "Lollipopped Suit",
+    "price": 694200,
+    "layer": 5,
+    "rarity": "mythic",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "25a960f1-17bb-4724-ae41-80be9cdd2ad1",
+    "src": "nftImg/5_suit/monkesol_suit_l5.png",
+    "item": "Monkesol Suit",
+    "price": 420690,
+    "layer": 5,
+    "rarity": "legendary",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "15da6e46-e0f2-4ccb-b3ac-a98bb42544a2",
+    "src": "nftImg/5_suit/noot_suit_r5.png",
+    "item": "Noot Suit",
+    "price": 69420,
+    "layer": 5,
+    "rarity": "rare",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "81f68c41-75fc-4be3-a1e1-d1515eda0d37",
+    "src": "nftImg/5_suit/purple_dragon_suit_e5.png",
+    "item": "Purple Dragon Suit",
+    "price": 206969,
+    "layer": 5,
+    "rarity": "epic",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "b37afca1-7cbb-4d55-9bb7-85cc3b76c1c9",
+    "src": "nftImg/5_suit/quek_suit_l5.png",
+    "item": "Quek Suit",
+    "price": 420690,
+    "layer": 5,
+    "rarity": "legendary",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "2c2ac162-f377-4746-b180-575efb9b5d1a",
+    "src": "nftImg/5_suit/raiden_e5.png",
+    "item": "Raiden",
+    "price": 206969,
+    "layer": 5,
+    "rarity": "epic",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "525e70da-a967-4c8d-985e-c1c816a926ab",
+    "src": "nftImg/5_suit/silly_dragon_suit_l5.png",
+    "item": "Silly Dragon Suit",
+    "price": 420690,
+    "layer": 5,
+    "rarity": "legendary",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "b77bc0da-6d40-485e-acbc-484b0c3b5d4f",
+    "src": "nftImg/5_suit/solanadmiral_u5.png",
+    "item": "Solanadmiral",
+    "price": 20069,
+    "layer": 5,
+    "rarity": "uncommon",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "9012831b-21e8-4a73-b1b6-37f03693f82d",
+    "src": "nftImg/5_suit/tensorian_suit_e5.png",
+    "item": "Tensorian Suit",
+    "price": 206969,
+    "layer": 5,
+    "rarity": "epic",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "d47267e8-e21c-456b-81a9-466612df7942",
+    "src": "nftImg/5_suit/thugbirdz_btc_suit_e5.png",
+    "item": "Thugbirdz Btc Suit",
+    "price": 206969,
+    "layer": 5,
+    "rarity": "epic",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "d00a9d1a-4b53-4d71-83df-9bb5bdae065e",
+    "src": "nftImg/5_suit/topper_c5.png",
+    "item": "Topper",
+    "price": 69,
+    "layer": 5,
+    "rarity": "common",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "8b4ea233-6c57-463d-bda5-9994299fc248",
+    "src": "nftImg/5_suit/tricorn_u5.png",
+    "item": "Tricorn",
+    "price": 20069,
+    "layer": 5,
+    "rarity": "uncommon",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "b7a67f79-f6af-434d-8f1a-582212c56c66",
+    "src": "nftImg/5_suit/wif_hat_c5.png",
+    "item": "Wif Hat",
+    "price": 69,
+    "layer": 5,
+    "rarity": "common",
+    "type": "suit",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "3921afab-02c6-4a50-8f16-ea09fd275c26",
+    "src": "nftImg/5_suit/wizard_hat_u5.png",
+    "item": "Wizard Hat",
+    "price": 20069,
+    "layer": 5,
+    "rarity": "uncommon",
+    "type": "suit",
+    "collection": "LEGENDS"
+  }
+]

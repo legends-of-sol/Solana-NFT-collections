@@ -1,0 +1,142 @@
+[
+  {
+    "id": "64fc27e7-b4bd-4c7b-9bbf-f6e0815131e6",
+    "src": "nftImg/3_eyes/3d_glasses_e3.png",
+    "item": "3 D Glasses",
+    "price": 206969,
+    "layer": 3,
+    "rarity": "epic",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "b9b9076a-5a66-4e90-8a58-5c35066e58f3",
+    "src": "nftImg/3_eyes/aviators_r3.png",
+    "item": "Aviators",
+    "price": 69420,
+    "layer": 3,
+    "rarity": "rare",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "3298faa6-8014-47bc-be6f-99ea8699b644",
+    "src": "nftImg/3_eyes/fomo_shadez_r3.png",
+    "item": "Fomo Shadez",
+    "price": 69420,
+    "layer": 3,
+    "rarity": "rare",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "1a463233-cddd-4ffb-b5b9-503df094a5e5",
+    "src": "nftImg/3_eyes/lightning_eyes_m6.png",
+    "item": "Lightning Eyes",
+    "price": 694200,
+    "layer": 6,
+    "rarity": "mythic",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "40e6c74d-da17-476b-a11f-460d6b3b11df",
+    "src": "nftImg/3_eyes/monocle_e3.png",
+    "item": "Monocle",
+    "price": 206969,
+    "layer": 3,
+    "rarity": "epic",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "237cd8c9-6528-4c40-8a16-9fe7f58e2195",
+    "src": "nftImg/3_eyes/narrow_eyes_c3.png",
+    "item": "Narrow Eyes",
+    "price": 69,
+    "layer": 3,
+    "rarity": "common",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "8346bcfb-9f67-4641-9bf0-afcaee7fd792",
+    "src": "nftImg/3_eyes/nouns_e3.png",
+    "item": "Nouns",
+    "price": 206969,
+    "layer": 3,
+    "rarity": "epic",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "d5a9de14-c76a-4e55-a2f0-b67e474bacc4",
+    "src": "nftImg/3_eyes/red_fricken_lasers_l6.png",
+    "item": "Red Fricken Lasers",
+    "price": 420690,
+    "layer": 6,
+    "rarity": "legendary",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "ec51867e-6f86-4f42-bc08-9ee135cf4cee",
+    "src": "nftImg/3_eyes/robochad_l3.png",
+    "item": "Robochad",
+    "price": 420690,
+    "layer": 3,
+    "rarity": "legendary",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "a5902d05-32ac-4e90-95c6-830a7d221d19",
+    "src": "nftImg/3_eyes/slit_glasses_u3.png",
+    "item": "Slit Glasses",
+    "price": 20069,
+    "layer": 3,
+    "rarity": "uncommon",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "6d046f3c-2458-4b11-88c0-2228019b6c73",
+    "src": "nftImg/3_eyes/solana_vipers_r3.png",
+    "item": "Solana Vipers",
+    "price": 69420,
+    "layer": 3,
+    "rarity": "rare",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "877c70ec-7eea-4d4d-8302-c2390af04d8f",
+    "src": "nftImg/3_eyes/thugbirdz_shadez_u3.png",
+    "item": "Thugbirdz Shadez",
+    "price": 20069,
+    "layer": 3,
+    "rarity": "uncommon",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "f103a366-8a46-48ac-9303-a478d5df955c",
+    "src": "nftImg/3_eyes/toon_eyes_c3.png",
+    "item": "Toon Eyes",
+    "price": 69,
+    "layer": 3,
+    "rarity": "common",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "3b88a516-84c7-48f7-89cb-53b4d6ec07f1",
+    "src": "nftImg/3_eyes/undead_sockets_c3.png",
+    "item": "Undead Sockets",
+    "price": 69,
+    "layer": 3,
+    "rarity": "common",
+    "type": "eyes",
+    "collection": "LEGENDS"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a62a516e-e377-476b-81b4-6cf8e17c5553",
+    "src": "nftImg/1_background/.DS_Store",
+    "item": "DS",
+    "price": 69,
+    "layer": null,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "6db88278-4ea1-4928-8653-c8e722e1330c",
+    "src": "nftImg/1_background/barbie_c1.png",
+    "item": "Barbie",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "b25f2ea3-6ad6-4505-8a13-226a4365d78f",
+    "src": "nftImg/1_background/blue_bomb_e1.png",
+    "item": "Blue Bomb",
+    "price": 206969,
+    "layer": 1,
+    "rarity": "epic",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "b211cc1b-d7ec-43f3-8a90-4f7402d21914",
+    "src": "nftImg/1_background/blue_magic_e1.png",
+    "item": "Blue Magic",
+    "price": 206969,
+    "layer": 1,
+    "rarity": "epic",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "a03d876b-aaaa-4137-923b-2144ca17d0d3",
+    "src": "nftImg/1_background/bonk_sunrise_r1.png",
+    "item": "Bonk Sunrise",
+    "price": 69420,
+    "layer": 1,
+    "rarity": "rare",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "fd3e7c1e-0803-4973-b1b9-9a7026337fb0",
+    "src": "nftImg/1_background/bunjil_c1.png",
+    "item": "Bunjil",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "41441a4d-eb00-4612-a4f4-9ab59ccddc6c",
+    "src": "nftImg/1_background/flood_r1.png",
+    "item": "Flood",
+    "price": 69420,
+    "layer": 1,
+    "rarity": "rare",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "0a93c132-7919-468a-ac64-44034686c3cb",
+    "src": "nftImg/1_background/foxy_u1.png",
+    "item": "Foxy",
+    "price": 20069,
+    "layer": 1,
+    "rarity": "uncommon",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "2f29271d-a8e8-4f5a-82dc-354060f93afe",
+    "src": "nftImg/1_background/green_bomb_r1.png",
+    "item": "Green Bomb",
+    "price": 69420,
+    "layer": 1,
+    "rarity": "rare",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "83502381-7787-4936-9fea-de94f735c0dc",
+    "src": "nftImg/1_background/grey_magic_r1.png",
+    "item": "Grey Magic",
+    "price": 69420,
+    "layer": 1,
+    "rarity": "rare",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "d4378a20-903f-4b00-96fb-8db493809fc1",
+    "src": "nftImg/1_background/hero_moon_c1.png",
+    "item": "Hero Moon",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "c5950b36-55ed-467d-bbbc-485689e5c2cf",
+    "src": "nftImg/1_background/legends_black_c1.png",
+    "item": "Legends Black",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "e4b6fce7-f8e7-4116-871f-2f7dfaaf2657",
+    "src": "nftImg/1_background/madlads_u1.png",
+    "item": "Madlads",
+    "price": 20069,
+    "layer": 1,
+    "rarity": "uncommon",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "ff0209c1-f882-4a6f-bb09-289cb291a350",
+    "src": "nftImg/1_background/mint_c1.png",
+    "item": "Mint",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "8fb34ca5-9945-48bc-b1da-ab483c66c0d2",
+    "src": "nftImg/1_background/mondieu_l1.png",
+    "item": "Mondieu",
+    "price": 420690,
+    "layer": 1,
+    "rarity": "legendary",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "097a7031-78c2-4275-84e8-539f1ec00e37",
+    "src": "nftImg/1_background/peachy_c1.png",
+    "item": "Peachy",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "49774031-0a6a-43a7-b2bf-b2b0983ae7cd",
+    "src": "nftImg/1_background/pink_magic_r1.png",
+    "item": "Pink Magic",
+    "price": 69420,
+    "layer": 1,
+    "rarity": "rare",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "4f4b6baa-ed77-4187-bf76-1e80259543fe",
+    "src": "nftImg/1_background/pink_rain_e1.png",
+    "item": "Pink Rain",
+    "price": 206969,
+    "layer": 1,
+    "rarity": "epic",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "731eaf8d-0927-456d-a9eb-c972c15f6d00",
+    "src": "nftImg/1_background/purple_c1.png",
+    "item": "Purple",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "cf2d05f2-f777-47c1-99d1-2afc8698e8bf",
+    "src": "nftImg/1_background/purple_haze_e1.png",
+    "item": "Purple Haze",
+    "price": 206969,
+    "layer": 1,
+    "rarity": "epic",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "94026a54-531f-42fe-b617-d59d90b7f542",
+    "src": "nftImg/1_background/radiant_c1.png",
+    "item": "Radiant",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "35a0a2c1-943e-4336-b5cd-666a02fa28ca",
+    "src": "nftImg/1_background/red_bomb_r1.png",
+    "item": "Red Bomb",
+    "price": 69420,
+    "layer": 1,
+    "rarity": "rare",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "821f60ac-63f7-46b3-a090-9e260f688eb9",
+    "src": "nftImg/1_background/rose_magic_e1.png",
+    "item": "Rose Magic",
+    "price": 206969,
+    "layer": 1,
+    "rarity": "epic",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "efe62fa0-91f4-4493-b76c-918ff8e502eb",
+    "src": "nftImg/1_background/sky_c1.png",
+    "item": "Sky",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "10ef4d90-85bb-4bcc-821b-bb64dfc15425",
+    "src": "nftImg/1_background/storm_c1.png",
+    "item": "Storm",
+    "price": 69,
+    "layer": 1,
+    "rarity": "common",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "5289a878-5606-4a78-9350-dd309dde668e",
+    "src": "nftImg/1_background/the_lfg_l1.png",
+    "item": "The Lfg",
+    "price": 420690,
+    "layer": 1,
+    "rarity": "legendary",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "09eddf28-3545-491b-91df-0afe603bc452",
+    "src": "nftImg/1_background/thugpink_u1.png",
+    "item": "Thugpink",
+    "price": 20069,
+    "layer": 1,
+    "rarity": "uncommon",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "f4fe90a4-67c2-46d7-b1b7-9b68e2e6ce74",
+    "src": "nftImg/1_background/van_lfgogh_m1.png",
+    "item": "Van Lfgogh",
+    "price": 694200,
+    "layer": 1,
+    "rarity": "mythic",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "50c6481d-1412-415d-bd89-6846b9672c37",
+    "src": "nftImg/1_background/yellow_flame_r1.png",
+    "item": "Yellow Flame",
+    "price": 69420,
+    "layer": 1,
+    "rarity": "rare",
+    "type": "background",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "396f62d4-f136-4640-9e17-b20fbde9cec2",
+    "src": "nftImg/1_background/yellow_magic_r1.png",
+    "item": "Yellow Magic",
+    "price": 69420,
+    "layer": 1,
+    "rarity": "rare",
+    "type": "background",
+    "collection": "LEGENDS"
+  }
+]

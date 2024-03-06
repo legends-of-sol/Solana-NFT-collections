@@ -1,0 +1,132 @@
+[
+  {
+    "id": "5f447bbf-37eb-40bd-bbab-5124fb3d5d40",
+    "src": "nftImg/4_mouth/banx_bubblegum_l4.png",
+    "item": "Banx Bubblegum",
+    "price": 420690,
+    "layer": 4,
+    "rarity": "legendary",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "93bd39d6-58f3-482b-8f25-9eeb730bb841",
+    "src": "nftImg/4_mouth/blunt_e4.png",
+    "item": "Blunt",
+    "price": 206969,
+    "layer": 4,
+    "rarity": "epic",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "11da0d55-c1de-4ba1-855c-fe09f267570e",
+    "src": "nftImg/4_mouth/cigarette_e4.png",
+    "item": "Cigarette",
+    "price": 206969,
+    "layer": 4,
+    "rarity": "epic",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "87e3155c-3848-43a4-9d42-474988562977",
+    "src": "nftImg/4_mouth/ermagerd_c4.png",
+    "item": "Ermagerd",
+    "price": 69,
+    "layer": 4,
+    "rarity": "common",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "1f480bbd-9b97-48a5-8f9e-a94f65f34372",
+    "src": "nftImg/4_mouth/frown_c4.png",
+    "item": "Frown",
+    "price": 69,
+    "layer": 4,
+    "rarity": "common",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "208b4e4b-0f3b-4d09-9239-75e8be68518a",
+    "src": "nftImg/4_mouth/lipstick_u4.png",
+    "item": "Lipstick",
+    "price": 20069,
+    "layer": 4,
+    "rarity": "uncommon",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "4419778b-00f3-4fce-b26a-ec59fc75e39f",
+    "src": "nftImg/4_mouth/majestic_beard_of_the_raj_m6.png",
+    "item": "Majestic Beard Of The Raj",
+    "price": 694200,
+    "layer": 6,
+    "rarity": "mythic",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "dcae0c8f-b5dc-4c3f-a495-6324d7257345",
+    "src": "nftImg/4_mouth/meh_c4.png",
+    "item": "Meh",
+    "price": 69,
+    "layer": 4,
+    "rarity": "common",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "81426ba7-2e4b-49f2-abe6-45fea628161b",
+    "src": "nftImg/4_mouth/moustache_u4.png",
+    "item": "Moustache",
+    "price": 20069,
+    "layer": 4,
+    "rarity": "uncommon",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "9a1519f1-4961-48c6-88ff-5ae768db4984",
+    "src": "nftImg/4_mouth/pipe_l4.png",
+    "item": "Pipe",
+    "price": 420690,
+    "layer": 4,
+    "rarity": "legendary",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "16468c9f-095b-4a9a-b5d3-2d2af4ba2c78",
+    "src": "nftImg/4_mouth/shout_c4.png",
+    "item": "Shout",
+    "price": 69,
+    "layer": 4,
+    "rarity": "common",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "88584310-3a64-4580-988a-790bfef5a9d5",
+    "src": "nftImg/4_mouth/smile_c4.png",
+    "item": "Smile",
+    "price": 69,
+    "layer": 4,
+    "rarity": "common",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  },
+  {
+    "id": "0fb5c7f0-091e-4ac7-b40d-d232450f0ae0",
+    "src": "nftImg/4_mouth/smirk_c4.png",
+    "item": "Smirk",
+    "price": 69,
+    "layer": 4,
+    "rarity": "common",
+    "type": "mouth",
+    "collection": "LEGENDS"
+  }
+]
