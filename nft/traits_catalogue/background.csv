@@ -1,0 +1,31 @@
+id,src,item,price,layer,rarity,type,collection
+29fd4431-bfc6-497c-ba5e-03c04a300d4a,nftImg/1_background/.DS_Store,DS,69,NaN,common,background,LEGENDS
+572ca18e-9baf-498d-8fcc-3bbea0f39880,nftImg/1_background/barbie_c1.png,Barbie,69,1,common,background,LEGENDS
+ce009c87-ce26-455b-9461-a276ed94e3be,nftImg/1_background/blue_bomb_e1.png,Blue Bomb,206969,1,epic,background,LEGENDS
+4161abed-d830-459f-898a-2978af96355c,nftImg/1_background/blue_magic_e1.png,Blue Magic,206969,1,epic,background,LEGENDS
+870810d9-f0b3-48a0-bbb2-e3a50a7c7ea8,nftImg/1_background/bonk_sunrise_r1.png,Bonk Sunrise,69420,1,rare,background,LEGENDS
+9aefd885-be0b-4896-b20d-dc9c1d35432c,nftImg/1_background/bunjil_c1.png,Bunjil,69,1,common,background,LEGENDS
+c12d387e-0d5c-470c-b40c-4fd772b45cdb,nftImg/1_background/flood_r1.png,Flood,69420,1,rare,background,LEGENDS
+dd6685f6-5d5a-468d-be53-5bd53998f7c8,nftImg/1_background/foxy_u1.png,Foxy,20069,1,uncommon,background,LEGENDS
+cb4f0d9b-889b-47b4-b1ec-fd330ff3b884,nftImg/1_background/green_bomb_r1.png,Green Bomb,69420,1,rare,background,LEGENDS
+d9bc3c20-79a2-4aaf-abe2-e6e9bab540f2,nftImg/1_background/grey_magic_r1.png,Grey Magic,69420,1,rare,background,LEGENDS
+9a332d5c-4ad1-46c2-bed4-7aff4a16ebe0,nftImg/1_background/hero_moon_c1.png,Hero Moon,69,1,common,background,LEGENDS
+be05df9a-9225-46c3-a26e-0eeae3d38748,nftImg/1_background/legends_black_c1.png,Legends Black,69,1,common,background,LEGENDS
+45c14761-0362-4706-a936-f0d517c2f3b1,nftImg/1_background/madlads_u1.png,Madlads,20069,1,uncommon,background,LEGENDS
+577e0f91-f654-4f6d-8b57-4162416fff67,nftImg/1_background/mint_c1.png,Mint,69,1,common,background,LEGENDS
+7d884267-7838-4048-85ee-9f00d3cc9d58,nftImg/1_background/mondieu_l1.png,Mondieu,420690,1,legendary,background,LEGENDS
+57fe5bc2-ef69-4783-b797-4ebee7a42998,nftImg/1_background/peachy_c1.png,Peachy,69,1,common,background,LEGENDS
+9cca2561-621b-44e4-8cff-d4ce6c782466,nftImg/1_background/pink_magic_r1.png,Pink Magic,69420,1,rare,background,LEGENDS
+33936e9c-c635-47a2-b09a-9697843c8db1,nftImg/1_background/pink_rain_e1.png,Pink Rain,206969,1,epic,background,LEGENDS
+77d2750c-57df-4536-8af4-0e9a7508cda2,nftImg/1_background/purple_c1.png,Purple,69,1,common,background,LEGENDS
+b73a11f4-4bb6-4957-a516-f67c30ae70ed,nftImg/1_background/purple_haze_e1.png,Purple Haze,206969,1,epic,background,LEGENDS
+aa146b4b-62a8-4d2b-ab31-521dd968a99a,nftImg/1_background/radiant_c1.png,Radiant,69,1,common,background,LEGENDS
+9e2eba3e-c008-4112-b5ce-bfaf92336db9,nftImg/1_background/red_bomb_r1.png,Red Bomb,69420,1,rare,background,LEGENDS
+400bd916-1fda-4623-8641-b0701d80641b,nftImg/1_background/rose_magic_e1.png,Rose Magic,206969,1,epic,background,LEGENDS
+87c4ea72-979f-407c-aa78-a501e6614434,nftImg/1_background/sky_c1.png,Sky,69,1,common,background,LEGENDS
+f04974cf-55d2-4c8d-9a31-35304f212746,nftImg/1_background/storm_c1.png,Storm,69,1,common,background,LEGENDS
+adbe1135-ca7e-41ff-bdc3-665fe1fd270c,nftImg/1_background/the_lfg_l1.png,The Lfg,420690,1,legendary,background,LEGENDS
+c470e07b-3543-4bbf-b788-e17ef527dd3b,nftImg/1_background/thugpink_u1.png,Thugpink,20069,1,uncommon,background,LEGENDS
+52c39c91-ce78-4d30-a878-55c3367f9b75,nftImg/1_background/van_lfgogh_m1.png,Van Lfgogh,694200,1,mythic,background,LEGENDS
+daa6cdd5-6ff8-46a0-a1c1-bb521e0235dc,nftImg/1_background/yellow_flame_r1.png,Yellow Flame,69420,1,rare,background,LEGENDS
+ed1ea89e-e836-453c-8334-91aca70cfd42,nftImg/1_background/yellow_magic_r1.png,Yellow Magic,69420,1,rare,background,LEGENDS
