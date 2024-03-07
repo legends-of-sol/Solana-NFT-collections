@@ -29,7 +29,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Dawnbreakers - https://radiant.nexus/
 - Deanslist
 - Degen Dad
-- Degen Islands - https://degenislands.com
+- Degen Islands
 - Degen Royale - https://degenroyale.io/
 - Degen Royale - https://degenroyale.io/
 - Degen Royale - https://degenroyale.io/

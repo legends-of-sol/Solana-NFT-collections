@@ -1,8 +1,8 @@
 {
   "creatorAddress": "Bir9vB3u3b8DqAQ1ZgBU93A5FtJBQJu6Pr4AyJQMiNqo",
   "name": "Degen Islands",
-  "image": "https://bafybeiggn6k6e5nm6fyt2gv4ca3hnsu36qqjabmaksbwa5lh6wr3mbfcya.ipfs.nftstorage.link/17277.jpg?ext=jpg",
+  "image": "https://dgi-media.degenislands.com/islands/medium/3ba221d13e2743238a52a3026068005e/map_320x320.jpg",
   "description": "Degen Islands, a Solana play-to-earn metaverse. Purchase your own Island and mine $NUGGETs.",
-  "url": "https://degenislands.com",
-  "token_standard": ""
+  "url": "",
+  "token_standard": "NonFungible"
 }
