@@ -54,130 +54,139 @@ program
       let page = 1;
       let assetList = [];
 
-      while (page) {
-        const response = await fetch(RPC, {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            jsonrpc: "2.0",
-            id: "my-id",
-            method: "getAssetsByGroup",
-            params: {
-              groupKey: "collection",
-              groupValue: collection_address,
-              page: page,
-              limit: 1000,
+      try {
+        while (page) {
+          const response = await fetch(RPC, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
             },
-          }),
-        });
-        const { result } = await response.json();
-
-        assetList.push(...result.items);
-        if (result.total !== 1000) {
-          page = false;
-        } else {
-          page++;
+            body: JSON.stringify({
+              jsonrpc: "2.0",
+              id: "my-id",
+              method: "getAssetsByGroup",
+              params: {
+                groupKey: "collection",
+                groupValue: collection_address,
+                page: page,
+                limit: 1000,
+              },
+            }),
+          });
+          const { result } = await response.json();
+          if (result && result.items) {
+            assetList.push(...result.items);
+            if (result.total !== 1000) {
+              page = false;
+            } else {
+              page++;
+            }
+          } else {
+            console.error("result is undefined or does not have items");
+          }
         }
-      }
 
-      const getCollectionAsset = async () => {
-        const response = await fetch(RPC, {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            jsonrpc: "2.0",
-            id: "my-id",
-            method: "getAsset",
-            params: {
-              id: collection_address,
+        const getCollectionAsset = async () => {
+          const response = await fetch(RPC, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
             },
-          }),
-        });
-        const { result } = await response.json();
-        return result;
-      };
-      const collectionData = await getCollectionAsset();
+            body: JSON.stringify({
+              jsonrpc: "2.0",
+              id: "my-id",
+              method: "getAsset",
+              params: {
+                id: collection_address,
+              },
+            }),
+          });
+          const { result } = await response.json();
+          return result;
+        };
+        const collectionData = await getCollectionAsset();
 
-      const resultData = {
-        totalResults: assetList.length,
-        results: assetList,
-      };
-      const dateStamp = dayjs().format("YYYYMMDD");
-      const timestamp = options.timestamp ? `_${dayjs().format("HHmmss")}` : "";
-      const dirPath = Paths.DIR(project_name, dateStamp + timestamp);
-      const metaDirPath = Paths.META_DIR(project_name);
-      if (!fs.existsSync(dirPath)) {
-        fs.mkdirSync(dirPath, { recursive: true });
+        const resultData = {
+          totalResults: assetList.length,
+          results: assetList,
+        };
+        const dateStamp = dayjs().format("YYYYMMDD");
+        const timestamp = options.timestamp
+          ? `_${dayjs().format("HHmmss")}`
+          : "";
+        const dirPath = Paths.DIR(project_name, dateStamp + timestamp);
+        const metaDirPath = Paths.META_DIR(project_name);
+        if (!fs.existsSync(dirPath)) {
+          fs.mkdirSync(dirPath, { recursive: true });
+        }
+
+        const metaContent = {
+          collectionKey: collection_address,
+          name: collectionData?.content?.metadata?.name
+            ? cleanName(collectionData?.content?.metadata?.name)
+            : project_name,
+          image:
+            collectionData?.content?.links.image ||
+            resultData?.results[0]?.content?.links?.image ||
+            "",
+          description: collectionData?.content?.metadata.description ?? "",
+          url:
+            collectionData?.content?.links.external_url ||
+            resultData?.results[0]?.content?.links?.external_url ||
+            "",
+          token_standard:
+            resultData?.results[0]?.content?.metadata.token_standard ?? "",
+        };
+        fs.writeFileSync(
+          `${metaDirPath}/${project_name}_meta.json`,
+          JSON.stringify(metaContent, null, 2)
+        );
+
+        // Generate CSV content
+        const csvContent = resultData.results
+          .map((item) => `${item.ownership.owner},${item.id}`)
+          .join("\n");
+        fs.writeFileSync(
+          `${dirPath}/${project_name}_${dateStamp}.csv`,
+          `owner,nftmint\n${csvContent}`
+        );
+
+        // Generate JSON content
+        const jsonContent = resultData.results.map((item) => ({
+          NFTAddress: item.id,
+          ownerAddress: item.ownership.owner,
+        }));
+        fs.writeFileSync(
+          `${dirPath}/${project_name}_${dateStamp}.json`,
+          JSON.stringify(jsonContent, null, 2)
+        );
+
+        // Generate Hashlist JSON
+        const hashlistContent = resultData.results.map((item) => item.id);
+        fs.writeFileSync(
+          `${dirPath}/${project_name}_hashlist_${dateStamp}.json`,
+          JSON.stringify(hashlistContent, null, 2)
+        );
+
+        // Generate Unique Owners CSV with count
+        const ownerCounts = calculateOwnerCounts(resultData.results);
+        const sortedOwnerCounts = Object.entries(ownerCounts).sort(
+          (a, b) => b[1] - a[1]
+        );
+        const uniqueOwnersCSV = sortedOwnerCounts
+          .map(([owner, count]) => `${owner},${count}`)
+          .join("\n");
+
+        fs.writeFileSync(
+          `${dirPath}/unique_${project_name}_owners_${dateStamp}.csv`,
+          `owner,count\n${uniqueOwnersCSV}`
+        );
+
+        console.log(`Snapshot successfully taken for -- ${project_name}`);
+        console.timeEnd("getAssetsByGroup");
+      } catch (error) {
+        console.log("error", error);
       }
-
-      const metaContent = {
-        collectionKey: collection_address,
-        name: collectionData?.content?.metadata?.name
-          ? cleanName(collectionData?.content?.metadata?.name)
-          : project_name,
-        image:
-          collectionData?.content?.links.image ||
-          resultData?.results[0]?.content?.links?.image ||
-          "",
-        description: collectionData?.content?.metadata.description ?? "",
-        url:
-          collectionData?.content?.links.external_url ||
-          resultData?.results[0]?.content?.links?.external_url ||
-          "",
-        token_standard:
-          resultData?.results[0]?.content?.metadata.token_standard ?? "",
-      };
-      fs.writeFileSync(
-        `${metaDirPath}/${project_name}_meta.json`,
-        JSON.stringify(metaContent, null, 2)
-      );
-
-      // Generate CSV content
-      const csvContent = resultData.results
-        .map((item) => `${item.ownership.owner},${item.id}`)
-        .join("\n");
-      fs.writeFileSync(
-        `${dirPath}/${project_name}_${dateStamp}.csv`,
-        `owner,nftmint\n${csvContent}`
-      );
-
-      // Generate JSON content
-      const jsonContent = resultData.results.map((item) => ({
-        NFTAddress: item.id,
-        ownerAddress: item.ownership.owner,
-      }));
-      fs.writeFileSync(
-        `${dirPath}/${project_name}_${dateStamp}.json`,
-        JSON.stringify(jsonContent, null, 2)
-      );
-
-      // Generate Hashlist JSON
-      const hashlistContent = resultData.results.map((item) => item.id);
-      fs.writeFileSync(
-        `${dirPath}/${project_name}_hashlist_${dateStamp}.json`,
-        JSON.stringify(hashlistContent, null, 2)
-      );
-
-      // Generate Unique Owners CSV with count
-      const ownerCounts = calculateOwnerCounts(resultData.results);
-      const sortedOwnerCounts = Object.entries(ownerCounts).sort(
-        (a, b) => b[1] - a[1]
-      );
-      const uniqueOwnersCSV = sortedOwnerCounts
-        .map(([owner, count]) => `${owner},${count}`)
-        .join("\n");
-
-      fs.writeFileSync(
-        `${dirPath}/unique_${project_name}_owners_${dateStamp}.csv`,
-        `owner,count\n${uniqueOwnersCSV}`
-      );
-
-      console.log(`Snapshot successfully taken for -- ${project_name}`);
-      console.timeEnd("getAssetsByGroup");
     };
     await getAssetsByGroup();
   });
