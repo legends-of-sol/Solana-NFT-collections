@@ -1,0 +1,1 @@
+Turn this into a Discord announcement for Legends of SOL who are a target market of 25-35 year olds in the blockchain space engaged in an NFT project. Match the language and style of the announcement to this audience. Avoid generic terms and make it sound authentic:
