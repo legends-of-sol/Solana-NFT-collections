@@ -1,29 +1,28 @@
-id,src,item,price,layer,rarity,type,collection
-a2344e19-414c-4571-a78e-e6ff55c2469e,nftImg/5_suit/bonk_c5.png,Bonk,69,5,common,suit,LEGENDS
-8912dd00-4442-40a7-9f96-36aae6c11f37,nftImg/5_suit/boogle_cloak_r5.png,Boogle Cloak,69420,5,rare,suit,LEGENDS
-63dd1fa9-cc59-4d01-8b17-6b62a5bf5ee8,nftImg/5_suit/boom_og_helmet_c5.png,Boom Og Helmet,69,5,common,suit,LEGENDS
-4f62f96c-ed1d-49ee-8e29-e521554686f3,nftImg/5_suit/brero_c5.png,Brero,69,5,common,suit,LEGENDS
-2ce1fff5-ff1e-4887-ab51-c9212120c4d0,nftImg/5_suit/cat_suit_r5.png,Cat Suit,69420,5,rare,suit,LEGENDS
-ba2c33f1-9d97-497e-8078-3bfda8f68d68,nftImg/5_suit/chadhawk_u5.png,Chadhawk,20069,5,uncommon,suit,LEGENDS
-3bddd307-9b33-4c9a-9075-1f15f77c3797,nftImg/5_suit/chef_c5.png,Chef,69,5,common,suit,LEGENDS
-0b1d7e07-81c6-436d-b0e1-8ef3f472ac21,nftImg/5_suit/claynosaur_suit_r5.png,Claynosaur Suit,69420,5,rare,suit,LEGENDS
-bdb5082b-0c82-4523-b809-3ccc56040582,nftImg/5_suit/crown_u5.png,Crown,20069,5,uncommon,suit,LEGENDS
-ef036e79-170e-415c-b1bb-122758748910,nftImg/5_suit/fox_suit_r5.png,Fox Suit,69420,5,rare,suit,LEGENDS
-3c0364af-cde3-4b44-bd6d-8b1a159cc175,nftImg/5_suit/gecko_suit_r5.png,Gecko Suit,69420,5,rare,suit,LEGENDS
-6dfcfa85-6841-4838-9cab-c19d743bfa6b,nftImg/5_suit/howdy_c5.png,Howdy,69,5,common,suit,LEGENDS
-b508a5b4-865e-4807-8cc1-5851537c6185,nftImg/5_suit/jester_cowl_black_c5.png,Jester Cowl Black,69,5,common,suit,LEGENDS
-15c1199a-c8d3-4e10-a51c-b6529d7a8adb,nftImg/5_suit/jester_cowl_red_u5.png,Jester Cowl Red,20069,5,uncommon,suit,LEGENDS
-7166b448-be0b-4f07-91df-e6d4ee4f7e17,nftImg/5_suit/lollipopped_suit_m5.png,Lollipopped Suit,694200,5,mythic,suit,LEGENDS
-e5ccec43-db05-40a2-95ca-528dac098a28,nftImg/5_suit/monkesol_suit_l5.png,Monkesol Suit,420690,5,legendary,suit,LEGENDS
-aedf3036-64bc-4845-967d-02ad61bab74b,nftImg/5_suit/noot_suit_r5.png,Noot Suit,69420,5,rare,suit,LEGENDS
-9921f75d-0f03-44b0-a6fc-f35489978f1e,nftImg/5_suit/purple_dragon_suit_e5.png,Purple Dragon Suit,206969,5,epic,suit,LEGENDS
-849a84d0-a72b-485b-9018-ec97ae273b8b,nftImg/5_suit/quek_suit_l5.png,Quek Suit,420690,5,legendary,suit,LEGENDS
-0b0bdf7b-897b-444a-95d7-46e769356451,nftImg/5_suit/raiden_e5.png,Raiden,206969,5,epic,suit,LEGENDS
-fd626000-2940-4221-ac30-1813069ad11a,nftImg/5_suit/silly_dragon_suit_l5.png,Silly Dragon Suit,420690,5,legendary,suit,LEGENDS
-2bbe50bb-b78a-447f-bf1e-fd072e115361,nftImg/5_suit/solanadmiral_u5.png,Solanadmiral,20069,5,uncommon,suit,LEGENDS
-18d00db0-f471-46cb-bb1c-e97e02ef94d8,nftImg/5_suit/tensorian_suit_e5.png,Tensorian Suit,206969,5,epic,suit,LEGENDS
-261cb2e4-23dc-4387-97f6-fbf0498446dd,nftImg/5_suit/thugbirdz_btc_suit_e5.png,Thugbirdz Btc Suit,206969,5,epic,suit,LEGENDS
-fe3b1558-2414-4f3e-b6f9-63f33d095b82,nftImg/5_suit/topper_c5.png,Topper,69,5,common,suit,LEGENDS
-939600f2-3469-4172-a406-790ce85bc76d,nftImg/5_suit/tricorn_u5.png,Tricorn,20069,5,uncommon,suit,LEGENDS
-e9be0eba-78a0-4435-91be-0c4544ef4c4b,nftImg/5_suit/wif_hat_c5.png,Wif Hat,69,5,common,suit,LEGENDS
-7081c24c-1f08-42ca-b25e-e6e7b47d4122,nftImg/5_suit/wizard_hat_u5.png,Wizard Hat,20069,5,uncommon,suit,LEGENDS
+id,img,item,price,layer,rarity,type,collection
+bonk_c5,/5_suit/bonk_c5.png,Bonk,69,5,common,suit,LEGENDS
+boogle_cloak_r5,/5_suit/boogle_cloak_r5.png,Boogle Cloak,69420,5,rare,suit,LEGENDS
+boom_og_helmet_c5,/5_suit/boom_og_helmet_c5.png,Boom Og Helmet,69,5,common,suit,LEGENDS
+brero_c5,/5_suit/brero_c5.png,Brero,69,5,common,suit,LEGENDS
+cat_suit_r5,/5_suit/cat_suit_r5.png,Cat Suit,69420,5,rare,suit,LEGENDS
+chadhawk_u5,/5_suit/chadhawk_u5.png,Chadhawk,20069,5,uncommon,suit,LEGENDS
+claynosaur_suit_r5,/5_suit/claynosaur_suit_r5.png,Claynosaur Suit,69420,5,rare,suit,LEGENDS
+crown_u5,/5_suit/crown_u5.png,Crown,20069,5,uncommon,suit,LEGENDS
+fox_suit_r5,/5_suit/fox_suit_r5.png,Fox Suit,69420,5,rare,suit,LEGENDS
+gecko_suit_r5,/5_suit/gecko_suit_r5.png,Gecko Suit,69420,5,rare,suit,LEGENDS
+howdy_c5,/5_suit/howdy_c5.png,Howdy,69,5,common,suit,LEGENDS
+jester_cowl_black_c5,/5_suit/jester_cowl_black_c5.png,Jester Cowl Black,69,5,common,suit,LEGENDS
+jester_cowl_red_u5,/5_suit/jester_cowl_red_u5.png,Jester Cowl Red,20069,5,uncommon,suit,LEGENDS
+lollipopped_suit_m5,/5_suit/lollipopped_suit_m5.png,Lollipopped Suit,694200,5,mythic,suit,LEGENDS
+monkesol_suit_l5,/5_suit/monkesol_suit_l5.png,Monkesol Suit,420690,5,legendary,suit,LEGENDS
+noot_suit_r5,/5_suit/noot_suit_r5.png,Noot Suit,69420,5,rare,suit,LEGENDS
+purple_dragon_suit_e5,/5_suit/purple_dragon_suit_e5.png,Purple Dragon Suit,206969,5,epic,suit,LEGENDS
+quek_suit_l5 Copy,/5_suit/quek_suit_l5 Copy.png,Quek Suit,420690,5,legendary,suit,LEGENDS
+raiden_e5,/5_suit/raiden_e5.png,Raiden,206969,5,epic,suit,LEGENDS
+silly_dragon_suit_l5,/5_suit/silly_dragon_suit_l5.png,Silly Dragon Suit,420690,5,legendary,suit,LEGENDS
+solanadmiral_u5,/5_suit/solanadmiral_u5.png,Solanadmiral,20069,5,uncommon,suit,LEGENDS
+tensorian_suit_e5,/5_suit/tensorian_suit_e5.png,Tensorian Suit,206969,5,epic,suit,LEGENDS
+thugbirdz_btc_suit_e5,/5_suit/thugbirdz_btc_suit_e5.png,Thugbirdz Btc Suit,206969,5,epic,suit,LEGENDS
+topper_c5,/5_suit/topper_c5.png,Topper,69,5,common,suit,LEGENDS
+tricorn_u5,/5_suit/tricorn_u5.png,Tricorn,20069,5,uncommon,suit,LEGENDS
+wif_hat_c5,/5_suit/wif_hat_c5.png,Wif Hat,69,5,common,suit,LEGENDS
+wizard_hat_u5,/5_suit/wizard_hat_u5.png,Wizard Hat,20069,5,uncommon,suit,LEGENDS
