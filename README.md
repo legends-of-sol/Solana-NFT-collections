@@ -44,6 +44,7 @@ This repository is a collection of snapshots for various NFT projects on the Sol
 - Lurkers of the Abyss - https://grimsyndicate.com
 - GRINDERS NFTS
 - SolKongz - https://www.solkongz.net
+- Legends of SOL - https://legendsofsol.com
 - Lifinity Flares - https://lifinity.io
 - Mad Lads - https://madlads.com
 - MixtApe - https://mixt-ape.com

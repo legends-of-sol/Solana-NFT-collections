@@ -233,6 +233,12 @@
     "averageHoldings": 4.450413223140496,
     "giniCoefficient": 0.6555975045466056
   },
+  "legends_of_sol": {
+    "totalNFTs": 531,
+    "uniqueHolders": 262,
+    "averageHoldings": 2.0267175572519083,
+    "giniCoefficient": 0.4267980621325168
+  },
   "lifinity_flares": {
     "totalNFTs": 9473,
     "uniqueHolders": 1284,
@@ -498,10 +504,10 @@
     "giniCoefficient": 0.5804988662131519
   },
   "the_choice": {
-    "totalNFTs": 4198,
-    "uniqueHolders": 964,
-    "averageHoldings": 4.354771784232365,
-    "giniCoefficient": 0.6806906667668263
+    "totalNFTs": 3681,
+    "uniqueHolders": 745,
+    "averageHoldings": 4.940939597315436,
+    "giniCoefficient": 0.7209727441295679
   },
   "the_heist": {
     "totalNFTs": 31090,
