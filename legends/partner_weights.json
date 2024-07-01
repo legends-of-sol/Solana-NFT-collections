@@ -1,9 +1,9 @@
 {
   "aep_lifeform": {
     "totalNFTs": 2222,
-    "uniqueHolders": 260,
-    "averageHoldings": 8.546153846153846,
-    "giniCoefficient": 0.6957418818804958
+    "uniqueHolders": 262,
+    "averageHoldings": 8.48091603053435,
+    "giniCoefficient": 0.6969135844882198
   },
   "alldomains": {
     "totalNFTs": 8117,
@@ -12,16 +12,16 @@
     "giniCoefficient": 0.40378347969159833
   },
   "almighty_alpacas": {
-    "totalNFTs": 3321,
-    "uniqueHolders": 478,
-    "averageHoldings": 6.947698744769874,
-    "giniCoefficient": 0.6893781048456695
+    "totalNFTs": 3324,
+    "uniqueHolders": 490,
+    "averageHoldings": 6.783673469387755,
+    "giniCoefficient": 0.6904454922763329
   },
   "banx": {
     "totalNFTs": 7777,
-    "uniqueHolders": 1055,
-    "averageHoldings": 7.371563981042654,
-    "giniCoefficient": 0.7349200187452734
+    "uniqueHolders": 1014,
+    "averageHoldings": 7.669625246548324,
+    "giniCoefficient": 0.7377079635266992
   },
   "bbl_elite_ticket": {
     "totalNFTs": 105,
@@ -48,76 +48,76 @@
     "giniCoefficient": 0.06867588932806325
   },
   "boom_heroes": {
-    "totalNFTs": 765,
-    "uniqueHolders": 201,
-    "averageHoldings": 3.8059701492537314,
-    "giniCoefficient": 0.6404708483725166
+    "totalNFTs": 758,
+    "uniqueHolders": 202,
+    "averageHoldings": 3.7524752475247523,
+    "giniCoefficient": 0.6389795971681601
   },
   "bozo_collective": {
     "totalNFTs": 3990,
-    "uniqueHolders": 1210,
-    "averageHoldings": 3.2975206611570247,
-    "giniCoefficient": 0.6333710308829926
+    "uniqueHolders": 1172,
+    "averageHoldings": 3.4044368600682593,
+    "giniCoefficient": 0.6402623452830027
   },
   "brewed_bones": {
-    "totalNFTs": 4983,
-    "uniqueHolders": 234,
-    "averageHoldings": 21.294871794871796,
-    "giniCoefficient": 0.814741917390924
+    "totalNFTs": 4977,
+    "uniqueHolders": 225,
+    "averageHoldings": 22.12,
+    "giniCoefficient": 0.8134592458643092
   },
   "bullyz_crew": {
     "totalNFTs": 2525,
-    "uniqueHolders": 427,
-    "averageHoldings": 5.913348946135831,
-    "giniCoefficient": 0.7113130985229671
+    "uniqueHolders": 415,
+    "averageHoldings": 6.0843373493975905,
+    "giniCoefficient": 0.7168049624239532
   },
   "bullyz_loot_box": {
-    "totalNFTs": 32768,
-    "uniqueHolders": 937,
-    "averageHoldings": 34.97118463180363,
-    "giniCoefficient": 0.8800995296449773
+    "totalNFTs": 36784,
+    "uniqueHolders": 860,
+    "averageHoldings": 42.77209302325581,
+    "giniCoefficient": 0.8728388606775443
   },
   "bullyz_shipz": {
     "totalNFTs": 3208,
-    "uniqueHolders": 649,
-    "averageHoldings": 4.942989214175655,
-    "giniCoefficient": 0.681180331144404
+    "uniqueHolders": 639,
+    "averageHoldings": 5.020344287949921,
+    "giniCoefficient": 0.6807999562908066
   },
   "bvdcats": {
-    "totalNFTs": 9988,
-    "uniqueHolders": 1788,
-    "averageHoldings": 5.586129753914989,
-    "giniCoefficient": 0.7326302748981104
+    "totalNFTs": 9983,
+    "uniqueHolders": 1822,
+    "averageHoldings": 5.4791437980241495,
+    "giniCoefficient": 0.7306606192107263
   },
   "caveworld": {
     "totalNFTs": 8884,
-    "uniqueHolders": 2296,
-    "averageHoldings": 3.8693379790940767,
-    "giniCoefficient": 0.655512415539348
+    "uniqueHolders": 2289,
+    "averageHoldings": 3.8811708169506334,
+    "giniCoefficient": 0.6563071353726856
   },
   "cets": {
     "totalNFTs": 6974,
-    "uniqueHolders": 2955,
-    "averageHoldings": 2.360067681895093,
-    "giniCoefficient": 0.5227786843761479
+    "uniqueHolders": 2977,
+    "averageHoldings": 2.3426268055089015,
+    "giniCoefficient": 0.5189325985408252
   },
   "chads": {
     "totalNFTs": 5565,
-    "uniqueHolders": 1168,
-    "averageHoldings": 4.7645547945205475,
-    "giniCoefficient": 0.7194545471328878
+    "uniqueHolders": 1253,
+    "averageHoldings": 4.441340782122905,
+    "giniCoefficient": 0.7042803291865919
   },
   "critters_cult": {
     "totalNFTs": 5553,
-    "uniqueHolders": 1469,
-    "averageHoldings": 3.780122532334922,
-    "giniCoefficient": 0.6555777808915314
+    "uniqueHolders": 1467,
+    "averageHoldings": 3.785276073619632,
+    "giniCoefficient": 0.6566176269304739
   },
   "datbois": {
     "totalNFTs": 2423,
-    "uniqueHolders": 394,
-    "averageHoldings": 6.149746192893401,
-    "giniCoefficient": 0.7339215345326409
+    "uniqueHolders": 388,
+    "averageHoldings": 6.244845360824742,
+    "giniCoefficient": 0.7357061408920526
   },
   "dawnbreakers": {
     "totalNFTs": 12,
@@ -127,33 +127,33 @@
   },
   "deanslist": {
     "totalNFTs": 100,
-    "uniqueHolders": 50,
-    "averageHoldings": 2,
-    "giniCoefficient": 0.4696
+    "uniqueHolders": 49,
+    "averageHoldings": 2.0408163265306123,
+    "giniCoefficient": 0.48
   },
   "degen_dads": {
     "totalNFTs": 69,
-    "uniqueHolders": 68,
-    "averageHoldings": 1.0147058823529411,
-    "giniCoefficient": 0.014279624893435636
+    "uniqueHolders": 66,
+    "averageHoldings": 1.0454545454545454,
+    "giniCoefficient": 0.04238032498902064
   },
   "degen_islands": {
-    "totalNFTs": 17476,
-    "uniqueHolders": 2159,
-    "averageHoldings": 8.094488188976378,
-    "giniCoefficient": 0.8464515512096202
+    "totalNFTs": 17273,
+    "uniqueHolders": 2131,
+    "averageHoldings": 8.105584232754575,
+    "giniCoefficient": 0.8469297378996409
   },
   "degen_royale": {
-    "totalNFTs": 991,
-    "uniqueHolders": 230,
-    "averageHoldings": 4.308695652173913,
-    "giniCoefficient": 0.7274470232088799
+    "totalNFTs": 990,
+    "uniqueHolders": 229,
+    "averageHoldings": 4.323144104803493,
+    "giniCoefficient": 0.7280049402320145
   },
   "degen_royale_1": {
-    "totalNFTs": 329,
-    "uniqueHolders": 223,
-    "averageHoldings": 1.4753363228699552,
-    "giniCoefficient": 0.3013616476072349
+    "totalNFTs": 328,
+    "uniqueHolders": 222,
+    "averageHoldings": 1.4774774774774775,
+    "giniCoefficient": 0.30130740496594155
   },
   "degen_royale_2": {
     "totalNFTs": 67,
@@ -162,22 +162,22 @@
     "giniCoefficient": 0.1429693637077769
   },
   "degenerate_trading_bears": {
-    "totalNFTs": 4264,
-    "uniqueHolders": 307,
-    "averageHoldings": 13.889250814332248,
-    "giniCoefficient": 0.8235099094914777
+    "totalNFTs": 4263,
+    "uniqueHolders": 301,
+    "averageHoldings": 14.162790697674419,
+    "giniCoefficient": 0.8292773404470047
   },
   "dev_card": {
-    "totalNFTs": 353,
-    "uniqueHolders": 353,
+    "totalNFTs": 349,
+    "uniqueHolders": 349,
     "averageHoldings": 1,
     "giniCoefficient": 0
   },
   "doges_unleashed": {
-    "totalNFTs": 2771,
-    "uniqueHolders": 626,
-    "averageHoldings": 4.426517571884984,
-    "giniCoefficient": 0.7002010784909428
+    "totalNFTs": 2750,
+    "uniqueHolders": 616,
+    "averageHoldings": 4.464285714285714,
+    "giniCoefficient": 0.7043943329397875
   },
   "exiled_lomu": {
     "totalNFTs": null,
@@ -193,45 +193,45 @@
   },
   "gizmos_land": {
     "totalNFTs": 1999,
-    "uniqueHolders": 439,
-    "averageHoldings": 4.553530751708428,
-    "giniCoefficient": 0.6216935346944543
+    "uniqueHolders": 432,
+    "averageHoldings": 4.627314814814815,
+    "giniCoefficient": 0.6351057473181035
   },
   "gnomiez_gen1": {
-    "totalNFTs": 1997,
-    "uniqueHolders": 457,
-    "averageHoldings": 4.36980306345733,
-    "giniCoefficient": 0.6714952078007602
+    "totalNFTs": 1990,
+    "uniqueHolders": 454,
+    "averageHoldings": 4.383259911894273,
+    "giniCoefficient": 0.6735904190556306
   },
   "gnomiez_gen2": {
-    "totalNFTs": 550,
-    "uniqueHolders": 122,
-    "averageHoldings": 4.508196721311475,
-    "giniCoefficient": 0.6482265275707899
+    "totalNFTs": 530,
+    "uniqueHolders": 104,
+    "averageHoldings": 5.096153846153846,
+    "giniCoefficient": 0.65177793904209
   },
   "grim_syndicate": {
     "totalNFTs": 9998,
-    "uniqueHolders": 2463,
-    "averageHoldings": 4.05927730410069,
-    "giniCoefficient": 0.6332940969030184
+    "uniqueHolders": 2440,
+    "averageHoldings": 4.0975409836065575,
+    "giniCoefficient": 0.6350870174034807
   },
   "grim_syndicate_lurkers_of_the_abyss": {
     "totalNFTs": 2916,
-    "uniqueHolders": 927,
-    "averageHoldings": 3.145631067961165,
-    "giniCoefficient": 0.5806494096477716
+    "uniqueHolders": 923,
+    "averageHoldings": 3.159263271939328,
+    "giniCoefficient": 0.5829889116274093
   },
   "grinders_nfts": {
-    "totalNFTs": 4965,
-    "uniqueHolders": 387,
-    "averageHoldings": 12.829457364341085,
-    "giniCoefficient": 0.8138062041525823
+    "totalNFTs": 5143,
+    "uniqueHolders": 527,
+    "averageHoldings": 9.759013282732449,
+    "giniCoefficient": 0.8191447559937588
   },
   "kongzdao": {
-    "totalNFTs": 2035,
-    "uniqueHolders": 475,
-    "averageHoldings": 4.28421052631579,
-    "giniCoefficient": 0.6444650200439674
+    "totalNFTs": 1999,
+    "uniqueHolders": 472,
+    "averageHoldings": 4.235169491525424,
+    "giniCoefficient": 0.6406752104865993
   },
   "legends_of_sol": {
     "totalNFTs": 1322,
@@ -241,9 +241,9 @@
   },
   "lifinity_flares": {
     "totalNFTs": 9473,
-    "uniqueHolders": 1178,
-    "averageHoldings": 8.041595925297115,
-    "giniCoefficient": 0.8217443840478085
+    "uniqueHolders": 1152,
+    "averageHoldings": 8.223090277777779,
+    "giniCoefficient": 0.8198995940216053
   },
   "mad_lads": {
     "totalNFTs": 9967,
@@ -252,28 +252,28 @@
     "giniCoefficient": 0.43278864739274453
   },
   "mixtape": {
-    "totalNFTs": 94,
-    "uniqueHolders": 35,
-    "averageHoldings": 2.6857142857142855,
-    "giniCoefficient": 0.5209726443768997
+    "totalNFTs": 89,
+    "uniqueHolders": 33,
+    "averageHoldings": 2.696969696969697,
+    "giniCoefficient": 0.5338781069118148
   },
   "moneyboys": {
     "totalNFTs": 856,
-    "uniqueHolders": 528,
-    "averageHoldings": 1.621212121212121,
-    "giniCoefficient": 0.35167976493911074
+    "uniqueHolders": 527,
+    "averageHoldings": 1.6242884250474383,
+    "giniCoefficient": 0.352786004362553
   },
   "netrunner": {
-    "totalNFTs": 4568,
-    "uniqueHolders": 2125,
-    "averageHoldings": 2.1496470588235295,
-    "giniCoefficient": 0.49267744926341817
+    "totalNFTs": 4486,
+    "uniqueHolders": 2109,
+    "averageHoldings": 2.1270744428639166,
+    "giniCoefficient": 0.4877584485487435
   },
   "ocean_explorers": {
-    "totalNFTs": 1618,
-    "uniqueHolders": 252,
-    "averageHoldings": 6.420634920634921,
-    "giniCoefficient": 0.7180430474620834
+    "totalNFTs": 1612,
+    "uniqueHolders": 250,
+    "averageHoldings": 6.448,
+    "giniCoefficient": 0.7180794044665012
   },
   "okay_bears": {
     "totalNFTs": 9858,
@@ -285,7 +285,7 @@
     "totalNFTs": 250,
     "uniqueHolders": 220,
     "averageHoldings": 1.1363636363636365,
-    "giniCoefficient": 0.1176
+    "giniCoefficient": 0.11749090909090909
   },
   "ordo_nemesis_knights": {
     "totalNFTs": 23,
@@ -297,19 +297,19 @@
     "totalNFTs": 250,
     "uniqueHolders": 220,
     "averageHoldings": 1.1363636363636365,
-    "giniCoefficient": 0.1176
+    "giniCoefficient": 0.11749090909090909
   },
   "papu": {
-    "totalNFTs": 2981,
-    "uniqueHolders": 706,
-    "averageHoldings": 4.222379603399434,
-    "giniCoefficient": 0.6977738139472561
+    "totalNFTs": 2980,
+    "uniqueHolders": 698,
+    "averageHoldings": 4.269340974212034,
+    "giniCoefficient": 0.7008990211726698
   },
   "pesky_penguins": {
-    "totalNFTs": 8396,
-    "uniqueHolders": 3255,
-    "averageHoldings": 2.579416282642089,
-    "giniCoefficient": 0.5542693507039048
+    "totalNFTs": 8366,
+    "uniqueHolders": 3201,
+    "averageHoldings": 2.613558263042799,
+    "giniCoefficient": 0.559153199122047
   },
   "photo_finish": {
     "totalNFTs": 13174,
@@ -319,33 +319,33 @@
   },
   "photo_finish_pfp_collection": {
     "totalNFTs": 15008,
-    "uniqueHolders": 580,
-    "averageHoldings": 25.875862068965517,
-    "giniCoefficient": 0.9478004834203367
+    "uniqueHolders": 549,
+    "averageHoldings": 27.336976320582878,
+    "giniCoefficient": 0.9492865492987832
   },
   "photo_finish_retired_horse_collection": {
     "totalNFTs": 9349,
-    "uniqueHolders": 397,
-    "averageHoldings": 23.54911838790932,
-    "giniCoefficient": 0.9427784003084423
+    "uniqueHolders": 390,
+    "averageHoldings": 23.97179487179487,
+    "giniCoefficient": 0.9434633074701532
   },
   "pop_pals": {
     "totalNFTs": 3995,
-    "uniqueHolders": 210,
-    "averageHoldings": 19.023809523809526,
-    "giniCoefficient": 0.8237070147207819
+    "uniqueHolders": 207,
+    "averageHoldings": 19.29951690821256,
+    "giniCoefficient": 0.8236769391691305
   },
   "primus_gladiators": {
-    "totalNFTs": 191,
-    "uniqueHolders": 141,
-    "averageHoldings": 1.3546099290780143,
-    "giniCoefficient": 0.24477368088819576
+    "totalNFTs": 190,
+    "uniqueHolders": 140,
+    "averageHoldings": 1.3571428571428572,
+    "giniCoefficient": 0.24593984962406015
   },
   "raccs": {
-    "totalNFTs": 2266,
-    "uniqueHolders": 537,
-    "averageHoldings": 4.219739292364991,
-    "giniCoefficient": 0.6749191760310705
+    "totalNFTs": 2265,
+    "uniqueHolders": 530,
+    "averageHoldings": 4.273584905660377,
+    "giniCoefficient": 0.6785896955308426
   },
   "radiants": {
     "totalNFTs": 21,
@@ -355,15 +355,15 @@
   },
   "redao": {
     "totalNFTs": 776,
-    "uniqueHolders": 427,
-    "averageHoldings": 1.8173302107728337,
-    "giniCoefficient": 0.39508438156401654
+    "uniqueHolders": 411,
+    "averageHoldings": 1.8880778588807785,
+    "giniCoefficient": 0.4131048235382647
   },
   "saga_monkes": {
     "totalNFTs": 8988,
-    "uniqueHolders": 6177,
-    "averageHoldings": 1.4550752792617776,
-    "giniCoefficient": 0.30146820695721577
+    "uniqueHolders": 6069,
+    "averageHoldings": 1.480968858131488,
+    "giniCoefficient": 0.31158107369757504
   },
   "sdrive": {
     "totalNFTs": 880,
@@ -373,15 +373,15 @@
   },
   "secret_sphynx_society": {
     "totalNFTs": 1490,
-    "uniqueHolders": 198,
-    "averageHoldings": 7.525252525252525,
-    "giniCoefficient": 0.8168191986983934
+    "uniqueHolders": 197,
+    "averageHoldings": 7.563451776649746,
+    "giniCoefficient": 0.816999965931932
   },
   "sentries": {
     "totalNFTs": 7998,
-    "uniqueHolders": 744,
-    "averageHoldings": 10.75,
-    "giniCoefficient": 0.8733940877692541
+    "uniqueHolders": 734,
+    "averageHoldings": 10.896457765667575,
+    "giniCoefficient": 0.8746399815212659
   },
   "sharkyfi": {
     "totalNFTs": 10108,
@@ -391,9 +391,9 @@
   },
   "shremps": {
     "totalNFTs": 4997,
-    "uniqueHolders": 921,
-    "averageHoldings": 5.425624321389794,
-    "giniCoefficient": 0.7583616402197453
+    "uniqueHolders": 923,
+    "averageHoldings": 5.413867822318527,
+    "giniCoefficient": 0.7581753819355536
   },
   "sixtynine_sams": {
     "totalNFTs": 69,
@@ -409,57 +409,57 @@
   },
   "smb_gen2": {
     "totalNFTs": 4993,
-    "uniqueHolders": 2564,
-    "averageHoldings": 1.9473478939157567,
-    "giniCoefficient": 0.4485692606154076
+    "uniqueHolders": 2606,
+    "averageHoldings": 1.9159631619339985,
+    "giniCoefficient": 0.4415556299156501
   },
   "smb_gen3": {
-    "totalNFTs": 7561,
-    "uniqueHolders": 3153,
-    "averageHoldings": 2.398033618775769,
-    "giniCoefficient": 0.5323899710203507
+    "totalNFTs": 7663,
+    "uniqueHolders": 3255,
+    "averageHoldings": 2.3542242703533027,
+    "giniCoefficient": 0.5253566873197019
   },
   "sol_patrol": {
     "totalNFTs": 3327,
-    "uniqueHolders": 512,
-    "averageHoldings": 6.498046875,
-    "giniCoefficient": 0.7255005213029756
+    "uniqueHolders": 510,
+    "averageHoldings": 6.523529411764706,
+    "giniCoefficient": 0.7270726144380205
   },
   "solana_surfers": {
-    "totalNFTs": 3881,
-    "uniqueHolders": 979,
-    "averageHoldings": 3.964249233912155,
-    "giniCoefficient": 0.6547615883041422
+    "totalNFTs": 3873,
+    "uniqueHolders": 975,
+    "averageHoldings": 3.9723076923076923,
+    "giniCoefficient": 0.6564997649738161
   },
   "solanauts": {
     "totalNFTs": 500,
-    "uniqueHolders": 183,
-    "averageHoldings": 2.73224043715847,
-    "giniCoefficient": 0.5476065573770492
+    "uniqueHolders": 181,
+    "averageHoldings": 2.7624309392265194,
+    "giniCoefficient": 0.5532154696132596
   },
   "solarplex_genesis_reactions": {
     "totalNFTs": 438,
-    "uniqueHolders": 154,
-    "averageHoldings": 2.844155844155844,
-    "giniCoefficient": 0.5475004447607187
+    "uniqueHolders": 159,
+    "averageHoldings": 2.7547169811320753,
+    "giniCoefficient": 0.546882628299015
   },
   "sollamas": {
-    "totalNFTs": 9332,
-    "uniqueHolders": 2997,
-    "averageHoldings": 3.1137804471137804,
-    "giniCoefficient": 0.6113734823550512
+    "totalNFTs": 9331,
+    "uniqueHolders": 2984,
+    "averageHoldings": 3.12701072386059,
+    "giniCoefficient": 0.6127018517363926
   },
   "solluminati": {
-    "totalNFTs": 203,
+    "totalNFTs": 202,
     "uniqueHolders": 126,
-    "averageHoldings": 1.6111111111111112,
-    "giniCoefficient": 0.3644929236062241
+    "averageHoldings": 1.6031746031746033,
+    "giniCoefficient": 0.36146471790036144
   },
   "solluminati_corrupted": {
-    "totalNFTs": 1535,
+    "totalNFTs": 1534,
     "uniqueHolders": 15,
-    "averageHoldings": 102.33333333333333,
-    "giniCoefficient": 0.9149185667752443
+    "averageHoldings": 102.26666666666667,
+    "giniCoefficient": 0.9149065623641894
   },
   "solluminati_the_eye": {
     "totalNFTs": 200,
@@ -468,22 +468,22 @@
     "giniCoefficient": 0.6547540983606558
   },
   "solluminati_the_shards": {
-    "totalNFTs": 2041,
-    "uniqueHolders": 1384,
-    "averageHoldings": 1.4747109826589595,
-    "giniCoefficient": 0.2963387124638551
+    "totalNFTs": 1991,
+    "uniqueHolders": 1372,
+    "averageHoldings": 1.4511661807580174,
+    "giniCoefficient": 0.2851486939039087
   },
   "species": {
     "totalNFTs": 4865,
-    "uniqueHolders": 410,
-    "averageHoldings": 11.865853658536585,
-    "giniCoefficient": 0.7903165968966986
+    "uniqueHolders": 427,
+    "averageHoldings": 11.39344262295082,
+    "giniCoefficient": 0.7909712109870485
   },
   "squidz": {
-    "totalNFTs": 4873,
-    "uniqueHolders": 805,
-    "averageHoldings": 6.053416149068323,
-    "giniCoefficient": 0.7205234063218163
+    "totalNFTs": 4862,
+    "uniqueHolders": 800,
+    "averageHoldings": 6.0775,
+    "giniCoefficient": 0.7223236322501029
   },
   "tensorians": {
     "totalNFTs": 10004,
@@ -492,10 +492,10 @@
     "giniCoefficient": 0.11538880887920569
   },
   "the_1303": {
-    "totalNFTs": 89,
+    "totalNFTs": 88,
     "uniqueHolders": 82,
-    "averageHoldings": 1.0853658536585367,
-    "giniCoefficient": 0.07467799397095094
+    "averageHoldings": 1.0731707317073171,
+    "giniCoefficient": 0.06541019955654102
   },
   "the_1303_1": {
     "totalNFTs": 135,
@@ -523,38 +523,38 @@
   },
   "the_roundies": {
     "totalNFTs": 1274,
-    "uniqueHolders": 115,
-    "averageHoldings": 11.078260869565218,
-    "giniCoefficient": 0.7377926421404682
+    "uniqueHolders": 113,
+    "averageHoldings": 11.274336283185841,
+    "giniCoefficient": 0.7388755365999361
   },
   "thugbirdz": {
     "totalNFTs": 2022,
-    "uniqueHolders": 987,
-    "averageHoldings": 2.048632218844985,
-    "giniCoefficient": 0.47075783403834415
+    "uniqueHolders": 972,
+    "averageHoldings": 2.080246913580247,
+    "giniCoefficient": 0.4790666862048333
   },
   "turtles": {
     "totalNFTs": 9999,
-    "uniqueHolders": 734,
-    "averageHoldings": 13.622615803814714,
-    "giniCoefficient": 0.7862561460505724
+    "uniqueHolders": 731,
+    "averageHoldings": 13.678522571819425,
+    "giniCoefficient": 0.7874314107197313
   },
   "woofers": {
     "totalNFTs": 5529,
-    "uniqueHolders": 1755,
-    "averageHoldings": 3.1504273504273503,
-    "giniCoefficient": 0.6173674265553448
+    "uniqueHolders": 1764,
+    "averageHoldings": 3.1343537414965987,
+    "giniCoefficient": 0.6159205286986079
   },
   "zeebits_zeebros": {
     "totalNFTs": 3331,
-    "uniqueHolders": 602,
-    "averageHoldings": 5.533222591362127,
-    "giniCoefficient": 0.7008705096890082
+    "uniqueHolders": 609,
+    "averageHoldings": 5.469622331691297,
+    "giniCoefficient": 0.7085008767220798
   },
   "zilly_goat_7777": {
-    "totalNFTs": 1578,
-    "uniqueHolders": 379,
-    "averageHoldings": 4.163588390501319,
-    "giniCoefficient": 0.6220525631121857
+    "totalNFTs": 1486,
+    "uniqueHolders": 370,
+    "averageHoldings": 4.0162162162162165,
+    "giniCoefficient": 0.6168491506311157
   }
 }
